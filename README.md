@@ -4,13 +4,11 @@ Official translations repository of [https://genshin-wishes.com](https://genshin
 
 Everybody is welcome to contribute by translating in their native language.
 
-For the moment, we support "by country" translations and not the full locale (country + language tag).
-
 ### How it works
 
 Genshin Wishes will be regularly updated by translations from this repository.
 
-- If a translation is missing, it will fallback to English
+- If a translation is missing, it will fallback to English (US)
 - If one file is incorrect, the whole country's folder will be automatically ignored until it's fixed
 - If you don't understand anything to GitHub, forks, commits & so on, you can always find someone to help you on Discord, or even simply send the files to a `@Founder`
 
@@ -57,8 +55,8 @@ If you are unsure of what the replacement value would be, please do not hesitate
 ### Case 1: My language does not exist yet
 
 - **Fork** the project on GitHub
-- Copy the `us` folder and rename it to your [country code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements).
-- Translate `[country code]/site.json` and `[country code]/items.json`
+- Copy the `en-US` folder and rename it to your [locale (BCP 47 Code)](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-oe376/6c085406-a698-4e12-9d4d-c3b0ee3dbc4a).
+- Translate `[locale]/site.json` and `[locale]/items.json`
 - Add the country code with the others in `i18n.json`
 - Increment the version in package.json
 - Commit and push your changes
