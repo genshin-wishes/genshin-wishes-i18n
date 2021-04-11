@@ -1,4 +1,4 @@
-1) Open your mail in-game during an event
-2) Open the event related mail
-3) There should be a QR code, scan it with your phone
-4) Copy the URL and paste it on Genshin Wishes.
+1) Откройте вашу игровую почту во время какого-нибудь события
+2) Откройте письмо касающееся события
+3) Там должен быть QR код, отсканируйте его своим телефоном
+4) Полученную ссылку скопируйте и вставьте в специальном поле на Genshin Wishes

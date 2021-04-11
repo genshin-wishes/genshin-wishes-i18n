@@ -1,60 +1,59 @@
-## What is Genshin Wishes?
-Genshin Wishes is a free and [open-source](https://github.com/genshin-wishes) website that helps you save and browse your Genshin Impact wishes outside the game. It is made and maintained by [Colin Auberger](https://www.linkedin.com/in/colin-auberger/) and [Jimmy Vergerolle](https://vergerolle.fr).
+## Что такое Genshin Wishes?
+Genshin Wishes это бесплатный сайт с [открытым исходным кодом](https://github.com/genshin-wishes) который позволяет сохранять и просматривать молитвы из Genshin Impact не заходя в игру. Он сделан и поддерживается такими людьми как: [Colin Auberger](https://www.linkedin.com/in/colin-auberger/) и [Jimmy Vergerolle](https://vergerolle.fr).
 
-- Backup your wishes as long as you want
-- Check your pity counter on all events and permanent banners
-- Browse your wishes easily with some fancy filters
-- We will soon add statistics based on your wishes (for the nerds like us who like figures and charts 🤓)
+- Делайте резервную копию своих молитв
+- Следите за счётчиком гарантов по всем баннерам
+- Просматривайте и сортируйте свои молитвы при помощи удобных фильтров
+- Просматривайте подробную статистику по вашим молитвам (для тех кто любит графики и диаграммы 🤓)
 
-## How do you manage to get my in-game wishes?
-We simply get them from your wish history. The wish history in Genshin Impact is a webpage displayed in the game, so even you could access it if you had the link. The only thing we need is a temporary key provided by the game. This temporary key is in the link we ask from you for importing your wishes.
+## Как вы получаете список моих молитв?
+Мы просто достаём их из вашей истории молитв. История молитв в Genshin Impact это веб страница, которая отображается в игре, вы можете сами посмотреть её в окне молитв нажав на кнопку история. Единственное что нам нужно, это временный ключ, который выдаёт вам игра. Этот ключ мы запрашиваем у вас при импорте молитв на сайт.
 
-## How do I find the key required to import my wishes?
-### PC
-Take a look to the [video](https://www.youtube.com/watch?v=a16X0R_rSZc) guide or follow the instructions below :
-1) Press "Feedback" in Paimon's menu
-2) A page should open in your brower
-3) Copy the URL and paste it on Genshin Wishes.
+## Как я могу найти этот ключ для импорта моих молитв?
+### ПК
+Посмотрите на [видео](https://www.youtube.com/watch?v=a16X0R_rSZc) гайд или проследуйте инструкциям ниже:
+1) Нажмите "Поддержка" в Паймон меню
+2) В вашем браузере должна открыться страница
+3) Скопируйте ссылку и вставьте её в специальном поле на Genshin Wishes
 
 ### Android
-Take a look to the [video](https://www.youtube.com/watch?v=hok0jCjSrjo) guide or follow the instructions below:
-1) Press "Feedback" in Paimon's menu
-2) Disable Wi-Fi & data connection
-3) Press the refresh button in the top right corner
-4) The page should bug, displaying its URL
-5) Copy the URL and paste it on Genshin Wishes.
+Посмотрите на [видео](https://www.youtube.com/watch?v=hok0jCjSrjo) гайд или проследуйте инструкциям ниже:
+1) Нажмите "Поддержка" в Паймон меню
+2) Отключите Wi-Fi и мобильные данные
+3) Нажмите кнопку обновить в правом верхнем углу
+4) Страница должна выдать ошибку и ссылку
+5) Скопируйте эту ссылку и вставьте её в специальном поле на Genshin Wishes
 
 ### iOS
-Take a look to the [video](https://www.youtube.com/watch?v=HW8nywx9Tio) guide or follow the instructions below:
-1) Press "Feedback" in Paimon's menu
-2) In the support page, press "Account issue"
-3) In the result, press the third item "How do I change my password?"
-4) In the text displayed click on the blue link named "here"
-5) A page should open on your browser. Copy the page URL and paste it on Genshin Wishes.  
-   Important: This URL does NOT allow us to change your password.
+Посмотрите на [видео](https://www.youtube.com/watch?v=HW8nywx9Tio) гайд или проследуйте инструкциям ниже:
+1) Нажмите "Поддержка" в Паймон меню
+2) Там нажмите на пункт "Учётная запись"
+3) Далее выберете опцию "Как поменять пароль?"
+4) Далее кликнете на голубую ссылку
+5) Страница откроется в вашем браузере. Скопируйте ссылку и вставьте её в специальном поле на Genshin Wishes  
+   Замечание: Не переживайте, эта ссылка не позволит нам поменять ваш пароль
 
-### Consoles
-1) Open your mail in-game during an event
-2) Open the event related mail
-3) There should be a QR code, scan it with your phone
-4) Copy the URL and paste it on Genshin Wishes.
+### Консоли
+1) Откройте вашу игровую почту во время какого-нибудь события
+2) Откройте письмо касающееся события
+3) Там должен быть QR код, отсканируйте его своим телефоном
+4) Полученную ссылку скопируйте и вставьте в специальном поле на Genshin Wishes
 
-## Is it safe to use?
-Yes. As Genshin Impact players we are very concerned about account security.
-- **We don't need you to install anything** on your computer or mobile phone
-- **We don't need your Genshin account password**
-- Your temporary key is not stored on our servers but **on your device**
-- It is valid only for 24h, after this time you will need to generate a new link to keep your wishes synced
-- This token does not allow us to authenticate on your account anyway
-- You have an option to delete all data we store whenever you want (including the wishes)
-- We use SSL encryption
+## Это безопасно?
+Да. Так как мы сами игроки в Genshin Impact, мы сами очень озабочены о безопасности аккаунтов.
+- **Мы не требуем от вас установить что-либо** на ваше устройство
+- **Мы не требуем пароль от вашего аккаунта**
+- Временный ключ, который мы запрашиваем хранится на **вашем устройстве** а не на наших серверах
+- Также он работает только 24 часа, после этого вам необходимо получить его снова
+- Этот ключ не даёт возможности войти в ваш аккаунт никаким образом
+- Вы можете попросить нас удалить ваш аккаунт и все связанные с ним данные с нашего сайта в любое время
+- Мы используем SSL шифрование
 
-## Is there a risk of being banned for using this?
-Absolutely not. We use the same requests as the game to fetch your wishes (using open to public Mihoyo API) so there is no risk of been banned. We used it on our own accounts for months now. Mihoyo has made some [statement about third party tools](https://genshin.mihoyo.com/en/news/detail/5763), and our tool is legit.
+## Есть ли риск получить бан за использование этого сайта?
+Никак нет. Мы используем те же методы что и сама игра для того, чтобы получить список ваших молитв, так что риска получить бан нет. Мы используем этот метод на своих собственных аккаунтах уже в течении нескольких месяцев. Mihoyo [высказалась о таких инструментах как наш сайт](https://genshin.mihoyo.com/en/news/detail/5763), и как можете видеть, всё что мы делаем абсолютно легально.
 
-## What language do you support?
-We currently support English and French. We may add other languages later if required.
+## Какие языки вы поддерживаете?
+Сайт изначально разрабатывается на Английском и Французском языках, другие языки поддерживаются [помощниками](https://github.com/genshin-wishes/genshin-wishes-i18n/blob/main/CONTRIBUTORS.md) в [этом проекте](https://github.com/genshin-wishes/genshin-wishes-i18n) на github.
 
-## Will stats be available soon?
-We are currently working on an alpha version.
-This version will include reward repartition per banner and key charts about your wish activity. We will release it as soon as possible.
+## Когда будет доступна глобальная статистика по всем молитвам?
+В данный момент мы работаем над альфа версией. Мы выпустим её как только она будет готова.

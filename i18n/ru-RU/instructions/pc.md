@@ -1,3 +1,3 @@
-1) Press "Feedback" in Paimon's menu
-2) A page should open in your brower
-3) Copy the URL and paste it on Genshin Wishes.
+1) Нажмите "Поддержка" в Паймон меню
+2) В вашем браузере должна открыться страница
+3) Скопируйте ссылку и вставьте её в специальном поле на Genshin Wishes
