@@ -1,5 +1,5 @@
 ## Qu'est-ce que Genshin Wishes ?
-Genshin Wishes est un site gratuit et [open-source](https://github.com/genshin-wishes) qui permet de sauvegarder et de consulter vos vœux Genshin Impact hors du jeu. Le site a été créé et est maintenu par [Colin Auberger](https://www.linkedin.com/in/colin-auberger/) et [Jimmy Vergerolle](https://vergerolle.fr).
+Genshin Wishes est un site gratuit [avec son code public](https://github.com/genshin-wishes) qui permet de sauvegarder et de consulter vos vœux Genshin Impact hors du jeu. Le site a été créé et est maintenu par [Colin Auberger](https://www.linkedin.com/in/colin-auberger/) et [Jimmy Vergerolle](https://vergerolle.fr).
 
 - Sauvegardez vos vœux aussi longtemps que vous le souhaitez
 - Vérifier votre pity sur tous les événements et bannières permanentes

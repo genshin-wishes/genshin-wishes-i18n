@@ -202,7 +202,8 @@
     "helpUs.label": "Want to help us?",
     "request.label": "Bug report & feedback",
     "discord.label": "Join us on Discord",
-    "coffee.label": "Support our work"
+    "coffee.label": "Support our work",
+    "i18n.label": "Contribute by translating"
   },
   "wishes": {
     "label": "Wishes",
