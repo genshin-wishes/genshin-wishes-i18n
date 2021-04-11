@@ -179,9 +179,6 @@
   "stats": {
     "label": "Статистика",
     "averageGap": "Среднее кол-во",
-    "numberOfWishes": "Кол-во молитв",
-    "numberOf4Stars": "Количество 4★",
-    "numberOf5Stars": "Количество 5★",
     "na": "Недоступно",
     "wishesTotalCount": "Всего молитв",
     "empty": "Извините, мы не можем ничего найти...",

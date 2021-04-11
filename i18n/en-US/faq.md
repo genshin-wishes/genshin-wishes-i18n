@@ -4,7 +4,7 @@ Genshin Wishes is a free website [with public code](https://github.com/genshin-w
 - Backup your wishes as long as you want
 - Check your pity counter on all events and permanent banners
 - Browse your wishes easily with some fancy filters
-- We will soon add statistics based on your wishes (for the nerds like us who like figures and charts 🤓)
+- Check detailed statistics about your wishes (for the nerds like us who like figures and charts 🤓)
 
 ## How do you manage to get my in-game wishes?
 We simply get them from your wish history. The wish history in Genshin Impact is a webpage displayed in the game, so even you could access it if you had the link. The only thing we need is a temporary key provided by the game. This temporary key is in the link we ask from you for importing your wishes.
@@ -53,8 +53,7 @@ Yes. As Genshin Impact players we are very concerned about account security.
 Absolutely not. We use the same requests as the game to fetch your wishes (using open to public Mihoyo API) so there is no risk of been banned. We used it on our own accounts for months now. Mihoyo has made some [statement about third party tools](https://genshin.mihoyo.com/en/news/detail/5763), and our tool is legit.
 
 ## What language do you support?
-We currently support English and French. We may add other languages later if required.
+The site is maintained for English and French, other languages are maintained by [contributors](https://github.com/genshin-wishes/genshin-wishes-i18n/blob/main/CONTRIBUTORS.md) in [this project](https://github.com/genshin-wishes/genshin-wishes-i18n).
 
-## Will stats be available soon?
-We are currently working on an alpha version.
-This version will include reward repartition per banner and key charts about your wish activity. We will release it as soon as possible.
+## Will public stats be available soon?
+We are currently working on an alpha version. We will release it as soon as possible.

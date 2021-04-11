@@ -181,15 +181,11 @@
     "request.label": "Rapport de bugs & propositions",
     "discord.label": "Rejoignez nous sur Discord",
     "coffee.label": "Soutenez notre travail",
-    "i18n.label": "Contribuez à traduire"
+    "i18n.label": "Contribuez à la traduction"
   },
   "stats": {
     "label": "Statistiques",
     "averageGap": "Écart moyen",
-    "c6Mark": "Repère C6",
-    "numberOfWishes": "Nombre de vœux",
-    "numberOf4Stars": "Nombre de 4★",
-    "numberOf5Stars": "Nombre de 5★",
     "na": "N/A",
     "wishesTotalCount": "Compte total des vœux",
     "empty": "Désolé, nous n'avons rien trouvé...",
