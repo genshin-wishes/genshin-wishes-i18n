@@ -103,10 +103,6 @@
       "archive": "Archive your wishes more than 6 months"
     }
   },
-  "lang": {
-    "en": "English",
-    "fr": "Français"
-  },
   "profile": {
     "notFound": {
       "title": "This profile could not be found!",

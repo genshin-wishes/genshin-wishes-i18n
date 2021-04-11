@@ -57,7 +57,7 @@ If you are unsure of what the replacement value would be, please do not hesitate
 ### Case 1: My language does not exist yet
 
 - **Fork** the project on GitHub
-- Copy the `en` folder and rename it to your [country code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements).
+- Copy the `us` folder and rename it to your [country code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements).
 - Translate `[country code]/site.json` and `[country code]/items.json`
 - Add the country code with the others in `i18n.json`
 - Increment the version in package.json

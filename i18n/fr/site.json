@@ -103,10 +103,6 @@
       "archive": "Archivez vos vœux plus de 6 mois"
     }
   },
-  "lang": {
-    "en": "English",
-    "fr": "Français"
-  },
   "profile": {
     "notFound": {
       "title": "Ce profil n'a pas pu être trouvé!",
