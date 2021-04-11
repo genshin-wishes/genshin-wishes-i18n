@@ -4,7 +4,7 @@ Official translations repository of [https://genshin-wishes.com](https://genshin
 
 Everybody is welcome to contribute by translating in their native language.
 
-For the moment, we support "by country" translations and not the full locale (country.
+For the moment, we support "by country" translations and not the full locale (country + language tag).
 
 ### How it works
 
