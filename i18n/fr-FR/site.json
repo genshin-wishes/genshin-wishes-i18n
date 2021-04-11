@@ -180,7 +180,8 @@
     "helpUs.label": "Vous souhaitez nous aider ?",
     "request.label": "Rapport de bugs & propositions",
     "discord.label": "Rejoignez nous sur Discord",
-    "coffee.label": "Soutenez notre travail"
+    "coffee.label": "Soutenez notre travail",
+    "i18n.label": "Contribuez à traduire"
   },
   "stats": {
     "label": "Statistiques",
