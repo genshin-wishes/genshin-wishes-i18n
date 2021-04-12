@@ -179,10 +179,6 @@
   "stats": {
     "label": "Stats",
     "averageGap": "Average gap",
-    "c6Mark": "C6 Mark",
-    "numberOfWishes": "Number of wishes",
-    "numberOf4Stars": "Number of 4★",
-    "numberOf5Stars": "Number of 5★",
     "na": "N/A",
     "wishesTotalCount": "Wishes total count",
     "empty": "Sorry, we could not find anything...",
@@ -203,7 +199,7 @@
     "request.label": "Bug report & feedback",
     "discord.label": "Join us on Discord",
     "coffee.label": "Support our work",
-    "i18n.label": "Contribute by translating"
+    "i18n.label": "Contribute to the translation"
   },
   "wishes": {
     "label": "Wishes",

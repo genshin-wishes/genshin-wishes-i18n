@@ -56,7 +56,7 @@ If you are unsure of what the replacement value would be, please do not hesitate
 
 - **Fork** the project on GitHub
 - Copy the `en-US` folder and rename it to your [locale (BCP 47 Code)](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-oe376/6c085406-a698-4e12-9d4d-c3b0ee3dbc4a).
-- Translate `[locale]/site.json` and `[locale]/items.json`
+- Translate `[locale]/site.json|items.json|faq.md` and `[locale]/instructions/android.md|console.md|ios.md|pc.md` (these are a copy/paste of their section in the FAQ file)
 - Add the country code with the others in `i18n.json`
 - Increment the version in package.json
 - Commit and push your changes
