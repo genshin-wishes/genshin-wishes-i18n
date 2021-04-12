@@ -210,7 +210,7 @@
       "message": "Vous pouvez toujours jouer avec Amber <span class=\"text-emoji\">\uD83D\uDE05</span>"
     },
     "noResult": {
-      "title": "Wow ! Il n'y a rien qui correspond !",
+      "title": "Mince ! Il n'y a rien qui correspond !",
       "message": "Vous devriez changer vos filtres"
     },
     "backToList": "Retour aux bannières",
