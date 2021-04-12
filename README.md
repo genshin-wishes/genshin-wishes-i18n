@@ -4,6 +4,8 @@ Official translations repository of [https://genshin-wishes.com](https://genshin
 
 Everybody is welcome to contribute by translating in their native language.
 
+### [Contributors list](CONTRIBUTORS.md)
+
 ### How it works
 
 Genshin Wishes will be regularly updated by translations from this repository.
