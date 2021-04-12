@@ -11,13 +11,13 @@ Wir bekommen sie ganz einfach aus deinem Gebetsverlauf. Der Gebetsverlauf ist ei
 
 ## Wie finde ich den Schlüssel, um meine Gebete zu importieren?
 ### PC
-Schaue dir dieses  [video](https://www.youtube.com/watch?v=a16X0R_rSZc)(EN) an oder mache folgendes:
+Schaue dir dieses [video](https://www.youtube.com/watch?v=a16X0R_rSZc) (EN) an oder mache folgendes:
 1) Drücke auf "Rückmeldung" im Paimon Menü.
 2) Eine Seite sollte sich in deinem Browser öffnen.
 3) Kopiere den Link und füge ihn auf Genshin Wishes ein.
 
 ### Android
-Schaue dir dieses [video](https://www.youtube.com/watch?v=hok0jCjSrjo)(EN) an oder mache folgendes:
+Schaue dir dieses [video](https://www.youtube.com/watch?v=hok0jCjSrjo) (EN) an oder mache folgendes:
 1) Drücke "Rückmeldung" im Paimon Menü.
 2) Deaktiviere Wi-Fi und mobile Daten.
 3) Drücke den Neu Laden Knopf in der rechten oberen Ecke.
@@ -25,7 +25,7 @@ Schaue dir dieses [video](https://www.youtube.com/watch?v=hok0jCjSrjo)(EN) an od
 5) Kopiere den Link und füge ihn auf Genshin Wishes ein.
 
 ### iOS
-Schaue dir dieses [video](https://www.youtube.com/watch?v=HW8nywx9Tio)(EN) an oder mache folgendes:
+Schaue dir dieses [video](https://www.youtube.com/watch?v=HW8nywx9Tio) (EN) an oder mache folgendes:
 1) Drücke "Rückmeldung" im Paimon Menü.
 2) Auf der Support Seite, drücke auf "Account Probleme".
 3) Tippe auf "Wie ändere ich mein Passwort?".
@@ -50,7 +50,7 @@ Ja. Weil Genshin Impact Spieler sehr bedacht auf ihre Account-Sicherheit sind:
 - Wir nutzen SSL Verschlüsselung (HTTPS)
 
 ## Gibt es ein Risiko gebannt zu werden?
-Absolut nicht. Wir nutzen dieselben Anfragen, welche das Spiel auch nutzt (mithilfe öffentlich zugänglichen Mihoyo API), also gibt es kein Risiko gebannt zu werden. Wir nutzen es mit unseren eigenen Accounts jetzt seit Monaten. Mihoyo hat eine [Aussage zu Drittanbieter-Tools gemacht] (https://genshin.mihoyo.com/en/news/detail/5763)(EN), und unser Tool ist legitim.
+Absolut nicht. Wir nutzen dieselben Anfragen, welche das Spiel auch nutzt (mithilfe öffentlich zugänglichen Mihoyo API), also gibt es kein Risiko gebannt zu werden. Wir nutzen es mit unseren eigenen Accounts jetzt seit Monaten. Mihoyo hat eine [Aussage zu Drittanbieter-Tools gemacht](https://genshin.mihoyo.com/en/news/detail/5763) (EN), und unser Tool ist legitim.
 
 ## Welche Sprachen unterstützt ihr?
 Die Seite wird auf English und Französisch entwickelt. Andere Sprachen werden von [Mitwirkenden](https://github.com/genshin-wishes/genshin-wishes-i18n/blob/main/CONTRIBUTORS.md) in [diesem Projekt](https://github.com/genshin-wishes/genshin-wishes-i18n) bereitgestellt.
