@@ -9,7 +9,7 @@ Genshin Wishes ist eine freie Webseite [mit öffentlichem Code](https://github.c
 ## Wie bekommt ihr Zugang zu meinen Gebete?
 Wir bekommen sie ganz einfach aus deinem Gebetsverlauf. Der Gebetsverlauf ist eine Webseite, welche innerhalb des Spieles angezeigt wird, so dass selbst du darauf zugreifen könntest, wenn du den Link dazu hast. Das einzige, was wir brauchen ist ein temporärer Schlüssel, den das Spiel erstellt. Dieser Schlüssel ist innerhalb des Links zu finden, den wir von dir abfragen.
 
-## How do I find the key required to import my wishes?
+## Wie finde ich den Schlüssel, um meine Gebete zu importieren?
 ### PC
 Schaue dir dieses  [video](https://www.youtube.com/watch?v=a16X0R_rSZc)(EN) an oder mache folgendes:
 1) Drücke auf "Rückmeldung" im Paimon Menü.
