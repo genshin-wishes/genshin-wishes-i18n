@@ -1,10 +1,10 @@
 ## Was ist Genshin Wishes?
-Genshin Wishes ist eine freie Webseite [mit öffentlichem Code](https://github.com/genshin-wishes), welche hilft deine Genshin Impact Gebete außerhalb des Spiele zu speichern und zu durchsuchen. Es wurde erstellt und wird verwaltet von [Colin Auberger](https://www.linkedin.com/in/colin-auberger/) und [Jimmy Vergerolle](https://vergerolle.fr).
+Genshin Wishes ist eine freie Webseite [mit öffentlichem Code](https://github.com/genshin-wishes), welche hilft deine Genshin Impact Gebete außerhalb des Spieles zu speichern und zu durchsuchen. Es wurde erstellt und wird verwaltet von [Colin Auberger](https://www.linkedin.com/in/colin-auberger/) und [Jimmy Vergerolle](https://vergerolle.fr).
 
-- Sichere deine Gebete solange du willst
+- Sichere deine Gebetshistorie solange du willst
 - Prüfe dein "Mitleidszähler" (Pity Roll) auf allen Event und permanenten Bannern
-- Durchsuche deine Gebete mit coolen Filtern
-- Schaue dir detaillierte Statistiken zu deinen Gebete an (für Nerds wie wir, die Zahlen und Diagramme mögen 🤓)
+- Durchsuche deine Gebetshistorie mit coolen Filtern
+- Schaue dir detaillierte Statistiken zu deinen Gebeten an (für Nerds wie wir, die Zahlen und Diagramme mögen 🤓)
 
 ## Wie bekommt ihr Zugang zu meinen Gebete?
 Wir bekommen sie ganz einfach aus deinem Gebetsverlauf. Der Gebetsverlauf ist eine Webseite, welche innerhalb des Spieles angezeigt wird, so dass selbst du darauf zugreifen könntest, wenn du den Link dazu hast. Das einzige, was wir brauchen ist ein temporärer Schlüssel, den das Spiel erstellt. Dieser Schlüssel ist innerhalb des Links zu finden, den wir von dir abfragen.
