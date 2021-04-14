@@ -19,3 +19,7 @@
 ## Russian
 
 - Alexander Trukhanov (Iftuga#5781)
+
+## Thai
+
+- p0ndja (PondJaᵀᴴ#9423)
