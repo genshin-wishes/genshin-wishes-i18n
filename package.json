@@ -6,8 +6,8 @@
   "keywords": [],
   "homepage": "https://github.com/genshin-wishes/genshin-wishes-i18n",
   "bugs": {
-    "url" : "https://github.com/genshin-wishes/genshin-wishes-i18n/issues",
-    "email" : "project@hostname.com"
+    "url": "https://github.com/genshin-wishes/genshin-wishes-i18n/issues",
+    "email": "project@hostname.com"
   },
   "repository": {
     "type": "git",

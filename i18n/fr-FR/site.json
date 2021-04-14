@@ -60,7 +60,7 @@
           "showVideo": "Voir une vidéo"
         },
         "2": {
-          "title": "Patience! Nous sommes en train de récupérer vos vœux \uD83D\uDC0B \uD83D\uDE48",
+          "title": "Patience! Nous récupérons vos vœux \uD83D\uDC0B \uD83D\uDE48",
           "description": "<span class=\"text-success\"><b>Répétez ces étapes la prochaine fois</b></span> pour synchroniser de nouveaux vœux.",
           "seeWishes": "Aller sur l'appli"
         }
@@ -210,7 +210,7 @@
       "message": "Vous pouvez toujours jouer avec Amber <span class=\"text-emoji\">\uD83D\uDE05</span>"
     },
     "noResult": {
-      "title": "Wow ! Il n'y a rien qui correspond !",
+      "title": "Mince ! Il n'y a rien qui correspond !",
       "message": "Vous devriez changer vos filtres"
     },
     "backToList": "Retour aux bannières",

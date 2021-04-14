@@ -210,7 +210,7 @@
       "message": "You can still play with Amber <span class=\"text-emoji\">\uD83D\uDE05</span>"
     },
     "noResult": {
-      "title": "Wow! There is nothing like this!",
+      "title": "Oh no! There is nothing like this!",
       "message": "You should edit your filters"
     },
     "backToList": "Back to banners",
