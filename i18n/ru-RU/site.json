@@ -282,19 +282,19 @@
       },
       "NOVICE": {
         "title": "Молитвы новичка",
-        "titleWithCount": "Молитвы новичка ({{ wishes }} wishes)"
+        "titleWithCount": "Молитвы новичка ({{ wishes }} молитв)"
       },
       "PERMANENT": {
         "title": "Стандартные молитвы",
-        "titleWithCount": "Стандартные молитвы ({{ wishes }} wishes)"
+        "titleWithCount": "Стандартные молитвы ({{ wishes }} молитв)"
       },
       "CHARACTER_EVENT": {
         "title": "Молитвы события персонажа",
-        "titleWithCount": "Молитвы события персонажа ({{ wishes }} wishes)"
+        "titleWithCount": "Молитвы события персонажа ({{ wishes }} молитв)"
       },
       "WEAPON_EVENT": {
         "title": "Молитвы события оружия",
-        "titleWithCount": "Молитвы события оружия ({{ wishes }} wishes)"
+        "titleWithCount": "Молитвы события оружия ({{ wishes }} молитв)"
       }
     }
   },
