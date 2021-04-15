@@ -22,7 +22,7 @@
     "mihoyoError$": {
       "emoji": "\uD83D\uDEA8",
       "title": "",
-      "message": "无法连接到原神服务器"
+      "message": "无法连接到《原神》服务器"
     }
   },
   "app": {
@@ -56,7 +56,7 @@
       "steps$": {
         "1": {
           "title": "领取钥匙",
-          "description": "为了找回你的愿望, 我们需要一个临时的游戏钥匙.\n<span class=\"text-accent\">不用担心，我们将永远无法访问您的原神帐户。</span>",
+          "description": "为了找回你的愿望, 我们需要一个临时的游戏钥匙.\n<span class=\"text-accent\">不用担心，我们将永远无法访问您的《原神》帐户。</span>",
           "showVideo": "观看视频"
         },
         "2": {
@@ -94,7 +94,7 @@
     "signInMethod": "选择身份验证方法",
     "welcome": {
       "title": "欢迎来到 Genshin Wishes.",
-      "description": "我们可以让您跟踪和保存您的Genshin Impact祈愿记录。 我们也可以计算您的保底计数"
+      "description": "我们可以让您跟踪和保存您的《原神》祈愿记录。 我们也可以计算您的保底计数"
     },
     "elements": {
       "pity": "计算您的保底的每个祈愿",
@@ -239,7 +239,7 @@
     },
     "differentUidDialog": {
       "title": "帐户差异",
-      "description": "\uD83D\uDEA8 您要添加的祈愿未链接到同原神帐户。\n\n你想要做什么？",
+      "description": "\uD83D\uDEA8 您要添加的祈愿未链接到同《原神》帐户。\n\n你想要做什么？",
       "delete": "删除所有旧的祈愿"
     },
     "import": {
@@ -299,7 +299,7 @@
     }
   },
   "footer": {
-    "disclaimer": "Genshin Wishes不隶属于miHoYo。 Genshin Impact和miHoYo是miHoYo的商标或注册商标。 Genshin Impact©miHoYo。",
+    "disclaimer": "Genshin Wishes不隶属于米哈游。 《原神》和米哈游是米哈游的商标或注册商标。 《原神》©米哈游。",
     "claim": "如有任何要求，请与我们联系 <a href=\"mailto:contact.genshin.wishes@gmail.com\">联系</a>."
   }
 }
