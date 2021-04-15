@@ -16,6 +16,10 @@
 
 - Max Philipp Wriedt (max312, hackard#6174)
 
+## Japanese
+
+- Phystam#5385
+
 ## Polish
 
 - Leoreo#8357
