@@ -1,5 +1,5 @@
 ## Genshin Wishesとは?
-Genshin Wishesはオープンソース(https://github.com/genshin-wishes)の祈願履歴ビューワーです。[Colin Auberger](https://www.linkedin.com/in/colin-auberger/)と[Jimmy Vergerolle](https://vergerolle.fr)等有志によりメンテナンスされています。
+Genshin Wishesは[オープンソース](https://github.com/genshin-wishes)の祈願履歴ビューワーです。[Colin Auberger](https://www.linkedin.com/in/colin-auberger/)と[Jimmy Vergerolle](https://vergerolle.fr)等有志によりメンテナンスされています。
 
 できること:
 - 祈願履歴のバックアップ
