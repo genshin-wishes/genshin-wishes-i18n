@@ -1,12 +1,16 @@
+## Chinese (simplified)
+
+- Soyan#4054
+
 ## English
 
-- ChaosKaizer
-- Isho
+- Colin Auberger (Isho#5061)
+- Jimmy Vergerolle (ChaosKaizer#9729)
 
 ## French
 
-- ChaosKaizer
-- Isho
+- Colin Auberger (Isho#5061)
+- Jimmy Vergerolle (ChaosKaizer#9729)
 
 ## German
 
