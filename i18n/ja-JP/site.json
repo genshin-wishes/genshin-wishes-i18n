@@ -4,7 +4,7 @@
     "copy": "コピー",
     "filter": "絞り込み",
     "cancel": "キャンセル",
-    "ok": "OK",
+    "ok": "適用",
     "close": "閉じる",
     "previous": "戻る",
     "next": "進む",
@@ -13,7 +13,7 @@
     "beta": "β",
     "save": "保存",
     "goBack": "戻る",
-    "moreOf": "More {{ content }}",
+    "moreOf": "更に表示 {{ content }}",
     "error$": {
       "emoji": "\uD83D\uDE31",
       "title": "",
@@ -62,7 +62,7 @@
         "2": {
           "title": "祈願履歴の取得中です！ \uD83D\uDC0B \uD83D\uDE48",
           "description": "新しい祈願履歴を取得したい場合は、<span class=\"text-success\"><b>同様の操作を毎回行ってください。</b></span>.",
-          "seeWishes": "appに行く"
+          "seeWishes": "履歴を閲覧"
         }
       }
     },
@@ -78,8 +78,8 @@
     "wishes": "{{ count }}連",
     "pity5": "★5 天井カウント",
     "pity4": "★4 天井カウント",
-    "last5": "★5 最終",
-    "last4": "★4 最終",
+    "last5": "★5 最新",
+    "last4": "★4 最新",
     "none": "なし"
   },
   "cookie": {
@@ -178,7 +178,7 @@
   },
   "stats": {
     "label": "祈願統計",
-			"averageGap":"平均出現頻度",
+    "averageGap":"平均出現間隔",
     "na": "N/A",
     "wishesTotalCount": "総祈願回数",
     "empty": "祈願が見つかりませんでした。しばらくしてもう一度お試しください。",
@@ -187,7 +187,7 @@
     "fourStarsDetails.title": "★4タイプ",
     "fiveStarsList.title": "★5一覧",
     "fourStarsList.title": "★4一覧",
-    "bannerActivity.title": "週間祈願統計",
+    "bannerActivity.title": "週別祈願数",
     "filters": {
       "filterByEvent": "過去のイベント祈願ごとの絞り込み",
       "selectEvent": "イベント祈願を選択してください",
@@ -195,7 +195,7 @@
     }
   },
   "nav": {
-    "helpUs.label": "Want to help us?",
+    "helpUs.label": "お手伝いをお願いします",
     "request.label": "バグレポート・フィードバック",
     "discord.label": "Discordサーバーに参加",
     "coffee.label": "開発をサポート",
@@ -223,7 +223,7 @@
     "filters": {
       "freeText": "名前で絞り込み",
       "itemType": "タイプで絞り込み",
-      "rank": "Filter by rank",
+      "rank": "ランクで絞り込み",
       "characterEvent": "イベント祈願(キャラクター)で絞り込み",
       "weaponEvent": "イベント祈願(武器)で絞り込み",
       "selectEvent": "イベントを選択",
@@ -286,20 +286,20 @@
       },
       "PERMANENT": {
         "title": "通常祈願 - 奔走世間",
-        "titleWithCount": "通常祈願 - 奔走世間 ({{ wishes }}連目)"
+        "titleWithCount": "通常祈願 - 奔走世間 ({{ wishes }}連)"
       },
       "CHARACTER_EVENT": {
-        "title": "Character banner",
-        "titleWithCount": "Character banner ({{ wishes }} wishes)"
+        "title": "イベント祈願 (キャラクター)",
+        "titleWithCount": "イベント祈願 (キャラクター) ({{ wishes }}連)"
       },
       "WEAPON_EVENT": {
         "title": "イベント祈願 - 神鋳賦形",
-        "titleWithCount": "イベント祈願 - 神鋳賦形 ({{ wishes }}連目)"
+        "titleWithCount": "イベント祈願 - 神鋳賦形 ({{ wishes }}連)"
       }
     }
   },
   "footer": {
-    "disclaimer": "Genshin Wishesは有志の非公式サイトです。原神およびmiHoYoはmiHoYoの商標です。Genshin Impact c miHoYo.",
+    "disclaimer": "Genshin Wishesは有志の非公式サイトです。原神およびmiHoYoはmiHoYoの商標です。",
     "claim": "報告は<a href=\"mailto:contact.genshin.wishes@gmail.com\">こちら</a>へお願いします。"
   }
 }

@@ -22,7 +22,7 @@ Genshin Wishesは[オープンソース](https://github.com/genshin-wishes)の�
 2) Wi-Fiおよびデータ通信を切断します
 3) 右上の再読み込みボタンをタッチします
 4) ページにバグが発生し、URLを表示します
-5) URLをコピーし、Genshin Wishesに貼り付けます
+5) 表示されたページのURLをコピーし、Genshin Wishesに貼り付けます
 
 ### iOS
 こちらの[動画](https://www.youtube.com/watch?v=HW8nywx9Tio)を参照するか、以下のガイドに従って入手できます。
@@ -34,11 +34,10 @@ Genshin Wishesは[オープンソース](https://github.com/genshin-wishes)の�
    重要: このURLでパスワードを変更されることはありません。
 
 
-### Consoles
-1) Open your mail in-game during an event
-2) Open the event related mail
-3) There should be a QR code, scan it with your phone
-4) Copy the URL and paste it on Genshin Wishes.
+### PS4/PS5
+1) ゲーム内のイベント告知メールを開きます
+2) 表示されたQRコードをスマートフォンで読み込みます
+3) 表示されたページのURLをコピーし、Genshin Wishesに貼り付けます
 
 ## セキュリティ的に安全ですか?
 もちろん、安全です。原神プレイヤーとして、アカウントセキュリティには非常に注意を払っています。
