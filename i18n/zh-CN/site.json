@@ -73,7 +73,7 @@
   },
   "banners": {
     "label": "祈愿",
-    "seeWishes": "看祈愿",
+    "seeWishes": "查看祈愿",
     "noWishes": "没有祈愿",
     "wishes": "{{ count }} 祈愿",
     "pity5": "保底 5★",
