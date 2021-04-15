@@ -72,7 +72,7 @@
     "logout.label": "ログアウト"
   },
   "banners": {
-    "label": "Banners",
+    "label": "祈願一覧",
     "seeWishes": "履歴閲覧",
     "noWishes": "履歴なし",
     "wishes": "{{ count }}連",
