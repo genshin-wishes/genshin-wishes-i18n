@@ -1,3 +1,7 @@
+## Chinese (simplified)
+
+- Soyan#4054
+
 ## English
 
 - ChaosKaizer
