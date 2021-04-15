@@ -1,0 +1,305 @@
+{
+  "generics": {
+    "share": "共有",
+    "copy": "コピー",
+    "filter": "絞り込み",
+    "cancel": "キャンセル",
+    "ok": "OK",
+    "close": "閉じる",
+    "previous": "戻る",
+    "next": "進む",
+    "retry": "再読み込み",
+    "soon": "Soon",
+    "beta": "β",
+    "save": "保存",
+    "goBack": "戻る",
+    "moreOf": "More {{ content }}",
+    "error$": {
+      "emoji": "\uD83D\uDE31",
+      "title": "",
+      "message": "エラーが発生しました。もう一度、お試しください。"
+    },
+    "mihoyoError$": {
+      "emoji": "\uD83D\uDEA8",
+      "title": "",
+      "message": "原神サーバーに接続できません。"
+    }
+  },
+  "app": {
+    "title": "Genshin wishes - 祈願履歴ビューワー",
+    "titleWithPage": "Genshin Wishes - {{ page }}",
+    "titleShort": "Genshin Wishes",
+    "menu": "メニュー",
+    "getStarted": "始める",
+    "persistLink": "リンクを24時間保持します",
+    "user": {
+      "uid": "UID {{ uid }}"
+    },
+    "urlInput": {
+      "dialog": {
+        "title": "期限切れ",
+        "message": "\uD83D\uDEA8 リンクが期限切れです。アップデートをお願いします。<a href=\"/faq\" target=\"_blank\"> 方法 </a>",
+        "ok": "更新"
+      },
+      "pasteInput": "リンクを貼り付けてください",
+      "correctLink": "\uD83D\uDE0E 大丈夫そう！",
+      "incorrectLink": "\uD83D\uDE31 リンクがおかしいよ、もう一回！"
+    },
+    "urlSetup": {
+      "title": "アカウントセットアップ",
+      "finish": "終了",
+      "step": "ステップ{{ step }}",
+      "loading": {
+        "title": "祈願履歴の読込中...",
+        "subtitle": "この処理には数分かかることがあります。"
+      },
+      "steps$": {
+        "1": {
+          "title": "一時キーの取得",
+          "description": "祈願履歴を取得するためにはセーブデータから一時キーを取得することが必要です。\n<span class=\"text-accent\">原神アカウントにアクセスすることはありませんので、ご安心ください。</span>",
+          "showVideo": "動画を見る"
+        },
+        "2": {
+          "title": "祈願履歴の取得中です！ \uD83D\uDC0B \uD83D\uDE48",
+          "description": "新しい祈願履歴を取得したい場合は、<span class=\"text-success\"><b>同様の操作を毎回行ってください。</b></span>.",
+          "seeWishes": "appに行く"
+        }
+      }
+    },
+    "signIn": "サインイン"
+  },
+  "auth": {
+    "logout.label": "ログアウト"
+  },
+  "banners": {
+    "label": "Banners",
+			"seeWishes": "履歴閲覧",
+    "noWishes": "履歴なし",
+    "wishes": "{{ count }}連",
+    "pity5": "★5 天井カウント",
+    "pity4": "★4 天井カウント",
+    "last5": "★5 最終",
+    "last4": "★4 最終",
+    "none": "なし"
+  },
+  "cookie": {
+    "title": "「パイモンにスライムの液体で作ったクッキーをあげよう。」「オイラはそんなもので釣られるとでも思われてるのか？」 \uD83D\uDE0B\n",
+    "message": "このサイトの使用のため、クッキーの使用に同意します。クッキーはトラフィック解析にのみ使用します。",
+    "ok": "うん、クッキーおいしい!"
+  },
+  "faq": {
+    "title": "FAQ"
+  },
+  "landing": {
+    "signInMethod": "サインイン方法を選択してください:",
+    "welcome": {
+      "title": "Genshin Wishesへようこそ!",
+      "description": "原神のプレイデータから祈願履歴を閲覧・バックアップできます。天井までのカウンターも見れますよ！"
+    },
+    "elements": {
+      "pity": "天井カウントの自動表示",
+      "browse": "祈願履歴の閲覧と絞り込み表示",
+      "stats": "祈願統計の閲覧",
+      "archive": "6ヶ月以上の祈願履歴の保存"
+    }
+  },
+  "profile": {
+    "notFound": {
+      "title": "旅人が見つからないよ…",
+      "description": "この旅人はプライベートに設定されているかURLが間違っているようです。<span class=\"text-emoji\">\uD83D\uDE05</span>",
+      "goToApp": "Genshin Wishesについて"
+    },
+    "footer": "PC/スマートフォン/端末から統計を閲覧できます！",
+    "share": {
+      "title": "統計ページの共有",
+      "label": "統計ページの共有",
+      "sharing": {
+        "title": "統計ページの共有を許可",
+        "enabled": "リンクを知っている人のみ閲覧可能",
+        "disabled": "ユーザーのみ閲覧可能"
+      },
+      "success$": {
+        "emoji": "\uD83D\uDCCB",
+        "title": "",
+        "message": "リンクがクリップボードにコピーされました！"
+      }
+    }
+  },
+  "settings": {
+    "label": "設定",
+    "authLink": {
+      "title": "リンクの更新",
+      "subTitle": "一時キーのリンクを更新します",
+      "update": "保存・更新"
+    },
+    "lang": {
+      "title": "言語",
+      "subTitle": "Genshin Wishesで利用する言語を選んでください",
+      "success$": {
+        "emoji": "",
+        "title": "",
+        "message": "言語が更新されました。"
+      },
+      "action": "変更"
+    },
+    "wholeClock": {
+      "title": "時刻表示",
+      "subTitle": "時刻表示方式を変更します",
+      "true": "24時間制",
+      "false": "12時間制 (午前・午後)",
+      "success$": {
+        "emoji": "",
+        "title": "",
+        "message": "時刻表示が更新されました。"
+      },
+      "action": "変更"
+    },
+    "deleteAccount": {
+      "title": "アカウントの削除",
+      "subTitle": "保存されている全データを削除します",
+      "hint": "アカウントを削除するためには<b>{{ confirmation }}</b>と以下に入力してください。",
+      "label": "ここに入力",
+      "action": "アカウント削除",
+      "confirmation": "ここは、ゴールじゃない"
+    },
+    "deleteAccountConfirm": {
+      "title": "本当にアカウントを削除してもよろしいですか?",
+      "message": "この操作は元に戻せません。"
+    },
+    "export": {
+      "title": "祈願履歴のエクスポート",
+      "subTitle": "Genshin Wishesに保存されている祈願履歴をエクスポートします。",
+      "confirm": {
+        "title": "よろしいですか?",
+        "description": "エクスポートしても祈願履歴はGenshin Wishesにも残ります。"
+      },
+      "action": "祈願履歴をエクスポート!"
+    }
+  },
+  "stats": {
+    "label": "祈願統計",
+			"averageGap":"平均出現頻度",
+    "na": "N/A",
+    "wishesTotalCount": "総祈願回数",
+    "empty": "祈願が見つかりませんでした。しばらくしてもう一度お試しください。",
+    "rankDistribution.title": "割合",
+    "focusDistribution.title": "★5確定割合",
+    "fourStarsDetails.title": "★4タイプ",
+    "fiveStarsList.title": "★5一覧",
+    "fourStarsList.title": "★4一覧",
+    "bannerActivity.title": "週間祈願統計",
+    "filters": {
+      "filterByEvent": "過去のイベント祈願ごとの絞り込み",
+      "selectEvent": "イベント祈願を選択してください",
+      "allEvents": "全イベント"
+    }
+  },
+  "nav": {
+    "helpUs.label": "Want to help us?",
+    "request.label": "バグレポート・フィードバック",
+    "discord.label": "Discordサーバーに参加",
+    "coffee.label": "開発をサポート",
+    "i18n.label": "翻訳に協力する"
+  },
+  "wishes": {
+    "label": "祈願",
+    "exclusive": "ピックアップ確定",
+    "notExclusive": "すり抜け",
+    "noWishes": {
+      "title": "この祈願での履歴がありません。",
+      "message": "でもアンバーちゃんと一緒に旅ができます<span class=\"text-emoji\">\uD83D\uDE05</span>"
+    },
+    "noResult": {
+      "title": "パイモン、ここには何もないよ!",
+      "message": "絞り込み条件を変更してみてください。"
+    },
+    "backToList": "祈願一覧に戻る",
+    "bannersNav": "祈願一覧",
+    "itemNotFound": "アイテムが見つかりません。データベースを更新するまでお待ち下さい！",
+    "itemType$": {
+      "Character": "キャラクター",
+      "Weapon": "武器"
+    },
+    "filters": {
+      "freeText": "名前で絞り込み",
+      "itemType": "タイプで絞り込み",
+      "rank": "Filter by rank",
+      "characterEvent": "イベント祈願(キャラクター)で絞り込み",
+      "weaponEvent": "イベント祈願(武器)で絞り込み",
+      "selectEvent": "イベントを選択",
+      "reset": "絞り込み条件のリセット"
+    },
+    "update": {
+      "label": "祈願履歴の更新"
+    },
+    "deletion": {
+      "title": "祈願データの削除",
+      "description": "本当に祈願データを削除しますか?\n\n削除されたデータは元に戻せません。",
+      "ok": "? Yはい、本当に削除しても大丈夫です"
+    },
+    "differentUidDialog": {
+      "title": "アカウントが異なります",
+      "description": "\uD83D\uDEA8 別のプレイヤーの祈願履歴を読み込もうとしているようです。\n\n…何がしたいの？",
+      "delete": "過去の履歴を削除"
+    },
+    "import": {
+      "saving": "セーブ中...",
+      "recovery$": {
+        "emoji": "",
+        "title": "",
+        "message": "祈願履歴読み込みを再開しています..."
+      },
+      "success$": {
+        "emoji": "\uD83E\uDD29",
+        "title": "",
+        "message": "<b>{{ wishes }}</b> 新しい祈願が{{ banner }}で見つかりました!"
+      },
+      "noData$": {
+        "emoji": "\uD83D\uDE27",
+        "title": "新しい祈願が見つかりませんでした。",
+        "message": "祈願履歴は1時間程度で反映されます。もう少しお待ち下さい！"
+      },
+      "invalidAuthkey$": {
+        "emoji": "\uD83D\uDEA8",
+        "title": "",
+        "message": "プレイヤーデータの"
+      },
+      "newWishesDuringImport$": {
+        "emoji": "\uD83D\uDEA8",
+        "title": "",
+        "message": "新しい祈願履歴があります。もう一度お試しください。"
+      },
+      "alreadyImporting$": {
+        "emoji": "\uD83D\uDEA8",
+        "title": "",
+        "message": "読込中です。もう少し待ってね！"
+      }
+    },
+    "banners$": {
+      "ALL": {
+        "title": "全履歴",
+        "titleWithCount": "全履歴({{ wishes }})"
+      },
+      "NOVICE": {
+        "title": "初心者応援祈願",
+        "titleWithCount": "初心者応援祈願 ({{ wishes }}連)"
+      },
+      "PERMANENT": {
+        "title": "通常祈願 - 奔走世間",
+        "titleWithCount": "通常祈願 - 奔走世間 ({{ wishes }}連目)"
+      },
+      "CHARACTER_EVENT": {
+        "title": "Character banner",
+        "titleWithCount": "Character banner ({{ wishes }} wishes)"
+      },
+      "WEAPON_EVENT": {
+        "title": "イベント祈願 - 神鋳賦形",
+        "titleWithCount": "イベント祈願 - 神鋳賦形 ({{ wishes }}連目)"
+      }
+    }
+  },
+  "footer": {
+    "disclaimer": "Genshin Wishesは有志の非公式サイトです。原神およびmiHoYoはmiHoYoの商標です。Genshin Impact c miHoYo.",
+    "claim": "報告は<a href=\"mailto:contact.genshin.wishes@gmail.com\">こちら</a>へお願いします。"
+  }
+}
