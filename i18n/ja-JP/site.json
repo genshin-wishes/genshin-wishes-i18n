@@ -73,7 +73,7 @@
   },
   "banners": {
     "label": "Banners",
-			"seeWishes": "履歴閲覧",
+    "seeWishes": "履歴閲覧",
     "noWishes": "履歴なし",
     "wishes": "{{ count }}連",
     "pity5": "★5 天井カウント",
