@@ -1,11 +1,11 @@
 ## English
 
-- ChaosKaizer
+- Jimmy Vergerolle (ChaosKaizer#9729)
 - Isho
 
 ## French
 
-- ChaosKaizer
+- Jimmy Vergerolle (ChaosKaizer#9729)
 - Isho
 
 ## German
