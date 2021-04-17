@@ -43,15 +43,15 @@ Có. Cũng là những người chơi Genshin Impact chúng tôi rất quan tâm
 - **Chúng tôi không yêu cầu bạn cài đặt thêm bất cứ thứ gì** trong điện thoại hay máy tính của bạn
 - **Chúng tôi không yêu cầu bạn cung cấp mật khẩu tài khoản Genshin Impact**
 - Đường dẫn tạm thời không được lưu trên hệ thống của chúng tôi mà **trên thiết bị của bạn**
-- Nó tồn tại chỉ trong 24 tiếng, sau thời gian này bạn sẽ cần tạo một đường dẫn mới để giữ cho lịch sử cầu nguyện được cập nhật
+- Nó chỉ tồn tại trong 24 giờ, sau thời gian này bạn sẽ cần tạo một đường dẫn mới để giữ cho lịch sử cầu nguyện được cập nhật
 - Mã xác nhận này không cho phép chúng tôi xác thực tài khoản của bạn
 - Tùy chọn xóa tất cả dữ liệu về bạn mà chúng tôi lưu trữ bất cứ khi nào bạn muốn (bao gồm cả lịch sử cầu nguyện)
 - Chúng tôi sử dụng giao thức bảo mật SSL
 
 ## Có nguy cơ bị khóa tài khoản khi sử dụng không?
-Hoàn toàn không. Chúng tôi sử dụng cách thức tương tự như trò chơi để tìm lịch sử cầu nguyện của bạn (sử dụng API công khai từ Mihoyo ) nên không có nguy cơ bị khóa tài khoản. Chúng tôi đã sử dụng nó trên tài khoản của mình trong nhiều tháng nay. Mihoyo đã đưa ra một số [tuyên bố về các công cụ của bên thứ ba] (https://genshin.mihoyo.com/en/news/detail/5763) và công cụ của chúng tôi là hợp pháp.
+Hoàn toàn không. Chúng tôi sử dụng cách thức tương tự như trò chơi để truy xuất lịch sử cầu nguyện của bạn (sử dụng API công khai từ Mihoyo ) nên không có nguy cơ bị khóa tài khoản. Chúng tôi đã sử dụng nó trên tài khoản của mình trong nhiều tháng nay. Mihoyo đã đưa ra một số [tuyên bố về các công cụ của bên thứ ba] (https://genshin.mihoyo.com/en/news/detail/5763) và công cụ của chúng tôi là hợp pháp.
 ## Ngôn ngữ nào được hỗ trợ?
-Trang web hỗ trợ tiếng Anh và tiếng Pháp, các ngôn ngữ khác được hỗ trợ bởi [các tình nguyện viên](https://github.com/genshin-wishes/genshin-wishes-i18n/blob/main/CONTRIBUTORS.md) in [this project](https://github.com/genshin-wishes/genshin-wishes-i18n).
+Trang web hỗ trợ tiếng Anh và tiếng Pháp, các ngôn ngữ khác được hỗ trợ bởi [các tình nguyện viên](https://github.com/genshin-wishes/genshin-wishes-i18n/blob/main/CONTRIBUTORS.md) trong [dự án này](https://github.com/genshin-wishes/genshin-wishes-i18n).
 
 ## Các dữ liệu mới sẽ được cập nhập sớm chứ?
 Chúng tôi hiện đang làm việc trên phiên bản thử nghiệm. Chúng tôi sẽ phát hành nó sớm nhất có thể.
