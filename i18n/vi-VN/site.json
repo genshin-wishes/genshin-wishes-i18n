@@ -9,7 +9,7 @@
     "previous": "Quay lại",
     "next": "Tiếp theo",
     "retry": "Thử lại",
-    "soon": "Đợi chút",
+    "soon": "Sớm",
     "beta": "Thử nghiệm",
     "save": "Lưu",
     "goBack": "Quay lại",
@@ -29,7 +29,7 @@
     "title": "Genshin Wishes - Sao lưu lịch sử cầu nguyện của bạn",
     "titleWithPage": "Genshin Wishes - {{ page }}",
     "titleShort": "Genshin Wishes",
-    "menu": "Menu",
+    "menu": "Danh sách",
     "getStarted": "Bắt đầu",
     "persistLink": "Nhớ đường dẫn này trong vòng 24h",
     "user": {
@@ -39,7 +39,7 @@
       "dialog": {
         "title": "Đường dẫn của bạn đã hết hạn",
         "message": "\uD83D\uDEA8 Đường dẫn xác thực không tồn tại. Làm ơn cập nhật lại. <a href=\"/faq\" target=\"_blank\"> Làm thế nào?</a>",
-        "ok": "Update link"
+        "ok": "Cập nhật"
       },
       "pasteInput": "Dán đường dẫn tại đây",
       "correctLink": "\uD83D\uDE0E Đúng rồi",
@@ -171,7 +171,7 @@
       "subTitle": "Xuất tất cả các cầu nguyện đang lưu trên Genshin Wishes",
       "confirm": {
         "title": "Bạn chắc không?",
-        "description": "Đừng lo lắng chúng sẽ vẫn được lưu trong tài khoản của bạn"
+        "description": "Đừng lo lắng chúng sẽ vẫn được lưu trên tài khoản của bạn"
       },
       "action": "Export my wishes"
     }
