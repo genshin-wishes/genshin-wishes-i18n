@@ -10,13 +10,13 @@ Genshin Wishes là một trang web miễn phí [mã nguồn mở](https://github
 Chúng tôi đơn giản là lấy chúng từ lịch sử cầu nguyện của bạn. Lịch sử cầu nguyện trong Genshin Impact là một trang web được hiển thị trong trò chơi, vì vậy ngay cả bạn cũng có thể truy cập được nếu có đường dẫn. Thứ duy nhất chúng ta cần là một đường dẫn tạm thời do trò chơi cung cấp. Đường dẫn tạm thời này chính là đường link mà chúng tôi yêu cầu từ bạn để kết xuất lịch sử cầu nguyện.
 ## Làm thế nào để tôi có được đường dẫn đó?
 ### PC
-Xem video hướng dẫn này [video](https://www.youtube.com/watch?v=a16X0R_rSZc) hoặc làm theo các bước dưới đây:
+Xem [video](https://www.youtube.com/watch?v=a16X0R_rSZc) hướng dẫn hoặc làm theo các bước dưới đây:
 1) Nhấn nút "Phản hồi" tại cửa sổ Paimon
 2) Một cửa sổ mới sẽ mở lên trong trình duyệt
 3) Sao chép đường dẫn và dán vào Genshin Wishes.
 
 ### Android
-Xem video hướng dẫn này [video](https://www.youtube.com/watch?v=hok0jCjSrjo) hoặc làm theo các bước dưới đây:
+Xem [video](https://www.youtube.com/watch?v=hok0jCjSrjo) hướng dẫn hoặc làm theo các bước dưới đây:
 1) Nhấn nút "Phản hồi" tại cửa sổ Paimon
 2) Ngắt kết nối mạng
 3) Nhấn nút làm mới ở góc trên cùng bên phải
@@ -24,7 +24,7 @@ Xem video hướng dẫn này [video](https://www.youtube.com/watch?v=hok0jCjSrj
 5) Sao chép đường dẫn và dán vào Genshin Wishes.
 
 ### iOS
-Xem video hướng dẫn này [video](https://www.youtube.com/watch?v=HW8nywx9Tio) hoặc làm theo các bước dưới đây:
+Xem [video](https://www.youtube.com/watch?v=HW8nywx9Tio) hướng dẫn hoặc làm theo các bước dưới đây:
 1) Nhấn nút "Phản hồi" tại cửa sổ Paimon
 2) Tại cửa sổ hỗ trợ, nhấn "Vấn đề tài khoản"
 3) Tiếp theo, nhấn mục thứ 3 "Làm thế nào để thay đổi mật khẩu?"
