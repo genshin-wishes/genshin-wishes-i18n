@@ -53,5 +53,5 @@ Hoàn toàn không. Chúng tôi sử dụng cách thức tương tự như trò 
 ## Ngôn ngữ nào được hỗ trợ?
 Trang web hỗ trợ tiếng Anh và tiếng Pháp, các ngôn ngữ khác được hỗ trợ bởi [các tình nguyện viên](https://github.com/genshin-wishes/genshin-wishes-i18n/blob/main/CONTRIBUTORS.md) trong [dự án này](https://github.com/genshin-wishes/genshin-wishes-i18n).
 
-## Các dữ liệu mới sẽ được cập nhập sớm chứ?
+## Tính năng thống kê sẽ được cập nhập sớm chứ?
 Chúng tôi hiện đang làm việc trên phiên bản thử nghiệm. Chúng tôi sẽ phát hành nó sớm nhất có thể.
