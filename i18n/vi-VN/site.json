@@ -285,11 +285,11 @@
         "titleWithCount": "Banner Tân thủ ({{ wishes }} cầu nguyện)"
       },
       "PERMANENT": {
-        "title": "Banner thường",
+        "title": "Banner Thường",
         "titleWithCount": "Banner Thường ({{ wishes }} cầu nguyện)"
       },
       "CHARACTER_EVENT": {
-        "title": "Banner nhân vật",
+        "title": "Banner Nhân vật",
         "titleWithCount": "Banner Nhân vật ({{ wishes }} cầu nguyện)"
       },
       "WEAPON_EVENT": {
@@ -299,7 +299,7 @@
     }
   },
   "footer": {
-    "disclaimer": "Genshin Wishes is not affiliated to miHoYo. Genshin Impact and miHoYo are trademarks or registered trademarks of miHoYo. Genshin Impact © miHoYo.",
-    "claim": "For any claim, please <a href=\"mailto:contact.genshin.wishes@gmail.com\">contact us</a>."
+    "disclaimer": "Genshin Wishes không liên kết với miHoYo. Genshin Impact và miHoYo là nhãn hiệu hoặc nhãn hiệu đã đăng ký từ miHoYo. Genshin Impact © miHoYo.",
+    "claim": "Đối với bất kỳ yêu cầu, xin vui lòng <a href=\"mailto:contact.genshin.wishes@gmail.com\">liên hệ</a>."
   }
 }
