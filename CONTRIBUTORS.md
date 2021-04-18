@@ -31,3 +31,7 @@
 ## Thai
 
 - p0ndja (PondJaᵀᴴ#9423)
+
+## Vietnamese
+
+- Peinpein (Peinpein#3500)
