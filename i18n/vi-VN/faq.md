@@ -49,7 +49,7 @@ Có. Cũng là những người chơi Genshin Impact chúng tôi rất quan tâm
 - Chúng tôi sử dụng giao thức bảo mật SSL
 
 ## Có nguy cơ bị khóa tài khoản khi sử dụng không?
-Hoàn toàn không. Chúng tôi sử dụng cách thức tương tự như trò chơi để truy xuất lịch sử cầu nguyện của bạn (sử dụng API công khai từ Mihoyo ) nên không có nguy cơ bị khóa tài khoản. Chúng tôi đã sử dụng nó trên tài khoản của mình trong nhiều tháng nay. Mihoyo đã đưa ra một số [tuyên bố về các công cụ của bên thứ ba] (https://genshin.mihoyo.com/en/news/detail/5763) và công cụ của chúng tôi là hợp pháp.
+Hoàn toàn không. Chúng tôi sử dụng cách thức tương tự như trò chơi để truy xuất lịch sử cầu nguyện của bạn (sử dụng API công khai từ Mihoyo ) nên không có nguy cơ bị khóa tài khoản. Chúng tôi đã sử dụng nó trên tài khoản của mình trong nhiều tháng nay. Mihoyo đã đưa ra một số [tuyên bố về các công cụ của bên thứ ba](https://genshin.mihoyo.com/en/news/detail/5763) và công cụ của chúng tôi là hợp pháp.
 ## Ngôn ngữ nào được hỗ trợ?
 Trang web hỗ trợ tiếng Anh và tiếng Pháp, các ngôn ngữ khác được hỗ trợ bởi [các tình nguyện viên](https://github.com/genshin-wishes/genshin-wishes-i18n/blob/main/CONTRIBUTORS.md) trong [dự án này](https://github.com/genshin-wishes/genshin-wishes-i18n).
 
