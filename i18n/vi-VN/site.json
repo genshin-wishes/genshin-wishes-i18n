@@ -140,7 +140,7 @@
         "title": "",
         "message": "Ngôn ngữ của bạn đã được cập nhật."
       },
-      "action": "Save language"
+      "action": "Lưu thay đổi"
     },
     "wholeClock": {
       "title": "Hiển thị thời gian",
@@ -152,15 +152,15 @@
         "title": "",
         "message": "Hiển thị thời gian đã được cập nhật."
       },
-      "action": "Save format"
+      "action": "Lưu thay đổi"
     },
     "deleteAccount": {
       "title": "Xóa tài khoản",
       "subTitle": "Xóa tất cả dữ liệu trên Genshin Wishes",
       "hint": "Type <b>{{ confirmation }}</b> trước khi nhấn vào nút xóa tài khoản.",
       "label": "Gõ vào đây",
-      "action": "Delete my account",
-      "confirmation": "DELETE MY ACCOUNT"
+      "action": "Xóa tài khoản của tôi",
+      "confirmation": "XÓA TÀI KHOẢN"
     },
     "deleteAccountConfirm": {
       "title": "Bạn có chắc muốn xóa tài khoản của mình?",
@@ -173,7 +173,7 @@
         "title": "Bạn chắc không?",
         "description": "Đừng lo lắng chúng sẽ vẫn được lưu trên tài khoản của bạn"
       },
-      "action": "Export my wishes"
+      "action": "Xuất danh sách cầu nguyện"
     }
   },
   "stats": {
@@ -256,7 +256,7 @@
       },
       "noData$": {
         "emoji": "\uD83D\uDE27",
-        "title": "Xin lỗi,  không có cầu nguyện mới",
+        "title": "Xin lỗi, không có cầu nguyện mới",
         "message": "Các cầu nguyện mới trong vòng 1 giờ trước chưa thể cập nhật."
       },
       "invalidAuthkey$": {
@@ -281,19 +281,19 @@
         "titleWithCount": "Tổng số cầu nguyện ({{ wishes }})"
       },
       "NOVICE": {
-        "title": "Novice banner",
+        "title": "Banner Tân thủ",
         "titleWithCount": "Banner Tân thủ ({{ wishes }} cầu nguyện)"
       },
       "PERMANENT": {
-        "title": "Permanent banner",
+        "title": "Banner thường",
         "titleWithCount": "Banner Thường ({{ wishes }} cầu nguyện)"
       },
       "CHARACTER_EVENT": {
-        "title": "Character banner",
+        "title": "Banner nhân vật",
         "titleWithCount": "Banner Nhân vật ({{ wishes }} cầu nguyện)"
       },
       "WEAPON_EVENT": {
-        "title": "Weapon banner",
+        "title": "Banner Vũ khí",
         "titleWithCount": "Banner Vũ khí ({{ wishes }} cầu nguyện)"
       }
     }
