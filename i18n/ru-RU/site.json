@@ -24,7 +24,7 @@
       "title": "",
       "message": "Неудаётся подключиться к серверу Genshin Impact."
     },
-    "archiveWarning": "\uD83D\uDEA8 Since March 28, 2021 we can’t retrieve wishes older than 6 months because miHoYo started deleting them from the in-game history. If you have a backup, you will soon be able to import it on the site."
+    "archiveWarning": "\uD83D\uDEA8 Начиная с 28 марта 2021 года мы не можем получить ваши молитвы, которые старше 6 месяцев, так как miHoYo удаляет их из своей базы данных. Если вы сохраняли эти молитвы при помощи каких-либо других инструментов, то вскоре мы добавим возможность импортировать их вручную."
   },
   "app": {
     "title": "Genshin Wishes",
@@ -34,7 +34,7 @@
     "getStarted": "Начать",
     "persistLink": {
       "persist": "Запомнить ссылку на 24 часа",
-      "doNotPersist": "Don't save the link"
+      "doNotPersist": "Не сохранять ссылку"
     },
     "user": {
       "uid": "UID {{ uid }}"
@@ -74,8 +74,8 @@
   },
   "auth": {
     "signInMethod": "Выберете метод входа",
-    "hint": "You are NOT signing into Genshin Impact",
-    "subHint": "We encourage you to choose a separate provider than your in-game account.",
+    "hint": "Вы входите НЕ в Genshin Impact",
+    "subHint": "Мы советуем выбрать метод входа, отличающийся от того, который вы используете в игре.",
     "logout.label": "Выйти"
   },
   "banners": {
@@ -98,30 +98,30 @@
     "title": "ЧаВо"
   },
   "landing": {
-    "isItSafe": "Is it safe?",
+    "isItSafe": "Это безопасно?",
     "hero": {
-      "title": "Your Genshin Impact wish history in a single glance.",
-      "subtitle": "Backup your Genshin Impact wish history, keep track of your pity and get a shareable view of your pulls statistics!",
-      "advice": "No installation, <b>free</b> and <b>secure</b>."
+      "title": "Ваша история молитв Genshin Impact одним взглядом.",
+      "subtitle": "Сохраните свою историю молитв Genshin Impact, отслеживайте свои гаранты и получите ссылку со статистикой своих молитв, которой вы можете поделиться!",
+      "advice": "Не нужно ничего устанавливать, <b>бесплатно</b> и <b>безопасно</b>."
     },
     "counters": {
-      "users": "Trusted by over <span class=\"text-primary\"><b>{{ users }}</b></span>\nGenshin Impact players",
-      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} wishes</b></span>\nbacked up and counting"
+      "users": "Проверено <span class=\"text-primary\"><b>{{ users }}</b></span>\n игроками Genshin Impact",
+      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} молитв</b></span>\nсохранены и их количество растёт"
     },
     "feature": {
-      "publicStats": "Check public stats out of million wishes",
-      "personalStats": "View your personal wish stats",
-      "dashboard": "Compute your pity on each banner",
-      "archive": "Archive wishes more than six month",
-      "platforms": "Available for PC, mobile and console players"
+      "publicStats": "Просмотрите публичную статистику более миллиона молитв",
+      "personalStats": "Смотрите свою собственную статистику",
+      "dashboard": "Считайте гаранты для каждого баннера",
+      "archive": "Храните историю молитв более шести месяцев",
+      "platforms": "Доступно для игроков с ПК, телефонов и консолей"
     },
     "security": {
-      "title": "We care about security.",
-      "noInstallation": "No installation is required and we don't need your Genshin account password.",
-      "temporaryKey": "Your temporary key is not stored on our servers but on your device and is only valid for 24h.",
-      "authorization": "The temporary key does not allow us to authenticate on your account.",
-      "ssl": "We use SSL encryption for all connections between you and our servers.",
-      "learnMore": "Learn more about security"
+      "title": "Мы заботимся о безопасности.",
+      "noInstallation": "Не нужно ничего устанавливать и мы также не требуем никаких ваших паролей.",
+      "temporaryKey": "Временный ключ хранится на вашем устройстве а не на наших серверах, также он работоспособен лишь 24 часа.",
+      "authorization": "Этот временный ключ не позволит нам зайти в ваш игровой аккаунт.",
+      "ssl": "Мы используем SSL шифрование для всех соединений между вами а нашими серверами.",
+      "learnMore": "Узнать больше о безопасности"
     },
     "welcome": {
       "title": "Добро пожаловать на Genshin Wishes.",
@@ -134,10 +134,10 @@
       "archive": "Ваши молитвы будут храниться больше шести месяцев (столько они хранятся во внутриигровой истории)"
     },
     "footerBanner": {
-      "joinUs": "Join us to flex your lucky pulls!"
+      "joinUs": "Присоединяйтесь к нам, чтобы флексить вашими удачными молитвами!"
     },
     "footer": {
-      "content": "Sources of this project are available on Github. Genshin Wishes is made and maintained by <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> and <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
+      "content": "Исходники данного проекта доступны на Github. Genshin Wishes разработан и поддерживается такими людьми как <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> и <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
     }
   },
   "profile": {
@@ -214,7 +214,7 @@
     }
   },
   "publicStats": {
-    "label": "Public stats"
+    "label": "Публичная статистика"
   },
   "stats": {
     "label": "Статистика",
