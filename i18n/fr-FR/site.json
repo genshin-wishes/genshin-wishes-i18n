@@ -98,6 +98,31 @@
     "title": "FAQ"
   },
   "landing": {
+    "isItSafe": "Est-ce sécurisé ?",
+    "hero": {
+      "title": "Votre historique de vœux Genshin Impact en un coup d'œil.",
+      "subtitle": "Sauvegardez votre historique de vœux Genshin Impact, gardez le compte de votre pity et obtenez une vue partageable des statistiques de vos pulls !",
+      "advice": "Pas d'installation, <b>gratuit</b> et <b>sécurisé</b>."
+    },
+    "counters": {
+      "users": "<span class=\"text-primary\"><b>{{ users }}</b></span>\n joueurs Genshin Impact nous font confiance",
+      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} vœux</b></span>\nsauvegardés et on compte encore"
+    },
+    "feature": {
+      "publicStats": "Regardez des stats publiques sur des millions de vœux",
+      "personalStats": "Regardez vos stats personnelles de vœux",
+      "dashboard": "Calculez votre pity sur chaque bannière",
+      "archive": "Archivez vos vœux pour plus de 6 mois",
+      "platforms": "Disponible pour PC, mobile et joueurs console"
+    },
+    "security": {
+      "title": "La sécurité compte pour nous.",
+      "noInstallation": "Aucune installation n'est nécessaire et nous n'avons pas besoin de votre compte Genshin.",
+      "temporaryKey": "Votre clé temporaire n'est pas stockée sur nos serveurs mais sur votre appareil et celle-ci n'est valide que 24h.",
+      "authorization": "La clé temporaire ne nous permet pas de nous connecter à votre compte.",
+      "ssl": "Nous utilisons l'encryptage SSL pour toutes les connexions entre vous et nos serveurs.",
+      "learnMore": "Apprenez en plus sur la sécurité"
+    },
     "welcome": {
       "title": "Bienvenue sur Genshin Wishes.",
       "description": "Nous vous permettons de suivre et sauvegarder votre historique de vœux de Genshin Impact. Nous pouvons aussi calculer votre compteur de pity !"
@@ -107,6 +132,12 @@
       "browse": "Regardez facilement vos vœux",
       "stats": "Regardez vos statistiques",
       "archive": "Archivez vos vœux plus de 6 mois"
+    },
+    "footerBanner": {
+      "joinUs": "Rejoignez nous pour vous la raconter avec votre chance!"
+    },
+    "footer": {
+      "content": "Les sources du projet sont disponibles sur GitHub. Genshin Wishes est créé et maintenu par <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> et <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
     }
   },
   "profile": {

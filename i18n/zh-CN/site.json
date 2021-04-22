@@ -98,6 +98,31 @@
     "title": "常问问题"
   },
   "landing": {
+    "isItSafe": "Is it safe?",
+    "hero": {
+      "title": "Your Genshin Impact wish history in a single glance.",
+      "subtitle": "Backup your Genshin Impact wish history, keep track of your pity and get a shareable view of your pulls statistics!",
+      "advice": "No installation, <b>free</b> and <b>secure</b>."
+    },
+    "counters": {
+      "users": "Trusted by over <span class=\"text-primary\"><b>{{ users }}</b></span>\nGenshin Impact players",
+      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} wishes</b></span>\nbacked up and counting"
+    },
+    "feature": {
+      "publicStats": "Check public stats out of million wishes",
+      "personalStats": "View your personal wish stats",
+      "dashboard": "Compute your pity on each banner",
+      "archive": "Archive wishes more than six month",
+      "platforms": "Available for PC, mobile and console players"
+    },
+    "security": {
+      "title": "We care about security.",
+      "noInstallation": "No installation is required and we don't need your Genshin account password.",
+      "temporaryKey": "Your temporary key is not stored on our servers but on your device and is only valid for 24h.",
+      "authorization": "The temporary key does not allow us to authenticate on your account.",
+      "ssl": "We use SSL encryption for all connections between you and our servers.",
+      "learnMore": "Learn more about security"
+    },
     "welcome": {
       "title": "欢迎来到 Genshin Wishes.",
       "description": "我们可以让您跟踪和保存您的《原神》祈愿记录。 我们也可以计算您的保底计数"
@@ -107,6 +132,12 @@
       "browse": "轻松查看您的祈愿",
       "stats": "查看你的数据",
       "archive": "存档您超过6个月的祈愿"
+    },
+    "footerBanner": {
+      "joinUs": "Join us to flex your lucky pulls!"
+    },
+    "footer": {
+      "content": "Sources of this project are available on Github. Genshin Wishes is made and maintained by <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> and <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
     }
   },
   "profile": {

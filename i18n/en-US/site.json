@@ -98,7 +98,31 @@
     "title": "FAQ"
   },
   "landing": {
-    "signInMethod": "Choose a sign-in method",
+    "isItSafe": "Is it safe?",
+    "hero": {
+      "title": "Your Genshin Impact wish history in a single glance.",
+      "subtitle": "Backup your Genshin Impact wish history, keep track of your pity and get a shareable view of your pulls statistics!",
+      "advice": "No installation, <b>free</b> and <b>secure</b>."
+    },
+    "counters": {
+      "users": "Trusted by over <span class=\"text-primary\"><b>{{ users }}</b></span>\nGenshin Impact players",
+      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} wishes</b></span>\nbacked up and counting"
+    },
+    "feature": {
+      "publicStats": "Check public stats out of million wishes",
+      "personalStats": "View your personal wish stats",
+      "dashboard": "Compute your pity on each banner",
+      "archive": "Archive wishes more than six month",
+      "platforms": "Available for PC, mobile and console players"
+    },
+    "security": {
+      "title": "We care about security.",
+      "noInstallation": "No installation is required and we don't need your Genshin account.",
+      "temporaryKey": "Your temporary key is not stored on our servers but on your device and is only valid for 24h.",
+      "authorization": "The temporary key does not allow us to authenticate on your account.",
+      "ssl": "We use SSL encryption for all connections between you and our servers.",
+      "learnMore": "Learn more about security"
+    },
     "welcome": {
       "title": "Welcome on Genshin Wishes.",
       "description": "We help you track and backup your wish history from Genshin Impact. We can keep track of your pity counter too!"
@@ -108,6 +132,12 @@
       "browse": "Easily browse through your wishes",
       "stats": "View your stats",
       "archive": "Archive your wishes more than 6 months"
+    },
+    "footerBanner": {
+      "joinUs": "Join us to flex your lucky pulls!"
+    },
+    "footer": {
+      "content": "Sources of this project are available on GitHub. Genshin Wishes is made and maintained by <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> and <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
     }
   },
   "profile": {
