@@ -24,17 +24,17 @@
       "title": "",
       "message": "Nie można połączyć się z serwerem Genshina."
     },
-    "archiveWarning": "\uD83D\uDEA8 Since March 28, 2021 we can’t retrieve wishes older than 6 months because miHoYo started deleting them from the in-game history. If you have a backup, you will soon be able to import it on the site."
+    "archiveWarning": "\uD83D\uDEA8 Od Marca 28, 2021 roku nie jesteśmy w stanie przywrócić życzenia starsze niż 6 miesięcy, ponieważ MiHoYo zaczął usuwać je z historii życzeń."
   },
   "app": {
     "title": "Genshin Wishes",
     "titleWithPage": "Genshin Wishes — {{ page }}",
-    "description": "Łatwo przywróć historię twoich życzeń",
+    "description": "Zapisuj i śledź swoje życzenia z łatwością",
     "menu": "Menu",
     "getStarted": "Rozpocznij",
     "persistLink": {
-      "persist": "Pamiętaj - link działa tylko 24h",
-      "doNotPersist": "Don't save the link"
+      "persist": "Zapisz na swoim urządzeniu na 24h",
+      "doNotPersist": "Nie zapisuj linku"
     },
     "user": {
       "uid": "UID {{ uid }}"
@@ -47,7 +47,7 @@
       },
       "pasteInput": "Wklej twój link tutaj",
       "correctLink": "\uD83D\uDE0E Okej, wygląda w porządku",
-      "incorrectLink": "\uD83D\uDE31 Incorrect link, please try again! Niepoprawny "
+      "incorrectLink": "\uD83D\uDE31 Niepoprawny link, spróbuj ponownie!"
     },
     "urlSetup": {
       "title": "Skonfiguruj swoje konto",
@@ -74,8 +74,8 @@
   },
   "auth": {
     "signInMethod": "Wybierz metodę logowania się",
-    "hint": "You are NOT signing into Genshin Impact",
-    "subHint": "We encourage you to choose a separate provider than your in-game account.",
+    "hint": "NIE logujesz się do Genshin Impact",
+    "subHint": "Zachęcamy do wybrania innego media społecznościowego niż do konta w grze.",
     "logout.label": "Wyloguj się"
   },
   "banners": {
@@ -98,30 +98,30 @@
     "title": "FAQ"
   },
   "landing": {
-    "isItSafe": "Is it safe?",
+    "isItSafe": "Czy to bezpieczne?",
     "hero": {
-      "title": "Your Genshin Impact wish history in a single glance.",
-      "subtitle": "Backup your Genshin Impact wish history, keep track of your pity and get a shareable view of your pulls statistics!",
-      "advice": "No installation, <b>free</b> and <b>secure</b>."
+      "title": "Twoja historia życzeń Genshin Impact w zasięgu ręki",
+      "subtitle": "Przywróć swoją historię życzeń z gry, śledź twoje pity oraz zdobądź widok na statystyki życzeń, które możesz udostępnić!",
+      "advice": "Bez żadnych instalacji <b>darmowe</b> oraz <b>bezpieczne</b>."
     },
     "counters": {
-      "users": "Trusted by over <span class=\"text-primary\"><b>{{ users }}</b></span>\nGenshin Impact players",
-      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} wishes</b></span>\nbacked up and counting"
+      "users": "Zaufana przez ponad <span class=\"text-primary\"><b>{{ users }}</b></span>\ngraczy Genshin Impact",
+      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} życzeń</b></span>\nprzywróconych oraz przeliczonych"
     },
     "feature": {
-      "publicStats": "Check public stats out of million wishes",
-      "personalStats": "View your personal wish stats",
-      "dashboard": "Compute your pity on each banner",
-      "archive": "Archive wishes more than six month",
-      "platforms": "Available for PC, mobile and console players"
+      "publicStats": "Przejrzyj publiczne statystyki milionów życzeń",
+      "personalStats": "Zobacz swoje personalne statystyki życzeń",
+      "dashboard": "Oblicz swoje pity na każdym banerze",
+      "archive": "Zarchiwizuj życzenia do nawet sześciu miesięcy",
+      "platforms": "Dostępne dla graczy na PC, urządzeniu mobilnym oraz konsoli"
     },
     "security": {
-      "title": "We care about security.",
-      "noInstallation": "No installation is required and we don't need your Genshin account password.",
-      "temporaryKey": "Your temporary key is not stored on our servers but on your device and is only valid for 24h.",
-      "authorization": "The temporary key does not allow us to authenticate on your account.",
-      "ssl": "We use SSL encryption for all connections between you and our servers.",
-      "learnMore": "Learn more about security"
+      "title": "Dbamy o wasze bezpieczeństwo.",
+      "noInstallation": "Żadne instalacje nie są wymagane ani nie potrzebujemy twojego konta Genshin.",
+      "temporaryKey": "Twój tymczasowy klucz nie jest przechowywany na żadnym z naszych serwerów, ale na twoim urządzeniu oraz jest aktywny tylko 24h.",
+      "authorization": "Tymczasowy klucz nie pozwala nam na uwierzytelnienie twojego konta.",
+      "ssl": "Używamy szyfrowania SSL dla wszystkich połączeń między tobą a naszymi serwerami.",
+      "learnMore": "Dowiedz się więcej o bezpieczeństwie"
     },
     "welcome": {
       "title": "Witaj na Genshin Wishes.",
@@ -134,10 +134,10 @@
       "archive": "Przetrzymuj swoje życzenia ponad 6 miesięcy"
     },
     "footerBanner": {
-      "joinUs": "Join us to flex your lucky pulls!"
+      "joinUs": "Dołącz do nas i pofleksuj się swoimi szczęśliwymi życzeniami!"
     },
     "footer": {
-      "content": "Sources of this project are available on Github. Genshin Wishes is made and maintained by <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> and <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
+      "content": "Źródła tego projektu są dostępne na GitHub'ie Genshin Wishes zostało stworzone i utrzymywane przez <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colina Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy'ego Vergerolle</a> oraz <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye'a Vergerolle</a>."
     }
   },
   "profile": {
@@ -149,7 +149,7 @@
     "footer": "Automatycznie transportuj swoje życzenia z PC/Urządzenia mobilnego/Konsoli i zyskaj swoje własne statystyki!",
     "share": {
       "title": "Udostępnij stronę z twoimi statystykami",
-      "label": "Udostępnij swoje statystki",
+      "label": "Udostępnij swoje statystyki",
       "sharing": {
         "title": "Udostępnianie strony ze statystykami",
         "enabled": "Widoczna tylko dla osób z linkiem",
@@ -214,7 +214,7 @@
     }
   },
   "publicStats": {
-    "label": "Public stats"
+    "label": "Publiczne statystyki"
   },
   "stats": {
     "label": "Statystyki",
