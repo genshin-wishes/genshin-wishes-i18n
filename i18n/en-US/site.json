@@ -213,6 +213,9 @@
       "action": "Export my wishes"
     }
   },
+  "publicStats": {
+    "label": "Public stats"
+  },
   "stats": {
     "label": "Stats",
     "averageGap": "Average gap",

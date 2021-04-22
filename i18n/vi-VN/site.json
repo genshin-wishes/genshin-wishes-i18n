@@ -213,6 +213,9 @@
       "action": "Xuất danh sách cầu nguyện"
     }
   },
+  "publicStats": {
+    "label": "Public stats"
+  },
   "stats": {
     "label": "Số liệu",
     "averageGap": "Trung bình",

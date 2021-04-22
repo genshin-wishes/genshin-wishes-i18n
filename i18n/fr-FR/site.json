@@ -220,6 +220,9 @@
     "coffee.label": "Soutenez notre travail",
     "i18n.label": "Contribuez à la traduction"
   },
+  "publicStats": {
+    "label": "Statistiques publiques"
+  },
   "stats": {
     "label": "Statistiques",
     "averageGap": "Écart moyen",

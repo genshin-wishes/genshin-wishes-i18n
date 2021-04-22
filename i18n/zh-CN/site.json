@@ -220,6 +220,9 @@
     "coffee.label": "支持我们的工作",
     "i18n.label": "协助翻译"
   },
+  "publicStats": {
+    "label": "Public stats"
+  },
   "stats": {
     "label": "统计数据",
     "averageGap": "中等差异",

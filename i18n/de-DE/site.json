@@ -213,6 +213,9 @@
             "action": "Exportiere meine Gebete"
         }
     },
+    "publicStats": {
+        "label": "Public stats"
+    },
     "stats": {
         "label": "Statistiken",
         "averageGap": "Durchschnittlich",

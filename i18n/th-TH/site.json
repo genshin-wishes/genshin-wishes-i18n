@@ -213,6 +213,9 @@
       "action": "ดาวน์โหลดการอธิฐานของฉัน"
     }
   },
+  "publicStats": {
+    "label": "Public stats"
+  },
   "stats": {
     "label": "สถิติ",
     "averageGap": "อัตราการออกเฉลี่ย",

@@ -213,6 +213,9 @@
       "action": "Eksportuj moje życzenia"
     }
   },
+  "publicStats": {
+    "label": "Public stats"
+  },
   "stats": {
     "label": "Statystyki",
     "averageGap": "Średnia różnica",

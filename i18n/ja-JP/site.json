@@ -213,6 +213,9 @@
       "action": "祈願履歴をエクスポート!"
     }
   },
+  "publicStats": {
+    "label": "Public stats"
+  },
   "stats": {
     "label": "祈願統計",
     "averageGap":"平均出現間隔",

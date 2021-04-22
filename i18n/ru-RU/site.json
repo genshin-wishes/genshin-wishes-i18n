@@ -213,6 +213,9 @@
       "action": "Экспортировать мои молитвы"
     }
   },
+  "publicStats": {
+    "label": "Public stats"
+  },
   "stats": {
     "label": "Статистика",
     "averageGap": "Среднее",
