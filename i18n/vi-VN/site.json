@@ -23,15 +23,19 @@
       "emoji": "\uD83D\uDEA8",
       "title": "",
       "message": "Không thể liên hết tới máy chủ Genshin."
-    }
+    },
+    "archiveWarning": "\uD83D\uDEA8 Since March 28, 2021 we can’t retrieve wishes older than 6 months because miHoYo started deleting them from the in-game history. If you have a backup, you will soon be able to import it on the site."
   },
   "app": {
-    "title": "Genshin Wishes - Sao lưu lịch sử cầu nguyện của bạn",
-    "titleWithPage": "Genshin Wishes - {{ page }}",
-    "titleShort": "Genshin Wishes",
+    "title": "Genshin Wishes",
+    "titleWithPage": "Genshin Wishes — {{ page }}",
+    "description": "Sao lưu lịch sử cầu nguyện của bạn",
     "menu": "Danh sách",
     "getStarted": "Bắt đầu",
-    "persistLink": "Nhớ đường dẫn này trong vòng 24h",
+    "persistLink": {
+      "persist": "Nhớ đường dẫn này trong vòng 24h",
+      "doNotPersist": "Don't save the link"
+    },
     "user": {
       "uid": "UID {{ uid }}"
     },
@@ -61,7 +65,7 @@
         },
         "2": {
           "title": "Đợi chút! Chúng tôi đang kết xuất các ước nguyện \uD83D\uDC0B \uD83D\uDE48",
-          "description": "<span class=\"text-success\"><b>Lặp lại các bước trên</b></span> để cập nhật các cầu nguyện mới.",
+          "description": "<span class=\"text-primary\"><b>Lặp lại các bước trên</b></span> để cập nhật các cầu nguyện mới.",
           "seeWishes": "Đi tới ứng dụng"
         }
       }
@@ -69,6 +73,9 @@
     "signIn": "Đăng nhập"
   },
   "auth": {
+    "signInMethod": "Chọn cách thức đăng nhập",
+    "hint": "You are NOT signing into Genshin Impact",
+    "subHint": "We encourage you to choose a separate provider than your in-game account.",
     "logout.label": "Thoát"
   },
   "banners": {
@@ -91,7 +98,6 @@
     "title": "Hỏi đáp"
   },
   "landing": {
-    "signInMethod": "Chọn cách thức đăng nhập",
     "welcome": {
       "title": "Chào mừng bạn tới Genshin Wishes.",
       "description": "Chúng tôi giúp bạn theo dõi và sao lưu lịch sử cầu nguyện từ Genshin Impact. Cũng như giúp bạn theo dõi bảo hiểm cầu nguyện của mình!"

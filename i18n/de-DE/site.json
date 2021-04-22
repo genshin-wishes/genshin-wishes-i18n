@@ -23,15 +23,19 @@
             "emoji": "\uD83D\uDEA8",
             "title": "",
             "message": "Konnte nicht zu den Genshin Servern verbinden."
-        }
+        },
+        "archiveWarning": "\uD83D\uDEA8 Since March 28, 2021 we can’t retrieve wishes older than 6 months because miHoYo started deleting them from the in-game history. If you have a backup, you will soon be able to import it on the site."
     },
     "app": {
-        "title": "Genshin Wishes - Sichere deine Gebete",
-        "titleWithPage": "Genshin Wishes - {{ page }}",
-        "titleShort": "Genshin Wishes",
+        "title": "Genshin Wishes",
+        "titleWithPage": "Genshin Wishes — {{ page }}",
+        "description": "Sichere deine Gebete",
         "menu": "Menü",
         "getStarted": "Loslegen",
-        "persistLink": "Speichere den Link für 24 Stunden",
+        "persistLink": {
+            "persist": "Speichere den Link für 24 Stunden",
+            "doNotPersist": "Don't save the link"
+        },
         "user": {
             "uid": "UID {{ uid }}"
         },
@@ -61,7 +65,7 @@
                 },
                 "2": {
                     "title": "Moment! Wir holen deine Gebete \uD83D\uDC0B \uD83D\uDE48",
-                    "description": "<span class=\"text-success\"><b>Wiederhole diese Schritte das nächste mal</b></span>, um neue Gebete zu synchronisieren.",
+                    "description": "<span class=\"text-primary\"><b>Wiederhole diese Schritte das nächste mal</b></span>, um neue Gebete zu synchronisieren.",
                     "seeWishes": "Gehe zur App"
                 }
             }
@@ -69,6 +73,9 @@
         "signIn": "Registrieren"
     },
     "auth": {
+        "signInMethod": "Wähle eine Anmeldemethode",
+        "hint": "You are NOT signing into Genshin Impact",
+        "subHint": "We encourage you to choose a separate provider than your in-game account.",
         "logout.label": "Abmelden"
     },
     "banners": {
@@ -91,7 +98,6 @@
         "title": "FAQ"
     },
     "landing": {
-        "signInMethod": "Wähle eine Anmeldemethode",
         "welcome": {
             "title": "Wilkommen bei Genshin Wishes.",
             "description": "Wir helfen dir deine Gebete aus Genshin Impact zu verfolgen und zu sichern. Wir zeigen dir auch deinen Mitleidszähler!"

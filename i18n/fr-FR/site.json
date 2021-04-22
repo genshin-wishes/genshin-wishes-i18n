@@ -23,15 +23,19 @@
       "emoji": "\uD83D\uDEA8",
       "title": "",
       "message": "Impossible de se connecter au serveur de Genshin."
-    }
+    },
+    "archiveWarning": "\uD83D\uDEA8 Depuis le 28 mars 2021, nous ne pouvons plus récupérer les vœux datant de plus de 6 mois car miHoYo a commencé à les supprimer de l'historique du jeu. Si vous avez une sauvegarde, vous pourrez bientôt l'importer sur le site."
   },
   "app": {
-    "title": "Genshin Wishes — Sauvegardez votre historique de vœux simplement",
-    "titleWithPage": "Genshin Wishes - {{ page }}",
-    "titleShort": "Genshin Wishes",
+    "title": "Genshin Wishes",
+    "titleWithPage": "Genshin Wishes — {{ page }}",
+    "description": "Sauvegardez et visualisez vos vœux simplement",
     "menu": "Menu",
     "getStarted": "C'est parti",
-    "persistLink": "Se souvenir du lien pendant 24h",
+    "persistLink": {
+      "persist": "Sauvegarder 24h sur votre appareil",
+      "doNotPersist": "Ne pas sauvegarder le lien"
+    },
     "user": {
       "uid": "UID {{ uid }}"
     },
@@ -61,7 +65,7 @@
         },
         "2": {
           "title": "Patience! Nous récupérons vos vœux \uD83D\uDC0B \uD83D\uDE48",
-          "description": "<span class=\"text-success\"><b>Répétez ces étapes la prochaine fois</b></span> pour synchroniser de nouveaux vœux.",
+          "description": "<span class=\"text-primary\"><b>Répétez ces étapes la prochaine fois</b></span> pour synchroniser de nouveaux vœux.",
           "seeWishes": "Aller sur l'appli"
         }
       }
@@ -69,6 +73,9 @@
     "signIn": "Se connecter"
   },
   "auth": {
+    "signInMethod": "Choisissez une méthode d'authentification",
+    "hint": "Vous ne vous connectez PAS à Genshin Impact",
+    "subHint": "Nous vous encourageons à choisir un service qui n'est pas rattaché à votre compte de jeu.",
     "logout.label": "Se déconnecter"
   },
   "banners": {
@@ -91,7 +98,6 @@
     "title": "FAQ"
   },
   "landing": {
-    "signInMethod": "Choisissez une méthode d'authentification",
     "welcome": {
       "title": "Bienvenue sur Genshin Wishes.",
       "description": "Nous vous permettons de suivre et sauvegarder votre historique de vœux de Genshin Impact. Nous pouvons aussi calculer votre compteur de pity !"

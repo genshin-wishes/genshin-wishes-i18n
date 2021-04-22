@@ -23,15 +23,19 @@
       "emoji": "\uD83D\uDEA8",
       "title": "",
       "message": "ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ Genshin Impact"
-    }
+    },
+    "archiveWarning": "\uD83D\uDEA8 Since March 28, 2021 we can’t retrieve wishes older than 6 months because miHoYo started deleting them from the in-game history. If you have a backup, you will soon be able to import it on the site."
   },
   "app": {
-    "title": "Genshin Wishes - บันทึกการอธิฐานของคุณ",
-    "titleWithPage": "Genshin Wishes - {{ page }}",
-    "titleShort": "Genshin Wishes",
+    "title": "Genshin Wishes",
+    "titleWithPage": "Genshin Wishes — {{ page }}",
+    "description": "บันทึกการอธิฐานของคุณ",
     "menu": "เมนู",
     "getStarted": "เริ่มต้นกันเลย",
-    "persistLink": "จดจำลิงก์นี้ไว้ 24 ชั่วโมง",
+    "persistLink": {
+      "persist": "จดจำลิงก์นี้ไว้ 24 ชั่วโมง",
+      "doNotPersist": "Don't save the link"
+    },
     "user": {
       "uid": "UID {{ uid }}"
     },
@@ -61,7 +65,7 @@
         },
         "2": {
           "title": "รอก่อน! เรากำลังดูข้อมูลการอธิฐานของคุณ \uD83D\uDC0B \uD83D\uDE48",
-          "description": "<span class=\"text-success\"><b>ทำอย่างนี้ซ้ำในครั้งต่อไป</b></span> เพื่อซิงค์ข้อมูลการอธิฐานใหม่ ๆ",
+          "description": "<span class=\"text-primary\"><b>ทำอย่างนี้ซ้ำในครั้งต่อไป</b></span> เพื่อซิงค์ข้อมูลการอธิฐานใหม่ ๆ",
           "seeWishes": "ดูการอธิฐาน"
         }
       }
@@ -69,6 +73,9 @@
     "signIn": "เข้าสู่ระบบ"
   },
   "auth": {
+    "signInMethod": "เลือกวิธีที่จะใช้ในการเข้าสู่ระบบ",
+    "hint": "You are NOT signing into Genshin Impact",
+    "subHint": "We encourage you to choose a separate provider than your in-game account.",
     "logout.label": "ออกจากระบบ"
   },
   "banners": {
@@ -91,7 +98,6 @@
     "title": "คำถามที่พบบ่อย"
   },
   "landing": {
-    "signInMethod": "เลือกวิธีที่จะใช้ในการเข้าสู่ระบบ",
     "welcome": {
       "title": "ยินดีต้อนรับเข้าสู่ Genshin Wishes.",
       "description": "พวกเราจะช่วยคุณติดตามและบันทึกประวัติการอธิฐานของคุณจาก Genshin Impact อีกทั้งยังสามารถนับ Pity Rate อีกด้วย!"

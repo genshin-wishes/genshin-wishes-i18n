@@ -23,15 +23,19 @@
       "emoji": "\uD83D\uDEA8",
       "title": "",
       "message": "原神サーバーに接続できません。"
-    }
+    },
+    "archiveWarning": "\uD83D\uDEA8 Since March 28, 2021 we can’t retrieve wishes older than 6 months because miHoYo started deleting them from the in-game history. If you have a backup, you will soon be able to import it on the site."
   },
   "app": {
-    "title": "Genshin wishes - 祈願履歴ビューワー",
-    "titleWithPage": "Genshin Wishes - {{ page }}",
-    "titleShort": "Genshin Wishes",
+    "title": "Genshin wishes",
+    "titleWithPage": "Genshin Wishes — {{ page }}",
+    "description": "祈願履歴ビューワー",
     "menu": "メニュー",
     "getStarted": "始める",
-    "persistLink": "リンクを24時間保持します",
+    "persistLink": {
+      "persist": "リンクを24時間保持します",
+      "doNotPersist": "Don't save the link"
+    },
     "user": {
       "uid": "UID {{ uid }}"
     },
@@ -61,7 +65,7 @@
         },
         "2": {
           "title": "祈願履歴の取得中です！ \uD83D\uDC0B \uD83D\uDE48",
-          "description": "新しい祈願履歴を取得したい場合は、<span class=\"text-success\"><b>同様の操作を毎回行ってください。</b></span>.",
+          "description": "新しい祈願履歴を取得したい場合は、<span class=\"text-primary\"><b>同様の操作を毎回行ってください。</b></span>.",
           "seeWishes": "履歴を閲覧"
         }
       }
@@ -69,6 +73,9 @@
     "signIn": "サインイン"
   },
   "auth": {
+    "signInMethod": "サインイン方法を選択してください:",
+    "hint": "You are NOT signing into Genshin Impact",
+    "subHint": "We encourage you to choose a separate provider than your in-game account.",
     "logout.label": "ログアウト"
   },
   "banners": {
@@ -91,7 +98,6 @@
     "title": "FAQ"
   },
   "landing": {
-    "signInMethod": "サインイン方法を選択してください:",
     "welcome": {
       "title": "Genshin Wishesへようこそ!",
       "description": "原神のプレイデータから祈願履歴を閲覧・バックアップできます。天井までのカウンターも見れますよ！"

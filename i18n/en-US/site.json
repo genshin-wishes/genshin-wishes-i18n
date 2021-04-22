@@ -23,15 +23,19 @@
       "emoji": "\uD83D\uDEA8",
       "title": "",
       "message": "Unable to connect to Genshin server."
-    }
+    },
+    "archiveWarning": "\uD83D\uDEA8 Since March 28, 2021 we can’t retrieve wishes older than 6 months because miHoYo started deleting them from the in-game history. If you have a backup, you will soon be able to import it on the site."
   },
   "app": {
-    "title": "Genshin Wishes - Backup your wish history easily",
-    "titleWithPage": "Genshin Wishes - {{ page }}",
-    "titleShort": "Genshin Wishes",
+    "title": "Genshin Wishes",
+    "titleWithPage": "Genshin Wishes — {{ page }}",
+    "description": "Save and keep track of your wishes easily",
     "menu": "Menu",
     "getStarted": "Get started",
-    "persistLink": "Remember the link for 24h",
+    "persistLink": {
+      "persist": "Save on your device for 24h",
+      "doNotPersist": "Don't save the link"
+    },
     "user": {
       "uid": "UID {{ uid }}"
     },
@@ -61,7 +65,7 @@
         },
         "2": {
           "title": "Hold on! We are getting your wishes \uD83D\uDC0B \uD83D\uDE48",
-          "description": "<span class=\"text-success\"><b>Repeat these steps next time</b></span> to synchronize new wishes.",
+          "description": "<span class=\"text-primary\"><b>Repeat these steps next time</b></span> to synchronize new wishes.",
           "seeWishes": "Go to the app"
         }
       }
@@ -69,6 +73,9 @@
     "signIn": "Sign-in"
   },
   "auth": {
+    "signInMethod": "Choose a sign-in method",
+    "hint": "You are NOT signing into Genshin Impact",
+    "subHint": "We encourage you to choose a separate provider than your in-game account.",
     "logout.label": "Logout"
   },
   "banners": {

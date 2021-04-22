@@ -23,15 +23,19 @@
       "emoji": "\uD83D\uDEA8",
       "title": "",
       "message": "Неудаётся подключиться к серверу Genshin Impact."
-    }
+    },
+    "archiveWarning": "\uD83D\uDEA8 Since March 28, 2021 we can’t retrieve wishes older than 6 months because miHoYo started deleting them from the in-game history. If you have a backup, you will soon be able to import it on the site."
   },
   "app": {
-    "title": "Genshin Wishes - Сохраните историю своих молитв",
-    "titleWithPage": "Genshin Wishes - {{ page }}",
-    "titleShort": "Genshin Wishes",
+    "title": "Genshin Wishes",
+    "titleWithPage": "Genshin Wishes — {{ page }}",
+    "description": "Сохраните историю своих молитв",
     "menu": "Меню",
     "getStarted": "Начать",
-    "persistLink": "Запомнить ссылку на 24 часа",
+    "persistLink": {
+      "persist": "Запомнить ссылку на 24 часа",
+      "doNotPersist": "Don't save the link"
+    },
     "user": {
       "uid": "UID {{ uid }}"
     },
@@ -61,7 +65,7 @@
         },
         "2": {
           "title": "Оставайтесь с нами! Мы загружаем ваши молитвы \uD83D\uDC0B \uD83D\uDE48",
-          "description": "<span class=\"text-success\"><b>Повторите эти действие в следующий раз</b></span> чтобы синхронизировать ваши молитвы.",
+          "description": "<span class=\"text-primary\"><b>Повторите эти действие в следующий раз</b></span> чтобы синхронизировать ваши молитвы.",
           "seeWishes": "Отправиться в приложение"
         }
       }
@@ -69,6 +73,9 @@
     "signIn": "Войти"
   },
   "auth": {
+    "signInMethod": "Выберете метод входа",
+    "hint": "You are NOT signing into Genshin Impact",
+    "subHint": "We encourage you to choose a separate provider than your in-game account.",
     "logout.label": "Выйти"
   },
   "banners": {
@@ -91,7 +98,6 @@
     "title": "ЧаВо"
   },
   "landing": {
-    "signInMethod": "Выберете метод входа",
     "welcome": {
       "title": "Добро пожаловать на Genshin Wishes.",
       "description": "Мы помогаем вам отслеживать и сохранять историю ваших молитв из Genshin Impact. Мы также помогаем вам отслеживать счётчик гарантов!"

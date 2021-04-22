@@ -23,15 +23,19 @@
       "emoji": "\uD83D\uDEA8",
       "title": "",
       "message": "无法连接到《原神》服务器"
-    }
+    },
+    "archiveWarning": "\uD83D\uDEA8 Since March 28, 2021 we can’t retrieve wishes older than 6 months because miHoYo started deleting them from the in-game history. If you have a backup, you will soon be able to import it on the site."
   },
   "app": {
-    "title": "Genshin Wishes — 保存您的祈愿记录",
-    "titleWithPage": "Genshin Wishes - {{ page }}",
-    "titleShort": "Genshin Wishes",
+    "title": "Genshin Wishes",
+    "titleWithPage": "Genshin Wishes — {{ page }}",
+    "description": "保存您的祈愿记录",
     "menu": "Menu",
     "getStarted": "开始吧",
-    "persistLink": "记住链接24小时",
+    "persistLink": {
+      "persist": "记住链接24小时",
+      "doNotPersist": "Don't save the link"
+    },
     "user": {
       "uid": "UID {{ uid }}"
     },
@@ -61,7 +65,7 @@
         },
         "2": {
           "title": "忍耐！我们在收集您的愿望 \uD83D\uDC0B \uD83D\uDE48",
-          "description": "<span class=\"text-success\"><b>下次请重复这些步骤</b></span> 让您的祈愿更新.",
+          "description": "<span class=\"text-primary\"><b>下次请重复这些步骤</b></span> 让您的祈愿更新.",
           "seeWishes": "前往应用程式"
         }
       }
@@ -69,6 +73,9 @@
     "signIn": "登录"
   },
   "auth": {
+    "signInMethod": "选择身份验证方法",
+    "hint": "You are NOT signing into Genshin Impact",
+    "subHint": "We encourage you to choose a separate provider than your in-game account.",
     "logout.label": "退出"
   },
   "banners": {
@@ -91,7 +98,6 @@
     "title": "常问问题"
   },
   "landing": {
-    "signInMethod": "选择身份验证方法",
     "welcome": {
       "title": "欢迎来到 Genshin Wishes.",
       "description": "我们可以让您跟踪和保存您的《原神》祈愿记录。 我们也可以计算您的保底计数"

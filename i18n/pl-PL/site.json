@@ -23,15 +23,19 @@
       "emoji": "\uD83D\uDEA8",
       "title": "",
       "message": "Nie można połączyć się z serwerem Genshina."
-    }
+    },
+    "archiveWarning": "\uD83D\uDEA8 Since March 28, 2021 we can’t retrieve wishes older than 6 months because miHoYo started deleting them from the in-game history. If you have a backup, you will soon be able to import it on the site."
   },
   "app": {
-    "title": "Genshin Wishes - Łatwo przywróć historię twoich życzeń",
-    "titleWithPage": "Genshin Wishes - {{ page }}",
-    "titleShort": "Genshin Wishes",
+    "title": "Genshin Wishes",
+    "titleWithPage": "Genshin Wishes — {{ page }}",
+    "description": "Łatwo przywróć historię twoich życzeń",
     "menu": "Menu",
     "getStarted": "Rozpocznij",
-    "persistLink": "Pamiętaj - link działa tylko 24h",
+    "persistLink": {
+      "persist": "Pamiętaj - link działa tylko 24h",
+      "doNotPersist": "Don't save the link"
+    },
     "user": {
       "uid": "UID {{ uid }}"
     },
@@ -61,7 +65,7 @@
         },
         "2": {
           "title": "Zaczekaj chwilkę! Ładujemy twoje życzenia \uD83D\uDC0B \uD83D\uDE48",
-          "description": "<span class=\"text-success\"><b>Powtórz te kroki następnym razem</b></span> gdy będziesz chciał zsynchronizować swoje życzenia.",
+          "description": "<span class=\"text-primary\"><b>Powtórz te kroki następnym razem</b></span> gdy będziesz chciał zsynchronizować swoje życzenia.",
           "seeWishes": "Przejdź do aplikacji."
         }
       }
@@ -69,6 +73,9 @@
     "signIn": "Zaloguj się"
   },
   "auth": {
+    "signInMethod": "Wybierz metodę logowania się",
+    "hint": "You are NOT signing into Genshin Impact",
+    "subHint": "We encourage you to choose a separate provider than your in-game account.",
     "logout.label": "Wyloguj się"
   },
   "banners": {
@@ -91,7 +98,6 @@
     "title": "FAQ"
   },
   "landing": {
-    "signInMethod": "Wybierz metodę logowania się",
     "welcome": {
       "title": "Witaj na Genshin Wishes.",
       "description": "Pomagamy Ci śledzić i przywrócić twoją historię życzeń z Genshin Impact. My także śledzimy twoje Pity!"
