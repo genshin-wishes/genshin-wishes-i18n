@@ -24,7 +24,7 @@
       "title": "",
       "message": "ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ Genshin Impact"
     },
-    "archiveWarning": "\uD83D\uDEA8 Since March 28, 2021 we can’t retrieve wishes older than 6 months because miHoYo started deleting them from the in-game history. If you have a backup, you will soon be able to import it on the site."
+    "archiveWarning": "\uD83D\uDEA8 ตั้งแต่วันที่ 28 มีนาคม 2564 เราไม่สามารถดึงข้อมูลการอธิฐานที่เก่ามากเกินกว่า 6 เดือนได้เพราะ miHoYo ได้เริ่มทำการลบข้อมูลเหล่านั้นจากประวัติในเกม ถ้าคุณมีข้อมูลที่สำรองเอาไว้ คุณสามารถนำเข้าข้อมูลเหล่านั้นลงในบัญชีของคุณได้"
   },
   "app": {
     "title": "Genshin Wishes",
@@ -34,7 +34,7 @@
     "getStarted": "เริ่มต้นกันเลย",
     "persistLink": {
       "persist": "จดจำลิงก์นี้ไว้ 24 ชั่วโมง",
-      "doNotPersist": "Don't save the link"
+      "doNotPersist": "ไม่ต้องจดจำลิงก์นี้"
     },
     "user": {
       "uid": "UID {{ uid }}"
@@ -74,13 +74,13 @@
   },
   "auth": {
     "signInMethod": "เลือกวิธีที่จะใช้ในการเข้าสู่ระบบ",
-    "hint": "You are NOT signing into Genshin Impact",
-    "subHint": "We encourage you to choose a separate provider than your in-game account.",
+    "hint": "คุณไม่ได้กำลังเข้าสู่ระบบ Genshin Impact",
+    "subHint": "พวกเราแนะนำให้คุณเลือกผู้ให้บริการที่แตกต่างจากบัญชีในเกมของคุณ",
     "logout.label": "ออกจากระบบ"
   },
   "banners": {
     "label": "กิจกรรมอธิษฐาน",
-    "seeWishes": "รายการการอธิฐาน",
+    "seeWishes": "รายการอธิฐาน",
     "noWishes": "ไม่มีการอธิฐาน",
     "wishes": "{{ count }} อธิฐาน",
     "pity5": "จำนวนอธิฐาน 5★",
@@ -98,46 +98,46 @@
     "title": "คำถามที่พบบ่อย"
   },
   "landing": {
-    "isItSafe": "Is it safe?",
+    "isItSafe": "มันปลอดภัยไหม?",
     "hero": {
-      "title": "Your Genshin Impact wish history in a single glance.",
-      "subtitle": "Backup your Genshin Impact wish history, keep track of your pity and get a shareable view of your pulls statistics!",
-      "advice": "No installation, <b>free</b> and <b>secure</b>."
+      "title": "เก็บรายการอธิฐานของคุณภายในพริบตา",
+      "subtitle": "สำรองข้อมูลการอธิฐานของคุณ ติดตาม Pity Rate และแบ่งปันสถิติการอธิฐานของคุณ",
+      "advice": "ไม่มีการติดตั้งโปรแกรม <b>ฟรี</b> และ <b>ปลอดภัย</b>."
     },
     "counters": {
-      "users": "Trusted by over <span class=\"text-primary\"><b>{{ users }}</b></span>\nGenshin Impact players",
-      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} wishes</b></span>\nbacked up and counting"
+      "users": "ได้รับการเชื่อถือโดยผู้เล่น Genshin Impact จำนวนมากกว่า <span class=\"text-primary\"><b>{{ users }}</b></span> คน\n",
+      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} รายการอธิฐาน</b></span>\nถูกสำรองมาแล้ว"
     },
     "feature": {
-      "publicStats": "Check public stats out of million wishes",
-      "personalStats": "View your personal wish stats",
-      "dashboard": "Compute your pity on each banner",
-      "archive": "Archive wishes more than six month",
-      "platforms": "Available for PC, mobile and console players"
+      "publicStats": "ดูสถิติการอธิฐานสาธารณะ",
+      "personalStats": "ดูสถิติการอธิฐานของคุณ",
+      "dashboard": "คำนวน Pity Rate ในแต่ละกิจกรรมอธิฐาน",
+      "archive": "บันทึกการอธิฐานที่มากกว่า 6 เดือน",
+      "platforms": "พร้อมใช้งานทั้งผู้เล่นบนคอมพิวเตอร์ มือถือ และเครื่องคอนโซล"
     },
     "security": {
-      "title": "We care about security.",
-      "noInstallation": "No installation is required and we don't need your Genshin account password.",
-      "temporaryKey": "Your temporary key is not stored on our servers but on your device and is only valid for 24h.",
-      "authorization": "The temporary key does not allow us to authenticate on your account.",
-      "ssl": "We use SSL encryption for all connections between you and our servers.",
-      "learnMore": "Learn more about security"
+      "title": "พวกเราเอาใจใส่เรื่องความปลอดภัย",
+      "noInstallation": "ไม่มีการติดตั้งใด ๆ ที่ต้องทำและเราไม่ได้ต้องการรหัสผ่านบัญชี Genshin Impact ของคุณ",
+      "temporaryKey": "ลิงก์ยืนยันตัวตนของคุณจะไม่ถูกเก็บไว้บนเซิร์ฟเวอร์ของเรา แต่จะถูกเก็บไว้บนเครื่องของคุณและจะสามารถใช้งานได้ไม่เกิน 24 ชั่วโมง",
+      "authorization": "ลิงก์ยืนยันตัวตนของคุณจะไม่ได้อนุญาตให้เราเข้าสู่ระบบบนบัญชีของคุณ",
+      "ssl": "พวกเราใช้การเข้ารหัส SSL ในทุก ๆ การเชื่อมต่อระหว่างคุณและเซิร์ฟเวอร์ของเรา",
+      "learnMore": "เรียนรู้เพิ่มเติมเกี่ยวกับความปลอดภัย"
     },
     "welcome": {
       "title": "ยินดีต้อนรับเข้าสู่ Genshin Wishes.",
-      "description": "พวกเราจะช่วยคุณติดตามและบันทึกประวัติการอธิฐานของคุณจาก Genshin Impact อีกทั้งยังสามารถนับ Pity Rate อีกด้วย!"
+      "description": "พวกเราจะช่วยคุณติดตามและบันทึกข้อมูลการอธิฐานของคุณจาก Genshin Impact อีกทั้งยังสามารถนับ Pity Rate อีกด้วย!"
     },
     "elements": {
       "pity": "คำนวน Pity Rate สำหรับแต่ละกิจกรรมอธิฐาน",
       "browse": "ดูการอธิฐานของคุณได้อย่างง่ายดาย",
       "stats": "ดูสถิติย้อนหลัง",
-      "archive": "เก็บประวัติการอธิฐานได้มากกว่า 6 เดือน"
+      "archive": "เก็บข้อมูลการอธิฐานได้มากกว่า 6 เดือน"
     },
     "footerBanner": {
-      "joinUs": "Join us to flex your lucky pulls!"
+      "joinUs": "เข้าร่วมกับเราเพื่ออวดโชคของคุณ!"
     },
     "footer": {
-      "content": "Sources of this project are available on Github. Genshin Wishes is made and maintained by <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> and <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
+      "content": "ข้อมูลทั้งหมดของเราสามารถเข้าถึงได้บน Github, Genshin Wishes ถูกสร้างและได้รับการดูแลโดย <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> และ <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>"
     }
   },
   "profile": {
@@ -163,7 +163,7 @@
     }
   },
   "settings": {
-    "label": "ตั้งค่า",
+    "label": "การตั้งค่า",
     "authLink": {
       "title": "ลิงก์ยืนยันตัวตน",
       "subTitle": "แก้ไขลิงก์ยืนยันตัวตนของคุณ",
@@ -214,7 +214,7 @@
     }
   },
   "publicStats": {
-    "label": "Public stats"
+    "label": "สถิติสาธารณะ"
   },
   "stats": {
     "label": "สถิติ",
@@ -242,7 +242,7 @@
     "i18n.label": "มีส่วนร่วมในการแปลภาษา"
   },
   "wishes": {
-    "label": "รายการการอธิฐาน",
+    "label": "รายการอธิฐาน",
     "exclusive": "ลิมิเต็ด",
     "notExclusive": "ธรรมดา",
     "noWishes": {
@@ -287,7 +287,7 @@
       "recovery$": {
         "emoji": "",
         "title": "",
-        "message": "กำลังกู้คืนประวัติการอธิฐานเก่าของคุณ..."
+        "message": "กำลังกู้คืนข้อมูลการอธิฐานเก่าของคุณ..."
       },
       "success$": {
         "emoji": "\uD83E\uDD29",
@@ -307,12 +307,12 @@
       "newWishesDuringImport$": {
         "emoji": "\uD83D\uDEA8",
         "title": "",
-        "message": "ขออภัยด้วย ประวัติการอธิฐานของคุณถูกเปลี่ยนขณะกำลังนำเข้าข้อมูล โปรดลองอีกครั้ง"
+        "message": "ขออภัยด้วย ข้อมูลการอธิฐานของคุณถูกเปลี่ยนขณะกำลังนำเข้าข้อมูล โปรดลองอีกครั้ง"
       },
       "alreadyImporting$": {
         "emoji": "\uD83D\uDEA8",
         "title": "",
-        "message": "การนำเข้ารายการการอธิฐานของคุณกำลังดำเนินการอยู่ รอก่อนนะ!"
+        "message": "การนำเข้ารายการอธิฐานของคุณกำลังดำเนินการอยู่ รอก่อนนะ!"
       }
     },
     "banners$": {
@@ -339,7 +339,7 @@
     }
   },
   "footer": {
-    "disclaimer": "Genshin Wishes ไม่ได้เป็นส่วนหนึ่งของ miHoYo - Genshin Impact และ miHoYo เป็นเครื่องหมายการค้าหรือเครื่องหมายการค้าที่จดทะเบียนโดย miHoYo. Genshin Impact © miHoYo.",
-    "claim": "สำหรับข้อโต้แย้งใด ๆ โปรด <a href=\"mailto:contact.genshin.wishes@gmail.com\">ติดต่อพวกเรา</a>"
+    "disclaimer": "Genshin Wishes ไม่ได้เป็นส่วนหนึ่งของ miHoYo, Genshin Impact และ miHoYo เป็นเครื่องหมายการค้าหรือเครื่องหมายการค้าที่จดทะเบียนโดย miHoYo. Genshin Impact © miHoYo.",
+    "claim": "สำหรับข้อพิพาธใด ๆ โปรด<a href=\"mailto:contact.genshin.wishes@gmail.com\">ติดต่อเรา</a>"
   }
 }
