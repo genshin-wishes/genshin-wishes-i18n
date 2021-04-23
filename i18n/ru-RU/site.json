@@ -109,6 +109,7 @@
       "wishes": "<span class=\"text-primary\"><b>{{ wishes }} молитв</b></span>\nсохранены и их количество растёт"
     },
     "feature": {
+      "title": "All your wishes in one place.",
       "publicStats": "Просмотрите публичную статистику более миллиона молитв",
       "personalStats": "Смотрите свою собственную статистику",
       "dashboard": "Считайте гаранты для каждого баннера",

@@ -109,6 +109,7 @@
             "wishes": "<span class=\"text-primary\"><b>{{ wishes }} wishes</b></span>\nbacked up and counting"
         },
         "feature": {
+            "title": "All your wishes in one place.",
             "publicStats": "Check public stats out of million wishes",
             "personalStats": "View your personal wish stats",
             "dashboard": "Compute your pity on each banner",

@@ -109,6 +109,7 @@
       "wishes": "<span class=\"text-primary\"><b>{{ wishes }} życzeń</b></span>\nprzywróconych oraz przeliczonych"
     },
     "feature": {
+      "title": "All your wishes in one place.",
       "publicStats": "Przejrzyj publiczne statystyki milionów życzeń",
       "personalStats": "Zobacz swoje personalne statystyki życzeń",
       "dashboard": "Oblicz swoje pity na każdym banerze",

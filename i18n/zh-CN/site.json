@@ -109,6 +109,7 @@
       "wishes": "<span class=\"text-primary\"><b>{{ wishes }} 祈愿</b></span>\n 保存并计数"
     },
     "feature": {
+      "title": "All your wishes in one place.",
       "publicStats": "检查公共统计出的百万祈愿",
       "personalStats": "查看您的个人祈愿统计",
       "dashboard": "计算保底的每个祈愿活动",

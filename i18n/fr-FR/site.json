@@ -105,10 +105,11 @@
       "advice": "Pas d'installation, <b>gratuit</b> et <b>sécurisé</b>."
     },
     "counters": {
-      "users": "<span class=\"text-primary\"><b>{{ users }}</b></span>\n joueurs Genshin Impact nous font confiance",
-      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} vœux</b></span>\nsauvegardés et on compte encore"
+      "users": "<span class=\"text-primary\"><b>{{ users }}</b></span> joueurs\nnous font confiance",
+      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} vœux</b></span>\nsauvegardés (on compte encore)"
     },
     "feature": {
+      "title": "Tous vos vœux au même endroit!",
       "publicStats": "Regardez des stats publiques sur des millions de vœux",
       "personalStats": "Regardez vos stats personnelles de vœux",
       "dashboard": "Calculez votre pity sur chaque bannière",

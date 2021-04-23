@@ -109,6 +109,7 @@
       "wishes": "<span class=\"text-primary\"><b>{{ wishes }} รายการอธิฐาน</b></span>\nถูกสำรองมาแล้ว"
     },
     "feature": {
+      "title": "All your wishes in one place.",
       "publicStats": "ดูสถิติการอธิฐานสาธารณะ",
       "personalStats": "ดูสถิติการอธิฐานของคุณ",
       "dashboard": "คำนวน Pity Rate ในแต่ละกิจกรรมอธิฐาน",
