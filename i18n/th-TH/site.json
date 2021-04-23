@@ -109,7 +109,7 @@
       "wishes": "<span class=\"text-primary\"><b>{{ wishes }} รายการอธิฐาน</b></span>\nถูกสำรองมาแล้ว"
     },
     "feature": {
-      "title": "All your wishes in one place.",
+      "title": "รวมการอธิฐานของคุณในที่เดียว",
       "publicStats": "ดูสถิติการอธิฐานสาธารณะ",
       "personalStats": "ดูสถิติการอธิฐานของคุณ",
       "dashboard": "คำนวน Pity Rate ในแต่ละกิจกรรมอธิฐาน",
@@ -341,6 +341,6 @@
   },
   "footer": {
     "disclaimer": "Genshin Wishes ไม่ได้เป็นส่วนหนึ่งของ miHoYo, Genshin Impact และ miHoYo เป็นเครื่องหมายการค้าหรือเครื่องหมายการค้าที่จดทะเบียนโดย miHoYo. Genshin Impact © miHoYo.",
-    "claim": "สำหรับข้อพิพาธใด ๆ โปรด<a href=\"mailto:contact.genshin.wishes@gmail.com\">ติดต่อเรา</a>"
+    "claim": "สำหรับข้อพิพาทใด ๆ โปรด<a href=\"mailto:contact.genshin.wishes@gmail.com\">ติดต่อเรา</a>"
   }
 }
