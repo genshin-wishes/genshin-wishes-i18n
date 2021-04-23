@@ -24,7 +24,7 @@
             "title": "",
             "message": "Konnte nicht zu den Genshin Servern verbinden."
         },
-        "archiveWarning": "\uD83D\uDEA8 Since March 28, 2021 we can’t retrieve wishes older than 6 months because miHoYo started deleting them from the in-game history. If you have a backup, you will soon be able to import it on the site."
+        "archiveWarning": "\uD83D\uDEA8 Seit 28. März 2021 können wir keine Gebete sichern, die älter sind als 6 Monate, weil miHoYo angegangen hat diese aus dem In-Game Verlauf zu löschen. Wenn du ein Backup hast, hast du bald die Möglichkeit diese auf unserer Seite zu Importieren."
     },
     "app": {
         "title": "Genshin Wishes",
@@ -34,7 +34,7 @@
         "getStarted": "Loslegen",
         "persistLink": {
             "persist": "Speichere den Link für 24 Stunden",
-            "doNotPersist": "Don't save the link"
+            "doNotPersist": "Den Link nicht speichern"
         },
         "user": {
             "uid": "UID {{ uid }}"
@@ -74,8 +74,8 @@
     },
     "auth": {
         "signInMethod": "Wähle eine Anmeldemethode",
-        "hint": "You are NOT signing into Genshin Impact",
-        "subHint": "We encourage you to choose a separate provider than your in-game account.",
+        "hint": "Du meldest dich NICHT bei Genshin Impact an",
+        "subHint": "Wir empfehlen einen separaten Anbieter als den deines In-Game Accounts zu verwenden",
         "logout.label": "Abmelden"
     },
     "banners": {
@@ -90,39 +90,39 @@
         "none": "Nichts"
     },
     "cookie": {
-        "title": "Hey! Paimon hat Kekse. \uD83D\uDE0B\n",
-        "message": "Mit dem nutzen dieser Seite akzeptiert du die Nutzung von Cookies zur Traffic-Analyse.",
-        "ok": "Ok, Ich mag cookies!"
+        "title": "Hey! Paimon hat Kekse hinterlassen. \uD83D\uDE0B\n",
+        "message": "Mit dem Nutzen dieser Seite akzeptiert du die Nutzung von Cookies zur Traffic-Analyse.",
+        "ok": "Ok, Ich mag Cookies!"
     },
     "faq": {
         "title": "FAQ"
     },
     "landing": {
-        "isItSafe": "Is it safe?",
+        "isItSafe": "Ist es sicher?",
         "hero": {
-            "title": "Your Genshin Impact wish history in a single glance.",
+            "title": "Dein Genshin Impact Gebetsverlauf auf einem Blick.",
             "subtitle": "Backup your Genshin Impact wish history, keep track of your pity and get a shareable view of your pulls statistics!",
-            "advice": "No installation, <b>free</b> and <b>secure</b>."
+            "advice": "Keine Installation, <b>kostenlos</b> und <b>sicher</b>."
         },
         "counters": {
-            "users": "Trusted by over <span class=\"text-primary\"><b>{{ users }}</b></span>\nGenshin Impact players",
-            "wishes": "<span class=\"text-primary\"><b>{{ wishes }} wishes</b></span>\nbacked up and counting"
+            "users": "<span class=\"text-primary\"><b>{{ users }}</b></span>\nGenshin Impact Spieler vertrauen uns.",
+            "wishes": "<span class=\"text-primary\"><b>{{ wishes }} Gebete</b></span>\nwurden gesichert, Tendenz steigend!"
         },
         "feature": {
-            "title": "All your wishes in one place.",
-            "publicStats": "Check public stats out of million wishes",
-            "personalStats": "View your personal wish stats",
-            "dashboard": "Compute your pity on each banner",
-            "archive": "Archive wishes more than six month",
-            "platforms": "Available for PC, mobile and console players"
+            "title": "All deine Gebete an einem Ort.",
+            "publicStats": "Schaue dir öffentliche Statistiken von Millionen Gebeten an.",
+            "personalStats": "Schaue deine persönlichen Gebetsstatistiken an",
+            "dashboard": "Berechne dein Mitleid auf jedem Banner",
+            "archive": "Archiviere Gebete länger als sechs Monate",
+            "platforms": "Verfügbar für PC, Mobil und Konsolen-Spieler"
         },
         "security": {
-            "title": "We care about security.",
-            "noInstallation": "No installation is required and we don't need your Genshin account password.",
-            "temporaryKey": "Your temporary key is not stored on our servers but on your device and is only valid for 24h.",
-            "authorization": "The temporary key does not allow us to authenticate on your account.",
-            "ssl": "We use SSL encryption for all connections between you and our servers.",
-            "learnMore": "Learn more about security"
+            "title": "Wir sorgen uns um Sicherheit",
+            "noInstallation": "Keine Installation ist erforderlich und wir brauchen dein Account Passwort nicht.",
+            "temporaryKey": "Dein temporärer Schlüssel ist nicht auf unseren Server gespeichert, sondern auf deinem eigenen Endgerät und ist nur 24h gültig.",
+            "authorization": "Der temporäre Schlüssel erlaubt uns nicht uns auf deinem Account anzumelden",
+            "ssl": "Wir nutzen SSL Verschlüsselung (HTTPS) für alle Verbindungen zwischen dir und unseren Servern.",
+            "learnMore": "Mehr über Sicherheit"
         },
         "welcome": {
             "title": "Wilkommen bei Genshin Wishes.",
@@ -135,10 +135,10 @@
             "archive": "Archiviere deine Gebete über 6 Monate hinaus"
         },
         "footerBanner": {
-            "joinUs": "Join us to flex your lucky pulls!"
+            "joinUs": "Tritt uns bei,  und gebe mit deinen Gebeten an."
         },
         "footer": {
-            "content": "Sources of this project are available on Github. Genshin Wishes is made and maintained by <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> and <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
+            "content": "Der Quellcode dieses Projektes ist verfügbar auf GitHub. Genshin Wishes wird entwickelt von<a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> und <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
         }
     },
     "profile": {
@@ -215,7 +215,7 @@
         }
     },
     "publicStats": {
-        "label": "Public stats"
+        "label": "Öffentliche Statistiken"
     },
     "stats": {
         "label": "Statistiken",
