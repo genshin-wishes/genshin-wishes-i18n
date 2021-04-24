@@ -23,15 +23,19 @@
             "emoji": "\uD83D\uDEA8",
             "title": "",
             "message": "Konnte nicht zu den Genshin Servern verbinden."
-        }
+        },
+        "archiveWarning": "\uD83D\uDEA8 Seit 28. März 2021 können wir keine Gebete sichern, die älter sind als 6 Monate, weil miHoYo angegangen hat diese aus dem In-Game Verlauf zu löschen. Wenn du ein Backup hast, hast du bald die Möglichkeit diese auf unserer Seite zu Importieren."
     },
     "app": {
-        "title": "Genshin Wishes - Sichere deine Gebete",
-        "titleWithPage": "Genshin Wishes - {{ page }}",
-        "titleShort": "Genshin Wishes",
+        "title": "Genshin Wishes",
+        "titleWithPage": "Genshin Wishes — {{ page }}",
+        "description": "Sichere deine Gebete",
         "menu": "Menü",
         "getStarted": "Loslegen",
-        "persistLink": "Speichere den Link für 24 Stunden",
+        "persistLink": {
+            "persist": "Speichere den Link für 24 Stunden",
+            "doNotPersist": "Den Link nicht speichern"
+        },
         "user": {
             "uid": "UID {{ uid }}"
         },
@@ -61,7 +65,7 @@
                 },
                 "2": {
                     "title": "Moment! Wir holen deine Gebete \uD83D\uDC0B \uD83D\uDE48",
-                    "description": "<span class=\"text-success\"><b>Wiederhole diese Schritte das nächste mal</b></span>, um neue Gebete zu synchronisieren.",
+                    "description": "<span class=\"text-primary\"><b>Wiederhole diese Schritte das nächste mal</b></span>, um neue Gebete zu synchronisieren.",
                     "seeWishes": "Gehe zur App"
                 }
             }
@@ -69,6 +73,9 @@
         "signIn": "Registrieren"
     },
     "auth": {
+        "signInMethod": "Wähle eine Anmeldemethode",
+        "hint": "Du meldest dich NICHT bei Genshin Impact an",
+        "subHint": "Wir empfehlen einen separaten Anbieter als den deines In-Game Accounts zu verwenden",
         "logout.label": "Abmelden"
     },
     "banners": {
@@ -83,15 +90,40 @@
         "none": "Nichts"
     },
     "cookie": {
-        "title": "Hey! Paimon hat Kekse. \uD83D\uDE0B\n",
-        "message": "Mit dem nutzen dieser Seite akzeptiert du die Nutzung von Cookies zur Traffic-Analyse.",
-        "ok": "Ok, Ich mag cookies!"
+        "title": "Hey! Paimon hat Kekse hinterlassen. \uD83D\uDE0B\n",
+        "message": "Mit dem Nutzen dieser Seite akzeptiert du die Nutzung von Cookies zur Traffic-Analyse.",
+        "ok": "Ok, Ich mag Cookies!"
     },
     "faq": {
         "title": "FAQ"
     },
     "landing": {
-        "signInMethod": "Wähle eine Anmeldemethode",
+        "isItSafe": "Ist es sicher?",
+        "hero": {
+            "title": "Dein Genshin Impact Gebetsverlauf auf einem Blick.",
+            "subtitle": "Backup your Genshin Impact wish history, keep track of your pity and get a shareable view of your pulls statistics!",
+            "advice": "Keine Installation, <b>kostenlos</b> und <b>sicher</b>."
+        },
+        "counters": {
+            "users": "<span class=\"text-primary\"><b>{{ users }}</b></span>\nGenshin Impact Spieler vertrauen uns.",
+            "wishes": "<span class=\"text-primary\"><b>{{ wishes }} Gebete</b></span>\nwurden gesichert, Tendenz steigend!"
+        },
+        "feature": {
+            "title": "All deine Gebete an einem Ort.",
+            "publicStats": "Schaue dir öffentliche Statistiken von Millionen Gebeten an.",
+            "personalStats": "Schaue deine persönlichen Gebetsstatistiken an",
+            "dashboard": "Berechne dein Mitleid auf jedem Banner",
+            "archive": "Archiviere Gebete länger als sechs Monate",
+            "platforms": "Verfügbar für PC, Mobil und Konsolen-Spieler"
+        },
+        "security": {
+            "title": "Wir sorgen uns um Sicherheit",
+            "noInstallation": "Keine Installation ist erforderlich und wir brauchen dein Account Passwort nicht.",
+            "temporaryKey": "Dein temporärer Schlüssel ist nicht auf unseren Server gespeichert, sondern auf deinem eigenen Endgerät und ist nur 24h gültig.",
+            "authorization": "Der temporäre Schlüssel erlaubt uns nicht uns auf deinem Account anzumelden",
+            "ssl": "Wir nutzen SSL Verschlüsselung (HTTPS) für alle Verbindungen zwischen dir und unseren Servern.",
+            "learnMore": "Mehr über Sicherheit"
+        },
         "welcome": {
             "title": "Wilkommen bei Genshin Wishes.",
             "description": "Wir helfen dir deine Gebete aus Genshin Impact zu verfolgen und zu sichern. Wir zeigen dir auch deinen Mitleidszähler!"
@@ -101,6 +133,12 @@
             "browse": "Durchsuche deine Gebete auf einfache Art",
             "stats": "Schaue in deine Statistiken",
             "archive": "Archiviere deine Gebete über 6 Monate hinaus"
+        },
+        "footerBanner": {
+            "joinUs": "Tritt uns bei,  und gebe mit deinen Gebeten an."
+        },
+        "footer": {
+            "content": "Der Quellcode dieses Projektes ist verfügbar auf GitHub. Genshin Wishes wird entwickelt von<a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> und <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
         }
     },
     "profile": {
@@ -175,6 +213,9 @@
             },
             "action": "Exportiere meine Gebete"
         }
+    },
+    "publicStats": {
+        "label": "Öffentliche Statistiken"
     },
     "stats": {
         "label": "Statistiken",

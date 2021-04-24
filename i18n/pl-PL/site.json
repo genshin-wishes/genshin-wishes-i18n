@@ -23,15 +23,19 @@
       "emoji": "\uD83D\uDEA8",
       "title": "",
       "message": "Nie można połączyć się z serwerem Genshina."
-    }
+    },
+    "archiveWarning": "\uD83D\uDEA8 Od Marca 28, 2021 roku nie jesteśmy w stanie przywrócić życzenia starsze niż 6 miesięcy, ponieważ MiHoYo zaczął usuwać je z historii życzeń."
   },
   "app": {
-    "title": "Genshin Wishes - Łatwo przywróć historię twoich życzeń",
-    "titleWithPage": "Genshin Wishes - {{ page }}",
-    "titleShort": "Genshin Wishes",
+    "title": "Genshin Wishes",
+    "titleWithPage": "Genshin Wishes — {{ page }}",
+    "description": "Zapisuj i śledź swoje życzenia z łatwością",
     "menu": "Menu",
     "getStarted": "Rozpocznij",
-    "persistLink": "Pamiętaj - link działa tylko 24h",
+    "persistLink": {
+      "persist": "Zapisz na swoim urządzeniu na 24h",
+      "doNotPersist": "Nie zapisuj linku"
+    },
     "user": {
       "uid": "UID {{ uid }}"
     },
@@ -43,7 +47,7 @@
       },
       "pasteInput": "Wklej twój link tutaj",
       "correctLink": "\uD83D\uDE0E Okej, wygląda w porządku",
-      "incorrectLink": "\uD83D\uDE31 Incorrect link, please try again! Niepoprawny "
+      "incorrectLink": "\uD83D\uDE31 Niepoprawny link, spróbuj ponownie!"
     },
     "urlSetup": {
       "title": "Skonfiguruj swoje konto",
@@ -61,7 +65,7 @@
         },
         "2": {
           "title": "Zaczekaj chwilkę! Ładujemy twoje życzenia \uD83D\uDC0B \uD83D\uDE48",
-          "description": "<span class=\"text-success\"><b>Powtórz te kroki następnym razem</b></span> gdy będziesz chciał zsynchronizować swoje życzenia.",
+          "description": "<span class=\"text-primary\"><b>Powtórz te kroki następnym razem</b></span> gdy będziesz chciał zsynchronizować swoje życzenia.",
           "seeWishes": "Przejdź do aplikacji."
         }
       }
@@ -69,6 +73,9 @@
     "signIn": "Zaloguj się"
   },
   "auth": {
+    "signInMethod": "Wybierz metodę logowania się",
+    "hint": "NIE logujesz się do Genshin Impact",
+    "subHint": "Zachęcamy do wybrania innego media społecznościowego niż do konta w grze.",
     "logout.label": "Wyloguj się"
   },
   "banners": {
@@ -91,7 +98,32 @@
     "title": "FAQ"
   },
   "landing": {
-    "signInMethod": "Wybierz metodę logowania się",
+    "isItSafe": "Czy to bezpieczne?",
+    "hero": {
+      "title": "Twoja historia życzeń Genshin Impact w zasięgu ręki",
+      "subtitle": "Przywróć swoją historię życzeń z gry, śledź twoje pity oraz zdobądź widok na statystyki życzeń, które możesz udostępnić!",
+      "advice": "Bez żadnych instalacji <b>darmowe</b> oraz <b>bezpieczne</b>."
+    },
+    "counters": {
+      "users": "Zaufana przez ponad <span class=\"text-primary\"><b>{{ users }}</b></span>\ngraczy Genshin Impact",
+      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} życzeń</b></span>\nprzywróconych oraz przeliczonych"
+    },
+    "feature": {
+      "title": "Wszystkie twoje życzenia w jednym miejscu.",
+      "publicStats": "Przejrzyj publiczne statystyki milionów życzeń",
+      "personalStats": "Zobacz swoje personalne statystyki życzeń",
+      "dashboard": "Oblicz swoje pity na każdym banerze",
+      "archive": "Zarchiwizuj życzenia do nawet sześciu miesięcy",
+      "platforms": "Dostępne dla graczy na PC, urządzeniu mobilnym oraz konsoli"
+    },
+    "security": {
+      "title": "Dbamy o wasze bezpieczeństwo.",
+      "noInstallation": "Żadne instalacje nie są wymagane ani nie potrzebujemy twojego konta Genshin.",
+      "temporaryKey": "Twój tymczasowy klucz nie jest przechowywany na żadnym z naszych serwerów, ale na twoim urządzeniu oraz jest aktywny tylko 24h.",
+      "authorization": "Tymczasowy klucz nie pozwala nam na uwierzytelnienie twojego konta.",
+      "ssl": "Używamy szyfrowania SSL dla wszystkich połączeń między tobą a naszymi serwerami.",
+      "learnMore": "Dowiedz się więcej o bezpieczeństwie"
+    },
     "welcome": {
       "title": "Witaj na Genshin Wishes.",
       "description": "Pomagamy Ci śledzić i przywrócić twoją historię życzeń z Genshin Impact. My także śledzimy twoje Pity!"
@@ -101,6 +133,12 @@
       "browse": "Łatwo przeglądaj swoje życzenia",
       "stats": "Zobacz swoje statystyki",
       "archive": "Przetrzymuj swoje życzenia ponad 6 miesięcy"
+    },
+    "footerBanner": {
+      "joinUs": "Dołącz do nas i pofleksuj się swoimi szczęśliwymi życzeniami!"
+    },
+    "footer": {
+      "content": "Źródła tego projektu są dostępne na GitHub'ie Genshin Wishes zostało stworzone i utrzymywane przez <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colina Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy'ego Vergerolle</a> oraz <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye'a Vergerolle</a>."
     }
   },
   "profile": {
@@ -112,7 +150,7 @@
     "footer": "Automatycznie transportuj swoje życzenia z PC/Urządzenia mobilnego/Konsoli i zyskaj swoje własne statystyki!",
     "share": {
       "title": "Udostępnij stronę z twoimi statystykami",
-      "label": "Udostępnij swoje statystki",
+      "label": "Udostępnij swoje statystyki",
       "sharing": {
         "title": "Udostępnianie strony ze statystykami",
         "enabled": "Widoczna tylko dla osób z linkiem",
@@ -175,6 +213,9 @@
       },
       "action": "Eksportuj moje życzenia"
     }
+  },
+  "publicStats": {
+    "label": "Publiczne statystyki"
   },
   "stats": {
     "label": "Statystyki",
