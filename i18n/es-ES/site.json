@@ -141,9 +141,6 @@
       "content": "Las fuentes de este proyecto se encuentran en GitHub. Genshin Wishes es hecho y mantenido por <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> y <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
     }
   },
-  "publicStats": {
-    "label": "Estadisticas publicas"
-  },
   "profile": {
     "notFound": {
       "title": "¡Este perfil no puede ser encontrado!",
@@ -217,8 +214,11 @@
       "action": "Exportar mis deseos"
     }
   },
+  "publicStats": {
+    "label": "Estadisticas publicas"
+  },
   "stats": {
-    "label": "Estadisticas"
+    "label": "Estadisticas",
     "averageGap": "Intervalo promedio",
     "na": "N/A",
     "wishesTotalCount": "Cuenta total de deseos",
