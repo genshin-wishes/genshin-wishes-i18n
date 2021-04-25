@@ -28,6 +28,10 @@
 
 - Alexander Trukhanov (Iftuga#5781)
 
+## Spanish
+
+- [@Linnynyny](https://twitter.com/Linnynyny) / Linny#4283
+
 ## Thai
 
 - p0ndja (PondJaᵀᴴ#9423)
