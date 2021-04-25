@@ -23,12 +23,13 @@
       "emoji": "\uD83D\uDEA8",
       "title": "",
       "message": ".Genshin عدم امكانية التواصل مع خادم "
-    }
+    },
+    "archiveWarning": "\uD83D\uDEA8 Since March 28, 2021 we can’t retrieve wishes older than 6 months because miHoYo started deleting them from the in-game history. If you have a backup, you will soon be able to import it on the site."
   },
   "app": {
-    "title": "Genshin Wishes - قم بعمل نسخة اضافية من سجل امنياتك بسهولة",
-    "titleWithPage": "Genshin Wishes - {{ page }}",
-    "titleShort": "Genshin Wishes",
+    "title": "Genshin Wishes",
+    "titleWithPage": "Genshin Wishes — {{ page }}",
+    "description": "Save and keep track of your wishes easily",
     "menu": "القائمة",
     "getStarted": "البدء",
     "persistLink": "حفظ الرابط لمدة 24 ساعة",
@@ -41,7 +42,10 @@
         "message": "\uD83D\uDEA8 مقتاح المصداقية غير صالح. يرجى تحديثه <a href=\"/faq\" target=\"_blank\"> كيف؟</a>",
         "ok": "تحديث الرابط"
       },
-      "pasteInput": "الصاق الرابط هنا",
+      "persistLink": {
+        "persist": "Save on your device for 24h",
+        "doNotPersist": "Don't save the link"
+      },
       "correctLink": "\uD83D\uDE0E حسنًا, يبدو جيدًا",
       "incorrectLink": "\uD83D\uDE31 الرابط خاطئ, يرجى المحاولة من جديد"
     },
@@ -56,7 +60,7 @@
       "steps$": {
         "1": {
           "title": "الحصول على المفتاح",
-          "description": "للحصول على انياتك, نحتاج الى مفتاح من اللعبة\n<span class=\"text-accent\">لا تقلق, فلن نتمكن ابدًا من الوصول الى حسابك الخاص في اللعبة</span>",
+          "description": "للحصول على انياتك, نحتاج الى مفتاح من اللعبة\n<span class=\"text-primary\">لا تقلق, فلن نتمكن ابدًا من الوصول الى حسابك الخاص في اللعبة</span>",
           "showVideo": "أرني مقطع فيديو"
         },
         "2": {
@@ -69,6 +73,9 @@
     "signIn": "الدخول"
   },
   "auth": {
+    "signInMethod": "Choose a sign-in method",
+    "hint": "You are NOT signing into Genshin Impact",
+    "subHint": "We encourage you to choose a separate provider than your in-game account.",
     "logout.label": "الخروج"
   },
   "banners": {
@@ -91,7 +98,32 @@
     "title": "الاسئلة المكررة"
   },
   "landing": {
-    "signInMethod": "اختر طريقة تسجيل الدخول",
+    "isItSafe": "Is it safe?",
+    "hero": {
+      "title": "Your Genshin Impact wish history in a single glance.",
+      "subtitle": "Backup your Genshin Impact wish history, keep track of your pity and get a shareable view of your pulls statistics!",
+      "advice": "No installation, <b>free</b> and <b>secure</b>."
+    },
+    "counters": {
+      "users": "Trusted by over <span class=\"text-primary\"><b>{{ users }}</b></span>\nGenshin Impact players",
+      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} wishes</b></span>\nbacked up and counting"
+    },
+    "feature": {
+      "title": "All your wishes in one place.",
+      "publicStats": "Check public stats out of million wishes",
+      "personalStats": "View your personal wish stats",
+      "dashboard": "Compute your pity on each banner",
+      "archive": "Archive wishes more than six month",
+      "platforms": "Available for PC, mobile and console players"
+    },
+    "security": {
+      "title": "We care about security.",
+      "noInstallation": "No installation is required and we don't need your Genshin account.",
+      "temporaryKey": "Your temporary key is not stored on our servers but on your device and is only valid for 24h.",
+      "authorization": "The temporary key does not allow us to authenticate on your account.",
+      "ssl": "We use SSL encryption for all connections between you and our servers.",
+      "learnMore": "Learn more about security"
+    },
     "welcome": {
       "title": "Genshin Wishes مرحبًا بك الى ",
       "description": "يمكننا تتبع عداد شفقتك أيضًا ,Genshin Impact. نحن نساعدك على تتبع سجل رغباتك ونسخه احتياطيًا من"
@@ -101,6 +133,12 @@
       "browse": "تصفح بسهولة من خلال رغباتك",
       "stats": "عرض الإحصائيات الخاصة بك",
       "archive": "أرشفة رغباتك لأكثر من 6 أشهر"
+    },
+    "footerBanner": {
+      "joinUs": "Join us to flex your lucky pulls!"
+    },
+    "footer": {
+      "content": "Sources of this project are available on GitHub. Genshin Wishes is made and maintained by <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> and <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
     }
   },
   "profile": {
@@ -175,6 +213,9 @@
       },
       "action": "تصدير امنياتي"
     }
+  },
+  "publicStats": {
+    "label": "Public stats"
   },
   "stats": {
     "label": "احصائيات",
