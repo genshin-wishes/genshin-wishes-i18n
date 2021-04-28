@@ -224,7 +224,7 @@
     "wishesTotalCount": "จำนวนการอธิษฐานทั้งหมด",
     "empty": "ขอโทษด้วย... เราไม่พบอะไรเลย...",
     "rankDistribution.title": "ผลการอธิษฐานโดยรวม",
-    "focusDistribution.title": "5★ ลิมิเต็ด",
+    "focusDistribution.title": "{{ rankType }}★ ลิมิเต็ด",
     "fourStarsDetails.title": "ประเภทอธิษฐาน 4★",
     "fiveStarsList.title": "รายการอธิษฐาน 5★",
     "fourStarsList.title": "รายการอธิษฐาน 4★",

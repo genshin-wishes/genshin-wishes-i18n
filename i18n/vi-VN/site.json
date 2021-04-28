@@ -224,7 +224,7 @@
     "wishesTotalCount": "Tổng số cầu nguyện",
     "empty": "Xin lỗi, chúng tôi không tìm thấy...",
     "rankDistribution.title": "Độ hiếm",
-    "focusDistribution.title": "5★ giới hạn",
+    "focusDistribution.title": "{{ rankType }}★ giới hạn",
     "fourStarsDetails.title": "4★ các loại",
     "fiveStarsList.title": "5★ danh sách",
     "fourStarsList.title": "4★ danh sách",

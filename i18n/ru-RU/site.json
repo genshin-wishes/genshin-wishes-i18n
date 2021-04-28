@@ -224,7 +224,7 @@
     "wishesTotalCount": "Всего молитв",
     "empty": "Извините, мы не можем ничего найти...",
     "rankDistribution.title": "Распределение по редкости",
-    "focusDistribution.title": "Эксклюзивность 5★",
+    "focusDistribution.title": "Эксклюзивность {{ rankType }}★",
     "fourStarsDetails.title": "Типы 4★",
     "fiveStarsList.title": "Список 5★",
     "fourStarsList.title": "Список 4★",

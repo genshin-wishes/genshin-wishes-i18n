@@ -224,7 +224,7 @@
         "wishesTotalCount": "Gesamtzahl Gebete",
         "empty": "Sorry, wir konnten nichts finden...",
         "rankDistribution.title": "Gebetsrang",
-        "focusDistribution.title": "5★ Exklusivität",
+        "focusDistribution.title": "{{ rankType }}★ Exklusivität",
         "fourStarsDetails.title": "4★ Typen",
         "fiveStarsList.title": "5★ Liste",
         "fourStarsList.title": "4★ Liste",

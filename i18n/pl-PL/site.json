@@ -224,7 +224,7 @@
     "wishesTotalCount": "Suma życzeń",
     "empty": "Przepraszam, ale nie mogliśmy niczego znaleść",
     "rankDistribution.title": "Dystrybucja życzeń",
-    "focusDistribution.title": "Eksluzywność 5★",
+    "focusDistribution.title": "Eksluzywność {{ rankType }}★",
     "fourStarsDetails.title": "Rodzaje 4★",
     "fiveStarsList.title": "Lista 5★",
     "fourStarsList.title": "Lista 4★",

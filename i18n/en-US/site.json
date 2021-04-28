@@ -224,7 +224,7 @@
     "wishesTotalCount": "Wishes total count",
     "empty": "Sorry, we could not find anything...",
     "rankDistribution.title": "Wish ranks",
-    "focusDistribution.title": "5★ exclusivity",
+    "focusDistribution.title": "{{ rankType }}★ exclusivity",
     "fourStarsDetails.title": "4★ types",
     "fiveStarsList.title": "5★ list",
     "fourStarsList.title": "4★ list",

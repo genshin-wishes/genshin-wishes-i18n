@@ -231,7 +231,7 @@
     "wishesTotalCount": "祈愿总数",
     "empty": "抱歉，我们找不到任何东西...",
     "rankDistribution.title": "祈愿等级",
-    "focusDistribution.title": "5★ 限定",
+    "focusDistribution.title": "{{ rankType }}★ 限定",
     "fourStarsDetails.title": "4★ 类型",
     "fiveStarsList.title": "5★ 清单",
     "fourStarsList.title": "4★ 清单",

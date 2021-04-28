@@ -224,7 +224,7 @@
     "wishesTotalCount": "Cuenta total de deseos",
     "empty": "Lo sentimos, no pudimos encontrar nada...",
     "rankDistribution.title": "Rangos de deseos",
-    "focusDistribution.title": "Exclusividad 5★",
+    "focusDistribution.title": "Exclusividad {{ rankType }}★",
     "fourStarsDetails.title": "Tipos de 4★",
     "fiveStarsList.title": "Lista de 5★",
     "fourStarsList.title": "Lista de 4★",

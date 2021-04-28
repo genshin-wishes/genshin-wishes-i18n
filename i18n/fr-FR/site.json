@@ -231,7 +231,7 @@
     "wishesTotalCount": "Compte total des vœux",
     "empty": "Désolé, nous n'avons rien trouvé...",
     "rankDistribution.title": "Vœux par rang",
-    "focusDistribution.title": "Exclusivité des 5★",
+    "focusDistribution.title": "Exclusivité des {{ rankType }}★",
     "fourStarsDetails.title": "Type des 4★",
     "fiveStarsList.title": "Liste des 5★",
     "fourStarsList.title": "Liste des 4★",

@@ -224,7 +224,7 @@
     "wishesTotalCount": "総祈願回数",
     "empty": "祈願が見つかりませんでした。しばらくしてもう一度お試しください。",
     "rankDistribution.title": "割合",
-    "focusDistribution.title": "★5確定割合",
+    "focusDistribution.title": "★{{ rankType }}確定割合",
     "fourStarsDetails.title": "★4タイプ",
     "fiveStarsList.title": "★5一覧",
     "fourStarsList.title": "★4一覧",
