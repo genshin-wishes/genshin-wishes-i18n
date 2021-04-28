@@ -195,7 +195,7 @@
     "deleteAccount": {
       "title": "Borrar cuenta",
       "subTitle": "Borra toda la información de tu cuenta de Genshin Wishes",
-      "hint": "Escribe <b>{{ confirmación }}</b> antes de clickear el botón de borrado.",
+      "hint": "Escribe <b>{{ confirmation }}</b> antes de clickear el botón de borrado.",
       "label": "Escribe aquí",
       "action": "Borra mi cuenta",
       "confirmation": "BORRA MI CUENTA"
@@ -323,19 +323,19 @@
       },
       "NOVICE": {
         "title": "Gachapón recomendado para principiantes",
-        "titleWithCount": "Gachapón recomendado para principiants, ({{ wishes }} deseos)"
+        "titleWithCount": "Gachapón recomendado para principiants ({{ wishes }} deseos)"
       },
       "PERMANENT": {
         "title": "Banner permanente",
-        "titleWithCount": "Banner permanente, ({{ wishes }} deseos)"
+        "titleWithCount": "Banner permanente ({{ wishes }} deseos)"
       },
       "CHARACTER_EVENT": {
         "title": "Banner de personaje",
-        "titleWithCount": "Banner de personaje, ({{ wishes }} deseos)"
+        "titleWithCount": "Banner de personaje ({{ wishes }} deseos)"
       },
       "WEAPON_EVENT": {
         "title": "Banner de armas",
-        "titleWithCount": "Banner de armas, ({{ wishes }} deseos)"
+        "titleWithCount": "Banner de armas ({{ wishes }} deseos)"
       }
     }
   },
