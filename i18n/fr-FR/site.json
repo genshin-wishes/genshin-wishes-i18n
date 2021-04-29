@@ -23,15 +23,19 @@
       "emoji": "\uD83D\uDEA8",
       "title": "",
       "message": "Impossible de se connecter au serveur de Genshin."
-    }
+    },
+    "archiveWarning": "\uD83D\uDEA8 Depuis le 28 mars 2021, nous ne pouvons plus récupérer les vœux datant de plus de 6 mois car miHoYo a commencé à les supprimer de l'historique du jeu. Si vous avez une sauvegarde, vous pourrez bientôt l'importer sur le site."
   },
   "app": {
-    "title": "Genshin Wishes — Sauvegardez votre historique de vœux simplement",
-    "titleWithPage": "Genshin Wishes - {{ page }}",
-    "titleShort": "Genshin Wishes",
+    "title": "Genshin Wishes",
+    "titleWithPage": "Genshin Wishes — {{ page }}",
+    "description": "Sauvegardez et visualisez vos vœux simplement",
     "menu": "Menu",
     "getStarted": "C'est parti",
-    "persistLink": "Se souvenir du lien pendant 24h",
+    "persistLink": {
+      "persist": "Sauvegarder 24h sur votre appareil",
+      "doNotPersist": "Ne pas sauvegarder le lien"
+    },
     "user": {
       "uid": "UID {{ uid }}"
     },
@@ -61,7 +65,7 @@
         },
         "2": {
           "title": "Patience! Nous récupérons vos vœux \uD83D\uDC0B \uD83D\uDE48",
-          "description": "<span class=\"text-success\"><b>Répétez ces étapes la prochaine fois</b></span> pour synchroniser de nouveaux vœux.",
+          "description": "<span class=\"text-primary\"><b>Répétez ces étapes la prochaine fois</b></span> pour synchroniser de nouveaux vœux.",
           "seeWishes": "Aller sur l'appli"
         }
       }
@@ -69,6 +73,9 @@
     "signIn": "Se connecter"
   },
   "auth": {
+    "signInMethod": "Choisissez une méthode d'authentification",
+    "hint": "Vous ne vous connectez PAS à Genshin Impact",
+    "subHint": "Nous vous encourageons à choisir un service qui n'est pas rattaché à votre compte de jeu.",
     "logout.label": "Se déconnecter"
   },
   "banners": {
@@ -91,7 +98,32 @@
     "title": "FAQ"
   },
   "landing": {
-    "signInMethod": "Choisissez une méthode d'authentification",
+    "isItSafe": "Est-ce sécurisé ?",
+    "hero": {
+      "title": "Votre historique de vœux Genshin Impact en un coup d'œil.",
+      "subtitle": "Sauvegardez votre historique de vœux Genshin Impact, gardez le compte de votre pity et obtenez une vue partageable des statistiques de vos pulls !",
+      "advice": "Pas d'installation, <b>gratuit</b> et <b>sécurisé</b>."
+    },
+    "counters": {
+      "users": "<span class=\"text-primary\"><b>{{ users }}</b></span> joueurs\nnous font confiance",
+      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} vœux</b></span>\nsauvegardés (on compte encore)"
+    },
+    "feature": {
+      "title": "Tous vos vœux au même endroit!",
+      "publicStats": "Regardez des stats publiques sur des millions de vœux",
+      "personalStats": "Regardez vos stats personnelles de vœux",
+      "dashboard": "Calculez votre pity sur chaque bannière",
+      "archive": "Archivez vos vœux pour plus de 6 mois",
+      "platforms": "Disponible pour PC, mobile et joueurs console"
+    },
+    "security": {
+      "title": "La sécurité compte pour nous.",
+      "noInstallation": "Aucune installation n'est nécessaire et nous n'avons pas besoin de votre compte Genshin.",
+      "temporaryKey": "Votre clé temporaire n'est pas stockée sur nos serveurs mais sur votre appareil et celle-ci n'est valide que 24h.",
+      "authorization": "La clé temporaire ne nous permet pas de nous connecter à votre compte.",
+      "ssl": "Nous utilisons l'encryptage SSL pour toutes les connexions entre vous et nos serveurs.",
+      "learnMore": "Apprenez en plus sur la sécurité"
+    },
     "welcome": {
       "title": "Bienvenue sur Genshin Wishes.",
       "description": "Nous vous permettons de suivre et sauvegarder votre historique de vœux de Genshin Impact. Nous pouvons aussi calculer votre compteur de pity !"
@@ -101,6 +133,12 @@
       "browse": "Regardez facilement vos vœux",
       "stats": "Regardez vos statistiques",
       "archive": "Archivez vos vœux plus de 6 mois"
+    },
+    "footerBanner": {
+      "joinUs": "Rejoignez nous pour vous la raconter avec votre chance!"
+    },
+    "footer": {
+      "content": "Les sources du projet sont disponibles sur GitHub. Genshin Wishes est créé et maintenu par <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> et <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
     }
   },
   "profile": {
@@ -183,6 +221,9 @@
     "coffee.label": "Soutenez notre travail",
     "i18n.label": "Contribuez à la traduction"
   },
+  "publicStats": {
+    "label": "Statistiques publiques"
+  },
   "stats": {
     "label": "Statistiques",
     "averageGap": "Écart moyen",
@@ -190,7 +231,7 @@
     "wishesTotalCount": "Compte total des vœux",
     "empty": "Désolé, nous n'avons rien trouvé...",
     "rankDistribution.title": "Vœux par rang",
-    "focusDistribution.title": "Exclusivité des 5★",
+    "focusDistribution.title": "Exclusivité des {{ rankType }}★",
     "fourStarsDetails.title": "Type des 4★",
     "fiveStarsList.title": "Liste des 5★",
     "fourStarsList.title": "Liste des 4★",

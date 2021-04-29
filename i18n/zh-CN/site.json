@@ -23,15 +23,19 @@
       "emoji": "\uD83D\uDEA8",
       "title": "",
       "message": "无法连接到《原神》服务器"
-    }
+    },
+    "archiveWarning": "\uD83D\uDEA8 自2021年3月28日起，我们无法取回超过6个月的祈愿，因为米哈游开始将其从游戏内的历史记录中删除。 如果您有备份，则很快就可以将其导入该网站。"
   },
   "app": {
-    "title": "Genshin Wishes — 保存您的祈愿记录",
-    "titleWithPage": "Genshin Wishes - {{ page }}",
-    "titleShort": "Genshin Wishes",
+    "title": "Genshin Wishes",
+    "titleWithPage": "Genshin Wishes — {{ page }}",
+    "description": "保存您的祈愿记录",
     "menu": "Menu",
     "getStarted": "开始吧",
-    "persistLink": "记住链接24小时",
+    "persistLink": {
+      "persist": "记住链接24小时",
+      "doNotPersist": "不要保存链接"
+    },
     "user": {
       "uid": "UID {{ uid }}"
     },
@@ -61,7 +65,7 @@
         },
         "2": {
           "title": "忍耐！我们在收集您的愿望 \uD83D\uDC0B \uD83D\uDE48",
-          "description": "<span class=\"text-success\"><b>下次请重复这些步骤</b></span> 让您的祈愿更新.",
+          "description": "<span class=\"text-primary\"><b>下次请重复这些步骤</b></span> 让您的祈愿更新.",
           "seeWishes": "前往应用程式"
         }
       }
@@ -69,6 +73,9 @@
     "signIn": "登录"
   },
   "auth": {
+    "signInMethod": "选择身份验证方法",
+    "hint": "您尚未登录《原神》",
+    "subHint": "我们建议您选择其他提供商，而不是您的游戏内帐户。",
     "logout.label": "退出"
   },
   "banners": {
@@ -91,7 +98,32 @@
     "title": "常问问题"
   },
   "landing": {
-    "signInMethod": "选择身份验证方法",
+    "isItSafe": "安全吗？",
+    "hero": {
+      "title": "您的《原神》祈愿记录一目了然。",
+      "subtitle": "备份您的《原神》祈愿历史记录，跟踪保底情况并共享您的统计信息！！",
+      "advice": "不用安装, <b>免费</b> 和 <b>安全</b>."
+    },
+    "counters": {
+      "users": "深受 <span class=\"text-primary\"><b>{{ users }}</b></span>\n 《原神》玩家的信赖",
+      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} 祈愿</b></span>\n 保存并计数"
+    },
+    "feature": {
+      "title": "All your wishes in one place.",
+      "publicStats": "检查公共统计出的百万祈愿",
+      "personalStats": "查看您的个人祈愿统计",
+      "dashboard": "计算保底的每个祈愿活动",
+      "archive": "存档祈愿超过六个月",
+      "platforms": "适用于电脑，手机和游戏机的玩家"
+    },
+    "security": {
+      "title": "我们非常关心安全性。",
+      "noInstallation": "无需安装，我们不需要您的《原神》帐户密码。",
+      "temporaryKey": "您的临时密钥不会存储在我们的服务器上，而是存储在您的设备上，并且仅在24小时内有效。",
+      "authorization": "临时密钥不允许我们在您的帐户上进行身份验证。",
+      "ssl": "我们对您和服务器之间的所有连接都会使用SSL加密。",
+      "learnMore": "了解有关安全性的更多信息"
+    },
     "welcome": {
       "title": "欢迎来到 Genshin Wishes.",
       "description": "我们可以让您跟踪和保存您的《原神》祈愿记录。 我们也可以计算您的保底计数"
@@ -101,6 +133,12 @@
       "browse": "轻松查看您的祈愿",
       "stats": "查看你的数据",
       "archive": "存档您超过6个月的祈愿"
+    },
+    "footerBanner": {
+      "joinUs": "加入我们，展现您的幸运祈愿！"
+    },
+    "footer": {
+      "content": "该项目的资源可在Github上找到。 Genshin Wishes 是由 <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> 和 <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a> 制作跟维护."
     }
   },
   "profile": {
@@ -109,7 +147,7 @@
       "description": "此个人资料不公开或网址无效 <span class=\"text-emoji\">\uD83D\uDE05</span>",
       "goToApp": "去 Genshin Wishes"
     },
-    "footer": "自动从 电脑/手机/控制台 导入您的愿望并获得您自己的统计信息！",
+    "footer": "自动从 电脑/手机/游戏机 导入您的愿望并获得您自己的统计信息！",
     "share": {
       "title": "分享您的统计信息页面",
       "label": "分享您的统计数据",
@@ -183,6 +221,9 @@
     "coffee.label": "支持我们的工作",
     "i18n.label": "协助翻译"
   },
+  "publicStats": {
+    "label": "公开统计"
+  },
   "stats": {
     "label": "统计数据",
     "averageGap": "中等差异",
@@ -190,7 +231,7 @@
     "wishesTotalCount": "祈愿总数",
     "empty": "抱歉，我们找不到任何东西...",
     "rankDistribution.title": "祈愿等级",
-    "focusDistribution.title": "5★ 限定",
+    "focusDistribution.title": "{{ rankType }}★ 限定",
     "fourStarsDetails.title": "4★ 类型",
     "fiveStarsList.title": "5★ 清单",
     "fourStarsList.title": "4★ 清单",

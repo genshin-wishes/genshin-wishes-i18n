@@ -16,6 +16,10 @@
 
 - Max Philipp Wriedt (max312, hackard#6174)
 
+## Japanese
+
+- Phystam#5385
+
 ## Polish
 
 - Leoreo#8357
@@ -24,6 +28,14 @@
 
 - Alexander Trukhanov (Iftuga#5781)
 
+## Spanish
+
+- [@Linnynyny](https://twitter.com/Linnynyny) / Linny#4283
+
 ## Thai
 
 - p0ndja (PondJaᵀᴴ#9423)
+
+## Vietnamese
+
+- Peinpein (Peinpein#3500)

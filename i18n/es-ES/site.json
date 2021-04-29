@@ -1,0 +1,346 @@
+{
+  "generics": {
+    "share": "Compartir",
+    "copy": "Copiar",
+    "filter": "Filtrar",
+    "cancel": "Cancelar",
+    "ok": "OK",
+    "close": "Cerrar",
+    "previous": "Regresar",
+    "next": "Siguiente",
+    "retry": "Volver a intentear",
+    "soon": "Pronto",
+    "beta": "Beta",
+    "save": "Guardar",
+    "goBack": "Regresar",
+    "moreOf": "Más {{ content }}",
+    "error$": {
+      "emoji": "\uD83D\uDE31",
+      "title": "",
+      "message": "Un error ha ocurrido. Por favor vuelva a intentar."
+    },
+    "mihoyoError$": {
+      "emoji": "\uD83D\uDEA8",
+      "title": "",
+      "message": "Incapaz de conectarse al servidor de Genshin."
+    },
+    "archiveWarning": "\uD83D\uDEA8 Desde Marzo 28 del 2021, no podemos recuperar los deseos de hace más de 6 meses porque MiHoYo loa borra del historial dentro del juego. Si tienes una copia de seguridad, deberias ser capaz de importarla al sitio."
+  },
+  "app": {
+    "title": "Genshin Wishes",
+    "titleWithPage": "Genshin Wishes — {{ page }}",
+    "description": "Guarda tus deseos facilmente",
+    "menu": "Menú",
+    "getStarted": "Empecemos",
+    "persistLink": {
+      "persist": "Guardar en tu dispositivo por 24h",
+      "doNotPersist": "No guardar el link"
+    },
+    "user": {
+      "uid": "UID {{ uid }}"
+    },
+    "urlInput": {
+      "dialog": {
+        "title": "Tu link ha expirado",
+        "message": "\uD83D\uDEA8 El link de autentificación no es valido. Por favor actualizalo. <a href=\"/faq\" target=\"_blank\"> How?</a>",
+        "ok": "Actualizar link"
+      },
+      "pasteInput": "Pégue su link aquí",
+      "correctLink": "\uD83D\uDE0E Ok, se ve bien",
+      "incorrectLink": "\uD83D\uDE31 Link incorrecto, por favor intente nuevo!"
+    },
+    "urlSetup": {
+      "title": "Crea tu cuenta",
+      "finish": "Finalizar",
+      "step": "Paso {{ step }}",
+      "loading": {
+        "title": "Cargando tus deseos...",
+        "subtitle": "¡Espera! Esto puede tomar unos cuanto minutos."
+      },
+      "steps$": {
+        "1": {
+          "title": "Obtenga su llave",
+          "description": "Para obtener sus deseos necesitamos una llave temporal del juego.\n<span class=\"text-accent\">No se preocupe, nosotros nunca tendremos acceso a su cuenta de Genshin Impact.</span>",
+          "showVideo": "Muestrame un video"
+        },
+        "2": {
+          "title": "¡Espera! Estamos obeniendo tus deseos \uD83D\uDC0B \uD83D\uDE48",
+          "description": "<span class=\"text-primary\"><b>Repita estos pasos la proxima vez</b></span> para sincronizar sus deseos.",
+          "seeWishes": "Ir a la app"
+        }
+      }
+    },
+    "signIn": "Registrarse"
+  },
+  "auth": {
+    "signInMethod": "Elige un metodo de ingreso",
+    "hint": "NO estás ingresando a Genshin Impact",
+    "subHint": "We encourage you to choose a separate provider than your in-game account.",
+    "logout.label": "Cerrar sesión"
+  },
+  "banners": {
+    "label": "Banners",
+    "seeWishes": "Ver deseos",
+    "noWishes": "Sin deseos",
+    "wishes": "{{ count }} deseos",
+    "pity5": "Pity 5★",
+    "pity4": "Pity 4★",
+    "last5": "Ultimo 5★",
+    "last4": "Ultimo 4★",
+    "none": "Ninguno"
+  },
+  "cookie": {
+    "title": "¡Hey! Paimon nos dejó unas galletas. \uD83D\uDE0B\n",
+    "message": "Al usar este sitio, aceptas el uso de cookies solamente para tráfico analítico.",
+    "ok": "Ok, ¡Me gustan las galletas!"
+  },
+  "faq": {
+    "title": "Preguntas frecuentes"
+  },
+  "landing": {
+    "isItSafe": "¿Es seguro?",
+    "hero": {
+      "title": "Tu historial de deseos de Genshin Impact en una simple mirada.",
+      "subtitle": "¡Copia tu historial de deseos, realiza seguimiento de tus deseos y pity obten una compartible visualización de tus estadisticas!",
+      "advice": "Sin instalaciónes, <b>gratis</b> y <b>seguro</b>."
+    },
+    "counters": {
+      "users": "Utilizado y confiado por más de  <span class=\"text-primary\"><b>{{ users }}</b></span>\njugadores de Genshin Impact",
+      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} deseos</b></span>\nguardados y contando"
+    },
+    "feature": {
+      "title": "Todos tus deseos en un solo lugar.",
+      "publicStats": "Mira las estadisticas publicas de millones de deseos",
+      "personalStats": "Mira tus estadisticas propias",
+      "dashboard": "Calcula tu pity en cada banner",
+      "archive": "Archiva deseos de hace más de 6 meses",
+      "platforms": "Disponible para juagadores de PC, movíl y consola"
+    },
+    "security": {
+      "title": "Nos preocupamos por la seguridad.",
+      "noInstallation": "Ninguna instalación es requerida y no necesitamos tu cuenta de Genshin.",
+      "temporaryKey": "Tu llave temporal no es guardada en nuestros servidores, sino que en tu dispositivo durante 24 horas.",
+      "authorization": "La llave temporal no nos permite ingresar a su cuenta.",
+      "ssl": "Usamos encriptación SSL para todas las conecciónes entre nuestros servidores.",
+      "learnMore": "Aprende m"
+    },
+    "welcome": {
+      "title": "Bienvenido a Genshin Wishes.",
+      "description": "Le ayudamos a rastrear y resguardar sus deseos. ¡Tambien contamos su pity!"
+    },
+    "elements": {
+      "pity": "Cuenta tu pity en cada banner",
+      "browse": "Facil navegación a través de sus deseos",
+      "stats": "Mira tus estadisticas",
+      "archive": "Archiva tus deseos pasados los 6 meses"
+    },
+    "footerBanner": {
+      "joinUs": "¡Unetenos a presumir tus tiradas suertudas!"
+    },
+    "footer": {
+      "content": "Las fuentes de este proyecto se encuentran en GitHub. Genshin Wishes es hecho y mantenido por <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> y <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
+    }
+  },
+  "profile": {
+    "notFound": {
+      "title": "¡Este perfil no puede ser encontrado!",
+      "description": "Este perfil es privado o la URL es incorrecta <span class=\"text-emoji\">\uD83D\uDE05</span>",
+      "goToApp": "Ir a Genshin Wishes"
+    },
+    "footer": "¡Automaticamente importa tus deseos desde PC/Mobil/Consola y oboten tus propias estadosticas!",
+    "share": {
+      "title": "Comparte tu pagina de estadisticas",
+      "label": "Comparte tus estadisticas",
+      "sharing": {
+        "title": "Compartir pagina de estadisticas ",
+        "enabled": "Visible unicamente con el link",
+        "disabled": "Visible solo para ti"
+      },
+      "success$": {
+        "emoji": "\uD83D\uDCCB",
+        "title": "",
+        "message": "¡Tu link permanente ha sido copiado a tu portapapeles!"
+      }
+    }
+  },
+  "settings": {
+    "label": "Ajustes",
+    "authLink": {
+      "title": "Link de autentificación",
+      "subTitle": "Editar tu link de autentificación",
+      "update": "Guardar y subir"
+    },
+    "lang": {
+      "title": "Lenguaje",
+      "subTitle": "Cambiar el lenguaje del sitio",
+      "success$": {
+        "emoji": "",
+        "title": "",
+        "message": "El lenguaje del sitio ha sido cambiado."
+      },
+      "action": "Guardar lenguaje"
+    },
+    "wholeClock": {
+      "title": "Formato de tiempo",
+      "subTitle": "Cambiar el formato de tiempo del sitio",
+      "true": "24h",
+      "false": "12h (AM/PM)",
+      "success$": {
+        "emoji": "",
+        "title": "",
+        "message": "El formato de tiempo ha sido cambiado."
+      },
+      "action": "Guardar formato"
+    },
+    "deleteAccount": {
+      "title": "Borrar cuenta",
+      "subTitle": "Borra toda la información de tu cuenta de Genshin Wishes",
+      "hint": "Escribe <b>{{ confirmation }}</b> antes de clickear el botón de borrado.",
+      "label": "Escribe aquí",
+      "action": "Borra mi cuenta",
+      "confirmation": "BORRA MI CUENTA"
+    },
+    "deleteAccountConfirm": {
+      "title": "¿Estás seguro de que quieres borrar tu cuenta?",
+      "message": "Esta acción es irreversible."
+    },
+    "export": {
+      "title": "Exportar tus deseos",
+      "subTitle": "Exportar todos tus deseos almacenados en Genshin Wishes",
+      "confirm": {
+        "title": "¿Estás seguro?",
+        "description": "No te preocupes, permanecerán en tu cuenta."
+      },
+      "action": "Exportar mis deseos"
+    }
+  },
+  "publicStats": {
+    "label": "Estadisticas publicas"
+  },
+  "stats": {
+    "label": "Estadisticas",
+    "averageGap": "Intervalo promedio",
+    "na": "N/A",
+    "wishesTotalCount": "Cuenta total de deseos",
+    "empty": "Lo sentimos, no pudimos encontrar nada...",
+    "rankDistribution.title": "Rangos de deseos",
+    "focusDistribution.title": "Exclusividad {{ rankType }}★",
+    "fourStarsDetails.title": "Tipos de 4★",
+    "fiveStarsList.title": "Lista de 5★",
+    "fourStarsList.title": "Lista de 4★",
+    "bannerActivity.title": "Deseos a través del tiempo",
+    "filters": {
+      "filterByEvent": "Filtrar por banners",
+      "selectEvent": "Selecciona un banner",
+      "allEvents": "Todos los banners"
+    }
+  },
+  "nav": {
+    "helpUs.label": "¿Quieres ayudarnos?",
+    "request.label": "Reporte de bugs y feedback",
+    "discord.label": "Unete a nuestro Discord",
+    "coffee.label": "Apoya nuestro trabajo",
+    "i18n.label": "Contribuye a las traducciones"
+  },
+  "wishes": {
+    "label": "Deseos",
+    "exclusive": "Exclusivos",
+    "notExclusive": "No exclusivos",
+    "noWishes": {
+      "title": "No se encontraron deseos en este banner",
+      "message": "Todavia puedes jugar con Amber <span class=\"text-emoji\">\uD83D\uDE05</span>"
+    },
+    "noResult": {
+      "title": "¡Oh no! ¡Aquí no hay nada como eso!",
+      "message": "Deberias editar tus filtroa"
+    },
+    "backToList": "Volver a los banners",
+    "bannersNav": "Banners",
+    "itemNotFound": "Objeto no encontrado, ¡Actualizaremos nuestra base de datos tan pronto como sea posible!",
+    "itemType$": {
+      "Character": "Personajes",
+      "Weapon": "Armas"
+    },
+    "filters": {
+      "freeText": "Filtrar por nombre",
+      "itemType": "Filtrar por tipo",
+      "rank": "Filtrar por rango",
+      "characterEvent": "Filtrar por banner de evento",
+      "weaponEvent": "Filtrar por banner de armas",
+      "selectEvent": "Seleccionar banner",
+      "reset": "Reiniciar todo"
+    },
+    "update": {
+      "label": "Actualizar deseos"
+    },
+    "deletion": {
+      "title": "Borrar deseos viejos",
+      "description": "¿Estás seguro de que quieres borrar tus deseos?\n\nCualquier eliminación es irreversible.",
+      "ok": "❌ SI, borra todos mis deseos"
+    },
+    "differentUidDialog": {
+      "title": "Cuenta distinta",
+      "description": "\uD83D\uDEA8 Los deseos que estás a punto de añadir no están vinculados a la misma cuenta de Genshin.\n\n¿Que quieres hacer?",
+      "delete": "Borra mis deseos"
+    },
+    "import": {
+      "saving": "Guardando...",
+      "recovery$": {
+        "emoji": "",
+        "title": "",
+        "message": "Recuperando tus deseos importados..."
+      },
+      "success$": {
+        "emoji": "\uD83E\uDD29",
+        "title": "",
+        "message": "<b>{{ wishes }}</b> nuevos deseos encontrados en {{ banner }} !"
+      },
+      "noData$": {
+        "emoji": "\uD83D\uDE27",
+        "title": "Lo sentimos, no encontramos ningun deseo",
+        "message": "Deseos hechos hace menos de una hora todavia no pueden ser añadidos."
+      },
+      "invalidAuthkey$": {
+        "emoji": "\uD83D\uDEA8",
+        "title": "",
+        "message": "No pudimos autenticarte."
+      },
+      "newWishesDuringImport$": {
+        "emoji": "\uD83D\uDEA8",
+        "title": "",
+        "message": "Lo sentimos, tus deseos cambiaron durante la importación. Por favor intenta de nuevo."
+      },
+      "alreadyImporting$": {
+        "emoji": "\uD83D\uDEA8",
+        "title": "",
+        "message": "Una importación de tus deseos está ocurriendo, ¡Por favor se paciente!"
+      }
+    },
+    "banners$": {
+      "ALL": {
+        "title": "Todos los deseos",
+        "titleWithCount": "Deseos totales ({{ wishes }})"
+      },
+      "NOVICE": {
+        "title": "Gachapón recomendado para principiantes",
+        "titleWithCount": "Gachapón recomendado para principiants ({{ wishes }} deseos)"
+      },
+      "PERMANENT": {
+        "title": "Banner permanente",
+        "titleWithCount": "Banner permanente ({{ wishes }} deseos)"
+      },
+      "CHARACTER_EVENT": {
+        "title": "Banner de personaje",
+        "titleWithCount": "Banner de personaje ({{ wishes }} deseos)"
+      },
+      "WEAPON_EVENT": {
+        "title": "Banner de armas",
+        "titleWithCount": "Banner de armas ({{ wishes }} deseos)"
+      }
+    }
+  },
+  "footer": {
+    "disclaimer": "Genshin Wishes no está afiliado a MiHoYo. Genshin impact y MiHoYo son marcas registradas de MiHoYo. Genshin Impact © miHoYo.",
+    "claim": "Por cualquier reclamo, por favor <a href=\"mailto:contact.genshin.wishes@gmail.com\">contactanos</a>."
+  }
+}
