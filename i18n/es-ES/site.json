@@ -47,7 +47,7 @@
       },
       "pasteInput": "Pegue su link aquí",
       "correctLink": "\uD83D\uDE0E Ok, se ve bien",
-      "incorrectLink": "\uD83D\uDE31 Link incorrecto, por favor intente nuevo!"
+      "incorrectLink": "\uD83D\uDE31 Link incorrecto, ¡por favor intente nuevo!"
     },
     "urlSetup": {
       "title": "Crea tu cuenta",
@@ -124,7 +124,7 @@
       "temporaryKey": "Tu llave temporal no es guardada en nuestros servidores, sino que en tu dispositivo durante 24 horas.",
       "authorization": "La llave temporal no nos permite ingresar a su cuenta.",
       "ssl": "Usamos encriptación SSL para todas las conecciónes entre nuestros servidores.",
-      "learnMore": "Aprende m"
+      "learnMore": "Aprende más"
     },
     "welcome": {
       "title": "Bienvenido a Genshin Wishes.",
@@ -282,7 +282,7 @@
     },
     "differentUidDialog": {
       "title": "Cuenta distinta",
-      "description": "\uD83D\uDEA8 Los deseos que estás a punto de añadir no están vinculados a la misma cuenta de Genshin.\n\n¿Que quieres hacer?",
+      "description": "\uD83D\uDEA8 Los deseos que estás a punto de añadir no están vinculados a la misma cuenta de Genshin.\n\n¿Qué quieres hacer?",
       "delete": "Borra mis deseos"
     },
     "import": {
@@ -325,7 +325,7 @@
       },
       "NOVICE": {
         "title": "Gachapón recomendado para principiantes",
-        "titleWithCount": "Gachapón recomendado para principiants ({{ wishes }} deseos)"
+        "titleWithCount": "Gachapón recomendado para principiantes ({{ wishes }} deseos)"
       },
       "PERMANENT": {
         "title": "Banner permanente",
@@ -342,7 +342,7 @@
     }
   },
   "footer": {
-    "disclaimer": "Genshin Wishes no está afiliado a MiHoYo. Genshin impact y MiHoYo son marcas registradas de MiHoYo. Genshin Impact © miHoYo.",
-    "claim": "Por cualquier reclamo, por favor <a href=\"mailto:contact.genshin.wishes@gmail.com\">contactanos</a>."
+    "disclaimer": "Genshin Wishes no está afiliado a MiHoYo. Genshin Impact y MiHoYo son marcas registradas de MiHoYo. Genshin Impact © miHoYo.",
+    "claim": "Por cualquier reclamo, por favor <a href=\"mailto:contact.genshin.wishes@gmail.com\">contáctanos</a>."
   }
 }
