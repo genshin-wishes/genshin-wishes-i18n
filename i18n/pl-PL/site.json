@@ -98,6 +98,7 @@
     "title": "FAQ"
   },
   "landing": {
+    "title": "Home",
     "isItSafe": "Czy to bezpieczne?",
     "hero": {
       "title": "Twoja historia życzeń Genshin Impact w zasięgu ręki",
@@ -116,6 +117,7 @@
       "archive": "Zarchiwizuj życzenia do nawet sześciu miesięcy",
       "platforms": "Dostępne dla graczy na PC, urządzeniu mobilnym oraz konsoli"
     },
+    "comments.title": "Happy Genshin Wishes users.",
     "security": {
       "title": "Dbamy o wasze bezpieczeństwo.",
       "noInstallation": "Żadne instalacje nie są wymagane ani nie potrzebujemy twojego konta Genshin.",

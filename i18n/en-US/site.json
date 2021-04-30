@@ -98,6 +98,7 @@
     "title": "FAQ"
   },
   "landing": {
+    "title": "Home",
     "isItSafe": "Is it safe?",
     "hero": {
       "title": "Your Genshin Impact wish history in a single glance.",
@@ -116,6 +117,7 @@
       "archive": "Archive wishes more than six month",
       "platforms": "Available for PC, mobile and console players"
     },
+    "comments.title": "Happy Genshin Wishes users.",
     "security": {
       "title": "We care about security.",
       "noInstallation": "No installation is required and we don't need your Genshin account.",

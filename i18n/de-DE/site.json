@@ -98,6 +98,7 @@
         "title": "FAQ"
     },
     "landing": {
+        "title": "Home",
         "isItSafe": "Ist es sicher?",
         "hero": {
             "title": "Dein Genshin Impact Gebetsverlauf auf einem Blick.",
@@ -116,6 +117,7 @@
             "archive": "Archiviere Gebete länger als sechs Monate",
             "platforms": "Verfügbar für PC, Mobil und Konsolen-Spieler"
         },
+        "comments.title": "Happy Genshin Wishes users.",
         "security": {
             "title": "Wir sorgen uns um Sicherheit",
             "noInstallation": "Keine Installation ist erforderlich und wir brauchen dein Account Passwort nicht.",

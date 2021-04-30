@@ -98,6 +98,7 @@
     "title": "ЧаВо"
   },
   "landing": {
+    "title": "Home",
     "isItSafe": "Это безопасно?",
     "hero": {
       "title": "Ваша история молитв Genshin Impact одним взглядом.",
@@ -116,6 +117,7 @@
       "archive": "Храните историю молитв более шести месяцев",
       "platforms": "Доступно для игроков с ПК, телефонов и консолей"
     },
+    "comments.title": "Happy Genshin Wishes users.",
     "security": {
       "title": "Мы заботимся о безопасности.",
       "noInstallation": "Не нужно ничего устанавливать и мы также не требуем никаких ваших паролей.",
@@ -138,7 +140,7 @@
       "joinUs": "Присоединяйтесь к нам, чтобы флексить вашими удачными молитвами!"
     },
     "footer": {
-      "content": "Исходники данного проекта доступны на Github. Genshin Wishes разработан и поддерживается такими людьми как <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> и <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
+      "content": "Исходники данного проекта доступны на GitHub. Genshin Wishes разработан и поддерживается такими людьми как <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> и <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
     }
   },
   "profile": {

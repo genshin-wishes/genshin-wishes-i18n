@@ -98,6 +98,7 @@
     "title": "Preguntas frecuentes"
   },
   "landing": {
+    "title": "Home",
     "isItSafe": "¿Es seguro?",
     "hero": {
       "title": "Tu historial de deseos de Genshin Impact en una simple mirada.",
@@ -116,6 +117,7 @@
       "archive": "Archiva deseos de hace más de 6 meses",
       "platforms": "Disponible para juagadores de PC, movíl y consola"
     },
+    "comments.title": "Happy Genshin Wishes users.",
     "security": {
       "title": "Nos preocupamos por la seguridad.",
       "noInstallation": "Ninguna instalación es requerida y no necesitamos tu cuenta de Genshin.",
