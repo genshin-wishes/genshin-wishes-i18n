@@ -98,6 +98,7 @@
     "title": "FAQ"
   },
   "landing": {
+    "title": "ホーム",
     "isItSafe": "セキュリティ的に安全?",
     "hero": {
       "title": "祈願履歴をひと目で。",
@@ -116,6 +117,7 @@
       "archive": "6ヶ月以上の履歴を保存",
       "platforms": "全プラットフォームに対応"
     },
+    "comments.title": "Genshin Wishesユーザーの皆様",
     "security": {
       "title": "アカウントセキュリティには非常に注意を払っています。",
       "noInstallation": "インストールの必要はなく、原神アカウントのパスワードは一切要求しません。",

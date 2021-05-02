@@ -98,6 +98,7 @@
     "title": "คำถามที่พบบ่อย"
   },
   "landing": {
+    "title": "Home",
     "isItSafe": "มันปลอดภัยไหม?",
     "hero": {
       "title": "เก็บรายการอธิษฐานของคุณภายในพริบตา",
@@ -116,6 +117,7 @@
       "archive": "เก็บบันทึกการอธิษฐานที่มากกว่า 6 เดือน",
       "platforms": "พร้อมใช้งานทั้งผู้เล่นบนคอมพิวเตอร์ มือถือ และเครื่องคอนโซล"
     },
+    "comments.title": "Happy Genshin Wishes users.",
     "security": {
       "title": "พวกเราเอาใจใส่เรื่องความปลอดภัย",
       "noInstallation": "ไม่มีการติดตั้งใด ๆ ที่ต้องทำและเราไม่ได้ต้องการรหัสผ่านบัญชี Genshin Impact ของคุณ",
@@ -138,7 +140,7 @@
       "joinUs": "เข้าร่วมกับเราเพื่ออวดโชคของคุณ!"
     },
     "footer": {
-      "content": "ข้อมูลของเราสามารถเข้าถึงได้บน Github, Genshin Wishes สร้างและได้รับการดูแลโดย <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> และ <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>"
+      "content": "ข้อมูลของเราสามารถเข้าถึงได้บน GitHub, Genshin Wishes สร้างและได้รับการดูแลโดย <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> และ <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>"
     }
   },
   "profile": {
