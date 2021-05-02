@@ -75,7 +75,7 @@
   "auth": {
     "signInMethod": "Elige un método de ingreso",
     "hint": "NO estás ingresando a Genshin Impact",
-    "subHint": "We encourage you to choose a separate provider than your in-game account.",
+    "subHint": "Te animamos a escoger un proveedor diferente al de tu cuenta del juego.",
     "logout.label": "Cerrar sesión"
   },
   "banners": {
@@ -98,7 +98,7 @@
     "title": "Preguntas frecuentes"
   },
   "landing": {
-    "title": "Home",
+    "title": "Inicio",
     "isItSafe": "¿Es seguro?",
     "hero": {
       "title": "Tu historial de deseos de Genshin Impact en una simple mirada.",
@@ -117,7 +117,7 @@
       "archive": "Archiva deseos de hace más de 6 meses",
       "platforms": "Disponible para juagadores de PC, móvil y consola"
     },
-    "comments.title": "Happy Genshin Wishes users.",
+    "comments.title": "Usuarios felices de Genshin Wishes.",
     "security": {
       "title": "Nos preocupamos por la seguridad.",
       "noInstallation": "Ninguna instalación es requerida y no necesitamos tu cuenta de Genshin.",
