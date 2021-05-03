@@ -102,7 +102,7 @@
     "isItSafe": "Est-ce sécurisé ?",
     "hero": {
       "title": "Votre historique de vœux Genshin Impact en un coup d'œil.",
-      "subtitle": "Sauvegardez votre historique de vœux Genshin Impact, gardez le compte de votre pity et obtenez une vue partageable des statistiques de vos pulls !",
+      "subtitle": "Sauvegardez votre historique de vœux Genshin Impact, gardez le compte de votre pity et obtenez une vue partageable des statistiques de vos invocations !",
       "advice": "Pas d'installation, <b>gratuit</b> et <b>sécurisé</b>."
     },
     "counters": {
@@ -110,7 +110,7 @@
       "wishes": "<span class=\"text-primary\"><b>{{ wishes }} vœux</b></span>\nsauvegardés (on compte encore)"
     },
     "feature": {
-      "title": "Tous vos vœux au même endroit!",
+      "title": "Tous vos vœux au même endroit !",
       "publicStats": "Regardez des stats publiques sur des millions de vœux",
       "personalStats": "Regardez vos stats personnelles de vœux",
       "dashboard": "Calculez votre pity sur chaque bannière",
@@ -137,7 +137,7 @@
       "archive": "Archivez vos vœux plus de 6 mois"
     },
     "footerBanner": {
-      "joinUs": "Rejoignez nous pour vous la raconter avec votre chance!"
+      "joinUs": "Rejoignez nous pour frimer avec votre chance !"
     },
     "footer": {
       "content": "Les sources du projet sont disponibles sur GitHub. Genshin Wishes est créé et maintenu par <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> et <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
@@ -145,7 +145,7 @@
   },
   "profile": {
     "notFound": {
-      "title": "Ce profil n'a pas pu être trouvé!",
+      "title": "Ce profil n'a pas pu être trouvé !",
       "description": "Ce profil est privé ou l'URL est invalide <span class=\"text-emoji\">\uD83D\uDE05</span>",
       "goToApp": "Aller sur Genshin Wishes"
     },

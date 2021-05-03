@@ -30,6 +30,7 @@
 
 ## Spanish
 
+- Farisaico#4635
 - [@Linnynyny](https://twitter.com/Linnynyny) / Linny#4283
 
 ## Thai
