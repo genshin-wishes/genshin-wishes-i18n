@@ -106,7 +106,7 @@
       "advice": "ฟรี! ปลอดภัย! ไม่ต้องติดตั้งโปรแกรมใด ๆ !"
     },
     "counters": {
-      "users": "ได้รับการไว้วางใจโดยผู้เล่น Genshin Impact มากกว่า <span class=\"text-primary\"><b>{{ users }} คน</b></span>\n",
+      "users": "ได้รับการไว้วางใจโดยผู้เล่น Genshin Impact \nมากกว่า <span class=\"text-primary\"><b>{{ users }} คน</b></span>",
       "wishes": "มีรายการอธิษฐานมากกว่า\n<span class=\"text-primary\"><b>{{ wishes }} รายการ</b></span>ที่เราเก็บเอาไว้"
     },
     "feature": {
