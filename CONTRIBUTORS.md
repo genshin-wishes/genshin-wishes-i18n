@@ -11,6 +11,7 @@
 
 - Colin Auberger (Isho#5061)
 - Jimmy Vergerolle (ChaosKaizer#9729)
+- Lifendyel#6564
 
 ## German
 
