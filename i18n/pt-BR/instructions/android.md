@@ -1,5 +1,5 @@
-1) Press "Feedback" in Paimon's menu
-2) Disable Wi-Fi & data connection
-3) Press the refresh button in the top right corner
-4) The page should bug, displaying its URL
-5) Copy the URL and paste it on Genshin Wishes.
+1) Pressione "Feedback" no menu da Paimon
+2) Desative o Wi-Fi e a conexão de dados
+3) Pressione o botão de atualização no canto superior direito
+4) A página deve apresentar uma mensagem de erro, exibindo seu URL
+5) Copie a URL e cole no Genshin Wishes.

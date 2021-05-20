@@ -1,3 +1,3 @@
-1) Press "Feedback" in Paimon's menu
-2) A page should open in your brower
-3) Copy the URL and paste it on Genshin Wishes.
+1) Pressione "Feedback" no menu da Paimon
+2) Uma página deve abrir no seu navegador
+3) Copie a URL e cole no Genshin Wishes.

@@ -1,6 +1,6 @@
-1) Press "Feedback" in Paimon's menu
-2) In the support page, press "Account issue"
-3) In the result, press the third item "How do I change my password?"
-4) In the text displayed click on the blue link named "here"
-5) A page should open on your browser. Copy the page URL and paste it on Genshin Wishes.  
-   Important: This URL does NOT allow us to change your password.
+1) Pressione "Feedback" no menu da Paimon
+2) Na página de suporte, pressione "Problemas com contas"
+3) In the result, press the third item "Como posso mudar a minha senha?"
+4) No texto exibido, clique no link azul "Ajustes da conta miHoYo"
+5) Uma página deve abrir no seu navegador. Copie a URL da página e cole no Genshin Wishes.
+   Importante: Esta URL NÃO nos permite alterar sua senha.
