@@ -1,59 +1,59 @@
-## What is Genshin Wishes?
-Genshin Wishes is a free website [with public code](https://github.com/genshin-wishes) that helps you save and browse your Genshin Impact wishes outside the game. It is made and maintained by [Colin Auberger](https://www.linkedin.com/in/colin-auberger/) and [Jimmy Vergerolle](https://vergerolle.fr).
+## O que é Genshin Wishes?
+Genshin Wishes é um site gratuito [com cídigo público](https://github.com/genshin-wishes) que ajuda você a salvar e navegar pelas suas orações do Genshin Impact fora do jogo. É feito e mantido por [Colin Auberger](https://www.linkedin.com/in/colin-auberger/) e [Jimmy Vergerolle](https://vergerolle.fr).
 
-- Backup your wishes as long as you want
-- Check your pity counter on all events and permanent banners
-- Browse your wishes easily with some fancy filters
-- Check detailed statistics about your wishes (for the nerds like us who like figures and charts 🤓)
+- Faça backup das suas orações pelo tempo que quiser
+- Verifique seu contador do pity em todos os eventos e banners permanentes
+- Navegue pelas suas orações facilmente com alguns filtros sofisticados
+- Verifique estatísticas detalhadas sobre suas orações (para os nerds como nós, que gostam de figuras e gráficos 🤓)
 
-## How do you manage to get my in-game wishes?
-We simply get them from your wish history. The wish history in Genshin Impact is a webpage displayed in the game, so even you could access it if you had the link. The only thing we need is a temporary key provided by the game. This temporary key is in the link we ask from you for importing your wishes.
+## Como vocês conseguem pegar minhas orações no jogo?
+Nós simplesmente os obtemos de seu histórico de orações. O histórico de orações no Genshin Impact é uma página exibida no jogo, então você mesmo poderia acessá-la se tivesse o link. A única coisa que precisamos é de uma chave temporária fornecida pelo jogo. Essa chave temporária está no link que pedimos para você importar seus desejos.
 
-## How do I find the key required to import my wishes?
+## Como encontro a chave necessária para importar os meus desejos?
 ### PC
-Take a look to the [video](https://www.youtube.com/watch?v=a16X0R_rSZc) guide or follow the instructions below :
-1) Press "Feedback" in Paimon's menu
-2) A page should open in your brower
-3) Copy the URL and paste it on Genshin Wishes.
+Dê uma olhada no [guia](https://www.youtube.com/watch?v=a16X0R_rSZc) ou siga as instruções abaixo:
+1) Pressione "Feedback" no menu da Paimon
+2) Uma página deve abrir no seu navegador
+3) Copie a URL e cole no Genshin Wishes.
 
 ### Android
-Take a look to the [video](https://www.youtube.com/watch?v=hok0jCjSrjo) guide or follow the instructions below:
-1) Press "Feedback" in Paimon's menu
-2) Disable Wi-Fi & data connection
-3) Press the refresh button in the top right corner
-4) The page should bug, displaying its URL
-5) Copy the URL and paste it on Genshin Wishes.
+Dê uma olhada no [guia](https://www.youtube.com/watch?v=hok0jCjSrjo) ou siga as instruções abaixo:
+1) Pressione "Feedback" no menu da Paimon
+2) Desative o Wi-Fi e a conexão de dados
+3) Pressione o botão de atualização no canto superior direito
+4) A página deve apresentar uma mensagem de erro, exibindo seu URL
+5) Copie a URL e cole no Genshin Wishes.
 
 ### iOS
-Take a look to the [video](https://www.youtube.com/watch?v=HW8nywx9Tio) guide or follow the instructions below:
-1) Press "Feedback" in Paimon's menu
-2) In the support page, press "Account issue"
-3) In the result, press the third item "How do I change my password?"
-4) In the text displayed click on the blue link named "here"
-5) A page should open on your browser. Copy the page URL and paste it on Genshin Wishes.  
-   Important: This URL does NOT allow us to change your password.
+Dê uma olhada no [guia](https://www.youtube.com/watch?v=HW8nywx9Tio) ou siga as instruções abaixo:
+1) Pressione "Feedback" no menu da Paimon
+2) Na página de suporte, pressione "Problemas com contas"
+3) No resultado, pressione o terceiro item "Como posso mudar a minha senha?"
+4) No texto exibido, clique no link azul "Ajustes da conta miHoYo"
+5) Uma página deve abrir no seu navegador. Copie a URL da página e cole no Genshin Wishes.
+   Importante: Esta URL NÃO nos permite alterar sua senha.
 
 ### Consoles
-1) Open your mail in-game during an event
-2) Open the event related mail
-3) There should be a QR code, scan it with your phone
-4) Copy the URL and paste it on Genshin Wishes.
+1) Abra sua caixa de e-mails do jogo durante um evento
+2) Abra a mensagem relacionada ao evento
+3) Deve ter um código QR, leia-o com seu telefone
+4) Copie a URL e cole no Genshin Wishes.
 
-## Is it safe to use?
-Yes. As Genshin Impact players we are very concerned about account security.
-- **We don't need you to install anything** on your computer or mobile phone
-- **We don't need your Genshin account password**
-- Your temporary key is not stored on our servers but **on your device**
-- It is valid only for 24h, after this time you will need to generate a new link to keep your wishes synced
-- This token does not allow us to authenticate on your account anyway
-- You have an option to delete all data we store whenever you want (including the wishes)
-- We use SSL encryption
+## É seguro para uso?
+Sim. Como jogadores do Genshin Impact, estamos muito preocupados com a segurança da conta.
+- **Não precisamos que você instale nada** no seu computador ou telefone celular
+- **Não precisamos da senha da sua conta do Genshin**
+- Sua chave temporária é armazenada no **seu dispositivo**, não em nossos servidores.
+- É válida por apenas 24hrs, após este tempo você precisará gerar um novo link para manter suas orações sincronizadas
+- Este token não nos permite autenticar em sua conta de qualquer maneira
+- Você tem a opção de excluir todos os dados que armazenamos sempre que desejar (incluindo as orações)
+- Usamos criptografia SSL
 
-## Is there a risk of being banned for using this?
-Absolutely not. We use the same requests as the game to fetch your wishes (using open to public Mihoyo API) so there is no risk of been banned. We used it on our own accounts for months now. Mihoyo has made some [statement about third party tools](https://genshin.mihoyo.com/en/news/detail/5763), and our tool is legit.
+## Existe o risco de ser banido?
+Absolutamente não. Usamos as mesmas solicitações do jogo para buscar suas orações (usando a API da miHoYo aberta ao público) então não há risco de ser banido. Faz meses que já usamos em nossas contas. A miHoYo fez algumas [declarações sobre ferramentas de terceiros](https://genshin.mihoyo.com/en/news/detail/5763) e nossa ferramenta é legítima.
 
-## What language do you support?
-The site is maintained for English and French, other languages are maintained by [contributors](https://github.com/genshin-wishes/genshin-wishes-i18n/blob/main/CONTRIBUTORS.md) in [this project](https://github.com/genshin-wishes/genshin-wishes-i18n).
+## Quais são os idiomas suportados?
+O site é mantido em inglês e francês, outras línguas são mantidas por [contribuidores](https://github.com/genshin-wishes/genshin-wishes-i18n/blob/main/CONTRIBUTORS.md) neste [projeto](https://github.com/genshin-wishes/genshin-wishes-i18n).
 
-## Will public stats be available soon?
-We are currently working on an alpha version. We will release it as soon as possible.
+## As estatísticas públicas estarão disponíveis em breve?
+No momento, estamos trabalhando em uma versão alfa. Iremos lançar o mais breve possível.
