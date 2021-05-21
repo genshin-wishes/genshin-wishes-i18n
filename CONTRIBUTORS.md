@@ -1,3 +1,7 @@
+## Brazilian Portuguese
+
+- iRSS#9128
+
 ## Chinese (simplified)
 
 - Soyan#4054
