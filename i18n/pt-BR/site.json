@@ -22,327 +22,327 @@
     "mihoyoError$": {
       "emoji": "\uD83D\uDEA8",
       "title": "",
-      "message": "Não foi possível conectar com o servidor do Genshin."
+      "message": "Não foi possível a conexão com o servidor do Genshin."
     },
     "archiveWarning": "\uD83D\uDEA8 Desde 28 de março de 2021, não podemos recuperar orações com mais de 6 meses porque a miHoYo começou a excluí-los do histórico do jogo. Se você tiver um backup, em breve poderá importá-lo para o site."
   },
   "app": {
     "title": "Genshin Wishes",
     "titleWithPage": "Genshin Wishes — {{ page }}",
-    "description": "Save and keep track of your wishes easily",
+    "description": "Salve e acompanhe suas orações facilmente",
     "menu": "Menu",
-    "getStarted": "Get started",
+    "getStarted": "Comece agora",
     "persistLink": {
-      "persist": "Save on your device for 24h",
-      "doNotPersist": "Don't save the link"
+      "persist": "Salve no seu dispositivo por 24hrs",
+      "doNotPersist": "Não salve o link"
     },
     "user": {
       "uid": "UID {{ uid }}"
     },
     "urlInput": {
       "dialog": {
-        "title": "Your link has expired",
-        "message": "\uD83D\uDEA8 The authentication link is not valid. Please update it. <a href=\"/faq\" target=\"_blank\"> How?</a>",
-        "ok": "Update link"
+        "title": "Seu link expirou",
+        "message": "\uD83D\uDEA8 O link de autenticação não é válido. Por favor atualize. <a href=\"/faq\" target=\"_blank\"> Como?</a>",
+        "ok": "Atualizar link"
       },
-      "pasteInput": "Paste your link here",
-      "correctLink": "\uD83D\uDE0E Ok, it looks fine",
-      "incorrectLink": "\uD83D\uDE31 Incorrect link, please try again!"
+      "pasteInput": "Cole o seu link aqui",
+      "correctLink": "\uD83D\uDE0E Ok, parece bom",
+      "incorrectLink": "\uD83D\uDE31 Link incorreto, por favor tente novamente!"
     },
     "urlSetup": {
-      "title": "Setup your account",
-      "finish": "Finish",
-      "step": "Step {{ step }}",
+      "title": "Configure sua conta",
+      "finish": "Terminar",
+      "step": "Passo {{ step }}",
       "loading": {
-        "title": "Loading your wishes...",
-        "subtitle": "Hold on! This could take few minutes."
+        "title": "Carregando suas orações...",
+        "subtitle": "Aguarde! Isso pode levar alguns minutos."
       },
       "steps$": {
         "1": {
-          "title": "Get your key",
-          "description": "To get your wishes we need a temporary key from the game.\n<span class=\"text-accent\">Don't worry, we will never have access to your Genshin Impact account.</span>",
-          "showVideo": "Show me a video"
+          "title": "Pegue sua chave",
+          "description": "Para pegar suas orações, precisamos de uma chave temporária do jogo.\n<span class=\"text-accent\">Não se preocupe, nunca teremos acesso à sua conta no Genshin Impact.</span>",
+          "showVideo": "Mostre um vídeo"
         },
         "2": {
-          "title": "Hold on! We are getting your wishes \uD83D\uDC0B \uD83D\uDE48",
-          "description": "<span class=\"text-primary\"><b>Repeat these steps next time</b></span> to synchronize new wishes.",
-          "seeWishes": "Go to the app"
+          "title": "Aguarde! Nós estamos pegando as suas orações \uD83D\uDC0B \uD83D\uDE48",
+          "description": "<span class=\"text-primary\"><b>Repita essas etapas na próxima vez</b></span> para sincronizar novas orações.",
+          "seeWishes": "Vá para o aplicativo"
         }
       }
     },
-    "signIn": "Sign-in"
+    "signIn": "Entrar"
   },
   "auth": {
-    "signInMethod": "Choose a sign-in method",
-    "hint": "You are NOT signing into Genshin Impact",
-    "subHint": "We encourage you to choose a separate provider than your in-game account.",
-    "logout.label": "Logout"
+    "signInMethod": "Escolha um método de entrada",
+    "hint": "Você NÃO está entrando no Genshin Impact",
+    "subHint": "Nós encorajamos você a escolher um provedor diferente da sua conta no jogo.",
+    "logout.label": "Sair"
   },
   "banners": {
     "label": "Banners",
-    "seeWishes": "View wishes",
-    "noWishes": "No wishes",
-    "wishes": "{{ count }} wishes",
+    "seeWishes": "Ver orações",
+    "noWishes": "Sem orações",
+    "wishes": "{{ count }} orações",
     "pity5": "Pity 5★",
     "pity4": "Pity 4★",
-    "last5": "Last 5★",
-    "last4": "Last 4★",
-    "none": "None"
+    "last5": "Último 5★",
+    "last4": "Último 4★",
+    "none": "Nenhum"
   },
   "cookie": {
-    "title": "Hey! Paimon left us some cookies. \uD83D\uDE0B\n",
-    "message": "By using this site, you agree to the use of  cookies for traffic analysis only.",
-    "ok": "Ok, I like cookies!"
+    "title": "Ei! Paimon nos deixou alguns cookies. \uD83D\uDE0B\n",
+    "message": "Ao utilizar este site, você concorda com o uso de cookies apenas para análise de tráfego.",
+    "ok": "Ok, eu gosto de cookies!"
   },
   "faq": {
-    "title": "FAQ"
+    "title": "Perguntas frequentes"
   },
   "landing": {
-    "title": "Home",
-    "isItSafe": "Is it safe?",
+    "title": "Início",
+    "isItSafe": "É seguro?",
     "hero": {
-      "title": "Your Genshin Impact wish history in a single glance.",
-      "subtitle": "Backup your Genshin Impact wish history, keep track of your pity and get a shareable view of your pulls statistics!",
-      "advice": "No installation, <b>free</b> and <b>secure</b>."
+      "title": "Seu histórico de orações no Genshin Impact em um único vislumbre.",
+      "subtitle": "Faça backup do seu histórico de orações do Genshin Impact, acompanhe seu pity e tenha uma visão compartilhável de suas estatísticas de tiros!",
+      "advice": "Sem instalação, <b>gratuito</b> e <b>seguro</b>."
     },
     "counters": {
-      "users": "Trusted by over <span class=\"text-primary\"><b>{{ users }}</b></span>\nGenshin Impact players",
-      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} wishes</b></span>\nbacked up and counting"
+      "users": "Aprovado por mais de <span class=\"text-primary\"><b>{{ users }}</b></span>\nJogadores do Genshin Impact",
+      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} orações</b></span>\nsalvas e contando"
     },
     "feature": {
-      "title": "All your wishes in one place.",
-      "publicStats": "Check public stats out of million wishes",
-      "personalStats": "View your personal wish stats",
-      "dashboard": "Compute your pity on each banner",
-      "archive": "Archive wishes more than six month",
-      "platforms": "Available for PC, mobile and console players"
+      "title": "Todas as suas orações em um só lugar.",
+      "publicStats": "Verifique as estatísticas públicas de milhões de orações",
+      "personalStats": "Veja as estatísticas de suas orações pessoais",
+      "dashboard": "Calcule o seu pity em cada banner",
+      "archive": "Guarde suas orações por mais de seis meses",
+      "platforms": "Disponível para jogadores no PC, dispositivos móveis e console"
     },
-    "comments.title": "Happy Genshin Wishes users.",
+    "comments.title": "Felizes usuário do Genshin Wishes.",
     "security": {
-      "title": "We care about security.",
-      "noInstallation": "No installation is required and we don't need your Genshin account.",
-      "temporaryKey": "Your temporary key is not stored on our servers but on your device and is only valid for 24h.",
-      "authorization": "The temporary key does not allow us to authenticate on your account.",
-      "ssl": "We use SSL encryption for all connections between you and our servers.",
-      "learnMore": "Learn more about security"
+      "title": "Nos preocupamos com a segurança.",
+      "noInstallation": "Nenhuma instalação é necessária e não precisamos da sua conta no Genshin.",
+      "temporaryKey": "Sua chave temporária não é armazenada em nossos servidores e só é válida por 24 horas em seu dispositivo.",
+      "authorization": "A chave temporária não nos permite autenticar em sua conta.",
+      "ssl": "Usamos criptografia SSL para todas as conexões entre você e nossos servidores.",
+      "learnMore": "Saiba mais sobre segurança"
     },
     "welcome": {
-      "title": "Welcome on Genshin Wishes.",
-      "description": "We help you track and backup your wish history from Genshin Impact. We can keep track of your pity counter too!"
+      "title": "Bem vindo ao Genshin Wishes.",
+      "description": "Nós o ajudamos a rastrear e fazer backup do seu histórico de orações do Genshin Impact. Podemos acompanhar o seu contador de pity também!"
     },
     "elements": {
-      "pity": "Compute your pity on each banner",
-      "browse": "Easily browse through your wishes",
-      "stats": "View your stats",
-      "archive": "Archive your wishes more than 6 months"
+      "pity": "Calcule o seu pity em cada banner",
+      "browse": "Navegue facilmente pelas suas orações",
+      "stats": "Visualize suas estatísticas",
+      "archive": "Guarde suas orações por mais de 6 meses"
     },
     "footerBanner": {
-      "joinUs": "Join us to show off your lucky pulls!"
+      "joinUs": "Junte-se a nós para mostrar sua sorte nos tiros!"
     },
     "footer": {
-      "content": "Sources of this project are available on GitHub. Genshin Wishes is made and maintained by <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> and <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
+      "content": "O código fonte desse projeto está disponível no GitHub. O Genshin Wishes é feito e mantido por <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> e <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
     }
   },
   "profile": {
     "notFound": {
-      "title": "This profile could not be found!",
-      "description": "This profile is private or the URL is incorrect <span class=\"text-emoji\">\uD83D\uDE05</span>",
-      "goToApp": "Go to Genshin Wishes"
+      "title": "Este perfil não foi encontrado!",
+      "description": "Este perfil é privado ou o URL está incorreto <span class=\"text-emoji\">\uD83D\uDE05</span>",
+      "goToApp": "Vá para Genshin Wishes"
     },
-    "footer": "Automatically import your wishes from PC/Mobile/Console and get your own stats!",
+    "footer": "Importe automaticamente suas orações do PC/Celular/Console e obtenha suas próprias estatísticas!",
     "share": {
-      "title": "Share your statistics page",
-      "label": "Share your stats",
+      "title": "Compartilhe sua página de estatísticas",
+      "label": "Compartilhe suas estatísticas",
       "sharing": {
-        "title": "Stats page sharing",
-        "enabled": "Visible only with the link",
-        "disabled": "Visible only for you"
+        "title": "Compartilhamento da página de estatísticas",
+        "enabled": "Visível apenas com o link",
+        "disabled": "Visível apenas para você"
       },
       "success$": {
         "emoji": "\uD83D\uDCCB",
         "title": "",
-        "message": "Your permalink has been copied to your clipboard!"
+        "message": "Seu link permanente foi copiado para a área de transferência!"
       }
     }
   },
   "settings": {
-    "label": "Settings",
+    "label": "Configurações",
     "authLink": {
-      "title": "Authentication link",
-      "subTitle": "Edit your authentication link",
-      "update": "Save and update"
+      "title": "Link de autenticação",
+      "subTitle": "Edite o seu link de autenticação",
+      "update": "Salvar e atualizar"
     },
     "lang": {
-      "title": "Language",
-      "subTitle": "Change the site and items language",
+      "title": "Idioma",
+      "subTitle": "Alterar o idioma do site e dos itens",
       "success$": {
         "emoji": "",
         "title": "",
-        "message": "Your language has been updated."
+        "message": "Seu idioma foi atualizado."
       },
-      "action": "Save language"
+      "action": "Salvar idioma"
     },
     "wholeClock": {
-      "title": "Time format",
-      "subTitle": "Change the site time format",
-      "true": "24h",
-      "false": "12h (AM/PM)",
+      "title": "Formato da hora",
+      "subTitle": "Altere o formato da hora do site",
+      "true": "24hrs",
+      "false": "12hrs (AM/PM)",
       "success$": {
         "emoji": "",
         "title": "",
-        "message": "The time format has been updated."
+        "message": "O formato da hora foi atualizado."
       },
-      "action": "Save format"
+      "action": "Salvar formato"
     },
     "deleteAccount": {
-      "title": "Delete your account",
-      "subTitle": "Delete all your data on Genshin Wishes",
-      "hint": "Type <b>{{ confirmation }}</b> before clicking on the delete button.",
-      "label": "Type here",
-      "action": "Delete my account",
-      "confirmation": "DELETE MY ACCOUNT"
+      "title": "Excluir sua conta",
+      "subTitle": "Exclua todos os seus dados no Genshin Wishes",
+      "hint": "Digite <b>{{ confirmation }}</b> antes de clicar no botão excluir.",
+      "label": "Digite aqui",
+      "action": "Excluir a minha conta",
+      "confirmation": "EXCLUA A MINHA CONTA"
     },
     "deleteAccountConfirm": {
-      "title": "Are you sure that you want to delete your account?",
-      "message": "This action is irreversible."
+      "title": "Tem certeza que deseja excluir a sua conta?",
+      "message": "Esta ação é irreversível."
     },
     "export": {
-      "title": "Export your wishes",
-      "subTitle": "Export all your wishes stored on Genshin Wishes",
+      "title": "Exporte suas orações",
+      "subTitle": "Exporte todas as suas orações armazenadas no Genshin Wishes",
       "confirm": {
-        "title": "Are you sure?",
-        "description": "Don’t worry they will also remain on your account."
+        "title": "Você tem certeza?",
+        "description": "Não se preocupe, eles também permanecerão em sua conta."
       },
-      "action": "Export my wishes"
+      "action": "Exportar minhas orações"
     }
   },
   "publicStats": {
-    "label": "Public stats"
+    "label": "Estatísticas públicas"
   },
   "stats": {
-    "label": "Stats",
-    "averageGap": "Average gap",
-    "na": "N/A",
-    "wishesTotalCount": "Wishes total count",
-    "empty": "Sorry, we could not find anything...",
-    "rankDistribution.title": "Wish ranks",
-    "focusDistribution.title": "{{ rankType }}★ exclusivity",
-    "fourStarsDetails.title": "4★ types",
-    "fiveStarsList.title": "5★ list",
-    "fourStarsList.title": "4★ list",
-    "bannerActivity.title": "Wishes over time",
+    "label": "Estatísticas",
+    "averageGap": "Média",
+    "na": "N/D",
+    "wishesTotalCount": "Contagem do total de orações",
+    "empty": "Desculpe, não conseguimos encontrar nada...",
+    "rankDistribution.title": "Classificação das orações",
+    "focusDistribution.title": "{{ rankType }}★ exclusividade",
+    "fourStarsDetails.title": "4★ tipos",
+    "fiveStarsList.title": "5★ lista",
+    "fourStarsList.title": "4★ lista",
+    "bannerActivity.title": "Orações ao longo do tempo",
     "filters": {
-      "filterByEvent": "Filter by event",
-      "selectEvent": "Select an event",
-      "allEvents": "All events"
+      "filterByEvent": "Filtrar por evento",
+      "selectEvent": "Selecione um evento",
+      "allEvents": "Todos os eventos"
     }
   },
   "nav": {
-    "helpUs.label": "Want to help us?",
-    "request.label": "Bug report & feedback",
-    "discord.label": "Join us on Discord",
-    "coffee.label": "Support our work",
-    "i18n.label": "Contribute to the translation"
+    "helpUs.label": "Deseja nos ajudar?",
+    "request.label": "Relatório de bug e comentários",
+    "discord.label": "Junte-se a nós no Discord",
+    "coffee.label": "Apoie nosso trabalho",
+    "i18n.label": "Contribua com a tradução"
   },
   "wishes": {
-    "label": "Wishes",
-    "exclusive": "Exclusive",
-    "notExclusive": "Not exclusive",
+    "label": "Orações",
+    "exclusive": "Exclusivo",
+    "notExclusive": "Não exclusivo",
     "noWishes": {
-      "title": "No wish found for this banner",
-      "message": "You can still play with Amber <span class=\"text-emoji\">\uD83D\uDE05</span>"
+      "title": "Nenhuma oração encontrada para este banner",
+      "message": "Você ainda pode jogar com Amber <span class=\"text-emoji\">\uD83D\uDE05</span>"
     },
     "noResult": {
-      "title": "Oh no! There is nothing like this!",
-      "message": "You should edit your filters"
+      "title": "Ah não! Não há nada assim!",
+      "message": "Você deve editar seus filtros"
     },
-    "backToList": "Back to banners",
+    "backToList": "Voltar para os banners",
     "bannersNav": "Banners",
-    "itemNotFound": "Item not found, we will update our database as soon as possible!",
+    "itemNotFound": "Item não encontrado, atualizaremos nosso banco de dados o mais rápido possível!",
     "itemType$": {
-      "Character": "Character",
-      "Weapon": "Weapon"
+      "Character": "Personagem",
+      "Weapon": "Arma"
     },
     "filters": {
-      "freeText": "Filter by name",
-      "itemType": "Filter by type",
-      "rank": "Filter by rank",
-      "characterEvent": "Filter by character event",
-      "weaponEvent": "Filter by weapon event",
-      "selectEvent": "Select events",
-      "reset": "Reset all"
+      "freeText": "Filtrar por nome",
+      "itemType": "Filtrar por tipo",
+      "rank": "Filtrar por classificação",
+      "characterEvent": "Filtrar por evento de personagem",
+      "weaponEvent": "Filtrar por evento de arma",
+      "selectEvent": "Selecione os eventos",
+      "reset": "Redefinir tudo"
     },
     "update": {
-      "label": "Update wishes"
+      "label": "Atualizar as orações"
     },
     "deletion": {
-      "title": "Delete old wishes",
-      "description": "Are you sure you want to delete your old wishes?\n\nAny deletion is irreversible.",
-      "ok": "❌ Yes, delete all my wishes"
+      "title": "Excluir orações antigas",
+      "description": "Tem certeza de que deseja excluir suas orações antigas?\n\nQualquer exclusão é irreversível.",
+      "ok": "❌ Sim, exclua todas as minhas orações"
     },
     "differentUidDialog": {
-      "title": "Different account",
-      "description": "\uD83D\uDEA8 The wishes you are about to add are not linked to the same Genshin account.\n\nWhat do you want to do?",
-      "delete": "Delete old wishes"
+      "title": "Conta diferente",
+      "description": "\uD83D\uDEA8 As orações que você está prestes a adicionar não estão vinculadas à mesma conta do Genshin.\n\nO que você deseja fazer?",
+      "delete": "Excluir orações antigas"
     },
     "import": {
-      "saving": "Saving...",
+      "saving": "Salvando...",
       "recovery$": {
         "emoji": "",
         "title": "",
-        "message": "Recovering your wishes import..."
+        "message": "Recuperando a importação de suas orações..."
       },
       "success$": {
         "emoji": "\uD83E\uDD29",
         "title": "",
-        "message": "<b>{{ wishes }}</b> new wishes found in {{ banner }} !"
+        "message": "<b>{{ wishes }}</b> novas orações encontradas no {{ banner }} !"
       },
       "noData$": {
         "emoji": "\uD83D\uDE27",
-        "title": "Sorry, no new wishes found",
-        "message": "Wishes made less than an hour ago cannot be added yet."
+        "title": "Desculpe, não foram encontradas novas orações",
+        "message": "Ainda não é possível adicionar orações feitas há menos de uma hora."
       },
       "invalidAuthkey$": {
         "emoji": "\uD83D\uDEA8",
         "title": "",
-        "message": "Could not authenticate you."
+        "message": "Não foi possível autenticar você."
       },
       "newWishesDuringImport$": {
         "emoji": "\uD83D\uDEA8",
         "title": "",
-        "message": "Sorry, your wish history changed during the import. Please try again."
+        "message": "Desculpe, seu histórico de orações mudou durante a importação. Por favor, tente novamente."
       },
       "alreadyImporting$": {
         "emoji": "\uD83D\uDEA8",
         "title": "",
-        "message": "An import of your wishes is already occurring, please be patient!"
+        "message": "Uma importação de suas orações já está ocorrendo, por favor, seja paciente!"
       }
     },
     "banners$": {
       "ALL": {
-        "title": "All wishes",
-        "titleWithCount": "All wishes ({{ wishes }})"
+        "title": "Todas as orações",
+        "titleWithCount": "Todas as orações ({{ wishes }})"
       },
       "NOVICE": {
-        "title": "Novice banner",
-        "titleWithCount": "Novice banner ({{ wishes }} wishes)"
+        "title": "Desejos de Novato",
+        "titleWithCount": "Desejos de Novato ({{ wishes }} orações)"
       },
       "PERMANENT": {
-        "title": "Permanent banner",
-        "titleWithCount": "Permanent banner ({{ wishes }} wishes)"
+        "title": "Desejo comum",
+        "titleWithCount": "Desejo comum ({{ wishes }} orações)"
       },
       "CHARACTER_EVENT": {
-        "title": "Character banner",
-        "titleWithCount": "Character banner ({{ wishes }} wishes)"
+        "title": "Oração do Evento do Personagem",
+        "titleWithCount": "Oração do Evento do Personagem ({{ wishes }} orações)"
       },
       "WEAPON_EVENT": {
-        "title": "Weapon banner",
-        "titleWithCount": "Weapon banner ({{ wishes }} wishes)"
+        "title": "Oração do Evento de Arma",
+        "titleWithCount": "Oração do Evento de Arma ({{ wishes }} orações)"
       }
     }
   },
   "footer": {
-    "disclaimer": "Genshin Wishes is not affiliated to miHoYo. Genshin Impact and miHoYo are trademarks or registered trademarks of miHoYo. Genshin Impact © miHoYo.",
-    "claim": "For any claim, please <a href=\"mailto:contact.genshin.wishes@gmail.com\">contact us</a>."
+    "disclaimer": "Genshin Wishes não é afiliado à miHoYo. Genshin Impact e miHoYo são marcas comerciais ou marcas registradas da miHoYo. Genshin Impact © miHoYo.",
+    "claim": "Para qualquer reclamação, por favor <a href=\"mailto:contact.genshin.wishes@gmail.com\">contacte-nos</a>."
   }
 }

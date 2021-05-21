@@ -1,8 +1,8 @@
 ## O que é Genshin Wishes?
-Genshin Wishes é um site gratuito [com cídigo público](https://github.com/genshin-wishes) que ajuda você a salvar e navegar pelas suas orações do Genshin Impact fora do jogo. É feito e mantido por [Colin Auberger](https://www.linkedin.com/in/colin-auberger/) e [Jimmy Vergerolle](https://vergerolle.fr).
+Genshin Wishes é um site gratuito [com código público](https://github.com/genshin-wishes) que ajuda você a salvar e navegar pelas suas orações do Genshin Impact fora do jogo. É feito e mantido por [Colin Auberger](https://www.linkedin.com/in/colin-auberger/) e [Jimmy Vergerolle](https://vergerolle.fr).
 
 - Faça backup das suas orações pelo tempo que quiser
-- Verifique seu contador do pity em todos os eventos e banners permanentes
+- Verifique seu contador de pity em todos os eventos e banners permanentes
 - Navegue pelas suas orações facilmente com alguns filtros sofisticados
 - Verifique estatísticas detalhadas sobre suas orações (para os nerds como nós, que gostam de figuras e gráficos 🤓)
 
@@ -14,7 +14,7 @@ Nós simplesmente os obtemos de seu histórico de orações. O histórico de ora
 Dê uma olhada no [guia](https://www.youtube.com/watch?v=a16X0R_rSZc) ou siga as instruções abaixo:
 1) Pressione "Feedback" no menu da Paimon
 2) Uma página deve abrir no seu navegador
-3) Copie a URL e cole no Genshin Wishes.
+3) Copie o URL e cole no Genshin Wishes.
 
 ### Android
 Dê uma olhada no [guia](https://www.youtube.com/watch?v=hok0jCjSrjo) ou siga as instruções abaixo:
@@ -22,7 +22,7 @@ Dê uma olhada no [guia](https://www.youtube.com/watch?v=hok0jCjSrjo) ou siga as
 2) Desative o Wi-Fi e a conexão de dados
 3) Pressione o botão de atualização no canto superior direito
 4) A página deve apresentar uma mensagem de erro, exibindo seu URL
-5) Copie a URL e cole no Genshin Wishes.
+5) Copie o URL e cole no Genshin Wishes.
 
 ### iOS
 Dê uma olhada no [guia](https://www.youtube.com/watch?v=HW8nywx9Tio) ou siga as instruções abaixo:
@@ -30,14 +30,14 @@ Dê uma olhada no [guia](https://www.youtube.com/watch?v=HW8nywx9Tio) ou siga as
 2) Na página de suporte, pressione "Problemas com contas"
 3) No resultado, pressione o terceiro item "Como posso mudar a minha senha?"
 4) No texto exibido, clique no link azul "Ajustes da conta miHoYo"
-5) Uma página deve abrir no seu navegador. Copie a URL da página e cole no Genshin Wishes.
+5) Uma página deve abrir no seu navegador. Copie o URL da página e cole no Genshin Wishes.
    Importante: Esta URL NÃO nos permite alterar sua senha.
 
 ### Consoles
 1) Abra sua caixa de e-mails do jogo durante um evento
 2) Abra a mensagem relacionada ao evento
 3) Deve ter um código QR, leia-o com seu telefone
-4) Copie a URL e cole no Genshin Wishes.
+4) Copie o URL e cole no Genshin Wishes.
 
 ## É seguro para uso?
 Sim. Como jogadores do Genshin Impact, estamos muito preocupados com a segurança da conta.
