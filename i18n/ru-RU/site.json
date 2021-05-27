@@ -24,7 +24,13 @@
       "title": "",
       "message": "Неудаётся подключиться к серверу Genshin Impact."
     },
-    "archiveWarning": "\uD83D\uDEA8 Начиная с 28 марта 2021 года мы не можем получить ваши молитвы, которые старше 6 месяцев, так как miHoYo удаляет их из своей базы данных. Если вы сохраняли эти молитвы при помощи каких-либо других инструментов, то вскоре мы добавим возможность импортировать их вручную."
+    "archiveWarning": "\uD83D\uDEA8 Начиная с 28 марта 2021 года мы не можем получить ваши молитвы, которые старше 6 месяцев, так как miHoYo удаляет их из своей базы данных. Если вы сохраняли эти молитвы при помощи каких-либо других инструментов, то вскоре мы добавим возможность импортировать их вручную.",
+    "rank": "{{ rank }}★",
+    "region$": {
+      "6": "America",
+      "7": "Europe",
+      "8": "Asia"
+    }
   },
   "app": {
     "title": "Genshin Wishes",
@@ -217,7 +223,53 @@
     }
   },
   "publicStats": {
-    "label": "Публичная статистика"
+    "label": "Global statistics",
+    "noResult": {
+      "title": "No stats were gathered for this event yet!",
+      "description": "You can still check out other events stats or remove the event filter.",
+      "reset": "Remove the event filter"
+    },
+    "banners$": {
+      "ALL": "Global stats.",
+      "CHARACTER_EVENT": "Character evt. banner stats.",
+      "WEAPON_EVENT": "Weapon evt. banner stats.",
+      "PERMANENT": "Permanent banner stats.",
+      "NOVICE": "Novice banner stats."
+    },
+    "gwUsersOnly": "From Genshin Wishes users only (updated every {{ minutes }} minutes).",
+    "allEventStats.label": "All event stats",
+    "learnMore": {
+      "title": "About our statistics",
+      "description": "If you want to learn more about the wishes stats and pity, we wrote a reddit post about this!",
+      "headToPost": "Head to the post"
+    },
+    "exclusivityRate": {
+      "fiftyFifty": "50:50 rate",
+      "threeFour": "75:25 rate"
+    },
+    "usersPerRegion": {
+      "title": "Wishing players - {{ count }}"
+    },
+    "wishesPerRegion": {
+      "title": "Wish amount - {{ count }}"
+    },
+    "pityDistribution.title": "{{ rank }}★ quantity by pull number",
+    "countPerRank": {
+      "title": "{{ rank }}★ Count",
+      "total": "Total count"
+    },
+    "wishesPerBanner.title": "Wishes quantity per banner",
+    "eventCard": {
+      "outOf": "out of {{ count }} wishes",
+      "itemCount": "{{ count }} - ({{ percent }}% of {{ rank }}★)"
+    },
+    "allStats": {
+      "label": "All statistics"
+    },
+    "itemsList": {
+      "title": "All drops",
+      "cardTitle": "All {{ rank }}★ drops"
+    }
   },
   "stats": {
     "label": "Статистика",
