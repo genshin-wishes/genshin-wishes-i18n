@@ -117,7 +117,7 @@
     },
     "feature": {
       "title": "All your wishes in one place.",
-      "publicStats": "Check global stats out of million wishes",
+      "globalStats": "Check global stats out of million wishes",
       "personalStats": "View your personal wish stats",
       "dashboard": "Compute your pity on each banner",
       "archive": "Archive wishes more than six month",
@@ -222,7 +222,7 @@
       "action": "Export my wishes"
     }
   },
-  "publicStats": {
+  "globalStats": {
     "label": "Global statistics",
     "noResult": {
       "title": "No stats were gathered for this event yet!",

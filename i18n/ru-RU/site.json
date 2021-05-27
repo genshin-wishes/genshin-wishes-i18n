@@ -117,7 +117,7 @@
     },
     "feature": {
       "title": "Все ваши молитвы в одном месте.",
-      "publicStats": "Просмотрите публичную статистику более миллиона молитв",
+      "globalStats": "Просмотрите публичную статистику более миллиона молитв",
       "personalStats": "Смотрите свою собственную статистику",
       "dashboard": "Считайте гаранты для каждого баннера",
       "archive": "Храните историю молитв более шести месяцев",
@@ -222,7 +222,7 @@
       "action": "Экспортировать мои молитвы"
     }
   },
-  "publicStats": {
+  "globalStats": {
     "label": "Global statistics",
     "noResult": {
       "title": "No stats were gathered for this event yet!",

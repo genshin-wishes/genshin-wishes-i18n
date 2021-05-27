@@ -117,7 +117,7 @@
     },
     "feature": {
       "title": "Todos tus deseos en un solo lugar.",
-      "publicStats": "Mira las estadísticas públicas de millones de deseos",
+      "globalStats": "Mira las estadísticas públicas de millones de deseos",
       "personalStats": "Mira tus propias estadísticas",
       "dashboard": "Calcula tu pity en cada banner",
       "archive": "Archiva deseos de hace más de 6 meses",
@@ -222,7 +222,7 @@
       "action": "Exporta mis deseos"
     }
   },
-  "publicStats": {
+  "globalStats": {
     "label": "Global statistics",
     "noResult": {
       "title": "No stats were gathered for this event yet!",

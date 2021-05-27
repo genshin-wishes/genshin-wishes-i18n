@@ -117,7 +117,7 @@
     },
     "feature": {
       "title": "All your wishes in one place.",
-      "publicStats": "检查公共统计出的百万祈愿",
+      "globalStats": "检查公共统计出的百万祈愿",
       "personalStats": "查看您的个人祈愿统计",
       "dashboard": "计算保底的每个祈愿活动",
       "archive": "存档祈愿超过六个月",
@@ -229,7 +229,7 @@
     "coffee.label": "支持我们的工作",
     "i18n.label": "协助翻译"
   },
-  "publicStats": {
+  "globalStats": {
     "label": "Global statistics",
     "noResult": {
       "title": "No stats were gathered for this event yet!",

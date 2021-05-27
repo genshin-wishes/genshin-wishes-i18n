@@ -117,7 +117,7 @@
         },
         "feature": {
             "title": "All deine Gebete an einem Ort.",
-            "publicStats": "Schaue dir öffentliche Statistiken von Millionen Gebeten an.",
+            "globalStats": "Schaue dir öffentliche Statistiken von Millionen Gebeten an.",
             "personalStats": "Schaue deine persönlichen Gebetsstatistiken an",
             "dashboard": "Berechne dein Mitleid auf jedem Banner",
             "archive": "Archiviere Gebete länger als sechs Monate",
@@ -222,7 +222,7 @@
             "action": "Exportiere meine Gebete"
         }
     },
-    "publicStats": {
+    "globalStats": {
         "label": "Global statistics",
         "noResult": {
             "title": "No stats were gathered for this event yet!",

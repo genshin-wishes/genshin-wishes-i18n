@@ -117,7 +117,7 @@
     },
     "feature": {
       "title": "Tous vos vœux au même endroit !",
-      "publicStats": "Regardez des stats globales sur des millions de vœux",
+      "globalStats": "Regardez des stats globales sur des millions de vœux",
       "personalStats": "Regardez vos stats personnelles de vœux",
       "dashboard": "Calculez votre pity sur chaque bannière",
       "archive": "Archivez vos vœux pour plus de 6 mois",
@@ -229,7 +229,7 @@
     "coffee.label": "Soutenez notre travail",
     "i18n.label": "Contribuez à la traduction"
   },
-  "publicStats": {
+  "globalStats": {
     "label": "Statistiques globales",
     "noResult": {
       "title": "Aucune stat n'a encore été collectée pour cet événement !",

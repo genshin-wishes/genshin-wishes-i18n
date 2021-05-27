@@ -117,7 +117,7 @@
     },
     "feature": {
       "title": "Todas as suas orações em um só lugar.",
-      "publicStats": "Verifique as estatísticas públicas de milhões de orações",
+      "globalStats": "Verifique as estatísticas públicas de milhões de orações",
       "personalStats": "Veja as estatísticas de suas orações pessoais",
       "dashboard": "Calcule o seu pity em cada banner",
       "archive": "Guarde suas orações por mais de seis meses",
@@ -222,7 +222,7 @@
       "action": "Exportar minhas orações"
     }
   },
-  "publicStats": {
+  "globalStats": {
     "label": "Global statistics",
     "noResult": {
       "title": "No stats were gathered for this event yet!",

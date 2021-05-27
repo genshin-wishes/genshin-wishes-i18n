@@ -117,7 +117,7 @@
     },
     "feature": {
       "title": "祈願履歴を一箇所にバックアップ",
-      "publicStats": "みんなの祈願の統計を表示",
+      "globalStats": "みんなの祈願の統計を表示",
       "personalStats": "個人の祈願の統計を表示",
       "dashboard": "祈願の種類ごとの天井カウントの計算",
       "archive": "6ヶ月以上の履歴を保存",
@@ -222,7 +222,7 @@
       "action": "祈願履歴をエクスポート!"
     }
   },
-  "publicStats": {
+  "globalStats": {
     "label": "Global statistics",
     "noResult": {
       "title": "No stats were gathered for this event yet!",
