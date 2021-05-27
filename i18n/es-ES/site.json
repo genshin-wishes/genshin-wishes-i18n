@@ -231,11 +231,11 @@
       "reset": "Remove the event filter"
     },
     "banners$": {
-      "ALL": "Global stats.",
-      "CHARACTER_EVENT": "Character evt. banner stats.",
-      "WEAPON_EVENT": "Weapon evt. banner stats.",
-      "PERMANENT": "Permanent banner stats.",
-      "NOVICE": "Novice banner stats."
+      "ALL": "Global stats",
+      "CHARACTER_EVENT": "Character evt. banner stats",
+      "WEAPON_EVENT": "Weapon evt. banner stats",
+      "PERMANENT": "Permanent banner stats",
+      "NOVICE": "Novice banner stats"
     },
     "gwUsersOnly": "From Genshin Wishes users only (updated every {{ minutes }} minutes).",
     "allEventStats.label": "All event stats",

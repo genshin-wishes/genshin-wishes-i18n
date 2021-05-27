@@ -238,14 +238,14 @@
       "reset": "Retirer le filtre par événement"
     },
     "banners$": {
-      "ALL": "Statistiques globales.",
-      "CHARACTER_EVENT": "Stats de la bannière perso.",
-      "WEAPON_EVENT": "Stats de la bannière arme.",
-      "PERMANENT": "Stats de la bannière perma.",
-      "NOVICE": "Stats de la bannière débutant."
+      "ALL": "Statistiques globales",
+      "CHARACTER_EVENT": "Stats bannière personnage",
+      "WEAPON_EVENT": "Stats bannière arme",
+      "PERMANENT": "Stats bannière permanente",
+      "NOVICE": "Stats bannière débutant"
     },
     "gwUsersOnly": "D'utilisateurs Genshin Wishes uniquement (mis à jour toutes les {{ minutes }} minutes).",
-    "allEventStats.label": "Toutes les stats de l'evt.",
+    "allEventStats.label": "Statistiques de l'événement",
     "learnMore": {
       "title": "À propos de nos statistiques",
       "description": "Si vous voulez en apprendre plus à propos des statistiques de vœux et de pity, nous avons écrit un post reddit post à ce sujet !",
@@ -263,8 +263,8 @@
     },
     "pityDistribution.title": "Quantité de {{ rank }}★ par numéro de pull",
     "countPerRank": {
-      "title": "Quantité de {{ rank }}★",
-      "total": "Quantité totale"
+      "title": "Qté de {{ rank }}★",
+      "total": "Qté totale"
     },
     "wishesPerBanner.title": "Quantité de vœux par bannière",
     "eventCard": {
