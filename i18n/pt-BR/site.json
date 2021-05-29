@@ -117,14 +117,14 @@
       "archive": "Guarde suas orações por mais de seis meses",
       "platforms": "Disponível para jogadores no PC, dispositivos móveis e console"
     },
-    "comments.title": "Felizes usuário do Genshin Wishes.",
+    "comments.title": "Usuários felizes do Genshin Wishes.",
     "security": {
       "title": "Nos preocupamos com a segurança.",
       "noInstallation": "Nenhuma instalação é necessária e não precisamos da sua conta no Genshin.",
       "temporaryKey": "Sua chave temporária não é armazenada em nossos servidores e só é válida por 24 horas em seu dispositivo.",
       "authorization": "A chave temporária não nos permite autenticar em sua conta.",
       "ssl": "Usamos criptografia SSL para todas as conexões entre você e nossos servidores.",
-      "learnMore": "Saiba mais sobre segurança"
+      "learnMore": "Saiba mais sobre a segurança"
     },
     "welcome": {
       "title": "Bem vindo ao Genshin Wishes.",
