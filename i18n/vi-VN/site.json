@@ -11,6 +11,7 @@
     "retry": "Thử lại",
     "soon": "Sớm",
     "beta": "Thử nghiệm",
+    "new": "New",
     "save": "Lưu",
     "goBack": "Quay lại",
     "moreOf": "Thêm {{ content }}",
@@ -24,7 +25,13 @@
       "title": "",
       "message": "Không thể liên hết tới máy chủ Genshin."
     },
-    "archiveWarning": "\uD83D\uDEA8 Since March 28, 2021 we can’t retrieve wishes older than 6 months because miHoYo started deleting them from the in-game history. If you have a backup, you will soon be able to import it on the site."
+    "archiveWarning": "\uD83D\uDEA8 Since March 28, 2021 we can’t retrieve wishes older than 6 months because miHoYo started deleting them from the in-game history. If you have a backup, you will soon be able to import it on the site.",
+    "rank": "{{ rank }}★",
+    "region$": {
+      "6": "America",
+      "7": "Europe",
+      "8": "Asia"
+    }
   },
   "app": {
     "title": "Genshin Wishes",
@@ -111,7 +118,7 @@
     },
     "feature": {
       "title": "All your wishes in one place.",
-      "publicStats": "Check public stats out of million wishes",
+      "globalStats": "Check public stats out of million wishes",
       "personalStats": "View your personal wish stats",
       "dashboard": "Compute your pity on each banner",
       "archive": "Archive wishes more than six month",
@@ -216,8 +223,54 @@
       "action": "Xuất danh sách cầu nguyện"
     }
   },
-  "publicStats": {
-    "label": "Public stats"
+  "globalStats": {
+    "label": "Global statistics",
+    "noResult": {
+      "title": "No stats were gathered for this event yet!",
+      "description": "You can still check out other events stats or remove the event filter.",
+      "reset": "Remove the event filter"
+    },
+    "banners$": {
+      "ALL": "Global stats",
+      "CHARACTER_EVENT": "Character evt. banner stats",
+      "WEAPON_EVENT": "Weapon evt. banner stats",
+      "PERMANENT": "Permanent banner stats",
+      "NOVICE": "Novice banner stats"
+    },
+    "gwUsersOnly": "From Genshin Wishes users only (updated every {{ minutes }} minutes).",
+    "allEventStats.label": "All event stats",
+    "learnMore": {
+      "title": "About our statistics",
+      "description": "If you want to learn more about the wishes stats and pity, we wrote a reddit post about this!",
+      "headToPost": "Head to the post"
+    },
+    "exclusivityRate": {
+      "fiftyFifty": "50:50 rate",
+      "threeFour": "75:25 rate"
+    },
+    "usersPerRegion": {
+      "title": "Wishing players - {{ count }}"
+    },
+    "wishesPerRegion": {
+      "title": "Wish amount - {{ count }}"
+    },
+    "pityDistribution.title": "{{ rank }}★ quantity by pull number",
+    "countPerRank": {
+      "title": "{{ rank }}★ Count",
+      "total": "Total count"
+    },
+    "wishesPerBanner.title": "Wishes quantity per banner",
+    "eventCard": {
+      "outOf": "out of {{ count }} wishes",
+      "itemCount": "{{ count }} - ({{ percent }}% of {{ rank }}★)"
+    },
+    "allStats": {
+      "label": "All statistics"
+    },
+    "itemsList": {
+      "title": "All drops",
+      "cardTitle": "All {{ rank }}★ drops"
+    }
   },
   "stats": {
     "label": "Số liệu",

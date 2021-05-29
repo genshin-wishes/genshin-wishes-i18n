@@ -11,6 +11,7 @@
         "retry": "Erneut Versuchen",
         "soon": "Bald",
         "beta": "Beta",
+        "new": "New",
         "save": "Speichern",
         "goBack": "Zurück",
         "moreOf": "Mehr {{ content }}",
@@ -24,7 +25,13 @@
             "title": "",
             "message": "Konnte nicht zu den Genshin Servern verbinden."
         },
-        "archiveWarning": "\uD83D\uDEA8 Seit 28. März 2021 können wir keine Gebete sichern, die älter sind als 6 Monate, weil miHoYo angegangen hat diese aus dem In-Game Verlauf zu löschen. Wenn du ein Backup hast, hast du bald die Möglichkeit diese auf unserer Seite zu Importieren."
+        "archiveWarning": "\uD83D\uDEA8 Seit 28. März 2021 können wir keine Gebete sichern, die älter sind als 6 Monate, weil miHoYo angegangen hat diese aus dem In-Game Verlauf zu löschen. Wenn du ein Backup hast, hast du bald die Möglichkeit diese auf unserer Seite zu Importieren.",
+        "rank": "{{ rank }}★",
+        "region$": {
+            "6": "America",
+            "7": "Europe",
+            "8": "Asia"
+        }
     },
     "app": {
         "title": "Genshin Wishes",
@@ -111,7 +118,7 @@
         },
         "feature": {
             "title": "All deine Gebete an einem Ort.",
-            "publicStats": "Schaue dir öffentliche Statistiken von Millionen Gebeten an.",
+            "globalStats": "Schaue dir öffentliche Statistiken von Millionen Gebeten an.",
             "personalStats": "Schaue deine persönlichen Gebetsstatistiken an",
             "dashboard": "Berechne dein Mitleid auf jedem Banner",
             "archive": "Archiviere Gebete länger als sechs Monate",
@@ -216,8 +223,54 @@
             "action": "Exportiere meine Gebete"
         }
     },
-    "publicStats": {
-        "label": "Öffentliche Statistiken"
+    "globalStats": {
+        "label": "Global statistics",
+        "noResult": {
+            "title": "No stats were gathered for this event yet!",
+            "description": "You can still check out other events stats or remove the event filter.",
+            "reset": "Remove the event filter"
+        },
+        "banners$": {
+            "ALL": "Global stats",
+            "CHARACTER_EVENT": "Character evt. banner stats",
+            "WEAPON_EVENT": "Weapon evt. banner stats",
+            "PERMANENT": "Permanent banner stats",
+            "NOVICE": "Novice banner stats"
+        },
+        "gwUsersOnly": "From Genshin Wishes users only (updated every {{ minutes }} minutes).",
+        "allEventStats.label": "All event stats",
+        "learnMore": {
+            "title": "About our statistics",
+            "description": "If you want to learn more about the wishes stats and pity, we wrote a reddit post about this!",
+            "headToPost": "Head to the post"
+        },
+        "exclusivityRate": {
+            "fiftyFifty": "50:50 rate",
+            "threeFour": "75:25 rate"
+        },
+        "usersPerRegion": {
+            "title": "Wishing players - {{ count }}"
+        },
+        "wishesPerRegion": {
+            "title": "Wish amount - {{ count }}"
+        },
+        "pityDistribution.title": "{{ rank }}★ quantity by pull number",
+        "countPerRank": {
+            "title": "{{ rank }}★ Count",
+            "total": "Total count"
+        },
+        "wishesPerBanner.title": "Wishes quantity per banner",
+        "eventCard": {
+            "outOf": "out of {{ count }} wishes",
+            "itemCount": "{{ count }} - ({{ percent }}% of {{ rank }}★)"
+        },
+        "allStats": {
+            "label": "All statistics"
+        },
+        "itemsList": {
+            "title": "All drops",
+            "cardTitle": "All {{ rank }}★ drops"
+        }
     },
     "stats": {
         "label": "Statistiken",
