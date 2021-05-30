@@ -118,11 +118,11 @@
     },
     "feature": {
       "title": "Tổng hợp tất cả cầu nguyện của bạn",
-      "globalStats": "Kiểm tra số liệu công khai trong số hàng triệu cầu nguyện",
+      "globalStats": "Truy cập các số liệu công khai từ hàng triệu cầu nguyện",
       "personalStats": "Xem các số liệu cá nhân của bạn",
       "dashboard": "Tính toán bảo hiểm từng banner",
       "archive": "Lưu giữ lịch sử cầu nguyện trên 6 tháng",
-      "platforms": "Có sẵn trên PC, mobile, console"
+      "platforms": "Có sẵn trên PC, mobile và console"
     },
     "comments.title": "Chúc mừng người dùng Genshin Wishes.",
     "security": {
@@ -140,11 +140,11 @@
     "elements": {
       "pity": "Tính toán bảo hiểm từng banner",
       "browse": "Xem lại các cầu nguyện",
-      "stats": "Xem các thống số",
+      "stats": "Xem các số liệu",
       "archive": "Lưu trữ lịch sử cầu nguyện trên 6 tháng"
     },
     "footerBanner": {
-      "joinUs": "Chia sê cùng chúng tôi những lần cầu nguyện may mắn của bạn"
+      "joinUs": "Chia sẻ cùng chúng tôi những cầu nguyện may mắn của bạn"
     },
     "footer": {
       "content": "Mã nguồn của dự án này có sẵn trên GitHub. Genshin Wishes được thực hiện và duy trì bởi <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> và <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
@@ -162,7 +162,7 @@
       "label": "Chia sẻ số liệu thống kê của bạn",
       "sharing": {
         "title": "Chia sẻ trang số liệu",
-        "enabled": "Chia sẻ với ai có đường dẫn này",
+        "enabled": "Chia sẻ với người có đường dẫn này",
         "disabled": "Chia sẻ chỉ với bạn"
       },
       "success$": {
@@ -238,7 +238,7 @@
       "NOVICE": "Số liệu banner tân thủ"
     },
     "gwUsersOnly": "Người dùng Genshin Wishes chỉ được (cập nhật mỗi {{ minutes }} phút).",
-    "allEventStats.label": "Số liệt tất cả sự kiện",
+    "allEventStats.label": "Số liệu tất cả sự kiện",
     "learnMore": {
       "title": "Về số liệu của chúng tôi",
       "description": "Nếu bạn muốn tìm hiểu thêm về số liệu cầu nguyện và bảo hiểm, chúng tôi đã viết một bài đăng trên reddit về điều này!",
