@@ -1,6 +1,6 @@
 ## Brazilian Portuguese
 
-- iRSS#9128
+- Raphael Souza ([@rssouza](https://twitter.com/rssouza), iRSS#9128)
 
 ## Chinese (simplified)
 
