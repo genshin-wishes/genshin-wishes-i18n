@@ -11,6 +11,7 @@
     "retry": "重试",
     "soon": "即将推出",
     "beta": "Beta版",
+    "new": "New",
     "save": "保存",
     "goBack": "回去",
     "moreOf": "更多的 {{ content }}",
@@ -24,7 +25,13 @@
       "title": "",
       "message": "无法连接到《原神》服务器"
     },
-    "archiveWarning": "\uD83D\uDEA8 自2021年3月28日起，我们无法取回超过6个月的祈愿，因为米哈游开始将其从游戏内的历史记录中删除。 如果您有备份，则很快就可以将其导入该网站。"
+    "archiveWarning": "\uD83D\uDEA8 自2021年3月28日起，我们无法取回超过6个月的祈愿，因为米哈游开始将其从游戏内的历史记录中删除。 如果您有备份，则很快就可以将其导入该网站。",
+    "rank": "{{ rank }}★",
+    "region$": {
+      "6": "America",
+      "7": "Europe",
+      "8": "Asia"
+    }
   },
   "app": {
     "title": "Genshin Wishes",
@@ -98,6 +105,7 @@
     "title": "常问问题"
   },
   "landing": {
+    "title": "Home",
     "isItSafe": "安全吗？",
     "hero": {
       "title": "您的《原神》祈愿记录一目了然。",
@@ -110,12 +118,13 @@
     },
     "feature": {
       "title": "All your wishes in one place.",
-      "publicStats": "检查公共统计出的百万祈愿",
+      "globalStats": "检查公共统计出的百万祈愿",
       "personalStats": "查看您的个人祈愿统计",
       "dashboard": "计算保底的每个祈愿活动",
       "archive": "存档祈愿超过六个月",
       "platforms": "适用于电脑，手机和游戏机的玩家"
     },
+    "comments.title": "Happy Genshin Wishes users.",
     "security": {
       "title": "我们非常关心安全性。",
       "noInstallation": "无需安装，我们不需要您的《原神》帐户密码。",
@@ -138,7 +147,7 @@
       "joinUs": "加入我们，展现您的幸运祈愿！"
     },
     "footer": {
-      "content": "该项目的资源可在Github上找到。 Genshin Wishes 是由 <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> 和 <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a> 制作跟维护."
+      "content": "该项目的资源可在GitHub上找到。 Genshin Wishes 是由 <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> 和 <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a> 制作跟维护."
     }
   },
   "profile": {
@@ -221,8 +230,54 @@
     "coffee.label": "支持我们的工作",
     "i18n.label": "协助翻译"
   },
-  "publicStats": {
-    "label": "公开统计"
+  "globalStats": {
+    "label": "Global statistics",
+    "noResult": {
+      "title": "No stats were gathered for this event yet!",
+      "description": "You can still check out other events stats or remove the event filter.",
+      "reset": "Remove the event filter"
+    },
+    "banners$": {
+      "ALL": "Global stats",
+      "CHARACTER_EVENT": "Character evt. banner stats",
+      "WEAPON_EVENT": "Weapon evt. banner stats",
+      "PERMANENT": "Permanent banner stats",
+      "NOVICE": "Novice banner stats"
+    },
+    "gwUsersOnly": "From Genshin Wishes users only (updated every {{ minutes }} minutes).",
+    "allEventStats.label": "All event stats",
+    "learnMore": {
+      "title": "About our statistics",
+      "description": "If you want to learn more about the wishes stats and pity, we wrote a reddit post about this!",
+      "headToPost": "Head to the post"
+    },
+    "exclusivityRate": {
+      "fiftyFifty": "50:50 rate",
+      "threeFour": "75:25 rate"
+    },
+    "usersPerRegion": {
+      "title": "Wishing players - {{ count }}"
+    },
+    "wishesPerRegion": {
+      "title": "Wish amount - {{ count }}"
+    },
+    "pityDistribution.title": "{{ rank }}★ quantity by pull number",
+    "countPerRank": {
+      "title": "{{ rank }}★ Count",
+      "total": "Total count"
+    },
+    "wishesPerBanner.title": "Wishes quantity per banner",
+    "eventCard": {
+      "outOf": "out of {{ count }} wishes",
+      "itemCount": "{{ count }} - ({{ percent }}% of {{ rank }}★)"
+    },
+    "allStats": {
+      "label": "All statistics"
+    },
+    "itemsList": {
+      "title": "All drops",
+      "cardTitle": "All {{ rank }}★ drops"
+    }
   },
   "stats": {
     "label": "统计数据",

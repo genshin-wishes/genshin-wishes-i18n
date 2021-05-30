@@ -1,3 +1,7 @@
+## Brazilian Portuguese
+
+- Raphael Souza ([@rssouza](https://twitter.com/rssouza), iRSS#9128)
+
 ## Chinese (simplified)
 
 - Soyan#4054
@@ -30,6 +34,7 @@
 
 ## Spanish
 
+- Farisaico#4635
 - [@Linnynyny](https://twitter.com/Linnynyny) / Linny#4283
 
 ## Thai

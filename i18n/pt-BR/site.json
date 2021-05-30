@@ -1,0 +1,401 @@
+{
+  "generics": {
+    "share": "Compartilhar",
+    "copy": "Copiar",
+    "filter": "Filtrar",
+    "cancel": "Cancelar",
+    "ok": "OK",
+    "close": "Fechar",
+    "previous": "Anterior",
+    "next": "Próxima",
+    "retry": "Tentar novamente",
+    "soon": "Em breve",
+    "beta": "Beta",
+    "new": "Novo",
+    "save": "Salvar",
+    "goBack": "Voltar",
+    "moreOf": "Mais {{ content }}",
+    "error$": {
+      "emoji": "\uD83D\uDE31",
+      "title": "",
+      "message": "Aconteceu um erro. Tente novamente."
+    },
+    "mihoyoError$": {
+      "emoji": "\uD83D\uDEA8",
+      "title": "",
+      "message": "Não foi possível a conexão com o servidor do Genshin."
+    },
+    "archiveWarning": "\uD83D\uDEA8 Desde 28 de março de 2021, não podemos recuperar orações com mais de 6 meses porque a miHoYo começou a excluí-los do histórico do jogo. Se você tiver um backup, em breve poderá importá-lo para o site.",
+    "rank": "{{ rank }}★",
+    "region$": {
+      "6": "América do Norte",
+      "7": "Europa",
+      "8": "Ásia"
+    }
+  },
+  "app": {
+    "title": "Genshin Wishes",
+    "titleWithPage": "Genshin Wishes — {{ page }}",
+    "description": "Salve e acompanhe suas orações facilmente",
+    "menu": "Menu",
+    "getStarted": "Comece agora",
+    "persistLink": {
+      "persist": "Salve no seu dispositivo por 24hrs",
+      "doNotPersist": "Não salve o link"
+    },
+    "user": {
+      "uid": "UID {{ uid }}"
+    },
+    "urlInput": {
+      "dialog": {
+        "title": "Seu link expirou",
+        "message": "\uD83D\uDEA8 O link de autenticação não é válido. Por favor atualize. <a href=\"/faq\" target=\"_blank\"> Como?</a>",
+        "ok": "Atualizar link"
+      },
+      "pasteInput": "Cole o seu link aqui",
+      "correctLink": "\uD83D\uDE0E Ok, parece bom",
+      "incorrectLink": "\uD83D\uDE31 Link incorreto, por favor tente novamente!"
+    },
+    "urlSetup": {
+      "title": "Configure sua conta",
+      "finish": "Terminar",
+      "step": "Passo {{ step }}",
+      "loading": {
+        "title": "Carregando suas orações...",
+        "subtitle": "Aguarde! Isso pode levar alguns minutos."
+      },
+      "steps$": {
+        "1": {
+          "title": "Pegue sua chave",
+          "description": "Para pegar suas orações, precisamos de uma chave temporária do jogo.\n<span class=\"text-accent\">Não se preocupe, nunca teremos acesso à sua conta no Genshin Impact.</span>",
+          "showVideo": "Mostre um vídeo"
+        },
+        "2": {
+          "title": "Aguarde! Nós estamos pegando as suas orações \uD83D\uDC0B \uD83D\uDE48",
+          "description": "<span class=\"text-primary\"><b>Repita essas etapas na próxima vez</b></span> para sincronizar novas orações.",
+          "seeWishes": "Vá para o aplicativo"
+        }
+      }
+    },
+    "signIn": "Entrar"
+  },
+  "auth": {
+    "signInMethod": "Escolha um método de entrada",
+    "hint": "Você NÃO está entrando no Genshin Impact",
+    "subHint": "Nós encorajamos você a escolher um provedor diferente da sua conta no jogo.",
+    "logout.label": "Sair"
+  },
+  "banners": {
+    "label": "Banners",
+    "seeWishes": "Ver orações",
+    "noWishes": "Sem orações",
+    "wishes": "{{ count }} orações",
+    "pity5": "Pity 5★",
+    "pity4": "Pity 4★",
+    "last5": "Último 5★",
+    "last4": "Último 4★",
+    "none": "Nenhum"
+  },
+  "cookie": {
+    "title": "Ei! Paimon nos deixou alguns cookies. \uD83D\uDE0B\n",
+    "message": "Ao utilizar este site, você concorda com o uso de cookies apenas para análise de tráfego.",
+    "ok": "Ok, eu gosto de cookies!"
+  },
+  "faq": {
+    "title": "Perguntas frequentes"
+  },
+  "landing": {
+    "title": "Início",
+    "isItSafe": "É seguro?",
+    "hero": {
+      "title": "Seu histórico de orações no Genshin Impact em um único vislumbre.",
+      "subtitle": "Faça backup do seu histórico de orações do Genshin Impact, acompanhe seu pity e tenha uma visão compartilhável de suas estatísticas de tiros!",
+      "advice": "Sem instalação, <b>gratuito</b> e <b>seguro</b>."
+    },
+    "counters": {
+      "users": "Aprovado por mais de <span class=\"text-primary\"><b>{{ users }}</b></span>\nJogadores do Genshin Impact",
+      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} orações</b></span>\nsalvas e contando"
+    },
+    "feature": {
+      "title": "Todas as suas orações em um só lugar.",
+      "globalStats": "Verifique as estatísticas globais de milhões de orações",
+      "personalStats": "Veja as estatísticas de suas orações pessoais",
+      "dashboard": "Calcule o seu pity em cada banner",
+      "archive": "Guarde suas orações por mais de seis meses",
+      "platforms": "Disponível para jogadores no PC, dispositivos móveis e console"
+    },
+    "comments.title": "Usuários felizes do Genshin Wishes.",
+    "security": {
+      "title": "Nos preocupamos com a segurança.",
+      "noInstallation": "Nenhuma instalação é necessária e não precisamos da sua conta no Genshin.",
+      "temporaryKey": "Sua chave temporária não é armazenada em nossos servidores e só é válida por 24 horas em seu dispositivo.",
+      "authorization": "A chave temporária não nos permite autenticar em sua conta.",
+      "ssl": "Usamos criptografia SSL para todas as conexões entre você e nossos servidores.",
+      "learnMore": "Saiba mais sobre a segurança"
+    },
+    "welcome": {
+      "title": "Bem vindo ao Genshin Wishes.",
+      "description": "Nós o ajudamos a rastrear e fazer backup do seu histórico de orações do Genshin Impact. Podemos acompanhar o seu contador de pity também!"
+    },
+    "elements": {
+      "pity": "Calcule o seu pity em cada banner",
+      "browse": "Navegue facilmente pelas suas orações",
+      "stats": "Visualize suas estatísticas",
+      "archive": "Guarde suas orações por mais de 6 meses"
+    },
+    "footerBanner": {
+      "joinUs": "Junte-se a nós para mostrar sua sorte nos tiros!"
+    },
+    "footer": {
+      "content": "O código fonte desse projeto está disponível no GitHub. O Genshin Wishes é feito e mantido por <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> e <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
+    }
+  },
+  "profile": {
+    "notFound": {
+      "title": "Este perfil não foi encontrado!",
+      "description": "Este perfil é privado ou o URL está incorreto <span class=\"text-emoji\">\uD83D\uDE05</span>",
+      "goToApp": "Vá para Genshin Wishes"
+    },
+    "footer": "Importe automaticamente suas orações do PC/Celular/Console e obtenha suas próprias estatísticas!",
+    "share": {
+      "title": "Compartilhe sua página de estatísticas",
+      "label": "Compartilhe suas estatísticas",
+      "sharing": {
+        "title": "Compartilhamento da página de estatísticas",
+        "enabled": "Visível apenas com o link",
+        "disabled": "Visível apenas para você"
+      },
+      "success$": {
+        "emoji": "\uD83D\uDCCB",
+        "title": "",
+        "message": "Seu link permanente foi copiado para a área de transferência!"
+      }
+    }
+  },
+  "settings": {
+    "label": "Configurações",
+    "authLink": {
+      "title": "Link de autenticação",
+      "subTitle": "Edite o seu link de autenticação",
+      "update": "Salvar e atualizar"
+    },
+    "lang": {
+      "title": "Idioma",
+      "subTitle": "Alterar o idioma do site e dos itens",
+      "success$": {
+        "emoji": "",
+        "title": "",
+        "message": "Seu idioma foi atualizado."
+      },
+      "action": "Salvar idioma"
+    },
+    "wholeClock": {
+      "title": "Formato da hora",
+      "subTitle": "Altere o formato da hora do site",
+      "true": "24hrs",
+      "false": "12hrs (AM/PM)",
+      "success$": {
+        "emoji": "",
+        "title": "",
+        "message": "O formato da hora foi atualizado."
+      },
+      "action": "Salvar formato"
+    },
+    "deleteAccount": {
+      "title": "Excluir sua conta",
+      "subTitle": "Exclua todos os seus dados no Genshin Wishes",
+      "hint": "Digite <b>{{ confirmation }}</b> antes de clicar no botão excluir.",
+      "label": "Digite aqui",
+      "action": "Excluir a minha conta",
+      "confirmation": "EXCLUA A MINHA CONTA"
+    },
+    "deleteAccountConfirm": {
+      "title": "Tem certeza que deseja excluir a sua conta?",
+      "message": "Esta ação é irreversível."
+    },
+    "export": {
+      "title": "Exporte suas orações",
+      "subTitle": "Exporte todas as suas orações armazenadas no Genshin Wishes",
+      "confirm": {
+        "title": "Você tem certeza?",
+        "description": "Não se preocupe, eles também permanecerão em sua conta."
+      },
+      "action": "Exportar minhas orações"
+    }
+  },
+  "globalStats": {
+    "label": "Estatísticas globais",
+    "noResult": {
+      "title": "Nenhuma estatística foi coletada para este evento ainda!",
+      "description": "Você ainda pode verificar outras estatísticas do evento ou remover o filtro de eventos.",
+      "reset": "Remover o filtro de eventos"
+    },
+    "banners$": {
+      "ALL": "Estatísticas globais",
+      "CHARACTER_EVENT": "Estatísticas do banner de personagens",
+      "WEAPON_EVENT": "Estatísticas do banner de armas",
+      "PERMANENT": "Estatísticas do banner permanente",
+      "NOVICE": "Estatísticas do banner de novatos"
+    },
+    "gwUsersOnly": "Apenas dos usuários do Genshin Wishes (atualizado a cada {{ minutes }} minutos).",
+    "allEventStats.label": "Todas as estatísticas do evento",
+    "learnMore": {
+      "title": "Sobre nossas estatísticas",
+      "description": "Se você quiser saber mais sobre as estatísticas de orações e pity, escrevemos um post no reddit sobre isso!",
+      "headToPost": "Vá para a publicação"
+    },
+    "exclusivityRate": {
+      "fiftyFifty": "Taxa de 50:50",
+      "threeFour": "Taxa de 75:25"
+    },
+    "usersPerRegion": {
+      "title": "Jogadores orando - {{ count }}"
+    },
+    "wishesPerRegion": {
+      "title": "Quantidade de orações - {{ count }}"
+    },
+    "pityDistribution.title": "Quantidade de {{ rank }}★ pelo número de orações",
+    "countPerRank": {
+      "title": "Contagem de {{ rank }}★",
+      "total": "Contagem total"
+    },
+    "wishesPerBanner.title": "Quantidade de orações por banner",
+    "eventCard": {
+      "outOf": "de {{ count }} orações",
+      "itemCount": "{{ count }} - ({{ percent }}% de {{ rank }}★)"
+    },
+    "allStats": {
+      "label": "Todas as estatísticas"
+    },
+    "itemsList": {
+      "title": "Todos os drops",
+      "cardTitle": "Todos os drops de {{ rank }}★"
+    }
+  },
+  "stats": {
+    "label": "Estatísticas",
+    "averageGap": "Média",
+    "na": "N/D",
+    "wishesTotalCount": "Contagem do total de orações",
+    "empty": "Desculpe, não conseguimos encontrar nada...",
+    "rankDistribution.title": "Classificação das orações",
+    "focusDistribution.title": "Exclusividade do banner de {{ rankType }}★",
+    "fourStarsDetails.title": "Tipos de 4★",
+    "fiveStarsList.title": "Lista de 5★",
+    "fourStarsList.title": "Lista de 4★",
+    "bannerActivity.title": "Orações ao longo do tempo",
+    "filters": {
+      "filterByEvent": "Filtrar por evento",
+      "selectEvent": "Selecione um evento",
+      "allEvents": "Todos os eventos"
+    }
+  },
+  "nav": {
+    "helpUs.label": "Deseja nos ajudar?",
+    "request.label": "Relatório de bug e comentários",
+    "discord.label": "Junte-se a nós no Discord",
+    "coffee.label": "Apoie nosso trabalho",
+    "i18n.label": "Contribua com a tradução"
+  },
+  "wishes": {
+    "label": "Orações",
+    "exclusive": "Exclusivo do banner",
+    "notExclusive": "Não exclusivo",
+    "noWishes": {
+      "title": "Nenhuma oração encontrada para este banner",
+      "message": "Você ainda pode jogar com Amber <span class=\"text-emoji\">\uD83D\uDE05</span>"
+    },
+    "noResult": {
+      "title": "Ah não! Não há nada assim!",
+      "message": "Você deve editar seus filtros"
+    },
+    "backToList": "Voltar para os banners",
+    "bannersNav": "Banners",
+    "itemNotFound": "Item não encontrado, atualizaremos nosso banco de dados o mais rápido possível!",
+    "itemType$": {
+      "Character": "Personagem",
+      "Weapon": "Arma"
+    },
+    "filters": {
+      "freeText": "Filtrar por nome",
+      "itemType": "Filtrar por tipo",
+      "rank": "Filtrar por classificação",
+      "characterEvent": "Filtrar por evento de personagem",
+      "weaponEvent": "Filtrar por evento de arma",
+      "selectEvent": "Selecione os eventos",
+      "reset": "Redefinir tudo"
+    },
+    "update": {
+      "label": "Atualizar as orações"
+    },
+    "deletion": {
+      "title": "Excluir orações antigas",
+      "description": "Tem certeza de que deseja excluir suas orações antigas?\n\nQualquer exclusão é irreversível.",
+      "ok": "❌ Sim, exclua todas as minhas orações"
+    },
+    "differentUidDialog": {
+      "title": "Conta diferente",
+      "description": "\uD83D\uDEA8 As orações que você está prestes a adicionar não estão vinculadas à mesma conta do Genshin.\n\nO que você deseja fazer?",
+      "delete": "Excluir orações antigas"
+    },
+    "import": {
+      "saving": "Salvando...",
+      "recovery$": {
+        "emoji": "",
+        "title": "",
+        "message": "Recuperando a importação de suas orações..."
+      },
+      "success$": {
+        "emoji": "\uD83E\uDD29",
+        "title": "",
+        "message": "<b>{{ wishes }}</b> novas orações encontradas no {{ banner }} !"
+      },
+      "noData$": {
+        "emoji": "\uD83D\uDE27",
+        "title": "Desculpe, não foram encontradas novas orações",
+        "message": "Ainda não é possível adicionar orações feitas há menos de uma hora."
+      },
+      "invalidAuthkey$": {
+        "emoji": "\uD83D\uDEA8",
+        "title": "",
+        "message": "Não foi possível autenticar você."
+      },
+      "newWishesDuringImport$": {
+        "emoji": "\uD83D\uDEA8",
+        "title": "",
+        "message": "Desculpe, seu histórico de orações mudou durante a importação. Por favor, tente novamente."
+      },
+      "alreadyImporting$": {
+        "emoji": "\uD83D\uDEA8",
+        "title": "",
+        "message": "Uma importação de suas orações já está ocorrendo, por favor, seja paciente!"
+      }
+    },
+    "banners$": {
+      "ALL": {
+        "title": "Todas as orações",
+        "titleWithCount": "Todas as orações ({{ wishes }})"
+      },
+      "NOVICE": {
+        "title": "Desejos de Novato",
+        "titleWithCount": "Desejos de Novato ({{ wishes }} orações)"
+      },
+      "PERMANENT": {
+        "title": "Desejo comum",
+        "titleWithCount": "Desejo comum ({{ wishes }} orações)"
+      },
+      "CHARACTER_EVENT": {
+        "title": "Oração do Evento do Personagem",
+        "titleWithCount": "Oração do Evento do Personagem ({{ wishes }} orações)"
+      },
+      "WEAPON_EVENT": {
+        "title": "Oração do Evento de Arma",
+        "titleWithCount": "Oração do Evento de Arma ({{ wishes }} orações)"
+      }
+    }
+  },
+  "footer": {
+    "disclaimer": "Genshin Wishes não é afiliado à miHoYo. Genshin Impact e miHoYo são marcas comerciais ou marcas registradas da miHoYo. Genshin Impact © miHoYo.",
+    "claim": "Para qualquer reclamação, por favor <a href=\"mailto:contact.genshin.wishes@gmail.com\">contacte-nos</a>."
+  }
+}

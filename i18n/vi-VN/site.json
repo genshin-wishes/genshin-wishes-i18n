@@ -11,6 +11,7 @@
     "retry": "Thử lại",
     "soon": "Sớm",
     "beta": "Thử nghiệm",
+    "new": "New",
     "save": "Lưu",
     "goBack": "Quay lại",
     "moreOf": "Thêm {{ content }}",
@@ -22,9 +23,15 @@
     "mihoyoError$": {
       "emoji": "\uD83D\uDEA8",
       "title": "",
-      "message": "Không thể liên hết tới máy chủ Genshin."
+      "message": "Không thể liên kết tới máy chủ Genshin."
     },
-    "archiveWarning": "\uD83D\uDEA8 Since March 28, 2021 we can’t retrieve wishes older than 6 months because miHoYo started deleting them from the in-game history. If you have a backup, you will soon be able to import it on the site."
+    "archiveWarning": "\uD83D\uDEA8 Kể từ ngày 28 tháng 3 năm 2021, chúng tôi không thể truy xuất các cầu nguyện cũ hơn 6 tháng vì miHoYo đã bắt đầu xóa chúng khỏi lịch sử trò chơi. Nếu bạn có bản sao lưu, bạn có thể nhập nó trên trang web.",
+    "rank": "{{ rank }}★",
+    "region$": {
+      "6": "America",
+      "7": "Europe",
+      "8": "Asia"
+    }
   },
   "app": {
     "title": "Genshin Wishes",
@@ -34,7 +41,7 @@
     "getStarted": "Bắt đầu",
     "persistLink": {
       "persist": "Nhớ đường dẫn này trong vòng 24h",
-      "doNotPersist": "Don't save the link"
+      "doNotPersist": "Không lưu đường dẫn này"
     },
     "user": {
       "uid": "UID {{ uid }}"
@@ -64,7 +71,7 @@
           "showVideo": "Xem video"
         },
         "2": {
-          "title": "Đợi chút! Chúng tôi đang kết xuất các ước nguyện \uD83D\uDC0B \uD83D\uDE48",
+          "title": "Đợi chút! Chúng tôi đang thống kê các ước nguyện \uD83D\uDC0B \uD83D\uDE48",
           "description": "<span class=\"text-primary\"><b>Lặp lại các bước trên</b></span> để cập nhật các cầu nguyện mới.",
           "seeWishes": "Đi tới ứng dụng"
         }
@@ -74,19 +81,19 @@
   },
   "auth": {
     "signInMethod": "Chọn cách thức đăng nhập",
-    "hint": "You are NOT signing into Genshin Impact",
-    "subHint": "We encourage you to choose a separate provider than your in-game account.",
+    "hint": "Đây KHÔNG phải là đăng nhập Genshin Impact",
+    "subHint": "Chúng tôi khuyến khích bạn chọn một nhà cung cấp khác với tài khoản trong trò chơi của bạn.",
     "logout.label": "Thoát"
   },
   "banners": {
-    "label": "Banners",
+    "label": "Các Banner",
     "seeWishes": "Xem cầu nguyện",
     "noWishes": "Không có cầu nguyện",
     "wishes": "{{ count }} cầu nguyện",
     "pity5": "Bảo hiểm 5★",
     "pity4": "Bảo hiểm 4★",
-    "last5": "Gần nhất 5★",
-    "last4": "Gần nhất 4★",
+    "last5": "5★ Gần nhất",
+    "last4": "4★ Gần nhất",
     "none": "Không có"
   },
   "cookie": {
@@ -98,31 +105,33 @@
     "title": "Hỏi đáp"
   },
   "landing": {
-    "isItSafe": "Is it safe?",
+    "title": "Trang chủ",
+    "isItSafe": "An toàn chứ?",
     "hero": {
-      "title": "Your Genshin Impact wish history in a single glance.",
-      "subtitle": "Backup your Genshin Impact wish history, keep track of your pity and get a shareable view of your pulls statistics!",
-      "advice": "No installation, <b>free</b> and <b>secure</b>."
+      "title": "Truy cập lịch sử cầu nguyện Genshin Impact của bạn chỉ trong nháy mắt",
+      "subtitle": "Sao lưu lịch sử cầu nguyện Genshin Impact, theo dõi bảo hiểm cầu nguyện và chia sẻ các số liệu của bạn!",
+      "advice": "Không cần cài đặt, <b>miễn phí</b> và <b>bảo mật</b>."
     },
     "counters": {
-      "users": "Trusted by over <span class=\"text-primary\"><b>{{ users }}</b></span>\nGenshin Impact players",
-      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} wishes</b></span>\nbacked up and counting"
+      "users": "Được tin tưởng bởi <span class=\"text-primary\"><b>{{ users }}</b></span>\nngười chơi Genshin Impact",
+      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} cầu nguyện</b></span>\nđược cập nhật và sao lưu"
     },
     "feature": {
-      "title": "All your wishes in one place.",
-      "publicStats": "Check public stats out of million wishes",
-      "personalStats": "View your personal wish stats",
-      "dashboard": "Compute your pity on each banner",
-      "archive": "Archive wishes more than six month",
-      "platforms": "Available for PC, mobile and console players"
+      "title": "Tổng hợp tất cả cầu nguyện của bạn",
+      "globalStats": "Truy cập các số liệu công khai từ hàng triệu cầu nguyện",
+      "personalStats": "Xem các số liệu cá nhân của bạn",
+      "dashboard": "Tính toán bảo hiểm từng banner",
+      "archive": "Lưu giữ lịch sử cầu nguyện trên 6 tháng",
+      "platforms": "Có sẵn trên PC, mobile và console"
     },
+    "comments.title": "Chúc mừng người dùng Genshin Wishes.",
     "security": {
-      "title": "We care about security.",
-      "noInstallation": "No installation is required and we don't need your Genshin account password.",
-      "temporaryKey": "Your temporary key is not stored on our servers but on your device and is only valid for 24h.",
-      "authorization": "The temporary key does not allow us to authenticate on your account.",
-      "ssl": "We use SSL encryption for all connections between you and our servers.",
-      "learnMore": "Learn more about security"
+      "title": "Chúng tôi luôn đề cao sự bảo mật.",
+      "noInstallation": "Không cần cài đặt và chúng tôi không cần mật khẩu tài khoản Genshin của bạn.",
+      "temporaryKey": "Đường dẫn tạm thời của bạn không được lưu trữ trên máy chủ của chúng tôi mà trên thiết bị của bạn và chỉ có giá trị trong 24 giờ.",
+      "authorization": "Đường dẫn tạm thời không cho phép chúng tôi xác thực tài khoản của bạn.",
+      "ssl": "Chúng tôi sử dụng mã hóa SSL cho tất cả các kết nối giữa bạn và máy chủ của chúng tôi.",
+      "learnMore": "Tìm hiểu thêm về bảo mật"
     },
     "welcome": {
       "title": "Chào mừng bạn tới Genshin Wishes.",
@@ -130,15 +139,15 @@
     },
     "elements": {
       "pity": "Tính toán bảo hiểm từng banner",
-      "browse": "Duyệt lại các cầu nguyện",
-      "stats": "Xem các thống số",
+      "browse": "Xem lại các cầu nguyện",
+      "stats": "Xem các số liệu",
       "archive": "Lưu trữ lịch sử cầu nguyện trên 6 tháng"
     },
     "footerBanner": {
-      "joinUs": "Join us to flex your lucky pulls!"
+      "joinUs": "Chia sẻ cùng chúng tôi những cầu nguyện may mắn của bạn"
     },
     "footer": {
-      "content": "Sources of this project are available on Github. Genshin Wishes is made and maintained by <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> and <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
+      "content": "Mã nguồn của dự án này có sẵn trên GitHub. Genshin Wishes được thực hiện và duy trì bởi <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> và <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
     }
   },
   "profile": {
@@ -153,7 +162,7 @@
       "label": "Chia sẻ số liệu thống kê của bạn",
       "sharing": {
         "title": "Chia sẻ trang số liệu",
-        "enabled": "Chia sẻ với ai có đường dẫn này",
+        "enabled": "Chia sẻ với người có đường dẫn này",
         "disabled": "Chia sẻ chỉ với bạn"
       },
       "success$": {
@@ -195,7 +204,7 @@
     "deleteAccount": {
       "title": "Xóa tài khoản",
       "subTitle": "Xóa tất cả dữ liệu trên Genshin Wishes",
-      "hint": "Type <b>{{ confirmation }}</b> trước khi nhấn vào nút xóa tài khoản.",
+      "hint": "Gõ <b>{{ confirmation }}</b> trước khi nhấn vào nút xóa tài khoản.",
       "label": "Gõ vào đây",
       "action": "Xóa tài khoản của tôi",
       "confirmation": "XÓA TÀI KHOẢN"
@@ -214,8 +223,54 @@
       "action": "Xuất danh sách cầu nguyện"
     }
   },
-  "publicStats": {
-    "label": "Public stats"
+  "globalStats": {
+    "label": "Số liệu toàn cầu",
+    "noResult": {
+      "title": "Chưa có số liệu nào được thu thập cho sự kiện này!",
+      "description": "Bạn có thể kiểm tra số liệu của sự kiện khác hoặc xóa bộ lọc sự kiện.",
+      "reset": "Xóa bộ lọc sự kiện"
+    },
+    "banners$": {
+      "ALL": "Số liệu toàn cầu",
+      "CHARACTER_EVENT": "Số liệu banner nhân vật",
+      "WEAPON_EVENT": "Số liệu banner vũ khí",
+      "PERMANENT": "Số liệu banner thường",
+      "NOVICE": "Số liệu banner tân thủ"
+    },
+    "gwUsersOnly": "Chỉ từ những người dùng Genshin Wishes (cập nhật mỗi {{ minutes }} phút).",
+    "allEventStats.label": "Số liệu tất cả sự kiện",
+    "learnMore": {
+      "title": "Về số liệu của chúng tôi",
+      "description": "Nếu bạn muốn tìm hiểu thêm về số liệu cầu nguyện và bảo hiểm, chúng tôi đã viết một bài đăng trên reddit về điều này!",
+      "headToPost": "Đi tới bài đăng"
+    },
+    "exclusivityRate": {
+      "fiftyFifty": "Tỉ lệ 50:50",
+      "threeFour": "Tỉ lệ 75:25"
+    },
+    "usersPerRegion": {
+      "title": "Số người cầu nguyện - {{ count }}"
+    },
+    "wishesPerRegion": {
+      "title": "Số lượng cầu nguyện - {{ count }}"
+    },
+    "pityDistribution.title": "Số lượng {{ rank }}★ trên tổng số cầu nguyện",
+    "countPerRank": {
+      "title": "Số lượng {{ rank }}★",
+      "total": "Tổng số"
+    },
+    "wishesPerBanner.title": "Số lượng cầu nguyện mỗi banner",
+    "eventCard": {
+      "outOf": "Tổng số {{ count }} cầu nguyện",
+      "itemCount": "{{ count }} - ({{ percent }}% là {{ rank }}★)"
+    },
+    "allStats": {
+      "label": "Tất cả số liệu"
+    },
+    "itemsList": {
+      "title": "Tất cả vật phẩm",
+      "cardTitle": "Tất cả vật phẩm {{ rank }}★"
+    }
   },
   "stats": {
     "label": "Số liệu",
@@ -226,12 +281,12 @@
     "rankDistribution.title": "Độ hiếm",
     "focusDistribution.title": "{{ rankType }}★ giới hạn",
     "fourStarsDetails.title": "4★ các loại",
-    "fiveStarsList.title": "5★ danh sách",
-    "fourStarsList.title": "4★ danh sách",
+    "fiveStarsList.title": "Danh sách 5★",
+    "fourStarsList.title": "Danh sách 4★",
     "bannerActivity.title": "Cầu nguyện theo thời gian",
     "filters": {
       "filterByEvent": "Lọc bởi sự kiện",
-      "selectEvent": "Chọn bởi event",
+      "selectEvent": "Chọn sự kiện",
       "allEvents": "Tất cả sự kiện"
     }
   },
@@ -322,20 +377,20 @@
         "titleWithCount": "Tổng số cầu nguyện ({{ wishes }})"
       },
       "NOVICE": {
-        "title": "Banner Tân thủ",
-        "titleWithCount": "Banner Tân thủ ({{ wishes }} cầu nguyện)"
+        "title": "Banner tân thủ",
+        "titleWithCount": "Banner tân thủ ({{ wishes }} cầu nguyện)"
       },
       "PERMANENT": {
-        "title": "Banner Thường",
-        "titleWithCount": "Banner Thường ({{ wishes }} cầu nguyện)"
+        "title": "Banner thường",
+        "titleWithCount": "Banner thường ({{ wishes }} cầu nguyện)"
       },
       "CHARACTER_EVENT": {
-        "title": "Banner Nhân vật",
-        "titleWithCount": "Banner Nhân vật ({{ wishes }} cầu nguyện)"
+        "title": "Banner nhân vật",
+        "titleWithCount": "Banner nhân vật ({{ wishes }} cầu nguyện)"
       },
       "WEAPON_EVENT": {
-        "title": "Banner Vũ khí",
-        "titleWithCount": "Banner Vũ khí ({{ wishes }} cầu nguyện)"
+        "title": "Banner vũ khí",
+        "titleWithCount": "Banner vũ khí ({{ wishes }} cầu nguyện)"
       }
     }
   },

@@ -11,6 +11,7 @@
     "retry": "再読み込み",
     "soon": "Soon",
     "beta": "β",
+    "new": "New",
     "save": "保存",
     "goBack": "戻る",
     "moreOf": "更に表示 {{ content }}",
@@ -24,11 +25,17 @@
       "title": "",
       "message": "原神サーバーに接続できません。"
     },
-    "archiveWarning": "\uD83D\uDEA8 Since March 28, 2021 we can’t retrieve wishes older than 6 months because miHoYo started deleting them from the in-game history. If you have a backup, you will soon be able to import it on the site."
+    "archiveWarning": "\uD83D\uDEA8 2021年3月28日より、祈願履歴が順次削除されるようになりました。なお、バックアップデータからの古い祈願のインポート機能を近日追加する予定です。",
+    "rank": "{{ rank }}★",
+    "region$": {
+      "6": "America",
+      "7": "Europe",
+      "8": "Asia"
+    }
   },
   "app": {
     "title": "Genshin wishes",
-    "titleWithPage": "Genshin Wishes — {{ page }}",
+    "titleWithPage": "Genshin Wishes ? {{ page }}",
     "description": "祈願履歴ビューワー",
     "menu": "メニュー",
     "getStarted": "始める",
@@ -74,8 +81,8 @@
   },
   "auth": {
     "signInMethod": "サインイン方法を選択してください:",
-    "hint": "You are NOT signing into Genshin Impact",
-    "subHint": "We encourage you to choose a separate provider than your in-game account.",
+    "hint": "原神アカウントにサインインすることはありません。",
+    "subHint": "ゲーム内アカウントとは別のアカウントを選択することをお勧めします。",
     "logout.label": "ログアウト"
   },
   "banners": {
@@ -98,31 +105,33 @@
     "title": "FAQ"
   },
   "landing": {
-    "isItSafe": "Is it safe?",
+    "title": "ホーム",
+    "isItSafe": "セキュリティ的に安全?",
     "hero": {
-      "title": "Your Genshin Impact wish history in a single glance.",
-      "subtitle": "Backup your Genshin Impact wish history, keep track of your pity and get a shareable view of your pulls statistics!",
-      "advice": "No installation, <b>free</b> and <b>secure</b>."
+      "title": "祈願履歴をひと目で。",
+      "subtitle": "祈願履歴のバックアップ、天井カウントの計算、祈願統計の自動集計まで！",
+      "advice": "インストールなし、<b>無料</b>で<b>安全</b>。"
     },
     "counters": {
-      "users": "Trusted by over <span class=\"text-primary\"><b>{{ users }}</b></span>\nGenshin Impact players",
-      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} wishes</b></span>\nbacked up and counting"
+      "users": "<span class=\"text-primary\"><b>{{ users }}人</b></span>の原神プレイヤーに信頼されています",
+      "wishes": "<span class=\"text-primary\"><b>{{ wishes }}回</b></span>\nの祈願がバックアップされています"
     },
     "feature": {
-      "title": "All your wishes in one place.",
-      "publicStats": "Check public stats out of million wishes",
-      "personalStats": "View your personal wish stats",
-      "dashboard": "Compute your pity on each banner",
-      "archive": "Archive wishes more than six month",
-      "platforms": "Available for PC, mobile and console players"
+      "title": "祈願履歴を一箇所にバックアップ",
+      "globalStats": "みんなの祈願の統計を表示",
+      "personalStats": "個人の祈願の統計を表示",
+      "dashboard": "祈願の種類ごとの天井カウントの計算",
+      "archive": "6ヶ月以上の履歴を保存",
+      "platforms": "全プラットフォームに対応"
     },
+    "comments.title": "Genshin Wishesユーザーの皆様",
     "security": {
-      "title": "We care about security.",
-      "noInstallation": "No installation is required and we don't need your Genshin account password.",
-      "temporaryKey": "Your temporary key is not stored on our servers but on your device and is only valid for 24h.",
-      "authorization": "The temporary key does not allow us to authenticate on your account.",
-      "ssl": "We use SSL encryption for all connections between you and our servers.",
-      "learnMore": "Learn more about security"
+      "title": "アカウントセキュリティには非常に注意を払っています。",
+      "noInstallation": "インストールの必要はなく、原神アカウントのパスワードは一切要求しません。",
+      "temporaryKey": "取得する一時キーはサーバーではなくあなたの端末のみに24時間だけ保存されます。",
+      "authorization": "一時キーによって原神アカウントにログインすることはできません。",
+      "ssl": "SSL通信によって通信の安全性が守られています。",
+      "learnMore": "もっと確認する"
     },
     "welcome": {
       "title": "Genshin Wishesへようこそ!",
@@ -135,10 +144,10 @@
       "archive": "6ヶ月以上の祈願履歴の保存"
     },
     "footerBanner": {
-      "joinUs": "Join us to flex your lucky pulls!"
+      "joinUs": "参加して神引きを共有しよう！"
     },
     "footer": {
-      "content": "Sources of this project are available on Github. Genshin Wishes is made and maintained by <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> and <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
+      "content": "ソースコードはGithubで公開されています。Genshin Wishesは<a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>、 <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a>、および<a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>によって開発・メンテナンスされています。"
     }
   },
   "profile": {
@@ -214,8 +223,54 @@
       "action": "祈願履歴をエクスポート!"
     }
   },
-  "publicStats": {
-    "label": "Public stats"
+  "globalStats": {
+    "label": "Global statistics",
+    "noResult": {
+      "title": "No stats were gathered for this event yet!",
+      "description": "You can still check out other events stats or remove the event filter.",
+      "reset": "Remove the event filter"
+    },
+    "banners$": {
+      "ALL": "Global stats",
+      "CHARACTER_EVENT": "Character evt. banner stats",
+      "WEAPON_EVENT": "Weapon evt. banner stats",
+      "PERMANENT": "Permanent banner stats",
+      "NOVICE": "Novice banner stats"
+    },
+    "gwUsersOnly": "From Genshin Wishes users only (updated every {{ minutes }} minutes).",
+    "allEventStats.label": "All event stats",
+    "learnMore": {
+      "title": "About our statistics",
+      "description": "If you want to learn more about the wishes stats and pity, we wrote a reddit post about this!",
+      "headToPost": "Head to the post"
+    },
+    "exclusivityRate": {
+      "fiftyFifty": "50:50 rate",
+      "threeFour": "75:25 rate"
+    },
+    "usersPerRegion": {
+      "title": "Wishing players - {{ count }}"
+    },
+    "wishesPerRegion": {
+      "title": "Wish amount - {{ count }}"
+    },
+    "pityDistribution.title": "{{ rank }}★ quantity by pull number",
+    "countPerRank": {
+      "title": "{{ rank }}★ Count",
+      "total": "Total count"
+    },
+    "wishesPerBanner.title": "Wishes quantity per banner",
+    "eventCard": {
+      "outOf": "out of {{ count }} wishes",
+      "itemCount": "{{ count }} - ({{ percent }}% of {{ rank }}★)"
+    },
+    "allStats": {
+      "label": "All statistics"
+    },
+    "itemsList": {
+      "title": "All drops",
+      "cardTitle": "All {{ rank }}★ drops"
+    }
   },
   "stats": {
     "label": "祈願統計",
@@ -248,7 +303,7 @@
     "notExclusive": "すり抜け",
     "noWishes": {
       "title": "この祈願での履歴がありません。",
-      "message": "でもアンバーちゃんと一緒に旅ができます<span class=\"text-emoji\">\uD83D\uDE05</span>"
+      "message": "それまではアンバーちゃんと一緒に旅をしよう<span class=\"text-emoji\">\uD83D\uDE05</span>"
     },
     "noResult": {
       "title": "パイモン、ここには何もないよ!",

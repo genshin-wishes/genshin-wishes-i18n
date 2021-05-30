@@ -11,6 +11,7 @@
     "retry": "Réessayer",
     "soon": "Bientôt",
     "beta": "Beta",
+    "new": "New",
     "save": "Sauvegarder",
     "goBack": "Retourner en arrière",
     "moreOf": "Plus de {{ content }}",
@@ -24,7 +25,13 @@
       "title": "",
       "message": "Impossible de se connecter au serveur de Genshin."
     },
-    "archiveWarning": "\uD83D\uDEA8 Depuis le 28 mars 2021, nous ne pouvons plus récupérer les vœux datant de plus de 6 mois car miHoYo a commencé à les supprimer de l'historique du jeu. Si vous avez une sauvegarde, vous pourrez bientôt l'importer sur le site."
+    "archiveWarning": "\uD83D\uDEA8 Depuis le 28 mars 2021, nous ne pouvons plus récupérer les vœux datant de plus de 6 mois car miHoYo a commencé à les supprimer de l'historique du jeu. Si vous avez une sauvegarde, vous pourrez bientôt l'importer sur le site.",
+    "rank": "{{ rank }}★",
+    "region$": {
+      "6": "Amérique",
+      "7": "Europe",
+      "8": "Asie"
+    }
   },
   "app": {
     "title": "Genshin Wishes",
@@ -98,10 +105,11 @@
     "title": "FAQ"
   },
   "landing": {
+    "title": "Accueil",
     "isItSafe": "Est-ce sécurisé ?",
     "hero": {
       "title": "Votre historique de vœux Genshin Impact en un coup d'œil.",
-      "subtitle": "Sauvegardez votre historique de vœux Genshin Impact, gardez le compte de votre pity et obtenez une vue partageable des statistiques de vos pulls !",
+      "subtitle": "Sauvegardez votre historique de vœux Genshin Impact, gardez le compte de votre pity et obtenez une vue partageable des statistiques de vos invocations !",
       "advice": "Pas d'installation, <b>gratuit</b> et <b>sécurisé</b>."
     },
     "counters": {
@@ -109,13 +117,14 @@
       "wishes": "<span class=\"text-primary\"><b>{{ wishes }} vœux</b></span>\nsauvegardés (on compte encore)"
     },
     "feature": {
-      "title": "Tous vos vœux au même endroit!",
-      "publicStats": "Regardez des stats publiques sur des millions de vœux",
+      "title": "Tous vos vœux au même endroit !",
+      "globalStats": "Regardez des stats globales sur des millions de vœux",
       "personalStats": "Regardez vos stats personnelles de vœux",
       "dashboard": "Calculez votre pity sur chaque bannière",
       "archive": "Archivez vos vœux pour plus de 6 mois",
       "platforms": "Disponible pour PC, mobile et joueurs console"
     },
+    "comments.title": "Des utilisateurs de Genshin Wishes heureux.",
     "security": {
       "title": "La sécurité compte pour nous.",
       "noInstallation": "Aucune installation n'est nécessaire et nous n'avons pas besoin de votre compte Genshin.",
@@ -135,7 +144,7 @@
       "archive": "Archivez vos vœux plus de 6 mois"
     },
     "footerBanner": {
-      "joinUs": "Rejoignez nous pour vous la raconter avec votre chance!"
+      "joinUs": "Rejoignez nous pour frimer avec votre chance !"
     },
     "footer": {
       "content": "Les sources du projet sont disponibles sur GitHub. Genshin Wishes est créé et maintenu par <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> et <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
@@ -143,7 +152,7 @@
   },
   "profile": {
     "notFound": {
-      "title": "Ce profil n'a pas pu être trouvé!",
+      "title": "Ce profil n'a pas pu être trouvé !",
       "description": "Ce profil est privé ou l'URL est invalide <span class=\"text-emoji\">\uD83D\uDE05</span>",
       "goToApp": "Aller sur Genshin Wishes"
     },
@@ -221,8 +230,54 @@
     "coffee.label": "Soutenez notre travail",
     "i18n.label": "Contribuez à la traduction"
   },
-  "publicStats": {
-    "label": "Statistiques publiques"
+  "globalStats": {
+    "label": "Statistiques globales",
+    "noResult": {
+      "title": "Aucune stat n'a encore été collectée pour cet événement !",
+      "description": "Vous pouvez toujours regarder les statistiques d'un autre événement ou retirer le filtre.",
+      "reset": "Retirer le filtre par événement"
+    },
+    "banners$": {
+      "ALL": "Statistiques globales",
+      "CHARACTER_EVENT": "Stats bannière personnage",
+      "WEAPON_EVENT": "Stats bannière arme",
+      "PERMANENT": "Stats bannière permanente",
+      "NOVICE": "Stats bannière débutant"
+    },
+    "gwUsersOnly": "D'utilisateurs Genshin Wishes uniquement (mis à jour toutes les {{ minutes }} minutes).",
+    "allEventStats.label": "Statistiques de l'événement",
+    "learnMore": {
+      "title": "À propos de nos statistiques",
+      "description": "Si vous voulez en apprendre plus à propos des statistiques de vœux et de pity, nous avons écrit un post reddit post à ce sujet !",
+      "headToPost": "Voir le post"
+    },
+    "exclusivityRate": {
+      "fiftyFifty": "Taux 50:50",
+      "threeFour": "Taux 75:25"
+    },
+    "usersPerRegion": {
+      "title": "Joueurs ayant pull - {{ count }}"
+    },
+    "wishesPerRegion": {
+      "title": "Quantité de vœux - {{ count }}"
+    },
+    "pityDistribution.title": "Quantité de {{ rank }}★ par numéro de pull",
+    "countPerRank": {
+      "title": "Qté de {{ rank }}★",
+      "total": "Qté totale"
+    },
+    "wishesPerBanner.title": "Quantité de vœux par bannière",
+    "eventCard": {
+      "outOf": "parmi {{ count }} vœux",
+      "itemCount": "{{ count }} - ({{ percent }}% de {{ rank }}★)"
+    },
+    "allStats": {
+      "label": "Toutes les statistiques"
+    },
+    "itemsList": {
+      "title": "Tous les drops",
+      "cardTitle": "Tous les drops {{ rank }}★"
+    }
   },
   "stats": {
     "label": "Statistiques",
@@ -281,7 +336,7 @@
     "differentUidDialog": {
       "title": "Différence de compte",
       "description": "\uD83D\uDEA8 Les vœux que vous allez ajouter ne sont pas liés au même compte Genshin.\n\nQue souhaitez-vous faire ?",
-      "delete": "Supprimer les anciens voeux"
+      "delete": "Supprimer les anciens vœux"
     },
     "import": {
       "saving": "Sauvegarde en cours...",
