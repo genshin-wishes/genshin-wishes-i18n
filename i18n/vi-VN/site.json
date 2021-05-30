@@ -237,7 +237,7 @@
       "PERMANENT": "Số liệu banner thường",
       "NOVICE": "Số liệu banner tân thủ"
     },
-    "gwUsersOnly": "Người dùng Genshin Wishes chỉ được (cập nhật mỗi {{ minutes }} phút).",
+    "gwUsersOnly": "Chỉ từ những người dùng Genshin Wishes (cập nhật mỗi {{ minutes }} phút).",
     "allEventStats.label": "Số liệu tất cả sự kiện",
     "learnMore": {
       "title": "Về số liệu của chúng tôi",
