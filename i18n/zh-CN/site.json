@@ -28,9 +28,9 @@
     "archiveWarning": "\uD83D\uDEA8 自2021年3月28日起，我们无法取回超过6个月的祈愿，因为米哈游开始将其从游戏内的历史记录中删除。 如果您有备份，则很快就可以将其导入该网站。",
     "rank": "{{ rank }}★",
     "region$": {
-      "6": "America",
-      "7": "Europe",
-      "8": "Asia"
+      "6": "美洲",
+      "7": "欧洲",
+      "8": "亚洲"
     }
   },
   "app": {
@@ -117,14 +117,14 @@
       "wishes": "<span class=\"text-primary\"><b>{{ wishes }} 祈愿</b></span>\n 保存并计数"
     },
     "feature": {
-      "title": "All your wishes in one place.",
+      "title": "您所有的愿望都集中在一个地方.",
       "globalStats": "检查公共统计出的百万祈愿",
       "personalStats": "查看您的个人祈愿统计",
       "dashboard": "计算保底的每个祈愿活动",
       "archive": "存档祈愿超过六个月",
       "platforms": "适用于电脑，手机和游戏机的玩家"
     },
-    "comments.title": "Happy Genshin Wishes users.",
+    "comments.title": "祝 Genshin Wishes 用户快乐.",
     "security": {
       "title": "我们非常关心安全性。",
       "noInstallation": "无需安装，我们不需要您的《原神》帐户密码。",
@@ -231,52 +231,52 @@
     "i18n.label": "协助翻译"
   },
   "globalStats": {
-    "label": "Global statistics",
+    "label": "全面统计",
     "noResult": {
-      "title": "No stats were gathered for this event yet!",
-      "description": "You can still check out other events stats or remove the event filter.",
-      "reset": "Remove the event filter"
+      "title": "此活动尚未收集任何统计信息！",
+      "description": "您仍然可以查看其他活动统计信息或删除活动筛选。",
+      "reset": "删除活动筛选"
     },
     "banners$": {
-      "ALL": "Global stats",
-      "CHARACTER_EVENT": "Character evt. banner stats",
-      "WEAPON_EVENT": "Weapon evt. banner stats",
-      "PERMANENT": "Permanent banner stats",
-      "NOVICE": "Novice banner stats"
+      "ALL": "全面统计",
+      "CHARACTER_EVENT": "角色活动统计",
+      "WEAPON_EVENT": "武器活动统计",
+      "PERMANENT": "常驻活动统计",
+      "NOVICE": "新手活动统计"
     },
-    "gwUsersOnly": "From Genshin Wishes users only (updated every {{ minutes }} minutes).",
-    "allEventStats.label": "All event stats",
+    "gwUsersOnly": "仅向Genshin Wishes用户提供 (每 {{ minutes }}分钟更新一次).",
+    "allEventStats.label": "所有活动统计",
     "learnMore": {
-      "title": "About our statistics",
-      "description": "If you want to learn more about the wishes stats and pity, we wrote a reddit post about this!",
-      "headToPost": "Head to the post"
+      "title": "我们的统计",
+      "description": "如果您想了解更多有关愿望统计和保底的信息，我们就在此发表了一篇reddit帖子！",
+      "headToPost": "前往帖子"
     },
     "exclusivityRate": {
-      "fiftyFifty": "50:50 rate",
-      "threeFour": "75:25 rate"
+      "fiftyFifty": "50:50 费率",
+      "threeFour": "75:25 费率"
     },
     "usersPerRegion": {
-      "title": "Wishing players - {{ count }}"
+      "title": "Wishing 用户 - {{ count }}"
     },
     "wishesPerRegion": {
-      "title": "Wish amount - {{ count }}"
+      "title": "祈愿 数量 - {{ count }}"
     },
-    "pityDistribution.title": "{{ rank }}★ quantity by pull number",
+    "pityDistribution.title": "{{ rank }}★ 数量",
     "countPerRank": {
-      "title": "{{ rank }}★ Count",
-      "total": "Total count"
+      "title": "{{ rank }}★ 计数",
+      "total": "全部计数"
     },
-    "wishesPerBanner.title": "Wishes quantity per banner",
+    "wishesPerBanner.title": "每个祈愿活动的愿望数量",
     "eventCard": {
-      "outOf": "out of {{ count }} wishes",
-      "itemCount": "{{ count }} - ({{ percent }}% of {{ rank }}★)"
+      "outOf": "出于{{ count }}的祈愿",
+      "itemCount": "{{ count }} - ({{ percent }}% 的 {{ rank }}★)"
     },
     "allStats": {
-      "label": "All statistics"
+      "label": "全面统计"
     },
     "itemsList": {
-      "title": "All drops",
-      "cardTitle": "All {{ rank }}★ drops"
+      "title": "全面出现",
+      "cardTitle": "所有 {{ rank }}★ 出现"
     }
   },
   "stats": {
