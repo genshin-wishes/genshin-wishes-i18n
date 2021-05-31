@@ -28,7 +28,7 @@
     "archiveWarning": "\uD83D\uDEA8 Desde 28 de março de 2021, não podemos recuperar orações com mais de 6 meses porque a miHoYo começou a excluí-los do histórico do jogo. Se você tiver um backup, em breve poderá importá-lo para o site.",
     "rank": "{{ rank }}★",
     "region$": {
-      "6": "América do Norte",
+      "6": "América",
       "7": "Europa",
       "8": "Ásia"
     }
@@ -238,7 +238,7 @@
       "NOVICE": "Estatísticas do banner de novatos"
     },
     "gwUsersOnly": "Apenas dos usuários do Genshin Wishes (atualizado a cada {{ minutes }} minutos).",
-    "allEventStats.label": "Todas as estatísticas do evento",
+    "allEventStats.label": "Estatísticas do evento",
     "learnMore": {
       "title": "Sobre nossas estatísticas",
       "description": "Se você quiser saber mais sobre as estatísticas de orações e pity, escrevemos um post no reddit sobre isso!",
