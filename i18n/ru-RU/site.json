@@ -114,7 +114,7 @@
     },
     "counters": {
       "users": "Проверено <span class=\"text-primary\"><b>{{ users }}</b></span>\n игроками Genshin Impact",
-      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} молитв</b></span>\nсохранены и их количество растёт"
+      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} молитв</b></span>\nсохранены и их кол-во растёт"
     },
     "feature": {
       "title": "Все ваши молитвы в одном месте.",
@@ -238,7 +238,7 @@
       "NOVICE": "Статистика по баннеру новичка"
     },
     "gwUsersOnly": "От пользователей данного сайта (обновляется каждые {{ minutes }} минут).",
-    "allEventStats.label": "Статистика по всем событиям",
+    "allEventStats.label": "Смотреть все события",
     "learnMore": {
       "title": "Про нашу статистику",
       "description": "Если вы хотите узнать больше про статистику в целом и то, как работают гаранты, мы написали пост на реддите про это!",
@@ -252,11 +252,11 @@
       "title": "Пользователи сайта - {{ count }}"
     },
     "wishesPerRegion": {
-      "title": "Количество молитв - {{ count }}"
+      "title": "Кол-во молитв - {{ count }}"
     },
-    "pityDistribution.title": "Количество {{ rank }}★ относительно порядка молитвы",
+    "pityDistribution.title": "Кол-во {{ rank }}★ относительно порядка молитвы",
     "countPerRank": {
-      "title": "Количество {{ rank }}★",
+      "title": "Кол-во {{ rank }}★",
       "total": "Всего"
     },
     "wishesPerBanner.title": "Распределение количества молитв по баннерам",
