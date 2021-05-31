@@ -54,6 +54,3 @@ Absolutamente não. Usamos as mesmas solicitações do jogo para buscar suas ora
 
 ## Quais são os idiomas suportados?
 O site é mantido em inglês e francês, outras línguas são mantidas por [contribuidores](https://github.com/genshin-wishes/genshin-wishes-i18n/blob/main/CONTRIBUTORS.md) neste [projeto](https://github.com/genshin-wishes/genshin-wishes-i18n).
-
-## As estatísticas públicas estarão disponíveis em breve?
-No momento, estamos trabalhando em uma versão alfa. Iremos lançar o mais breve possível.
