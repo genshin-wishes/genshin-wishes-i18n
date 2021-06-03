@@ -20,6 +20,10 @@
 
 - Max Philipp Wriedt (max312, hackard#6174)
 
+## Indonesian
+
+- FuutonShinra#4803
+
 ## Japanese
 
 - Phystam#5385
