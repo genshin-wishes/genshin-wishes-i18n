@@ -11,7 +11,7 @@
     "retry": "Перезапустить",
     "soon": "Скоро",
     "beta": "Бета",
-    "new": "New",
+    "new": "Новое",
     "save": "Сохранить",
     "goBack": "Назад",
     "moreOf": "Больше {{ content }}",
@@ -28,9 +28,9 @@
     "archiveWarning": "\uD83D\uDEA8 Начиная с 28 марта 2021 года мы не можем получить ваши молитвы, которые старше 6 месяцев, так как miHoYo удаляет их из своей базы данных. Если вы сохраняли эти молитвы при помощи каких-либо других инструментов, то вскоре мы добавим возможность импортировать их вручную.",
     "rank": "{{ rank }}★",
     "region$": {
-      "6": "America",
-      "7": "Europe",
-      "8": "Asia"
+      "6": "Америка",
+      "7": "Европа",
+      "8": "Азия"
     }
   },
   "app": {
@@ -114,11 +114,11 @@
     },
     "counters": {
       "users": "Проверено <span class=\"text-primary\"><b>{{ users }}</b></span>\n игроками Genshin Impact",
-      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} молитв</b></span>\nсохранены и их количество растёт"
+      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} молитв</b></span>\nсохранены и их кол-во растёт"
     },
     "feature": {
       "title": "Все ваши молитвы в одном месте.",
-      "globalStats": "Просмотрите публичную статистику более миллиона молитв",
+      "globalStats": "Смотрите статистику по миру, включающую более миллиона молитв",
       "personalStats": "Смотрите свою собственную статистику",
       "dashboard": "Считайте гаранты для каждого баннера",
       "archive": "Храните историю молитв более шести месяцев",
@@ -224,52 +224,52 @@
     }
   },
   "globalStats": {
-    "label": "Global statistics",
+    "label": "Статистика по миру",
     "noResult": {
-      "title": "No stats were gathered for this event yet!",
-      "description": "You can still check out other events stats or remove the event filter.",
-      "reset": "Remove the event filter"
+      "title": "Для этого события ещё не была собрана статистика.",
+      "description": "Вы можете просмотреть другие события, или отключить фильтр по ним.",
+      "reset": "Отключить фильтр по событиям"
     },
     "banners$": {
-      "ALL": "Global stats",
-      "CHARACTER_EVENT": "Character evt. banner stats",
-      "WEAPON_EVENT": "Weapon evt. banner stats",
-      "PERMANENT": "Permanent banner stats",
-      "NOVICE": "Novice banner stats"
+      "ALL": "Статистика по миру",
+      "CHARACTER_EVENT": "Статистика по событиям персонажей",
+      "WEAPON_EVENT": "Статистика по событиям оружий",
+      "PERMANENT": "Статистика по стандартному баннеру",
+      "NOVICE": "Статистика по баннеру новичка"
     },
-    "gwUsersOnly": "From Genshin Wishes users only (updated every {{ minutes }} minutes).",
-    "allEventStats.label": "All event stats",
+    "gwUsersOnly": "От пользователей данного сайта (обновляется каждые {{ minutes }} минут).",
+    "allEventStats.label": "Смотреть все события",
     "learnMore": {
-      "title": "About our statistics",
-      "description": "If you want to learn more about the wishes stats and pity, we wrote a reddit post about this!",
-      "headToPost": "Head to the post"
+      "title": "Про нашу статистику",
+      "description": "Если вы хотите узнать больше про статистику в целом и то, как работают гаранты, мы написали пост на реддите про это!",
+      "headToPost": "Перейти к посту"
     },
     "exclusivityRate": {
-      "fiftyFifty": "50:50 rate",
-      "threeFour": "75:25 rate"
+      "fiftyFifty": "50:50 шанс",
+      "threeFour": "75:25 шанс"
     },
     "usersPerRegion": {
-      "title": "Wishing players - {{ count }}"
+      "title": "Пользователи сайта - {{ count }}"
     },
     "wishesPerRegion": {
-      "title": "Wish amount - {{ count }}"
+      "title": "Кол-во молитв - {{ count }}"
     },
-    "pityDistribution.title": "{{ rank }}★ quantity by pull number",
+    "pityDistribution.title": "Кол-во {{ rank }}★ относительно порядка молитвы",
     "countPerRank": {
-      "title": "{{ rank }}★ Count",
-      "total": "Total count"
+      "title": "Кол-во {{ rank }}★",
+      "total": "Всего"
     },
-    "wishesPerBanner.title": "Wishes quantity per banner",
+    "wishesPerBanner.title": "Распределение количества молитв по баннерам",
     "eventCard": {
-      "outOf": "out of {{ count }} wishes",
-      "itemCount": "{{ count }} - ({{ percent }}% of {{ rank }}★)"
+      "outOf": "из {{ count }} молитв",
+      "itemCount": "{{ count }} - ({{ percent }}% от {{ rank }}★)"
     },
     "allStats": {
-      "label": "All statistics"
+      "label": "Вся статистика"
     },
     "itemsList": {
-      "title": "All drops",
-      "cardTitle": "All {{ rank }}★ drops"
+      "title": "Все выпадения",
+      "cardTitle": "Все выпадения {{ rank }}★"
     }
   },
   "stats": {

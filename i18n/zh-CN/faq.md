@@ -54,6 +54,3 @@ Genshin Wishes是一个免费网站[带有公共代码](https://github.com/gensh
 
 ## 网站支持什么语言 ?
 该网站以英语和法语维护，其他语言由[本项目](https://github.com/genshin-wishes/genshin-wishes-i18n)的[贡献者](https://github.com/genshin-wishes/genshin-wishes-i18n/blob/main/CONTRIBUTORS.md)维护。
-
-## 即将提供公共统计信息吗？
-我们目前正在开发Alpha版本。 我们将尽快部署统计信息。

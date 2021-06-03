@@ -7,11 +7,11 @@
     "ok": "OK",
     "close": "Fechar",
     "previous": "Anterior",
-    "next": "´Próxima",
+    "next": "Próxima",
     "retry": "Tentar novamente",
     "soon": "Em breve",
     "beta": "Beta",
-    "new": "New",
+    "new": "Novo",
     "save": "Salvar",
     "goBack": "Voltar",
     "moreOf": "Mais {{ content }}",
@@ -28,9 +28,9 @@
     "archiveWarning": "\uD83D\uDEA8 Desde 28 de março de 2021, não podemos recuperar orações com mais de 6 meses porque a miHoYo começou a excluí-los do histórico do jogo. Se você tiver um backup, em breve poderá importá-lo para o site.",
     "rank": "{{ rank }}★",
     "region$": {
-      "6": "America",
-      "7": "Europe",
-      "8": "Asia"
+      "6": "América",
+      "7": "Europa",
+      "8": "Ásia"
     }
   },
   "app": {
@@ -118,20 +118,20 @@
     },
     "feature": {
       "title": "Todas as suas orações em um só lugar.",
-      "globalStats": "Verifique as estatísticas públicas de milhões de orações",
+      "globalStats": "Verifique as estatísticas globais de milhões de orações",
       "personalStats": "Veja as estatísticas de suas orações pessoais",
       "dashboard": "Calcule o seu pity em cada banner",
       "archive": "Guarde suas orações por mais de seis meses",
       "platforms": "Disponível para jogadores no PC, dispositivos móveis e console"
     },
-    "comments.title": "Felizes usuário do Genshin Wishes.",
+    "comments.title": "Usuários felizes do Genshin Wishes.",
     "security": {
       "title": "Nos preocupamos com a segurança.",
       "noInstallation": "Nenhuma instalação é necessária e não precisamos da sua conta no Genshin.",
       "temporaryKey": "Sua chave temporária não é armazenada em nossos servidores e só é válida por 24 horas em seu dispositivo.",
       "authorization": "A chave temporária não nos permite autenticar em sua conta.",
       "ssl": "Usamos criptografia SSL para todas as conexões entre você e nossos servidores.",
-      "learnMore": "Saiba mais sobre segurança"
+      "learnMore": "Saiba mais sobre a segurança"
     },
     "welcome": {
       "title": "Bem vindo ao Genshin Wishes.",
@@ -224,52 +224,52 @@
     }
   },
   "globalStats": {
-    "label": "Global statistics",
+    "label": "Estatísticas globais",
     "noResult": {
-      "title": "No stats were gathered for this event yet!",
-      "description": "You can still check out other events stats or remove the event filter.",
-      "reset": "Remove the event filter"
+      "title": "Nenhuma estatística foi coletada para este evento ainda!",
+      "description": "Você ainda pode verificar outras estatísticas do evento ou remover o filtro de eventos.",
+      "reset": "Remover o filtro de eventos"
     },
     "banners$": {
-      "ALL": "Global stats",
-      "CHARACTER_EVENT": "Character evt. banner stats",
-      "WEAPON_EVENT": "Weapon evt. banner stats",
-      "PERMANENT": "Permanent banner stats",
-      "NOVICE": "Novice banner stats"
+      "ALL": "Estatísticas globais",
+      "CHARACTER_EVENT": "Estatísticas do banner de personagens",
+      "WEAPON_EVENT": "Estatísticas do banner de armas",
+      "PERMANENT": "Estatísticas do banner permanente",
+      "NOVICE": "Estatísticas do banner de novatos"
     },
-    "gwUsersOnly": "From Genshin Wishes users only (updated every {{ minutes }} minutes).",
-    "allEventStats.label": "All event stats",
+    "gwUsersOnly": "Apenas dos usuários do Genshin Wishes (atualizado a cada {{ minutes }} minutos).",
+    "allEventStats.label": "Estatísticas do evento",
     "learnMore": {
-      "title": "About our statistics",
-      "description": "If you want to learn more about the wishes stats and pity, we wrote a reddit post about this!",
-      "headToPost": "Head to the post"
+      "title": "Sobre nossas estatísticas",
+      "description": "Se você quiser saber mais sobre as estatísticas de orações e pity, escrevemos um post no reddit sobre isso!",
+      "headToPost": "Vá para a publicação"
     },
     "exclusivityRate": {
-      "fiftyFifty": "50:50 rate",
-      "threeFour": "75:25 rate"
+      "fiftyFifty": "Taxa de 50:50",
+      "threeFour": "Taxa de 75:25"
     },
     "usersPerRegion": {
-      "title": "Wishing players - {{ count }}"
+      "title": "Jogadores orando - {{ count }}"
     },
     "wishesPerRegion": {
-      "title": "Wish amount - {{ count }}"
+      "title": "Quantidade de orações - {{ count }}"
     },
-    "pityDistribution.title": "{{ rank }}★ quantity by pull number",
+    "pityDistribution.title": "Quantidade de {{ rank }}★ pelo número de orações",
     "countPerRank": {
-      "title": "{{ rank }}★ Count",
-      "total": "Total count"
+      "title": "Contagem de {{ rank }}★",
+      "total": "Contagem total"
     },
-    "wishesPerBanner.title": "Wishes quantity per banner",
+    "wishesPerBanner.title": "Quantidade de orações por banner",
     "eventCard": {
-      "outOf": "out of {{ count }} wishes",
-      "itemCount": "{{ count }} - ({{ percent }}% of {{ rank }}★)"
+      "outOf": "de {{ count }} orações",
+      "itemCount": "{{ count }} - ({{ percent }}% de {{ rank }}★)"
     },
     "allStats": {
-      "label": "All statistics"
+      "label": "Todas as estatísticas"
     },
     "itemsList": {
-      "title": "All drops",
-      "cardTitle": "All {{ rank }}★ drops"
+      "title": "Todos os drops",
+      "cardTitle": "Todos os drops de {{ rank }}★"
     }
   },
   "stats": {
@@ -279,10 +279,10 @@
     "wishesTotalCount": "Contagem do total de orações",
     "empty": "Desculpe, não conseguimos encontrar nada...",
     "rankDistribution.title": "Classificação das orações",
-    "focusDistribution.title": "{{ rankType }}★ exclusividade",
-    "fourStarsDetails.title": "4★ tipos",
-    "fiveStarsList.title": "5★ lista",
-    "fourStarsList.title": "4★ lista",
+    "focusDistribution.title": "Exclusividade do banner de {{ rankType }}★",
+    "fourStarsDetails.title": "Tipos de 4★",
+    "fiveStarsList.title": "Lista de 5★",
+    "fourStarsList.title": "Lista de 4★",
     "bannerActivity.title": "Orações ao longo do tempo",
     "filters": {
       "filterByEvent": "Filtrar por evento",
@@ -299,7 +299,7 @@
   },
   "wishes": {
     "label": "Orações",
-    "exclusive": "Exclusivo",
+    "exclusive": "Exclusivo do banner",
     "notExclusive": "Não exclusivo",
     "noWishes": {
       "title": "Nenhuma oração encontrada para este banner",

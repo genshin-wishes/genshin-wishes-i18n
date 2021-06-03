@@ -54,6 +54,3 @@ Absolutely not. We use the same requests as the game to fetch your wishes (using
 
 ## What language do you support?
 The site is maintained for English and French, other languages are maintained by [contributors](https://github.com/genshin-wishes/genshin-wishes-i18n/blob/main/CONTRIBUTORS.md) in [this project](https://github.com/genshin-wishes/genshin-wishes-i18n).
-
-## Will public stats be available soon?
-We are currently working on an alpha version. We will release it as soon as possible.

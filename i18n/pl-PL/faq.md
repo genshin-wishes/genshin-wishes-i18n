@@ -54,6 +54,3 @@ Absolutnie nie. Używamy tych samych żądań, co w grze, aby otrzymać listę �
 
 ## Jakie języki Genshin Wishes wspiera?
 Strona jest utrzymywana po angielsku oraz francusku oraz innych językach. W tłumaczeniu pomagają nam [współautorzy](https://github.com/genshin-wishes/genshin-wishes-i18n/blob/main/CONTRIBUTORS.md) w [tym projekcie](https://github.com/genshin-wishes/genshin-wishes-i18n).
-
-## Czy publiczne statystyki będą kiedyś dostępne?
-Obecnie pracujemy nad wersją alfa. Opublikujemy to tak szybko jak to możliwe.
