@@ -36,7 +36,7 @@
   "app": {
     "title": "Genshin Wishes",
     "titleWithPage": "Genshin Wishes — {{ page }}",
-    "description": "Simpan dan amati permohonan Anda dengan mudah",
+    "description": "Simpan dan lacak permohonan Anda dengan mudah",
     "menu": "Menu",
     "getStarted": "Mulai",
     "persistLink": {
@@ -109,7 +109,7 @@
     "isItSafe": "Apa ini aman?",
     "hero": {
       "title": "Riwayat permohonan Genshin Impact Anda dalam sekilas.",
-      "subtitle": "Cadangkan riwayat permohonan Genshin Impact Anda, amati pity Anda dan dapatkan tampilan statistik pull Anda yang dapat dibagikan!",
+      "subtitle": "Cadangkan riwayat permohonan Genshin Impact Anda, lacak pity Anda dan dapatkan tampilan statistik pull Anda yang dapat dibagikan!",
       "advice": "Tidak ada instalasi, <b>gratis</b> dan <b>aman</b>."
     },
     "counters": {
