@@ -1,4 +1,4 @@
-1) Tekan "Umpan balik" di menu Paimon
+1) Tekan "Masukan" di menu Paimon
 2) Di laman bantuan, tekan "Isu akun"
 3) Di hasil, tekan item ketiga "Bagaimana cara mengubah kata sandi saya?"
 4) Dalam teks yang ditampilkan, klik link biru bernama "di sini"

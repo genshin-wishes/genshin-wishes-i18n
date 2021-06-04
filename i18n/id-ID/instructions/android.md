@@ -1,4 +1,4 @@
-1) Tekan "Umpan balik" di menu Paimon
+1) Tekan "Masukan" di menu Paimon
 2) Matikan Wi-Fi & koneksi data
 3) Tekan tombol refresh di sudut kanan atas
 4) Lamannya akan nge-bug, menampilkan URL-nya

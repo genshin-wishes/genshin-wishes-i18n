@@ -12,13 +12,13 @@ Kami hanya mengambilnya dari riwayat permohonan Anda. Riwayat permohonan di Gens
 ## Bagaimana saya menemukan kunci yang dibutuhkan untuk mengimpor permohonan saya?
 ### PC
 Lihat panduan [video](https://www.youtube.com/watch?v=a16X0R_rSZc) atau ikuti instruksi di bawah:
-1) Tekan "Umpan balik" di menu Paimon
+1) Tekan "Masukan" di menu Paimon
 2) Sebuah laman akan terbuka di browser Anda
 3) Salin URL-nya dan tempel di Genshin Wishes.
 
 ### Android
 Lihat panduan [video](https://www.youtube.com/watch?v=hok0jCjSrjo) atau ikuti instruksi di bawah:
-1) Tekan "Umpan balik" di menu Paimon
+1) Tekan "Masukan" di menu Paimon
 2) Matikan Wi-Fi & koneksi data
 3) Tekan tombol refresh di sudut kanan atas
 4) Lamannya akan nge-bug, menampilkan URL-nya
@@ -26,7 +26,7 @@ Lihat panduan [video](https://www.youtube.com/watch?v=hok0jCjSrjo) atau ikuti in
 
 ### iOS
 Lihat panduan [video](https://www.youtube.com/watch?v=HW8nywx9Tio) atau ikuti instruksi di bawah:
-1) Tekan "Umpan balik" di menu Paimon
+1) Tekan "Masukan" di menu Paimon
 2) Di laman bantuan, tekan "Isu akun"
 3) Di hasil, tekan item ketiga "Bagaimana cara mengubah kata sandi saya?"
 4) Dalam teks yang ditampilkan, klik link biru bernama "di sini"
@@ -36,7 +36,7 @@ Lihat panduan [video](https://www.youtube.com/watch?v=HW8nywx9Tio) atau ikuti in
 ### Konsol
 1) Buka surat Anda di dalam game selama event
 2) Buka surat event yang berkaitan
-3) Di sana akan ada kode QR, pindai dengan ponsel Anda.
+3) Di sana akan ada kode QR, pindai dengan ponsel Anda
 4) Salin URL-nya dan tempel di Genshin Wishes.
 
 ## Apakah ini aman untuk digunakan?
@@ -54,6 +54,3 @@ Tentu saja tidak. Kami menggunakan permintaan yang sama seperti game untuk menda
 
 ## Bahasa apa yang didukung?
 Situs ini dikelola untuk bahasa Inggris dan Perancis, bahasa lainnya dikelola oleh [kontributor](https://github.com/genshin-wishes/genshin-wishes-i18n/blob/main/CONTRIBUTORS.md) dalam [projek ini](https://github.com/genshin-wishes/genshin-wishes-i18n).
-
-## Akankan statistik publik segera tersedia?
-Saat ini kami sedang mengerjakan versi alpha. Kami akan merilisnya sesegera mungkin.
