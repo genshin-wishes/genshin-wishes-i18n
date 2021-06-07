@@ -28,8 +28,8 @@
     "archiveWarning": "\uD83D\uDEA8 Desde el 28 de Marzo de 2021, no podemos recuperar los deseos de hace más de 6 meses porque MiHoYo los borra del historial dentro del juego. Si tienes una copia de seguridad, deberías ser capaz de importarla al sitio.",
     "rank": "{{ rank }}★",
     "region$": {
-      "6": "America",
-      "7": "Europe",
+      "6": "América",
+      "7": "Europa",
       "8": "Asia"
     }
   },
@@ -40,7 +40,7 @@
     "menu": "Menú",
     "getStarted": "Empecemos",
     "persistLink": {
-      "persist": "Guárdalo en tu dispositivo por 24h",
+      "persist": "Guardarlo en tu dispositivo por 24h",
       "doNotPersist": "No guardar el enlace"
     },
     "user": {
@@ -224,52 +224,52 @@
     }
   },
   "globalStats": {
-    "label": "Global statistics",
+    "label": "Estadísticas globales",
     "noResult": {
-      "title": "No stats were gathered for this event yet!",
-      "description": "You can still check out other events stats or remove the event filter.",
-      "reset": "Remove the event filter"
+      "title": "¡Aún no se han recopilado estadísticas para este evento!",
+      "description": "Aún así, puedes consultar las estadísticas de otros eventos o quitar el filtro puesto.",
+      "reset": "Quitar el filtro puesto para eventos"
     },
     "banners$": {
-      "ALL": "Global stats",
-      "CHARACTER_EVENT": "Character evt. banner stats",
-      "WEAPON_EVENT": "Weapon evt. banner stats",
-      "PERMANENT": "Permanent banner stats",
-      "NOVICE": "Novice banner stats"
+      "ALL": "Estadísticas globales",
+      "CHARACTER_EVENT": "Estadísticas del banner de personaje",
+      "WEAPON_EVENT": "Estadísticas del banner de armas",
+      "PERMANENT": "Estadísticas del banner permanente",
+      "NOVICE": "Estadísticas del banner para principiantes"
     },
-    "gwUsersOnly": "From Genshin Wishes users only (updated every {{ minutes }} minutes).",
-    "allEventStats.label": "All event stats",
+    "gwUsersOnly": "Solo de los usuarios de Genshin Wishes (actualizado cada {{ minutes }} minutos).",
+    "allEventStats.label": "Todas las estadísticas de evento",
     "learnMore": {
-      "title": "About our statistics",
-      "description": "If you want to learn more about the wishes stats and pity, we wrote a reddit post about this!",
-      "headToPost": "Head to the post"
+      "title": "Acerca de nuestras estadísticas",
+      "description": "Si quieres obtener más información sobre las estadísticas de deseos y de pity, ¡hemos escrito una publicación de reddit sobre esto!",
+      "headToPost": "Ir a la publicación"
     },
     "exclusivityRate": {
-      "fiftyFifty": "50:50 rate",
-      "threeFour": "75:25 rate"
+      "fiftyFifty": "Tasa de 50:50",
+      "threeFour": "Tasa de 75:25"
     },
     "usersPerRegion": {
-      "title": "Wishing players - {{ count }}"
+      "title": "Jugadores pidiendo deseos - {{ count }}"
     },
     "wishesPerRegion": {
-      "title": "Wish amount - {{ count }}"
+      "title": "Deseos acumulados - {{ count }}"
     },
-    "pityDistribution.title": "{{ rank }}★ quantity by pull number",
+    "pityDistribution.title": "Cantidad de {{ rank }}★ por número de tiradas",
     "countPerRank": {
-      "title": "{{ rank }}★ Count",
-      "total": "Total count"
+      "title": "Recuento de {{ rank }}★",
+      "total": "Recuento total"
     },
-    "wishesPerBanner.title": "Wishes quantity per banner",
+    "wishesPerBanner.title": "Cantidad de deseos por banner",
     "eventCard": {
-      "outOf": "out of {{ count }} wishes",
-      "itemCount": "{{ count }} - ({{ percent }}% of {{ rank }}★)"
+      "outOf": "de {{ count }} deseos",
+      "itemCount": "{{ count }} - ({{ percent }}% de {{ rank }}★)"
     },
     "allStats": {
-      "label": "All statistics"
+      "label": "Todas las estadísticas"
     },
     "itemsList": {
-      "title": "All drops",
-      "cardTitle": "All {{ rank }}★ drops"
+      "title": "Todos los elementos obtenidos",
+      "cardTitle": "Todos los elementos de {{ rank }}★ obtenidos"
     }
   },
   "stats": {
@@ -283,7 +283,7 @@
     "fourStarsDetails.title": "Tipos de 4★",
     "fiveStarsList.title": "Lista de 5★",
     "fourStarsList.title": "Lista de 4★",
-    "bannerActivity.title": "Deseos a través del tiempo",
+    "bannerActivity.title": "Deseos a lo largo del tiempo",
     "filters": {
       "filterByEvent": "Filtrar por banners",
       "selectEvent": "Selecciona un banner",
@@ -320,7 +320,7 @@
       "freeText": "Filtrar por nombre",
       "itemType": "Filtrar por tipo",
       "rank": "Filtrar por rango",
-      "characterEvent": "Filtrar por banner de evento",
+      "characterEvent": "Filtrar por banner de personaje",
       "weaponEvent": "Filtrar por banner de armas",
       "selectEvent": "Seleccionar banner",
       "reset": "Reiniciar todo"
@@ -377,8 +377,8 @@
         "titleWithCount": "Deseos totales ({{ wishes }})"
       },
       "NOVICE": {
-        "title": "Gachapón recomendado para principiantes",
-        "titleWithCount": "Gachapón recomendado para principiantes ({{ wishes }} deseos)"
+        "title": "Banner recomendado para principiantes",
+        "titleWithCount": "Banner recomendado para principiantes ({{ wishes }} deseos)"
       },
       "PERMANENT": {
         "title": "Banner permanente",
