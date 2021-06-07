@@ -28,8 +28,8 @@
     "archiveWarning": "\uD83D\uDEA8 Desde el 28 de Marzo de 2021, no podemos recuperar los deseos de hace más de 6 meses porque MiHoYo los borra del historial dentro del juego. Si tienes una copia de seguridad, deberías ser capaz de importarla al sitio.",
     "rank": "{{ rank }}★",
     "region$": {
-      "6": "America",
-      "7": "Europe",
+      "6": "América",
+      "7": "Europa",
       "8": "Asia"
     }
   },
