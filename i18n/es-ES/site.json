@@ -235,10 +235,10 @@
       "CHARACTER_EVENT": "Estadísticas del banner de personaje",
       "WEAPON_EVENT": "Estadísticas del banner de armas",
       "PERMANENT": "Estadísticas del banner permanente",
-      "NOVICE": "Estadísticas del gachapón para principiantes"
+      "NOVICE": "Estadísticas del banner para principiantes"
     },
     "gwUsersOnly": "Solo de los usuarios de Genshin Wishes (actualizado cada {{ minutes }} minutos).",
-    "allEventStats.label": "Todas las estadísticas de eventos",
+    "allEventStats.label": "Todas las estadísticas de evento",
     "learnMore": {
       "title": "Acerca de nuestras estadísticas",
       "description": "Si quieres obtener más información sobre las estadísticas de deseos y de pity, ¡hemos escrito una publicación de reddit sobre esto!",
@@ -254,10 +254,10 @@
     "wishesPerRegion": {
       "title": "Deseos acumulados - {{ count }}"
     },
-    "pityDistribution.title": "Cantidad de {{ rank }}★ por nombre de tiradas",
+    "pityDistribution.title": "Cantidad de {{ rank }}★ por número de tiradas",
     "countPerRank": {
-      "title": "Recuento para {{ rank }}★",
-      "total": "Cantidad total"
+      "title": "Recuento de {{ rank }}★",
+      "total": "Recuento total"
     },
     "wishesPerBanner.title": "Cantidad de deseos por banner",
     "eventCard": {
@@ -268,8 +268,8 @@
       "label": "Todas las estadísticas"
     },
     "itemsList": {
-      "title": "Todos los drops",
-      "cardTitle": "Todos los drops de {{ rank }}★"
+      "title": "Todos los elementos obtenidos",
+      "cardTitle": "Todos los elementos de {{ rank }}★ obtenidos"
     }
   },
   "stats": {
@@ -377,8 +377,8 @@
         "titleWithCount": "Deseos totales ({{ wishes }})"
       },
       "NOVICE": {
-        "title": "Gachapón recomendado para principiantes",
-        "titleWithCount": "Gachapón recomendado para principiantes ({{ wishes }} deseos)"
+        "title": "Banner recomendado para principiantes",
+        "titleWithCount": "Banner recomendado para principiantes ({{ wishes }} deseos)"
       },
       "PERMANENT": {
         "title": "Banner permanente",
