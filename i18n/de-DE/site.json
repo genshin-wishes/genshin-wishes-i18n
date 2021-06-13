@@ -224,52 +224,52 @@
         }
     },
     "globalStats": {
-        "label": "Global statistics",
+        "label": "Globale Statistiken",
         "noResult": {
-            "title": "No stats were gathered for this event yet!",
-            "description": "You can still check out other events stats or remove the event filter.",
-            "reset": "Remove the event filter"
+            "title": "Bisher gibt es noch keine Statistiken zu diesem Event!",
+            "description": "Du kannst immernoch die anderen Events auschecken oder den Filter entfernen.",
+            "reset": "Event Filter entfernen"
         },
         "banners$": {
-            "ALL": "Global stats",
-            "CHARACTER_EVENT": "Character evt. banner stats",
-            "WEAPON_EVENT": "Weapon evt. banner stats",
-            "PERMANENT": "Permanent banner stats",
-            "NOVICE": "Novice banner stats"
+            "ALL": "Globale Statistiken",
+            "CHARACTER_EVENT": "Charakter Event Banner Statistiken",
+            "WEAPON_EVENT": "Waffen Event Banner Statistiken",
+            "PERMANENT": "Permanentes Banner Statistiken",
+            "NOVICE": "Anfänger Banner Statistiken"
         },
         "gwUsersOnly": "From Genshin Wishes users only (updated every {{ minutes }} minutes).",
-        "allEventStats.label": "All event stats",
+        "allEventStats.label": "Alle Event Statistiken",
         "learnMore": {
-            "title": "About our statistics",
-            "description": "If you want to learn more about the wishes stats and pity, we wrote a reddit post about this!",
-            "headToPost": "Head to the post"
+            "title": "Über unsere Statistiken",
+            "description": "Wenn du mehr über unsere Statistiken erfahren möchtest, wir haben einen Reddit-Post geschrieben",
+            "headToPost": "Zum Post (EN)"
         },
         "exclusivityRate": {
-            "fiftyFifty": "50:50 rate",
-            "threeFour": "75:25 rate"
+            "fiftyFifty": "50:50 Rate",
+            "threeFour": "75:25 Rate"
         },
         "usersPerRegion": {
-            "title": "Wishing players - {{ count }}"
+            "title": "Ziehende Spieler - {{ count }}"
         },
         "wishesPerRegion": {
-            "title": "Wish amount - {{ count }}"
+            "title": "Anzahl Gebete - {{ count }}"
         },
-        "pityDistribution.title": "{{ rank }}★ quantity by pull number",
+        "pityDistribution.title": "{{ rank }}★ Anzahl pro Ziehung",
         "countPerRank": {
-            "title": "{{ rank }}★ Count",
-            "total": "Total count"
+            "title": "{{ rank }}★ Anzahl",
+            "total": "Gesamtanzahl"
         },
-        "wishesPerBanner.title": "Wishes quantity per banner",
+        "wishesPerBanner.title": "Gebetsanzahl pro Banner",
         "eventCard": {
-            "outOf": "out of {{ count }} wishes",
-            "itemCount": "{{ count }} - ({{ percent }}% of {{ rank }}★)"
+            "outOf": "von {{ count }} Gebeten",
+            "itemCount": "{{ count }} - ({{ percent }}% von {{ rank }}★)"
         },
         "allStats": {
-            "label": "All statistics"
+            "label": "Alle Statistiken"
         },
         "itemsList": {
-            "title": "All drops",
-            "cardTitle": "All {{ rank }}★ drops"
+            "title": "Alle Ziehungen",
+            "cardTitle": "Alle {{ rank }}★ Ziehungen"
         }
     },
     "stats": {
@@ -373,7 +373,7 @@
         },
         "banners$": {
             "ALL": {
-                "title": "All Gebete",
+                "title": "Alle Gebete",
                 "titleWithCount": "Alle Gebete ({{ wishes }})"
             },
             "NOVICE": {
