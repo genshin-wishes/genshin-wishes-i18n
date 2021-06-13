@@ -256,8 +256,8 @@
     },
     "pityDistribution.title": "Quantidade de {{ rank }}★ pelo número de orações",
     "countPerRank": {
-      "title": "Contagem de {{ rank }}★",
-      "total": "Contagem total"
+      "title": "Qtd. de {{ rank }}★",
+      "total": "Qtd. total"
     },
     "wishesPerBanner.title": "Quantidade de orações por banner",
     "eventCard": {
@@ -279,7 +279,7 @@
     "wishesTotalCount": "Contagem do total de orações",
     "empty": "Desculpe, não conseguimos encontrar nada...",
     "rankDistribution.title": "Classificação das orações",
-    "focusDistribution.title": "Exclusividade do banner de {{ rankType }}★",
+    "focusDistribution.title": "Exclusividade no banner {{ rankType }}★",
     "fourStarsDetails.title": "Tipos de 4★",
     "fiveStarsList.title": "Lista de 5★",
     "fourStarsList.title": "Lista de 4★",
@@ -300,7 +300,7 @@
   "wishes": {
     "label": "Orações",
     "exclusive": "Exclusivo do banner",
-    "notExclusive": "Não exclusivo",
+    "notExclusive": "Não é exclusivo",
     "noWishes": {
       "title": "Nenhuma oração encontrada para este banner",
       "message": "Você ainda pode jogar com Amber <span class=\"text-emoji\">\uD83D\uDE05</span>"
