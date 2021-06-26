@@ -35,7 +35,7 @@
   },
   "app": {
     "title": "Genshin wishes",
-    "titleWithPage": "Genshin Wishes ? {{ page }}",
+    "titleWithPage": "Genshin Wishes | {{ page }}",
     "description": "祈願履歴ビューワー",
     "menu": "メニュー",
     "getStarted": "始める",
