@@ -54,6 +54,3 @@ Genshin Wishesは[オープンソース](https://github.com/genshin-wishes)の�
 
 ## 何言語に対応?
 このサイトは英語・フランス語でメンテナンスされており、他の言語については[このプロジェクト](https://github.com/genshin-wishes/genshin-wishes-i18n)の[コントリビューター](https://github.com/genshin-wishes/genshin-wishes-i18n/blob/main/CONTRIBUTORS.md)によって翻訳されています。
-
-## 統計の公開はできますか?
-現在、アルファバージョンに取り組んでいます。できるだけ早く公開する予定です。
