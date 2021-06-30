@@ -44,6 +44,7 @@
 ## Thai
 
 - p0ndja (PondJaᵀᴴ#9423)
+- Risaka (Risaka_Login#7673)
 
 ## Vietnamese
 
