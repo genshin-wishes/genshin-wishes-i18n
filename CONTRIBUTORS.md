@@ -49,3 +49,7 @@
 ## Vietnamese
 
 - Peinpein (Peinpein#3500)
+
+## Chinese (Traditional)
+
+- Hayate (o疾風\はやてo#3697)
