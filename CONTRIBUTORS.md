@@ -6,6 +6,10 @@
 
 - Soyan#4054
 
+## Chinese (Traditional)
+
+- Hayate (o疾風\はやてo#3697)
+
 ## English
 
 - Colin Auberger (Isho#5061)
