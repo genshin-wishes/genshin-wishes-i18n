@@ -37,7 +37,7 @@
     "title": "Genshin Wishes",
     "titleWithPage": "Genshin Wishes — {{ page }}",
     "description": "保存並追蹤您的祈願紀錄",
-    "menu": "Menu",
+    "menu": "選單",
     "getStarted": "開始使用",
     "persistLink": {
       "persist": "記住網址 24 小時",
@@ -97,7 +97,7 @@
     "none": "無"
   },
   "cookie": {
-    "title": "嘿！旅行者，派蒙給我們留下了一些 Cookie。 \uD83D\uDE0B\n",
+    "title": "嘿，旅行者！派蒙給我們留下了一些 Cookie。 \uD83D\uDE0B\n",
     "message": "繼續使用本網站，即代表您同意使用 Cookie。本網站僅將 Cookie 做流量分析之用",
     "ok": "好的，我喜歡 Cookie！"
   },
@@ -113,23 +113,23 @@
       "advice": "不用安裝任何程式，<b>免費</b>、<b>安全</b>。"
     },
     "counters": {
-      "users": "深受 <span class=\"text-primary\"><b>{{ users }}</b></span>名\n《原神》玩家信賴",
-      "wishes": "總計 <span class=\"text-primary\"><b>{{ wishes }} 筆</b></span>\n祈願保存紀錄"
+      "users": "深受 <span class=\"text-primary\"><b>{{ users }}</b></span> 名\n《原神》玩家信賴",
+      "wishes": "總計 <span class=\"text-primary\"><b>{{ wishes }}</b></span> 筆\n祈願保存紀錄"
     },
     "feature": {
       "title": "您的所有祈願紀錄都集中在這裡",
-      "globalStats": "查看數百萬筆祈願的統計資料",
-      "personalStats": "查看個人祈願的統計資料",
+      "globalStats": "查看數百萬筆的祈願統計資料",
+      "personalStats": "查看個人的祈願統計資料",
       "dashboard": "計算每個祈願活動的保底進度",
-      "archive": "保留超過六個月的祈願紀錄",
+      "archive": "保留那些超過六個月的祈願紀錄",
       "platforms": "PC版、手機版與家用主機的玩家皆可使用"
     },
     "comments.title": "Genshin Wishes 使用者評價",
     "security": {
       "title": "我們非常重視帳號的安全性",
-      "noInstallation": "無需安裝任何程式\n也無需登入《原神》帳號",
-      "temporaryKey": "臨時金鑰僅儲存在您的裝置上\n有效期限僅有 24 小時",
-      "authorization": "我們<b>無法</b>透過此金鑰登錄您的帳號",
+      "noInstallation": "無需安裝任何程式，也無需登入《原神》帳號",
+      "temporaryKey": "臨時金鑰僅儲存在您的裝置上，有效期限為 24 小時",
+      "authorization": "我們無法透過此金鑰登錄您的帳號",
       "ssl": "我們使用 SSL 加密您與伺服器之間的連線資料",
       "learnMore": "了解更多有關安全性的說明"
     },
@@ -141,10 +141,10 @@
       "pity": "計算每個祈願活動的保底進度",
       "browse": "輕鬆檢視您的祈願紀錄",
       "stats": "查看您的祈願統計資料",
-      "archive": "保留超過六個月的祈願紀錄"
+      "archive": "保留那些超過六個月的祈願紀錄"
     },
     "footerBanner": {
-      "joinUs": "加入我們並與其他人分享您的歐氣吧！"
+      "joinUs": "加入我們並與其他人分享歐氣吧！"
     },
     "footer": {
       "content": "本專案的原始碼可以在 GitHub 上檢視。Genshin Wishes 由 <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>、<a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> 和 <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a> 進行開發與維護。"
@@ -154,12 +154,12 @@
     "notFound": {
       "title": "查無資料！",
       "description": "此帳號沒有公開統計資料或網址錯誤 <span class=\"text-emoji\">\uD83D\uDE05</span>",
-      "goToApp": "回 Genshin Wishes"
+      "goToApp": "回 Genshin Wishes 首頁"
     },
     "footer": "自動從電腦／手機／家用主機匯入祈願紀錄並獲得統計資料！",
     "share": {
-      "title": "分享您的統計資料頁面",
-      "label": "分享您的統計資料",
+      "title": "分享您的統計頁面",
+      "label": "分享統計資料",
       "sharing": {
         "title": "分享統計資料頁面",
         "enabled": "知道連結的人可檢視",
@@ -232,13 +232,13 @@
     },
     "banners$": {
       "ALL": "全體統計",
-      "CHARACTER_EVENT": "角色活動祈願統計",
-      "WEAPON_EVENT": "武器活動祈願統計",
+      "CHARACTER_EVENT": "角色活動統計",
+      "WEAPON_EVENT": "武器活動統計",
       "PERMANENT": "常駐祈願統計",
       "NOVICE": "新手祈願統計"
     },
     "gwUsersOnly": "僅統計 Genshin Wishes 的使用者（每 {{ minutes }} 分鐘更新一次）",
-    "allEventStats.label": "所有祈願統計",
+    "allEventStats.label": "檢視活動祈願統計",
     "learnMore": {
       "title": "關於我們的統計資料",
       "description": "如果您想了解更多有關祈願統計與保底的說明，請參考我們撰寫的 reddit 文章！",
@@ -261,20 +261,20 @@
     },
     "wishesPerBanner.title": "每種祈願的次數",
     "eventCard": {
-      "outOf": "——總計 {{ count }} 次祈願",
+      "outOf": "總計 {{ count }} 次祈願",
       "itemCount": "{{ count }} - （佔 {{ rank }}★ 的 {{ percent }}%）"
     },
     "allStats": {
-      "label": "全體統計"
+      "label": "統計資料"
     },
     "itemsList": {
-      "title": "抽取結果",
+      "title": "祈願結果",
       "cardTitle": "所有 {{ rank }}★ 的抽取數"
     }
   },
   "stats": {
     "label": "統計資料",
-    "averageGap": "抽取所需平均祈願次數",
+    "averageGap": "平均幾次祈願抽中",
     "na": "N/A",
     "wishesTotalCount": "祈願總次數",
     "empty": "抱歉，我們找不到任何資料。",
@@ -283,7 +283,7 @@
     "fourStarsDetails.title": "4★ 類型",
     "fiveStarsList.title": "5★ 列表",
     "fourStarsList.title": "4★ 列表",
-    "bannerActivity.title": "祈願歷史統計表",
+    "bannerActivity.title": "祈願歷史統計",
     "filters": {
       "filterByEvent": "篩選活動祈願",
       "selectEvent": "選擇一個活動祈願",
@@ -302,7 +302,7 @@
     "exclusive": "限定",
     "notExclusive": "非限定",
     "noWishes": {
-      "title": "您沒有在這個活動祈願中祈願過",
+      "title": "無祈願紀錄",
       "message": "您仍然可以跟安柏一起玩 <span class=\"text-emoji\">\uD83D\uDE05</span>"
     },
     "noResult": {
@@ -335,7 +335,7 @@
     },
     "differentUidDialog": {
       "title": "《原神》帳號不同",
-      "description": "\uD83D\uDEA8 即將匯入的新祈願紀錄是屬於不同的《原神》帳號的\n\n您想怎麼做？",
+      "description": "\uD83D\uDEA8 即將匯入的祈願紀錄屬於不同的《原神》帳號\n\n您要刪除舊的祈願紀錄嗎？",
       "delete": "刪除舊的祈願紀錄"
     },
     "import": {
@@ -374,23 +374,23 @@
     "banners$": {
       "ALL": {
         "title": "所有祈願",
-        "titleWithCount": "所有祈願（您已進行 {{ wishes }} 次祈願）"
+        "titleWithCount": "所有祈願（總計 {{ wishes }} 次祈願）"
       },
       "NOVICE": {
         "title": "新手祈願",
-        "titleWithCount": "新手祈願（您已進行 {{ wishes }} 次祈願）"
+        "titleWithCount": "新手祈願（總計 {{ wishes }} 次祈願）"
       },
       "PERMANENT": {
         "title": "常駐祈願",
-        "titleWithCount": "常駐祈願（您已進行 {{ wishes }} 次祈願）"
+        "titleWithCount": "常駐祈願（總計 {{ wishes }} 次祈願）"
       },
       "CHARACTER_EVENT": {
         "title": "角色活動祈願",
-        "titleWithCount": "角色活動祈願（您已進行 {{ wishes }} 次祈願）"
+        "titleWithCount": "角色活動祈願（總計 {{ wishes }} 次祈願）"
       },
       "WEAPON_EVENT": {
         "title": "武器活動祈願",
-        "titleWithCount": "武器活動祈願（您已進行 {{ wishes }} 次祈願）"
+        "titleWithCount": "武器活動祈願（總計 {{ wishes }} 次祈願）"
       }
     }
   },

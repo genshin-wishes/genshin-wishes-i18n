@@ -12,13 +12,13 @@ Genshin Wishes 是一個[開源的](https://github.com/genshin-wishes)免費網�
 
 ## 如何尋找並匯入包含金鑰的網址
 ### PC版
-觀看我們的[教學影片](https://www.youtube.com/watch?v=a16X0R_rSZc)或依照下列說明操作：
+觀看[教學影片](https://www.youtube.com/watch?v=a16X0R_rSZc)或依照下列說明操作：
 1) 點擊派蒙介面中的「意見回饋」
 2) 瀏覽器將會打開一個網頁
 3) 複製網址並在 Genshin Wishes 中貼上
 
 ### Android
-觀看我們的[教學影片](https://www.youtube.com/watch?v=hok0jCjSrjo)或依照下列說明操作：
+觀看[教學影片](https://www.youtube.com/watch?v=hok0jCjSrjo)或依照下列說明操作：
 1) 點擊派蒙介面中的「意見回饋」
 2) 關閉 Wi-Fi 以及行動數據
 3) 點擊螢幕右上角的重新整理按鈕
@@ -26,7 +26,7 @@ Genshin Wishes 是一個[開源的](https://github.com/genshin-wishes)免費網�
 5) 複製網址並在 Genshin Wishes 中貼上
 
 ### iOS
-觀看我們的[教學影片](https://www.youtube.com/watch?v=HW8nywx9Tio)或依照下列說明操作：
+觀看[教學影片](https://www.youtube.com/watch?v=HW8nywx9Tio)或依照下列說明操作：
 1) 點擊派蒙介面中的「意見回饋」
 2) 點擊「帳號問題」
 3) 選擇第三項「怎修改密碼？」
