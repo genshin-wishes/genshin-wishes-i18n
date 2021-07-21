@@ -50,7 +50,7 @@ Yes. As Genshin Impact players we are very concerned about account security.
 - We use SSL encryption
 
 ## Is there a risk of being banned for using this?
-Absolutely not. We use the same requests as the game to fetch your wishes (using open to public Mihoyo API) so there is no risk of been banned. We used it on our own accounts for months now. Mihoyo has made some [statement about third party tools](https://genshin.mihoyo.com/en/news/detail/5763), and our tool is legit.
+Absolutely not. We use the same requests as the game to fetch your wishes (using open to public Mihoyo API) so there is no risk of being banned. We used it on our own accounts for months now. Mihoyo has made some [statement about third party tools](https://genshin.mihoyo.com/en/news/detail/5763), and our tool is legit.
 
 ## What language do you support?
 The site is maintained for English and French, other languages are maintained by [contributors](https://github.com/genshin-wishes/genshin-wishes-i18n/blob/main/CONTRIBUTORS.md) in [this project](https://github.com/genshin-wishes/genshin-wishes-i18n).

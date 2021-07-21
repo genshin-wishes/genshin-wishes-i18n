@@ -11,7 +11,7 @@
     "retry": "Volver a intentar",
     "soon": "Pronto",
     "beta": "Beta",
-    "new": "New",
+    "new": "Nuevo",
     "save": "Guardar",
     "goBack": "Regresar",
     "moreOf": "Más {{ content }}",
@@ -108,12 +108,12 @@
     "title": "Inicio",
     "isItSafe": "¿Es seguro?",
     "hero": {
-      "title": "Tu historial de deseos de Genshin Impact en una simple mirada.",
+      "title": "Tu historial de deseos de Genshin Impact con una simple mirada.",
       "subtitle": "¡Respalda tu historial de deseos de Genshin Impact, realiza un seguimiento de tu pity y obtén una visualización compartible de tus estadísticas!",
       "advice": "Sin instalaciones, <b>gratis</b> y <b>seguro</b>."
     },
     "counters": {
-      "users": "Utilizado y confiado por más de <span class=\"text-primary\"><b>{{ users }}</b></span>\njugadores de Genshin Impact",
+      "users": "Utilizado y con la confianza de más de <span class=\"text-primary\"><b>{{ users }}</b></span>\njugadores de Genshin Impact",
       "wishes": "<span class=\"text-primary\"><b>{{ wishes }} deseos</b></span>\nguardados y contando"
     },
     "feature": {
@@ -122,12 +122,12 @@
       "personalStats": "Mira tus propias estadísticas",
       "dashboard": "Calcula tu pity en cada banner",
       "archive": "Archiva deseos de hace más de 6 meses",
-      "platforms": "Disponible para juagadores de PC, móvil y consola"
+      "platforms": "Disponible para jugadores de PC, móvil y consola"
     },
     "comments.title": "Usuarios felices de Genshin Wishes.",
     "security": {
-      "title": "Nos preocupamos por la seguridad.",
-      "noInstallation": "Ninguna instalación es requerida y no necesitamos tu cuenta de Genshin.",
+      "title": "Nos preocupamos por tu seguridad.",
+      "noInstallation": "No se requiere de ninguna instalación y no necesitamos tu cuenta de Genshin.",
       "temporaryKey": "Tu llave temporal no se guarda en nuestros servidores, sino en tu dispositivo durante 24 horas.",
       "authorization": "La llave temporal no nos permite ingresar a tu cuenta.",
       "ssl": "Usamos encriptación SSL para todas las conexiones entre nuestros servidores.",
@@ -147,7 +147,7 @@
       "joinUs": "¡Únetenos y presume de tus tiradas afortunadas!"
     },
     "footer": {
-      "content": "Las fuentes de este proyecto se encuentran en GitHub. Genshin Wishes está hecho y es mantenido por <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> y <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
+      "content": "Las fuentes de este proyecto se encuentran en GitHub. Genshin Wishes está hecho y mantenido por <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> y <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
     }
   },
   "profile": {
@@ -156,7 +156,7 @@
       "description": "Este perfil es privado o la URL es incorrecta <span class=\"text-emoji\">\uD83D\uDE05</span>",
       "goToApp": "Ir a Genshin Wishes"
     },
-    "footer": "¡Automáticamente importa tus deseos desde PC/Móvil/Consola y obtén tus propias estadísticas!",
+    "footer": "¡Importa automáticamente tus deseos desde PC/Móvil/Consola y obtén tus propias estadísticas!",
     "share": {
       "title": "Comparte tu página de estadísticas",
       "label": "Comparte tus estadísticas",
@@ -237,11 +237,11 @@
       "PERMANENT": "Estadísticas del banner permanente",
       "NOVICE": "Estadísticas del banner para principiantes"
     },
-    "gwUsersOnly": "Solo de los usuarios de Genshin Wishes (actualizado cada {{ minutes }} minutos).",
-    "allEventStats.label": "Todas las estadísticas de evento",
+    "gwUsersOnly": "Solo de usuarios de Genshin Wishes (actualizado cada {{ minutes }} minutos).",
+    "allEventStats.label": "Más estadísticas del evento",
     "learnMore": {
       "title": "Acerca de nuestras estadísticas",
-      "description": "Si quieres obtener más información sobre las estadísticas de deseos y de pity, ¡hemos escrito una publicación de reddit sobre esto!",
+      "description": "Si quieres obtener más información sobre las estadísticas de los deseos y del pity, ¡hemos escrito una publicación de Reddit sobre esto!",
       "headToPost": "Ir a la publicación"
     },
     "exclusivityRate": {
@@ -265,11 +265,11 @@
       "itemCount": "{{ count }} - ({{ percent }}% de {{ rank }}★)"
     },
     "allStats": {
-      "label": "Todas las estadísticas"
+      "label": "Más estadísticas"
     },
     "itemsList": {
       "title": "Todos los elementos obtenidos",
-      "cardTitle": "Todos los elementos de {{ rank }}★ obtenidos"
+      "cardTitle": "Todos los elementos de {{ rank }}★"
     }
   },
   "stats": {
@@ -278,7 +278,7 @@
     "na": "N/A",
     "wishesTotalCount": "Cuenta total de deseos",
     "empty": "Lo sentimos, no pudimos encontrar nada...",
-    "rankDistribution.title": "Rangos de deseos",
+    "rankDistribution.title": "Calidad de los deseos",
     "focusDistribution.title": "Exclusividad {{ rankType }}★",
     "fourStarsDetails.title": "Tipos de 4★",
     "fiveStarsList.title": "Lista de 5★",
@@ -306,7 +306,7 @@
       "message": "Todavía puedes jugar con Amber <span class=\"text-emoji\">\uD83D\uDE05</span>"
     },
     "noResult": {
-      "title": "¡Oh no! ¡Aquí no hay nada de eso!",
+      "title": "¡Oh no! ¡Aquí no hay nada!",
       "message": "Deberias editar tus filtros"
     },
     "backToList": "Volver a los banners",
@@ -368,7 +368,7 @@
       "alreadyImporting$": {
         "emoji": "\uD83D\uDEA8",
         "title": "",
-        "message": "Está ocurriendo una importación de tus deseos, ¡por favor sé paciente!"
+        "message": "Estamos importando tus deseos, ¡por favor sé paciente!"
       }
     },
     "banners$": {
