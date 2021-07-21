@@ -97,9 +97,9 @@
     "none": "Ninguno"
   },
   "cookie": {
-    "title": "¡Hey! Paimon nos dejó unas *cookies*. \uD83D\uDE0B\n",
-    "message": "Al usar este sitio, aceptas el uso de *cookies* solamente para tráfico analítico.",
-    "ok": "Ok, ¡Me gustan las *cookies*!"
+    "title": "¡Hey! Paimon nos dejó unas cookies. \uD83D\uDE0B\n",
+    "message": "Al usar este sitio, aceptas el uso de cookies solamente para tráfico analítico.",
+    "ok": "Ok, ¡Me gustan las cookies!"
   },
   "faq": {
     "title": "Preguntas frecuentes"
