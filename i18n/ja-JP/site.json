@@ -26,22 +26,22 @@
       "message": "原神サーバーに接続できません。"
     },
     "archiveWarning": "\uD83D\uDEA8 2021年3月28日より、祈願履歴が順次削除されるようになりました。なお、バックアップデータからの古い祈願のインポート機能を近日追加する予定です。",
-    "rank": "{{ rank }}★",
+    "rank": "★{{ rank }}",
     "region$": {
-      "6": "America",
-      "7": "Europe",
-      "8": "Asia"
+      "6": "アメリカ",
+      "7": "ヨーロッパ",
+      "8": "アジア"
     }
   },
   "app": {
     "title": "Genshin wishes",
-    "titleWithPage": "Genshin Wishes ? {{ page }}",
+    "titleWithPage": "Genshin Wishes | {{ page }}",
     "description": "祈願履歴ビューワー",
     "menu": "メニュー",
     "getStarted": "始める",
     "persistLink": {
       "persist": "リンクを24時間保持します",
-      "doNotPersist": "Don't save the link"
+      "doNotPersist": "リンクを保存しません"
     },
     "user": {
       "uid": "UID {{ uid }}"
@@ -224,52 +224,52 @@
     }
   },
   "globalStats": {
-    "label": "Global statistics",
+    "label": "世界統計",
     "noResult": {
-      "title": "No stats were gathered for this event yet!",
-      "description": "You can still check out other events stats or remove the event filter.",
-      "reset": "Remove the event filter"
+      "title": "まだこのイベント祈願の統計はありません！",
+      "description": "他のイベント祈願に切り替えるか絞り込みを解除すると見れるようになります。",
+      "reset": "絞り込みを解除"
     },
     "banners$": {
-      "ALL": "Global stats",
-      "CHARACTER_EVENT": "Character evt. banner stats",
-      "WEAPON_EVENT": "Weapon evt. banner stats",
-      "PERMANENT": "Permanent banner stats",
-      "NOVICE": "Novice banner stats"
+      "ALL": "世界統計",
+      "CHARACTER_EVENT": "イベント祈願(キャラクター)の統計",
+      "WEAPON_EVENT": "イベント祈願(武器)の統計",
+      "PERMANENT": "通常祈願の統計",
+      "NOVICE": "初心者応援祈願の統計"
     },
-    "gwUsersOnly": "From Genshin Wishes users only (updated every {{ minutes }} minutes).",
-    "allEventStats.label": "All event stats",
+    "gwUsersOnly": "Genshin Wishesユーザーを対象に祈願状況を集計しています({{ minutes }}分ごとに更新されます)。",
+    "allEventStats.label": "全イベント統計",
     "learnMore": {
-      "title": "About our statistics",
-      "description": "If you want to learn more about the wishes stats and pity, we wrote a reddit post about this!",
-      "headToPost": "Head to the post"
+      "title": "統計について",
+      "description": "統計の詳細についてはRedditに投稿しています！",
+      "headToPost": "投稿を見に行く"
     },
     "exclusivityRate": {
-      "fiftyFifty": "50:50 rate",
-      "threeFour": "75:25 rate"
+      "fiftyFifty": "未確定天井50%",
+      "threeFour": "未確定天井75%"
     },
     "usersPerRegion": {
-      "title": "Wishing players - {{ count }}"
+      "title": "集計したプレイヤー数 - {{ count }}人"
     },
     "wishesPerRegion": {
-      "title": "Wish amount - {{ count }}"
+      "title": "集計した祈願回数 - {{ count }}回"
     },
-    "pityDistribution.title": "{{ rank }}★ quantity by pull number",
+    "pityDistribution.title": "祈願回数(n連)ごとの★{{ rank }}排出回数",
     "countPerRank": {
-      "title": "{{ rank }}★ Count",
-      "total": "Total count"
+      "title": "★{{ rank }}排出回数",
+      "total": "合計"
     },
-    "wishesPerBanner.title": "Wishes quantity per banner",
+    "wishesPerBanner.title": "祈願の種類ごとの祈願回数",
     "eventCard": {
-      "outOf": "out of {{ count }} wishes",
-      "itemCount": "{{ count }} - ({{ percent }}% of {{ rank }}★)"
+      "outOf": "{{ count }}回の祈願中",
+      "itemCount": "{{ count }} (★{{ rank }}中{{ percent }}%)"
     },
     "allStats": {
-      "label": "All statistics"
+      "label": "全統計"
     },
     "itemsList": {
-      "title": "All drops",
-      "cardTitle": "All {{ rank }}★ drops"
+      "title": "排出回数",
+      "cardTitle": "★{{ rank }}の排出回数"
     }
   },
   "stats": {
