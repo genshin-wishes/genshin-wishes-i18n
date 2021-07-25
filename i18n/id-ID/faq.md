@@ -41,16 +41,16 @@ Lihat panduan [video](https://www.youtube.com/watch?v=HW8nywx9Tio) atau ikuti in
 
 ## Apakah ini aman untuk digunakan?
 Ya. Sebagai pemain Genshin Impact, kami sangat memperhatikan keamanan akun.
-- **Kami tidak memerlukan Anda untuk menginstal apa pun** di komputer atau ponsel Anda.
+- **Kami tidak memerlukan kamu untuk menginstal apa pun** di komputer atau ponselmu.
 - **Kami tidak memerlukan kata sandi Genshin Anda**
-- Kunci sementara Anda tidak tersimpan di server kami tetapi **di perangkat Anda**
-- Itu valid hanya untuk 24 jam, setelah itu Anda harus membuat sebuah link baru untuk menjaga agar permohonan Anda tetap sinkron
-- Token ini tidak mengizinkan kami untuk autentikasi ke akun Anda
-- Anda memiliki opsi untuk menghapus semua data yang kami simpan kapan pun Anda mau (termasuk permohonan)
+- Kunci sementara kamu tidak tersimpan di server kami tetapi **di perangkatmu**
+- Itu hanya valid untuk 24 jam, setelah itu kamu harus membuat sebuah link baru untuk menjaga agar permohonanmu tetap sinkron
+- Token ini tidak mengizinkan kami untuk autentikasi ke akun kamu
+- Kamu memiliki opsi untuk menghapus semua data yang kami simpan kapan pun kamu mau (termasuk permohonan)
 - Kami menggunakan enkripsi SSL
 
-## Apakah ada risiko untuk di-banned setelah menggunakan ini?
-Tentu saja tidak. Kami menggunakan permintaan yang sama seperti game untuk mendapatkan permohonan Anda (menggunakan open to public Mihoyo API ) jadi tidak ada risiko di-banned. Kami menggunakannya pada akun kami selama berbulan-bulan. Mihoyo telah membuat sebuah [pernyataan tentang alat pihak-ketiga](https://genshin.mihoyo.com/en/news/detail/5763), dan alat kami sah.
+## Apakah ada risiko untuk dibanned setelah menggunakan ini?
+Tentu saja tidak. Kami menggunakan permintaan yang sama seperti game untuk mendapatkan permohonanmu (menggunakan open to public Mihoyo API ), jadi tidak ada risiko dibanned. Kami telah menggunakannya pada akun kami selama berbulan-bulan. Mihoyo membuat sebuah [pernyataan tentang alat pihak-ketiga](https://genshin.mihoyo.com/en/news/detail/5763), dan alat kami sah.
 
 ## Bahasa apa yang didukung?
 Situs ini dikelola untuk bahasa Inggris dan Perancis, bahasa lainnya dikelola oleh [kontributor](https://github.com/genshin-wishes/genshin-wishes-i18n/blob/main/CONTRIBUTORS.md) dalam [projek ini](https://github.com/genshin-wishes/genshin-wishes-i18n).
