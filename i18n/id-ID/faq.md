@@ -42,10 +42,10 @@ Lihat panduan [video](https://www.youtube.com/watch?v=HW8nywx9Tio) atau ikuti in
 ## Apakah ini aman untuk digunakan?
 Ya. Sebagai pemain Genshin Impact, kami sangat memperhatikan keamanan akun.
 - **Kami tidak memerlukan kamu untuk menginstal apa pun** di komputer atau ponselmu.
-- **Kami tidak memerlukan kata sandi Genshin Anda**
+- **Kami tidak memerlukan kata sandi Genshin Impact kamu**
 - Kunci sementara kamu tidak tersimpan di server kami tetapi **di perangkatmu**
 - Itu hanya valid untuk 24 jam, setelah itu kamu harus membuat sebuah link baru untuk menjaga agar permohonanmu tetap sinkron
-- Token ini tidak mengizinkan kami untuk autentikasi ke akun kamu
+- Token ini tidak mengizinkan kami untuk autentikasi ke akunmu
 - Kamu memiliki opsi untuk menghapus semua data yang kami simpan kapan pun kamu mau (termasuk permohonan)
 - Kami menggunakan enkripsi SSL
 
