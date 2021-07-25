@@ -1,5 +1,5 @@
 ## Apa itu Genshin Wishes?
-Genshin Wishes adalah situs web gratis [dengan kode publik](https://github.com/genshin-wishes) yang membantu Anda menyimpan dan menjelajahi riwayat permohonan Genshin Impact Anda di luar game. Dibuat dan dikelola oleh [Colin Auberger](https://www.linkedin.com/in/colin-auberger/) dan [Jimmy Vergerolle](https://vergerolle.fr).
+Genshin Wishes adalah website gratis [dengan public-code](https://github.com/genshin-wishes) yang membantu kamu menyimpan dan menjelajahi riwayat permohonan Genshin Impact kamu di luar game. Dibuat dan dikelola oleh [Colin Auberger](https://www.linkedin.com/in/colin-auberger/) dan [Jimmy Vergerolle](https://vergerolle.fr).
 
 - Cadangkan permohonan Anda selama yang Anda inginkan
 - Periksa perhitungan pity Anda di semua banner event dan banner permanen
