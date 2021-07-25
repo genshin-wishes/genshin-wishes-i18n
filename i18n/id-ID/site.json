@@ -25,7 +25,7 @@
       "title": "",
       "message": "Tidak dapat terhubung ke server Genshin."
     },
-    "archiveWarning": "\uD83D\uDEA8 Sejak 28 Maret 2021, kami tidak dapat mengambil data permohonan yang lebih lama dari 6 bulan karena miHoYo mulai menghapusnya dari riwayat di dalam game. Jika kamu punya cadangan, kamu dapat segera mengimpornya di situs ini.",
+    "archiveWarning": "\uD83D\uDEA8 Sejak 28 Maret 2021, kami tidak dapat mengambil data permohonan yang lebih lama dari 6 bulan karena miHoYo mulai menghapusnya dari riwayat di dalam game. Jika kamu punya cadangan, kamu dapat segera mengimpornya ke situs ini.",
     "rank": "{{ rank }}★",
     "region$": {
       "6": "Amerika",
