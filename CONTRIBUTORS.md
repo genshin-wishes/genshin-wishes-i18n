@@ -53,3 +53,7 @@
 ## Vietnamese
 
 - Peinpein (Peinpein#3500)
+
+## Italian
+
+- [Loris Bettazza](https://github.com/Pustur)
