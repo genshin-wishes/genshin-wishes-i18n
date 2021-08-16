@@ -28,6 +28,10 @@
 
 - FuutonShinra#4803
 
+## Italian
+
+- [Loris Bettazza](https://github.com/Pustur)
+
 ## Japanese
 
 - Phystam#5385
