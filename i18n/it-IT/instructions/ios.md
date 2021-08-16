@@ -1,6 +1,6 @@
-1) Press "Feedback" in Paimon's menu
-2) In the support page, press "Account issue"
-3) In the result, press the third item "How do I change my password?"
-4) In the text displayed click on the blue link named "here"
-5) A page should open on your browser. Copy the page URL and paste it on Genshin Wishes.  
-   Important: This URL does NOT allow us to change your password.
+1) Premi "Feedback" nel menu di Paimon
+2) Nella pagina di supporto, premi "Account issue"
+3) Nel risultato, premi la terza voce "How do I change my password?"
+4) Nel testo mostrato clicca sul link in blu "here"
+5) Una pagina dovrebbe aprirsi sul tuo browser. Copia l'URL e incollalo su Genshin Wishes.  
+   Importante: Questo URL NON ci permette di cambiare la tua password.
