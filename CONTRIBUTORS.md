@@ -28,6 +28,10 @@
 
 - FuutonShinra#4803
 
+## Italian
+
+- [Loris Bettazza](https://github.com/Pustur)
+
 ## Japanese
 
 - Phystam#5385
@@ -53,7 +57,3 @@
 ## Vietnamese
 
 - Peinpein (Peinpein#3500)
-
-## Italian
-
-- [Loris Bettazza](https://github.com/Pustur)
