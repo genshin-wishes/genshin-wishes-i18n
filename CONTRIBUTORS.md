@@ -40,6 +40,10 @@
 
 - Leoreo#8357
 
+## Romanian
+
+- [CounterSlash](https://github.com/CounterSlash)
+
 ## Russian
 
 - Alexander Trukhanov (Iftuga#5781)
