@@ -1,0 +1,401 @@
+{
+  "generics": {
+    "share": "Μοιράσου το",
+    "copy": "Αντιγραφή",
+    "filter": "Φίλτρα",
+    "cancel": "Ακύρωση",
+    "ok": "OK",
+    "close": "Κλείσιμο",
+    "previous": "Πίσω",
+    "next": "Επόμενο",
+    "retry": "Επανάληψη",
+    "soon": "Προσεχώς",
+    "beta": "Beta",
+    "new": "Νέα",
+    "save": "Αποθήκευση",
+    "goBack": "Επιστροφή",
+    "moreOf": "Περισσότερα {{ content }}",
+    "error$": {
+      "emoji": "\uD83D\uDE31",
+      "title": "",
+      "message": "Αντιμετωπίσαμε ένα σφάλμα. Ξαναδοκίμασε."
+    },
+    "mihoyoError$": {
+      "emoji": "\uD83D\uDEA8",
+      "title": "",
+      "message": "Αδυναμία σύνδεσης με τον σέρβερ του Genshin."
+    },
+    "archiveWarning": "\uD83D\uDEA8 Από τις 28 Μαϊου 2021, δεν μπορούμε να ανακτήσουμε ευχές παλαιότερες των 6 μηνών, διότι η miHoYo πλέον τις διαγράφει από το ιστορικό του παιχνιδιού. Εάν έχεις αντίγραφο ασφαλείας, σύντομα θα μπορείς να το εισάγεις στην σελίδα.",
+    "rank": "{{ rank }}★",
+    "region$": {
+      "6": "Αμερική",
+      "7": "Ευρώπη",
+      "8": "Ασία"
+    }
+  },
+  "app": {
+    "title": "Genshin Wishes",
+    "titleWithPage": "Genshin Wishes — {{ page }}",
+    "description": "Αποθήκευσε και παρακολούθησε με ευκολία τις ευχές σου",
+    "menu": "Μενού,
+    "getStarted": "Ξεκίνα εδώ",
+    "persistLink": {
+      "persist": "Αποθήκευση στην συσκευή σου για 24ω",
+      "doNotPersist": "Να μην αποθηκευτεί το link"
+    },
+    "user": {
+      "uid": "UID {{ uid }}"
+    },
+    "urlInput": {
+      "dialog": {
+        "title": "Το link σου έχει λήξει",
+        "message": "\uD83D\uDEA8 Το link επιβεβαίωσης δεν είναι έγκυρο. Παρακαλούμε ανανέωσέ το. <a href=\"/faq\" target=\"_blank\"> Πώς;'</a>",
+        "ok": "Ενημέρωση link"
+      },
+      "pasteInput": "Επηκόλληση link εδώ",
+      "correctLink": "\uD83D\uDE0E Οκ, μια χαρά!",
+      "incorrectLink": "\uD83D\uDE31 Λανθασμένο link, παρακαλούμε ξαναδοκίμασε!"
+    },
+    "urlSetup": {
+      "title": "Φτιάξε τον λογαριασμό σου",
+      "finish": "Τέλος",
+      "step": "Βήμα {{ step }}",
+      "loading": {
+        "title": "Φόρτωση ευχών...",
+        "subtitle": "Υπομονή! Ίσως αργήσουμε μερικά λεπτάκια."
+      },
+      "steps$": {
+        "1": {
+          "title": "Βρες το κλειδί",
+          "description": "Για να βρούμε τις ευχές σου χρειαζόμαστε ένα προσωρινό κλειδί από το παιχνίδι.\n<span class=\"text-accent\">Μην ανυσηχείς, σε καμία περίπτωση δεν θα αποκτήσουμε πρόσβαση στον λογαριασμό σου στο Genshin Impact.</span>",
+          "showVideo": "Δείξε μου βίντεο"
+        },
+        "2": {
+          "title": "Μισό λεπτάκι! Ψάχνουμε τις ευχές σου \uD83D\uDC0B \uD83D\uDE48",
+          "description": "<span class=\"text-primary\"><b>Επανέλαβε αυτά τα βήματα την επόμενη φορά</b></span> για να συγχρονίσεις το ιστορικό σου.",
+          "seeWishes": "Είσοδος στην εφαρμογή"
+        }
+      }
+    },
+    "signIn": "Σύνδεση"
+  },
+  "auth": {
+    "signInMethod": "Επέλεξε μια μέθοδο για να συνδεθείς",
+    "hint": "ΔΕΝ κάνεις σύνδεση στο λογαριασμό του Genshin Impact",
+    "subHint": "Θα σε συμβουλεύαμε να διαλέξεις έναν διαφορετικό πάροχο από τον λογαριασμό σου στο παιχνίδι.",
+    "logout.label": "Αποσύνδεση"
+  },
+  "banners": {
+    "label": "Banners",
+    "seeWishes": "Δες τις ευχές σου",
+    "noWishes": "Καμία ευχή",
+    "wishes": "{{ count }} ευχές",
+    "pity5": "Pity για 5★",
+    "pity4": "Pity για 4★",
+    "last5": "Τελευταίο 5★",
+    "last4": "Τελευταίο 4★",
+    "none": "Καμία"
+  },
+  "cookie": {
+    "title": "Ωπ! Η Πάιμον μας άφησε κάτι cookies. \uD83D\uDE0B\n",
+    "message": "Χρησιμοποιώντας αυτή τη σελίδα, είσαι σύμφωνος με την χρήση cookies μόνο για λόγους ανάλυσης της κίνησης στην σελίδα.",
+    "ok": "Ok, μ' αρέσουν τα cookies!"
+  },
+  "faq": {
+    "title": "FAQ"
+  },
+  "landing": {
+    "title": "Αρχική",
+    "isItSafe": "Είναι ασφαλές;",
+    "hero": {
+      "title": "Το ιστορικό των ευχών σου στο Genshin Impact με μία ματιά.",
+      "subtitle": "Δημιούργησε αντίγραφο ασφαλείας του ιστορικού σου, παρακολούθησε την πορεία του pity σου και απόκτησε ένα πανόραμα των στατιστικών σου που μπορείς να μοιραστείς με όποιον θες!",
+      "advice": "Χωρίς εγκατάσταση, <b>δωρεάν</b> και <b>ασφαλές</b>."
+    },
+    "counters": {
+      "users": "Το εμπιστεύονται πάνω από <span class=\"text-primary\"><b>{{ users }}</b></span>\nπαίκτες του Genshin Impact",
+      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} ευχές</b></span>\nκαταγεγραμμένες και συνεχίζουμε"
+    },
+    "feature": {
+      "title": "Όλες οι ευχές σου σε ένα μέρος.",
+      "globalStats": "Δες τα παγκόσμια στατιστικά από εκκατομύρια ευχές",
+      "personalStats": "Δες τα προσωπικά σου στατιστικά",
+      "dashboard": "Υπολόγισε το pity σου για κάθε banner",
+      "archive": "Αρχειοθέτηση ευχών παλαιότερων των έξι μηνών",
+      "platforms": "Διαθέσιμο για όσους παίζουν από PC, κινητά και κονσόλες"
+    },
+    "comments.title": "Καλές ευχές στο Genshin.",
+    "security": {
+      "title": "Μας ενδιαφέρει η ασφάλεια.",
+      "noInstallation": "Δεν απαιτείται καμία εγκατάσταση και δεν χρειαζόμαστε τον λογαριασμό σου στο Genshin.",
+      "temporaryKey": "Το προσωρινό κλειδί σου δεν αποθηκεύεται στους σέρβερ μας αλλά μόνο στην συσκευή σου και ισχύει μόνο για 24 ώρες.",
+      "authorization": "Το προσωρινό κλειδί δεν μας επιτρέπει να ταυτοποιήθούμε στον λογαριασμό σου.",
+      "ssl": "Χρησιμοποιούμε κρυπτογράφηση τύπου SSL για όλες τις συνδέσεις ανάμεσα σε εσένα και τους σέρβερ μας.",
+      "learnMore": "Δες περισσότερα σχετικά με την ασφάλεια"
+    },
+    "welcome": {
+      "title": "Καλώς ήρθες στο Genshin Wishes.",
+      "description": "Εδώ σε βοηθάμε να παρακολουθείς και να αποθηκεύεις το ιστορικό ευχών σου στο Genshin Impact. Μπορείς να παρακολουθήσεις και το pity σου!"
+    },
+    "elements": {
+      "pity": "Υπολόγισε το pity σου για κάθε banner",
+      "browse": "Περιηγήσου με ευκολία στις ευχές σου",
+      "stats": "Δες τα στατιστικά σου",
+      "archive": "Κράτησε αρχείο των ευχών σου για πάνω από 6 μήνες"
+    },
+    "footerBanner": {
+      "joinUs": "Ελάτε να μας δείξετε πόσο τυχεροί είστε!"
+    },
+    "footer": {
+      "content": "Όλες οι πηγές για αυτό το project είναι διαθέσιμες στο GitHub. Το Genshin Wishes δημιουργήθηκε και συντηρείται από τους <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> και <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
+    }
+  },
+  "profile": {
+    "notFound": {
+      "title": "Δεν μπορέσαμε να βρούμε αυτό το προφίλ!",
+      "description": "Αυτό το προφίλ είναι ιδιωτικό ή το URL δεν είναι σωστό <span class=\"text-emoji\">\uD83D\uDE05</span>",
+      "goToApp": "Πήγαινε στο Genshin Wishes"
+    },
+    "footer": "Κάνε αυτόματη εισαγωγή ευχών από PC/Κινητό/Κονσόλα και δες τα δικά σου στατιστικά!",
+    "share": {
+      "title": "Μοιράσου τα στατιστικά σου",
+      "label": "Μοιράσου τα στατιστικά σου",
+      "sharing": {
+        "title": "Κοινοποίηση σελίδας στατιστικών",
+        "enabled": "Εμφανές μόνο μέσω του link",
+        "disabled": "Εμφανές μόνο για σένα"
+      },
+      "success$": {
+        "emoji": "\uD83D\uDCCB",
+        "title": "",
+        "message": "Το permalink σου έχει αντογραφεί στο πρόχειρο!"
+      }
+    }
+  },
+  "settings": {
+    "label": "Ρυθμίσεις",
+    "authLink": {
+      "title": "Link επιβεβαίωσης",
+      "subTitle": "Επεξεργασία του link επιβεβαίωσης",
+      "update": "Αποθήκευση και ενημέρωση"
+    },
+    "lang": {
+      "title": "Γλώσσα",
+      "subTitle": "Άλλαξε την γλώσα της σελίδας",
+      "success$": {
+        "emoji": "",
+        "title": "",
+        "message": "Η επιλογή γλώσσας ενημερώθηκε."
+      },
+      "action": "Αποθήκευση γλώσσας"
+    },
+    "wholeClock": {
+      "title": "Ρυθμίσεις ώρας",
+      "subTitle": "Αλλαγή ρυθμίσεων ώρας",
+      "true": "24ω",
+      "false": "12ω (π.μ./μ.μ.)",
+      "success$": {
+        "emoji": "",
+        "title": "",
+        "message": "Οι ρυθμίσεις ώραε ενημερώθηκαν."
+      },
+      "action": "Αποθήκευση"
+    },
+    "deleteAccount": {
+      "title": "Διαγραφή λογαριασμού",
+      "subTitle": "Διαγραφή όλων των δεδομένων σου από το Genshin Wishes",
+      "hint": "Πληκτρολόγησε <b>{{ confirmation }}</b> και μετά πάτα το κουμπί Διαγραφή.",
+      "label": "Type here",
+      "action": "Διαγραφή λογαριασμού",
+      "confirmation": "ΔΙΑΓΡΑΦΗ ΛΟΓΑΡΙΑΣΜΟΥ"
+    },
+    "deleteAccountConfirm": {
+      "title": "Σίγουρα θέλεις να διαγράψουμε τον λογαριασμό σου;",
+      "message": "Αυτή η κίνηση δεν μπορεί να αναιρεθεί."
+    },
+    "export": {
+      "title": "Εξαγωγή ευχών σε αρχείο",
+      "subTitle": "Εξαγωγή όλων των ευχών αποθηκευμένων στο Genshin Wishes",
+      "confirm": {
+        "title": "Σίγουρα;",
+        "description": "Μην ανυσηχείς, θα συνεχίσουν να υπάρχουν στον λογαριασμό σου."
+      },
+      "action": "Εξαγωγή ευχών"
+    }
+  },
+  "globalStats": {
+    "label": "Παγκόσμια στατιστικά",
+    "noResult": {
+      "title": "Δεν έχουμε μαζέωει στατιστικά για αυτό το event ακόμα!",
+      "description": "Μπορείς όμως να δεις στατιστικά από προηγούμενα event ή να αφαιρέσεις το φίλτρο event.",
+      "reset": "Αφαίρεση  φίλτρου event"
+    },
+    "banners$": {
+      "ALL": "Παγκόσμια στατιστικά",
+      "CHARACTER_EVENT": "Στατιστικά banner χαρακτήρων",
+      "WEAPON_EVENT": "Στατιστικά banner όπλων",
+      "PERMANENT": "Στατιστικά μόνιμου banner",
+      "NOVICE": "Στατιστικά banner αρχαρίων"
+    },
+    "gwUsersOnly": "Μόνο από χρήστες του Genshin Wishes (ενημερώνεται κάθε {{ minutes }} λεπτά).",
+    "allEventStats.label": "Όλα τα στατιστικά από Event",
+    "learnMore": {
+      "title": "Σχετικά με τα στατιστικά μας",
+      "description": "Αν θες να μάθεις περισσότερα για τα στατιστικά των ευχών και για το pity, έχουμε γράψει και στο reddit για αυτό!",
+      "headToPost": "Πήγαινε στην ανάρτηση"
+    },
+    "exclusivityRate": {
+      "fiftyFifty": "Ποσοστό 50:50",
+      "threeFour": "Ποσοστό 75:25"
+    },
+    "usersPerRegion": {
+      "title": "Παίκτες που ευχήθηκαν - {{ count }}"
+    },
+    "wishesPerRegion": {
+      "title": "Ποσό ευχών - {{ count }}"
+    },
+    "pityDistribution.title": "Ποσότητα {{ rank }}★ ανά αριθμό ευχών",
+    "countPerRank": {
+      "title": "Αριθμός {{ rank }}★",
+      "total": "Σύνολο"
+    },
+    "wishesPerBanner.title": "Ποσότητα ευχών ανά μπάνερ",
+    "eventCard": {
+      "outOf": "από τις {{ count }} ευχές",
+      "itemCount": "{{ count }} - ({{ percent }}% ήταν {{ rank }}★)"
+    },
+    "allStats": {
+      "label": "Όλα τα στατιστικά"
+    },
+    "itemsList": {
+      "title": "Όλα τα drops",
+      "cardTitle": "Όλα τα {{ rank }}★ drops"
+    }
+  },
+  "stats": {
+    "label": "Στατιστικά",
+    "averageGap": "Μέση απόσταση",
+    "na": "N/A",
+    "wishesTotalCount": "Συνολικός αριθμός ευχών",
+    "empty": "Δυστυχώς δεν μπορέσαμε να βρούμε κάτι...",
+    "rankDistribution.title": "Κατάταξη ευχών",
+    "focusDistribution.title": "Αποκλειστικότητα {{ rankType }}★",
+    "fourStarsDetails.title": "Τύποι 4★",
+    "fiveStarsList.title": "Λίστα 5★",
+    "fourStarsList.title": "Λίστα 4★",
+    "bannerActivity.title": "Ευχές ανά χρόνο",
+    "filters": {
+      "filterByEvent": "Φιλτράρισμα ανά event",
+      "selectEvent": "Επιλογή event",
+      "allEvents": "Όλα τα events"
+    }
+  },
+  "nav": {
+    "helpUs.label": "Θέλεις να μας βοηθήσετε;",
+    "request.label": "Αναφορά σφαλμάτων και feedback",
+    "discord.label": "Βρείτε μας στο Discord",
+    "coffee.label": "Υποστηρίξτε τη δουλειά μας",
+    "i18n.label": "Συνεισφέρετε στη μετάφραση"
+  },
+  "wishes": {
+    "label": "Ευχές",
+    "exclusive": "Αποκλειστικό",
+    "notExclusive": "Όχι αποκλειστικό",
+    "noWishes": {
+      "title": "Δεν βρέθηκαν ευχές σε αυτό το banner",
+      "message": "Αλλά μπορείς τουλάχιστον να παίξεις με την Amber <span class=\"text-emoji\">\uD83D\uDE05</span>"
+    },
+    "noResult": {
+      "title": "Ωχ όχι! Δεν υπάρχει κάτι τέτοιο!",
+      "message": "Καλύτερα να επεξεργαστείς τα φίλτρα σου"
+    },
+    "backToList": "Πίσω στα banner",
+    "bannersNav": "Banners",
+    "itemNotFound": "Δεν βρήκαμε κάτι, θα ενημερώσουμε την βάση δεδομένων μας το συντομότερο!",
+    "itemType$": {
+      "Character": "Χαρακτήρας",
+      "Weapon": "Όπλο"
+    },
+    "filters": {
+      "freeText": "Φιλτράρισμα ανά όνομα",
+      "itemType": "Φιλτράρισμα ανά τύπο",
+      "rank": "Φιλτράρισμα ανά κατάταξη",
+      "characterEvent": "Φιλτράρισμα ανά event χαρακτήρα",
+      "weaponEvent": "Φιλτράρισμα ανά event όπλων",
+      "selectEvent": "Επιλέξτε event",
+      "reset": "Επαναφορά όλων"
+    },
+    "update": {
+      "label": "Ενημέρωση ευχών"
+    },
+    "deletion": {
+      "title": "Διαγραφή παλαιών ευχών",
+      "description": "Σίγουρα θέλεις να διαγράωεις όλες τις παλιές ευχές σου;\n\nΗ διαγραφή είναι μη αναστρέψιμη.",
+      "ok": "❌ Ναι, θέλω να διαγραφούν όλες οι ευχές μου"
+    },
+    "differentUidDialog": {
+      "title": "Άλλος λογαριασμός",
+      "description": "\uD83D\uDEA8 Οι ευχές που προσπαθείς να προσθέσεις δεν συνδέονται με τον ίδιο λογαριασμό Genshin.\n\nΤι θέλεις να κάνεις;",
+      "delete": "Διαγραφή παλαιών ευχών"
+    },
+    "import": {
+      "saving": "Αποθήκευση...",
+      "recovery$": {
+        "emoji": "",
+        "title": "",
+        "message": "Ανάκτηση ευχών..."
+      },
+      "success$": {
+        "emoji": "\uD83E\uDD29",
+        "title": "",
+        "message": "<b>{{ wishes }}</b> νέες ευχές βρέθηκαν στο {{ banner }} !"
+      },
+      "noData$": {
+        "emoji": "\uD83D\uDE27",
+        "title": "Δυστυχώς δεν βρήκαμε νέες ευχές.",
+        "message": "Ευχές που έγιναν πριν λιγότερο από μία ώρα δεν μπορούν να προστεθούν ακόμα."
+      },
+      "invalidAuthkey$": {
+        "emoji": "\uD83D\uDEA8",
+        "title": "",
+        "message": "Αδυναμία ταυτοποίησης."
+      },
+      "newWishesDuringImport$": {
+        "emoji": "\uD83D\uDEA8",
+        "title": "",
+        "message": "Συγγνώμη, το ιστορικό ευχών σου άλλαξε κατά τη διάρκεια της εισαγωγής. Δοκίμασε ξανά."
+      },
+      "alreadyImporting$": {
+        "emoji": "\uD83D\uDEA8",
+        "title": "",
+        "message": "Υπάρχει ήδη μια εισαγωγή ευχών σε εξέλιξη, κάνε λίγη υπομονή!"
+      }
+    },
+    "banners$": {
+      "ALL": {
+        "title": "Όλες οι ευχές",
+        "titleWithCount": "Σύνολο ευχών ({{ wishes }})"
+      },
+      "NOVICE": {
+        "title": "Banner αρχαρίων",
+        "titleWithCount": "Banner αρχαρίων ({{ wishes }} ευχές)"
+      },
+      "PERMANENT": {
+        "title": "Μόνιμο banner",
+        "titleWithCount": "Μόνιμο banner ({{ wishes }} ευχές)"
+      },
+      "CHARACTER_EVENT": {
+        "title": "Banner χαρακτήρων",
+        "titleWithCount": "Banner χαρακτήρων ({{ wishes }} ευχές)"
+      },
+      "WEAPON_EVENT": {
+        "title": "Banner όπλων",
+        "titleWithCount": "Banner όπλων ({{ wishes }} ευχές)"
+      }
+    }
+  },
+  "footer": {
+    "disclaimer": "Το Genshin Wishes δεν έχει ουδεμία συσχέτιση με την miHoYo. Τα Genshin Impact και miHoYo αποτελουν πνευματική ιδιοκτησία ή σήμα κατατεθέν της miHoYo. Genshin Impact © miHoYo.",
+    "claim": "Για οποιαδήποτε αξίωση ή απαίτηση, παρακαλούμε <a href=\"mailto:contact.genshin.wishes@gmail.com\">επικοινωνήστε μαζί μας</a>."
+  }
+}
