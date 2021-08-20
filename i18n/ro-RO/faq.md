@@ -1,56 +1,56 @@
-## What is Genshin Wishes?
-Genshin Wishes is a free website [with public code](https://github.com/genshin-wishes) that helps you save and browse your Genshin Impact wishes outside the game. It is made and maintained by [Colin Auberger](https://www.linkedin.com/in/colin-auberger/) and [Jimmy Vergerolle](https://vergerolle.fr).
+## Ce este Genshin Wishes?
+Genshin Wishes este un site gratuit [cu sursă publică](https://github.com/genshin-wishes) care te ajută să-ți salvezi și să-ți navighezi dorințele din Genshin Impact în afara jocului. El este creeat și menținut de [Colin Auberger](https://www.linkedin.com/in/colin-auberger/) și [Jimmy Vergerolle](https://vergerolle.fr).
 
-- Backup your wishes as long as you want
-- Check your pity counter on all events and permanent banners
-- Browse your wishes easily with some fancy filters
-- Check detailed statistics about your wishes (for the nerds like us who like figures and charts 🤓)
+- Salvează-ți dorințele pentru oricât timp dorești
+- Verifică-ți contorul de pity (extragere garantată) la fiecare eveniment și la bannerele permanente
+- Navighează-ți dorințele cu ușurință utilizând niște filtre mișto
+- Verifică statistici detaliate despre dorințele tale (pentru tocilari ca noi cărora le plac figurile și diagramele 🤓)
 
-## How do you manage to get my in-game wishes?
-We simply get them from your wish history. The wish history in Genshin Impact is a webpage displayed in the game, so even you could access it if you had the link. The only thing we need is a temporary key provided by the game. This temporary key is in the link we ask from you for importing your wishes.
+## Cum îmi obțineți dorințele din joc?
+Noi le obținem din istoricul dorințelor. Istoricul dorințelor în Genshin Impact este o pagină web arătată în joc, așa că o poți accesa și tu dacă ai link-ul. Singurul lucru de care avem nevoie este o cheie temporară furnizată de către joc. Această cheie temporară se află în link-ul pe care îl cerem pentru a importa dorințele tale.
 
-## How do I find the key required to import my wishes?
+## Cum găsesc cheia necesară pentru importarea dorințelor?
 ### PC
-Take a look to the [video](https://www.youtube.com/watch?v=a16X0R_rSZc) guide or follow the instructions below :
-1) Press "Feedback" in Paimon's menu
-2) A page should open in your brower
-3) Copy the URL and paste it on Genshin Wishes.
+Privește [ghidul video](https://www.youtube.com/watch?v=a16X0R_rSZc) sau urmărește instrucțiunile de mai jos :
+1) Apasă pe "Feedback" în Meniul Paimon
+2) O pagină web ar fi trebuit să se deschidă în browser
+3) Copie URL-ul și lipește-l pe Genshin Wishes.
 
 ### Android
-Take a look to the [video](https://www.youtube.com/watch?v=hok0jCjSrjo) guide or follow the instructions below:
-1) Press "Feedback" in Paimon's menu
-2) Disable Wi-Fi & data connection
-3) Press the refresh button in the top right corner
-4) The page should bug, displaying its URL
-5) Copy the URL and paste it on Genshin Wishes.
+Privește [ghidul video](https://www.youtube.com/watch?v=hok0jCjSrjo) sau urmărește instrucțiunile de mai jos:
+1) Apasă pe "Feedback" în Meniul Paimon
+2) Dezactivează Wi-Fi-ul și/sau conexiunea de date
+3) Apasă pe butonul de reîncărcare din dreapta-sus
+4) Pagina ar trebui să se defecteze, arătându-și URL-ul
+5) Copie URL-ul și lipește-l pe Genshin Wishes.
 
 ### iOS
-Take a look to the [video](https://www.youtube.com/watch?v=HW8nywx9Tio) guide or follow the instructions below:
-1) Press "Feedback" in Paimon's menu
-2) In the support page, press "Account issue"
-3) In the result, press the third item "How do I change my password?"
-4) In the text displayed click on the blue link named "here"
-5) A page should open on your browser. Copy the page URL and paste it on Genshin Wishes.  
-   Important: This URL does NOT allow us to change your password.
+Privește [ghidul video](https://www.youtube.com/watch?v=HW8nywx9Tio) sau urmărește instrucțiunile de mai jos:
+1) Apasă pe "Feedback" în Meniul Paimon
+2) Pe pagina de suport, apasă "Account issue"
+3) În rezultat, apasă pe al treilea item "How do I change my password?"
+4) În textul afișat apasă pe link-ul albastru numit "here"
+5) O pagină ar trebui să se deschidă în browser. Copie URL-ul și lipește-l pe Genshin Wishes.  
+   Important: Acest URL NU ne dă posibilitatea de a-ți schimba parola.
 
-### Consoles
-1) Open your mail in-game during an event
-2) Open the event related mail
-3) There should be a QR code, scan it with your phone
-4) Copy the URL and paste it on Genshin Wishes.
+### Console
+1) Deschide-ți poșta (Mail) în joc în timpul unui eveniment
+2) Deschide mesajul legat de eveniment
+3) Ar trebui să găsești un cod QR, scanează-l cu telefonul
+4) Copie URL-ul și lipește-l pe Genshin Wishes.
 
-## Is it safe to use?
-Yes. As Genshin Impact players we are very concerned about account security.
-- **We don't need you to install anything** on your computer or mobile phone
-- **We don't need your Genshin account password**
-- Your temporary key is not stored on our servers but **on your device**
-- It is valid only for 24h, after this time you will need to generate a new link to keep your wishes synced
-- This token does not allow us to authenticate on your account anyway
-- You have an option to delete all data we store whenever you want (including the wishes)
-- We use SSL encryption
+## Este sigur de folosit?
+Da. Ca și jucători de Genshin Impact, noi suntem foarte îngrijorați de securitatea conurilor.
+- **Nu trebuie să instalezi nimic** pe calculatorul sau telefonul tău
+- **Nu avem nevoie de parola contului tău de Genshin**
+- Cheia ta temporară nu este stocată pe serverele noastre ci **pe dispozitivul tău**
+- Cheia este valabilă doar pentru 24 de ore, după care va fi necesar să creezi un link nou pentru a-ți menține dorințele sincronizate
+- Token-ul nu ne permite să ne autentificăm în contul tău
+- Ai opțiunea de a șterge toate datele stocate de noi oricând vrei (inclusiv dorințele)
+- Folosim criptare SSL
 
-## Is there a risk of being banned for using this?
-Absolutely not. We use the same requests as the game to fetch your wishes (using open to public Mihoyo API) so there is no risk of being banned. We used it on our own accounts for months now. Mihoyo has made some [statement about third party tools](https://genshin.mihoyo.com/en/news/detail/5763), and our tool is legit.
+## Există un risc de a-mi pierde contul de Genshin prin utilizarea acestui site?
+În niciun caz. Noi utilizăm aceleași solicitări ca și jocul pentru a obține dorințele (folosind API-ul miHoYo deschis publicului), așa că nu există nici un risc de a-ți avea contul șters. Noi îl folosim pe conturile personale pentru câteva luni deja. miHoYo a publicat câteva [declarații despre uneltele terță](https://genshin.mihoyo.com/en/news/detail/5763), și unealta noastră este conformă.
 
-## What language do you support?
-The site is maintained for English and French, other languages are maintained by [contributors](https://github.com/genshin-wishes/genshin-wishes-i18n/blob/main/CONTRIBUTORS.md) in [this project](https://github.com/genshin-wishes/genshin-wishes-i18n).
+## Ce limbi sunt valabile?
+Site-ul este menținut pentru Engleză și Franceză, alte limbi sunt menținute de către [contribuitori](https://github.com/genshin-wishes/genshin-wishes-i18n/blob/main/CONTRIBUTORS.md) în [acest proiect](https://github.com/genshin-wishes/genshin-wishes-i18n).
