@@ -28,6 +28,10 @@
 
 - FuutonShinra#4803
 
+## Italian
+
+- [Loris Bettazza](https://github.com/Pustur)
+
 ## Japanese
 
 - Phystam#5385
@@ -35,6 +39,10 @@
 ## Polish
 
 - Leoreo#8357
+
+## Romanian
+
+- [CounterSlash](https://github.com/CounterSlash)
 
 ## Russian
 

@@ -71,7 +71,7 @@
           "showVideo": "观看视频"
         },
         "2": {
-          "title": "忍耐！我们在收集您的愿望 \uD83D\uDC0B \uD83D\uDE48",
+          "title":"再等一等！我们在收集您的愿望 \uD83D\uDC0B \uD83D\uDE48",
           "description": "<span class=\"text-primary\"><b>下次请重复这些步骤</b></span> 让您的祈愿更新.",
           "seeWishes": "前往应用程式"
         }
@@ -81,7 +81,7 @@
   },
   "auth": {
     "signInMethod": "选择身份验证方法",
-    "hint": "您尚未登录《原神》",
+    "hint": "这里不是要登录原神的账号",
     "subHint": "我们建议您选择其他提供商，而不是您的游戏内帐户。",
     "logout.label": "退出"
   },
@@ -147,7 +147,7 @@
       "joinUs": "加入我们，展现您的幸运祈愿！"
     },
     "footer": {
-      "content": "该项目的资源可在GitHub上找到。 Genshin Wishes 是由 <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> 和 <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a> 制作跟维护."
+      "content": "该项目的资源可在 GitHub 上找到。 Genshin Wishes 是由 <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> 和 <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a> 制作跟维护."
     }
   },
   "profile": {
@@ -395,7 +395,7 @@
     }
   },
   "footer": {
-    "disclaimer": "Genshin Wishes不隶属于米哈游。 《原神》和米哈游是米哈游的商标或注册商标。 《原神》©米哈游。",
-    "claim": "如有任何要求，请与我们联系 <a href=\"mailto:contact.genshin.wishes@gmail.com\">联系</a>."
+    "disclaimer": "Genshin Wishes 不隶属于米哈游。 《原神》和米哈游是米哈游的商标或注册商标。 《原神》©米哈游",
+    "claim": "如有任何问题或建议，请点击 <a href=\"mailto:contact.genshin.wishes@gmail.com\">这里</a> 与我们取得联系"
   }
 }
