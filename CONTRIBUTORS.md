@@ -24,6 +24,10 @@
 
 - Max Philipp Wriedt (max312, hackard#6174)
 
+## Greek
+
+- Dimitra K. (magicatlast#3467) 
+
 ## Indonesian
 
 - FuutonShinra#4803
