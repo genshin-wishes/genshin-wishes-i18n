@@ -43,6 +43,7 @@
 ## Polish
 
 - Leoreo#8357
+- Michuu Michowski#1932
 
 ## Romanian
 
