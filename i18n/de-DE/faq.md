@@ -54,6 +54,3 @@ Absolut nicht. Wir nutzen dieselben Anfragen, welche das Spiel auch nutzt (mithi
 
 ## Welche Sprachen unterstützt ihr?
 Die Seite wird auf English und Französisch entwickelt. Andere Sprachen werden von [Mitwirkenden](https://github.com/genshin-wishes/genshin-wishes-i18n/blob/main/CONTRIBUTORS.md) in [diesem Projekt](https://github.com/genshin-wishes/genshin-wishes-i18n) bereitgestellt.
-
-## Werden öffentliche Statistiken bald verfügbar sein?
-Wir arbeiten momentan an einer Alpha Version. Wir werden sie so schnell es geht veröffentlichen.

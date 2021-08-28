@@ -1,6 +1,14 @@
+## Brazilian Portuguese
+
+- Raphael Souza ([@rssouza](https://twitter.com/rssouza), iRSS#9128)
+
 ## Chinese (simplified)
 
 - Soyan#4054
+
+## Chinese (Traditional)
+
+- Hayate (o疾風\はやてo#3697)
 
 ## English
 
@@ -17,6 +25,18 @@
 
 - Max Philipp Wriedt (max312, hackard#6174)
 
+## Greek
+
+- Dimitra K. (magicatlast#3467) 
+
+## Indonesian
+
+- FuutonShinra#4803
+
+## Italian
+
+- [Loris Bettazza](https://github.com/Pustur)
+
 ## Japanese
 
 - Phystam#5385
@@ -24,6 +44,11 @@
 ## Polish
 
 - Leoreo#8357
+- Michuu Michowski#1932
+
+## Romanian
+
+- [CounterSlash](https://github.com/CounterSlash)
 
 ## Russian
 
@@ -37,6 +62,7 @@
 ## Thai
 
 - p0ndja (PondJaᵀᴴ#9423)
+- Risaka (Risaka_Login#7673)
 
 ## Vietnamese
 

@@ -1,348 +1,401 @@
 {
-    "generics": {
-        "share": "Teilen",
-        "copy": "Kopieren",
-        "filter": "Filter",
-        "cancel": "Abbrechen",
-        "ok": "OK",
-        "close": "Schließen",
-        "previous": "Zurück",
-        "next": "Weiter",
-        "retry": "Erneut Versuchen",
-        "soon": "Bald",
-        "beta": "Beta",
-        "save": "Speichern",
-        "goBack": "Zurück",
-        "moreOf": "Mehr {{ content }}",
-        "error$": {
-            "emoji": "\uD83D\uDE31",
-            "title": "",
-            "message": "Ein Fehler ist aufgetreten. Bitte versuche es erneut."
-        },
-        "mihoyoError$": {
-            "emoji": "\uD83D\uDEA8",
-            "title": "",
-            "message": "Konnte nicht zu den Genshin Servern verbinden."
-        },
-        "archiveWarning": "\uD83D\uDEA8 Seit 28. März 2021 können wir keine Gebete sichern, die älter sind als 6 Monate, weil miHoYo angegangen hat diese aus dem In-Game Verlauf zu löschen. Wenn du ein Backup hast, hast du bald die Möglichkeit diese auf unserer Seite zu Importieren."
+  "generics": {
+    "share": "Teilen",
+    "copy": "Kopieren",
+    "filter": "Filter",
+    "cancel": "Abbrechen",
+    "ok": "OK",
+    "close": "Schließen",
+    "previous": "Zurück",
+    "next": "Weiter",
+    "retry": "Erneut Versuchen",
+    "soon": "Bald",
+    "beta": "Beta",
+    "new": "New",
+    "save": "Speichern",
+    "goBack": "Zurück",
+    "moreOf": "Mehr {{ content }}",
+    "error$": {
+      "emoji": "\uD83D\uDE31",
+      "title": "",
+      "message": "Ein Fehler ist aufgetreten. Bitte versuche es erneut."
     },
-    "app": {
-        "title": "Genshin Wishes",
-        "titleWithPage": "Genshin Wishes — {{ page }}",
-        "description": "Sichere deine Gebete",
-        "menu": "Menü",
-        "getStarted": "Loslegen",
-        "persistLink": {
-            "persist": "Speichere den Link für 24 Stunden",
-            "doNotPersist": "Den Link nicht speichern"
-        },
-        "user": {
-            "uid": "UID {{ uid }}"
-        },
-        "urlInput": {
-            "dialog": {
-                "title": "Dein Link ist abgelaufen",
-                "message": "\uD83D\uDEA8 Der Authentifizierungslink ist ungültig. Bitte aktualisiere ihn. <a href=\"/faq\" target=\"_blank\"> Wie?</a>",
-                "ok": "Update Link"
-            },
-            "pasteInput": "Link hier einfügen",
-            "correctLink": "\uD83D\uDE0E Ok, sieht richtig aus",
-            "incorrectLink": "\uD83D\uDE31 Falscher Link, versuche es noch einmal!"
-        },
-        "urlSetup": {
-            "title": "Account einrichten",
-            "finish": "Fertig",
-            "step": "Schritt {{ step }}",
-            "loading": {
-                "title": "Lade deine Gebete...",
-                "subtitle": "Dies könnte ein paar Minuten dauern."
-            },
-            "steps$": {
-                "1": {
-                    "title": "Bekomme deinen Schlüssel",
-                    "description": "Um deine Gebete zu erhalten, brauchen wir einen temporären Schlüssel aus dem Spiel.\n<span class=\"text-accent\">Keine Sorge, wir werden niemals Zugang zu deinem Genshin Impact Account haben.</span>",
-                    "showVideo": "Zeig mir ein Video"
-                },
-                "2": {
-                    "title": "Moment! Wir holen deine Gebete \uD83D\uDC0B \uD83D\uDE48",
-                    "description": "<span class=\"text-primary\"><b>Wiederhole diese Schritte das nächste mal</b></span>, um neue Gebete zu synchronisieren.",
-                    "seeWishes": "Gehe zur App"
-                }
-            }
-        },
-        "signIn": "Registrieren"
+    "mihoyoError$": {
+      "emoji": "\uD83D\uDEA8",
+      "title": "",
+      "message": "Konnte nicht zu den Genshin Servern verbinden."
     },
-    "auth": {
-        "signInMethod": "Wähle eine Anmeldemethode",
-        "hint": "Du meldest dich NICHT bei Genshin Impact an",
-        "subHint": "Wir empfehlen einen separaten Anbieter als den deines In-Game Accounts zu verwenden",
-        "logout.label": "Abmelden"
+    "archiveWarning": "\uD83D\uDEA8 Seit 28. März 2021 können wir keine Gebete sichern, die älter sind als 6 Monate, weil miHoYo angegangen hat diese aus dem In-Game Verlauf zu löschen. Wenn du ein Backup hast, hast du bald die Möglichkeit diese auf unserer Seite zu Importieren.",
+    "rank": "{{ rank }}★",
+    "region$": {
+      "6": "America",
+      "7": "Europe",
+      "8": "Asia"
+    }
+  },
+  "app": {
+    "title": "Genshin Wishes",
+    "titleWithPage": "Genshin Wishes — {{ page }}",
+    "description": "Sichere deine Gebete",
+    "menu": "Menü",
+    "getStarted": "Loslegen",
+    "persistLink": {
+      "persist": "Speichere den Link für 24 Stunden",
+      "doNotPersist": "Den Link nicht speichern"
     },
-    "banners": {
-        "label": "Banner",
-        "seeWishes": "Gebete anzeigen",
-        "noWishes": "Keine Gebete",
-        "wishes": "{{ count }} Gebete",
-        "pity5": "Mitleid 5★",
-        "pity4": "Mitleid 4★",
-        "last5": "Letzter 5★",
-        "last4": "Letzter 4★",
-        "none": "Nichts"
+    "user": {
+      "uid": "UID {{ uid }}"
     },
-    "cookie": {
-        "title": "Hey! Paimon hat Kekse hinterlassen. \uD83D\uDE0B\n",
-        "message": "Mit dem Nutzen dieser Seite akzeptiert du die Nutzung von Cookies zur Traffic-Analyse.",
-        "ok": "Ok, Ich mag Cookies!"
+    "urlInput": {
+      "dialog": {
+        "title": "Dein Link ist abgelaufen",
+        "message": "\uD83D\uDEA8 Der Authentifizierungslink ist ungültig. Bitte aktualisiere ihn. <a href=\"/faq\" target=\"_blank\"> Wie?</a>",
+        "ok": "Update Link"
+      },
+      "pasteInput": "Link hier einfügen",
+      "correctLink": "\uD83D\uDE0E Ok, sieht richtig aus",
+      "incorrectLink": "\uD83D\uDE31 Falscher Link, versuche es noch einmal!"
     },
-    "faq": {
-        "title": "FAQ"
-    },
-    "landing": {
-        "title": "Home",
-        "isItSafe": "Ist es sicher?",
-        "hero": {
-            "title": "Dein Genshin Impact Gebetsverlauf auf einem Blick.",
-            "subtitle": "Backup your Genshin Impact wish history, keep track of your pity and get a shareable view of your pulls statistics!",
-            "advice": "Keine Installation, <b>kostenlos</b> und <b>sicher</b>."
+    "urlSetup": {
+      "title": "Account einrichten",
+      "finish": "Fertig",
+      "step": "Schritt {{ step }}",
+      "loading": {
+        "title": "Lade deine Gebete...",
+        "subtitle": "Dies könnte ein paar Minuten dauern."
+      },
+      "steps$": {
+        "1": {
+          "title": "Bekomme deinen Schlüssel",
+          "description": "Um deine Gebete zu erhalten, brauchen wir einen temporären Schlüssel aus dem Spiel.\n<span class=\"text-accent\">Keine Sorge, wir werden niemals Zugang zu deinem Genshin Impact Account haben.</span>",
+          "showVideo": "Zeig mir ein Video"
         },
-        "counters": {
-            "users": "<span class=\"text-primary\"><b>{{ users }}</b></span>\nGenshin Impact Spieler vertrauen uns.",
-            "wishes": "<span class=\"text-primary\"><b>{{ wishes }} Gebete</b></span>\nwurden gesichert, Tendenz steigend!"
-        },
-        "feature": {
-            "title": "All deine Gebete an einem Ort.",
-            "publicStats": "Schaue dir öffentliche Statistiken von Millionen Gebeten an.",
-            "personalStats": "Schaue deine persönlichen Gebetsstatistiken an",
-            "dashboard": "Berechne dein Mitleid auf jedem Banner",
-            "archive": "Archiviere Gebete länger als sechs Monate",
-            "platforms": "Verfügbar für PC, Mobil und Konsolen-Spieler"
-        },
-        "comments.title": "Happy Genshin Wishes users.",
-        "security": {
-            "title": "Wir sorgen uns um Sicherheit",
-            "noInstallation": "Keine Installation ist erforderlich und wir brauchen dein Account Passwort nicht.",
-            "temporaryKey": "Dein temporärer Schlüssel ist nicht auf unseren Server gespeichert, sondern auf deinem eigenen Endgerät und ist nur 24h gültig.",
-            "authorization": "Der temporäre Schlüssel erlaubt uns nicht uns auf deinem Account anzumelden",
-            "ssl": "Wir nutzen SSL Verschlüsselung (HTTPS) für alle Verbindungen zwischen dir und unseren Servern.",
-            "learnMore": "Mehr über Sicherheit"
-        },
-        "welcome": {
-            "title": "Wilkommen bei Genshin Wishes.",
-            "description": "Wir helfen dir deine Gebete aus Genshin Impact zu verfolgen und zu sichern. Wir zeigen dir auch deinen Mitleidszähler!"
-        },
-        "elements": {
-            "pity": "Berechne deinen Mitleidszähler für jedes Banner",
-            "browse": "Durchsuche deine Gebete auf einfache Art",
-            "stats": "Schaue in deine Statistiken",
-            "archive": "Archiviere deine Gebete über 6 Monate hinaus"
-        },
-        "footerBanner": {
-            "joinUs": "Tritt uns bei,  und gebe mit deinen Gebeten an."
-        },
-        "footer": {
-            "content": "Der Quellcode dieses Projektes ist verfügbar auf GitHub. Genshin Wishes wird entwickelt von<a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> und <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
+        "2": {
+          "title": "Moment! Wir holen deine Gebete \uD83D\uDC0B \uD83D\uDE48",
+          "description": "<span class=\"text-primary\"><b>Wiederhole diese Schritte das nächste mal</b></span>, um neue Gebete zu synchronisieren.",
+          "seeWishes": "Gehe zur App"
         }
+      }
     },
-    "profile": {
-        "notFound": {
-            "title": "Das Profil konnte nicht gefunden werdem!",
-            "description": "Dieses Profil ist privat oder der Link ist falsch <span class=\"text-emoji\">\uD83D\uDE05</span>",
-            "goToApp": "Gehe zu Genshin Wishes"
-        },
-        "footer": "Sichere deine Gebete von PC/Handy/Konsole und bekomme deine eigenen Statistiken",
-        "share": {
-            "title": "Teile deine Statistik-Seite",
-            "label": "Teile deine Statistiken",
-            "sharing": {
-                "title": "Statistiken-Seite teilen",
-                "enabled": "Nur mit Link sichtbar",
-                "disabled": "Nur für mich sichtbar"
-            },
-            "success$": {
-                "emoji": "\uD83D\uDCCB",
-                "title": "",
-                "message": "Dein Permalink wurde in die Zwischenablage kopiert!"
-            }
-        }
+    "signIn": "Registrieren"
+  },
+  "auth": {
+    "signInMethod": "Wähle eine Anmeldemethode",
+    "hint": "Du meldest dich NICHT bei Genshin Impact an",
+    "subHint": "Wir empfehlen einen separaten Anbieter als den deines In-Game Accounts zu verwenden",
+    "logout.label": "Abmelden"
+  },
+  "banners": {
+    "label": "Banner",
+    "seeWishes": "Gebete anzeigen",
+    "noWishes": "Keine Gebete",
+    "wishes": "{{ count }} Gebete",
+    "pity5": "Mitleid 5★",
+    "pity4": "Mitleid 4★",
+    "last5": "Letzter 5★",
+    "last4": "Letzter 4★",
+    "none": "Nichts"
+  },
+  "cookie": {
+    "title": "Hey! Paimon hat Kekse hinterlassen. \uD83D\uDE0B\n",
+    "message": "Mit dem Nutzen dieser Seite akzeptiert du die Nutzung von Cookies zur Traffic-Analyse.",
+    "ok": "Ok, Ich mag Cookies!"
+  },
+  "faq": {
+    "title": "FAQ"
+  },
+  "landing": {
+    "title": "Home",
+    "isItSafe": "Ist es sicher?",
+    "hero": {
+      "title": "Dein Genshin Impact Gebetsverlauf auf einem Blick.",
+      "subtitle": "Backup your Genshin Impact wish history, keep track of your pity and get a shareable view of your pulls statistics!",
+      "advice": "Keine Installation, <b>kostenlos</b> und <b>sicher</b>."
     },
-    "settings": {
-        "label": "Einstellungen",
-        "authLink": {
-            "title": "Authentifizierungs-Link",
-            "subTitle": "Bearbeite deinen Authentifizierungs-Link",
-            "update": "Speichern und Aktualisieren"
-        },
-        "lang": {
-            "title": "Sprache",
-            "subTitle": "Ändere die Seiten und Gegenstandssprache",
-            "success$": {
-                "emoji": "",
-                "title": "",
-                "message": "Deine Sprache wurde geändert."
-            },
-            "action": "Sprache speichern"
-        },
-        "wholeClock": {
-            "title": "Zeitformat",
-            "subTitle": "Ändere das Zeitformat der Seite",
-            "true": "24h",
-            "false": "12h (AM/PM)",
-            "success$": {
-                "emoji": "",
-                "title": "",
-                "message": "Das Zeitformat wurde geändert."
-            },
-            "action": "Zeitformat speichern"
-        },
-        "deleteAccount": {
-            "title": "Account löschen",
-            "subTitle": "Lösche alle Daten und Gebete von Genshin Wishes",
-            "hint": "Schreibe <b>{{ confirmation }}</b> bevor du auf Löschen drückst.",
-            "label": "Schreib hier",
-            "action": "Lösche meinen Account",
-            "confirmation": "LÖSCHE MEINEN ACCOUNT"
-        },
-        "deleteAccountConfirm": {
-            "title": "Bist du dir sicher, dass du deinen Account löschen möchtest?",
-            "message": "Dies ist unwiderruflich!"
-        },
-        "export": {
-            "title": "Exportiere deine Gebete",
-            "subTitle": "Exportiere alle deine auf Genshin Wishes gespeicherten Gebete",
-            "confirm": {
-                "title": "Bist du dir sicher?",
-                "description": "Keine Sorge, sie bleiben auch in deinem Account."
-            },
-            "action": "Exportiere meine Gebete"
-        }
+    "counters": {
+      "users": "<span class=\"text-primary\"><b>{{ users }}</b></span>\nGenshin Impact Spieler vertrauen uns.",
+      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} Gebete</b></span>\nwurden gesichert, Tendenz steigend!"
     },
-    "publicStats": {
-        "label": "Öffentliche Statistiken"
+    "feature": {
+      "title": "All deine Gebete an einem Ort.",
+      "globalStats": "Schaue dir öffentliche Statistiken von Millionen Gebeten an.",
+      "personalStats": "Schaue deine persönlichen Gebetsstatistiken an",
+      "dashboard": "Berechne dein Mitleid auf jedem Banner",
+      "archive": "Archiviere Gebete länger als sechs Monate",
+      "platforms": "Verfügbar für PC, Mobil und Konsolen-Spieler"
     },
-    "stats": {
-        "label": "Statistiken",
-        "averageGap": "Durchschnittlich",
-        "na": "N/A",
-        "wishesTotalCount": "Gesamtzahl Gebete",
-        "empty": "Sorry, wir konnten nichts finden...",
-        "rankDistribution.title": "Gebetsrang",
-        "focusDistribution.title": "{{ rankType }}★ Exklusivität",
-        "fourStarsDetails.title": "4★ Typen",
-        "fiveStarsList.title": "5★ Liste",
-        "fourStarsList.title": "4★ Liste",
-        "bannerActivity.title": "Gebete pro Zeitabschnitt",
-        "filters": {
-            "filterByEvent": "Filter nach Event",
-            "selectEvent": "Wähle ein Event",
-            "allEvents": "Alle Events"
-        }
+    "comments.title": "Happy Genshin Wishes users.",
+    "security": {
+      "title": "Wir sorgen uns um Sicherheit",
+      "noInstallation": "Keine Installation ist erforderlich und wir brauchen dein Account Passwort nicht.",
+      "temporaryKey": "Dein temporärer Schlüssel ist nicht auf unseren Server gespeichert, sondern auf deinem eigenen Endgerät und ist nur 24h gültig.",
+      "authorization": "Der temporäre Schlüssel erlaubt uns nicht uns auf deinem Account anzumelden",
+      "ssl": "Wir nutzen SSL Verschlüsselung (HTTPS) für alle Verbindungen zwischen dir und unseren Servern.",
+      "learnMore": "Mehr über Sicherheit"
     },
-    "nav": {
-        "helpUs.label": "Du möchtest Helfen?",
-        "request.label": "Fehlermeldungen & Feedback",
-        "discord.label": "Komm auf unseren Discord",
-        "coffee.label": "Unterstütze unsere Arbeit",
-        "i18n.label": "Trage zur Übersetzung bei"
+    "welcome": {
+      "title": "Wilkommen bei Genshin Wishes.",
+      "description": "Wir helfen dir deine Gebete aus Genshin Impact zu verfolgen und zu sichern. Wir zeigen dir auch deinen Mitleidszähler!"
     },
-    "wishes": {
-        "label": "Gebete",
-        "exclusive": "Exklusiv",
-        "notExclusive": "Nicht exklusiv",
-        "noWishes": {
-            "title": "Keine Gebete für dieses Banner gefunden",
-            "message": "Du kannst immernoch mit Amber spielen <span class=\"text-emoji\">\uD83D\uDE05</span>"
-        },
-        "noResult": {
-            "title": "Wow! Hier gibt es nichts!",
-            "message": "Du solltest deinen Filter richtig einstellen"
-        },
-        "backToList": "Zurück zu den Bannern",
-        "bannersNav": "Banner",
-        "itemNotFound": "Gegenstand nicht gefunden, wir werden unsere Datenbank so schnell wie möglich erweitern",
-        "itemType$": {
-            "Character": "Charakter",
-            "Weapon": "Waffe"
-        },
-        "filters": {
-            "freeText": "Filter nach Name",
-            "itemType": "Filter nach Typ",
-            "rank": "Filter nach Rang",
-            "characterEvent": "Filter nach Charakter Event",
-            "weaponEvent": "Filter nach Waffen Event",
-            "selectEvent": "Wähle Events",
-            "reset": "Zurücksetzen"
-        },
-        "update": {
-            "label": "Gebete aktualisieren"
-        },
-        "deletion": {
-            "title": "Alte Gebete löschen",
-            "description": "Bist du dir sicher, dass du deine alten Gebete löschen möchtest?\n\nDies ist unwiderruflich.",
-            "ok": "❌ Ja, lösche alle meine Gebete"
-        },
-        "differentUidDialog": {
-            "title": "Anderer Account",
-            "description": "\uD83D\uDEA8 Die Gebete die du hinzufügen möchtest gehören einem anderen Account.\n\nWas möchtest du tun?",
-            "delete": "Alte Gebete löschen."
-        },
-        "import": {
-            "saving": "Speichern...",
-            "recovery$": {
-                "emoji": "",
-                "title": "",
-                "message": "Gebete werden wiederhergestellt..."
-            },
-            "success$": {
-                "emoji": "\uD83E\uDD29",
-                "title": "",
-                "message": "<b>{{ wishes }}</b> neue Gebete in {{ banner }} gefunden!"
-            },
-            "noData$": {
-                "emoji": "\uD83D\uDE27",
-                "title": "Sorry, keine neuen Gebete gefunden",
-                "message": "Gebete, welche vor weniger als einer Stunde gemacht wurden, können nicht hinzugefügt werden."
-            },
-            "invalidAuthkey$": {
-                "emoji": "\uD83D\uDEA8",
-                "title": "",
-                "message": "Wir konnten dich nicht authentifizieren."
-            },
-            "newWishesDuringImport$": {
-                "emoji": "\uD83D\uDEA8",
-                "title": "",
-                "message": "Sorry, dein Gebetsverlauf hat sich beim importieren geändert. Bitte versuche es noch einmal."
-            },
-            "alreadyImporting$": {
-                "emoji": "\uD83D\uDEA8",
-                "title": "",
-                "message": "Deine Gebete werden bereits importiert. Bitte habe Geduld!"
-            }
-        },
-        "banners$": {
-            "ALL": {
-                "title": "All Gebete",
-                "titleWithCount": "Alle Gebete ({{ wishes }})"
-            },
-            "NOVICE": {
-                "title": "Anfänger Banner",
-                "titleWithCount": "Anfänger Banner ({{ wishes }} Gebete)"
-            },
-            "PERMANENT": {
-                "title": "Permanent Banner",
-                "titleWithCount": "Permanent Banner ({{ wishes }} Gebete)"
-            },
-            "CHARACTER_EVENT": {
-                "title": "Charakter Banner",
-                "titleWithCount": "Charakter Banner ({{ wishes }} Gebete)"
-            },
-            "WEAPON_EVENT": {
-                "title": "Waffen Banner",
-                "titleWithCount": "Waffen Banner ({{ wishes }} Gebete)"
-            }
-        }
+    "elements": {
+      "pity": "Berechne deinen Mitleidszähler für jedes Banner",
+      "browse": "Durchsuche deine Gebete auf einfache Art",
+      "stats": "Schaue in deine Statistiken",
+      "archive": "Archiviere deine Gebete über 6 Monate hinaus"
+    },
+    "footerBanner": {
+      "joinUs": "Tritt uns bei,  und gebe mit deinen Gebeten an."
     },
     "footer": {
-        "disclaimer": "Genshin Wishes ist nicht mit miHoYo verbunden.Genshin Impact und miHoYo sind Marken oder eingetragene Marken von miHoYo. Genshin Impact © miHoYo.",
-        "claim": "Für jeden Anspruch bitte <a href=\"mailto:contact.genshin.wishes@gmail.com\">hier kontaktieren</a>."
+      "content": "Der Quellcode dieses Projektes ist verfügbar auf GitHub. Genshin Wishes wird entwickelt von<a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> und <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
     }
+  },
+  "profile": {
+    "notFound": {
+      "title": "Das Profil konnte nicht gefunden werdem!",
+      "description": "Dieses Profil ist privat oder der Link ist falsch <span class=\"text-emoji\">\uD83D\uDE05</span>",
+      "goToApp": "Gehe zu Genshin Wishes"
+    },
+    "footer": "Sichere deine Gebete von PC/Handy/Konsole und bekomme deine eigenen Statistiken",
+    "share": {
+      "title": "Teile deine Statistik-Seite",
+      "label": "Teile deine Statistiken",
+      "sharing": {
+        "title": "Statistiken-Seite teilen",
+        "enabled": "Nur mit Link sichtbar",
+        "disabled": "Nur für mich sichtbar"
+      },
+      "success$": {
+        "emoji": "\uD83D\uDCCB",
+        "title": "",
+        "message": "Dein Permalink wurde in die Zwischenablage kopiert!"
+      }
+    }
+  },
+  "settings": {
+    "label": "Einstellungen",
+    "authLink": {
+      "title": "Authentifizierungs-Link",
+      "subTitle": "Bearbeite deinen Authentifizierungs-Link",
+      "update": "Speichern und Aktualisieren"
+    },
+    "lang": {
+      "title": "Sprache",
+      "subTitle": "Ändere die Seiten und Gegenstandssprache",
+      "success$": {
+        "emoji": "",
+        "title": "",
+        "message": "Deine Sprache wurde geändert."
+      },
+      "action": "Sprache speichern"
+    },
+    "wholeClock": {
+      "title": "Zeitformat",
+      "subTitle": "Ändere das Zeitformat der Seite",
+      "true": "24h",
+      "false": "12h (AM/PM)",
+      "success$": {
+        "emoji": "",
+        "title": "",
+        "message": "Das Zeitformat wurde geändert."
+      },
+      "action": "Zeitformat speichern"
+    },
+    "deleteAccount": {
+      "title": "Account löschen",
+      "subTitle": "Lösche alle Daten und Gebete von Genshin Wishes",
+      "hint": "Schreibe <b>{{ confirmation }}</b> bevor du auf Löschen drückst.",
+      "label": "Schreib hier",
+      "action": "Lösche meinen Account",
+      "confirmation": "LÖSCHE MEINEN ACCOUNT"
+    },
+    "deleteAccountConfirm": {
+      "title": "Bist du dir sicher, dass du deinen Account löschen möchtest?",
+      "message": "Dies ist unwiderruflich!"
+    },
+    "export": {
+      "title": "Exportiere deine Gebete",
+      "subTitle": "Exportiere alle deine auf Genshin Wishes gespeicherten Gebete",
+      "confirm": {
+        "title": "Bist du dir sicher?",
+        "description": "Keine Sorge, sie bleiben auch in deinem Account."
+      },
+      "action": "Exportiere meine Gebete"
+    }
+  },
+  "globalStats": {
+    "label": "Globale Statistiken",
+    "noResult": {
+      "title": "Bisher gibt es noch keine Statistiken zu diesem Event!",
+      "description": "Du kannst immernoch die anderen Events auschecken oder den Filter entfernen.",
+      "reset": "Event Filter entfernen"
+    },
+    "banners$": {
+      "ALL": "Globale Statistiken",
+      "CHARACTER_EVENT": "Charakter Event Banner Statistiken",
+      "WEAPON_EVENT": "Waffen Event Banner Statistiken",
+      "PERMANENT": "Permanentes Banner Statistiken",
+      "NOVICE": "Anfänger Banner Statistiken"
+    },
+    "gwUsersOnly": "From Genshin Wishes users only (updated every {{ minutes }} minutes).",
+    "allEventStats.label": "Alle Event Statistiken",
+    "learnMore": {
+      "title": "Über unsere Statistiken",
+      "description": "Wenn du mehr über unsere Statistiken erfahren möchtest, wir haben einen Reddit-Post geschrieben",
+      "headToPost": "Zum Post (EN)"
+    },
+    "exclusivityRate": {
+      "fiftyFifty": "50:50 Rate",
+      "threeFour": "75:25 Rate"
+    },
+    "usersPerRegion": {
+      "title": "Ziehende Spieler - {{ count }}"
+    },
+    "wishesPerRegion": {
+      "title": "Anzahl Gebete - {{ count }}"
+    },
+    "pityDistribution.title": "{{ rank }}★ Anzahl pro Ziehung",
+    "countPerRank": {
+      "title": "{{ rank }}★ Anzahl",
+      "total": "Gesamtanzahl"
+    },
+    "wishesPerBanner.title": "Gebetsanzahl pro Banner",
+    "eventCard": {
+      "outOf": "von {{ count }} Gebeten",
+      "itemCount": "{{ count }} - ({{ percent }}% von {{ rank }}★)"
+    },
+    "allStats": {
+      "label": "Alle Statistiken"
+    },
+    "itemsList": {
+      "title": "Alle Ziehungen",
+      "cardTitle": "Alle {{ rank }}★ Ziehungen"
+    }
+  },
+  "stats": {
+    "label": "Statistiken",
+    "averageGap": "Durchschnittlich",
+    "na": "N/A",
+    "wishesTotalCount": "Gesamtzahl Gebete",
+    "empty": "Sorry, wir konnten nichts finden...",
+    "rankDistribution.title": "Gebetsrang",
+    "focusDistribution.title": "{{ rankType }}★ Exklusivität",
+    "fourStarsDetails.title": "4★ Typen",
+    "fiveStarsList.title": "5★ Liste",
+    "fourStarsList.title": "4★ Liste",
+    "bannerActivity.title": "Gebete pro Zeitabschnitt",
+    "filters": {
+      "filterByEvent": "Filter nach Event",
+      "selectEvent": "Wähle ein Event",
+      "allEvents": "Alle Events"
+    }
+  },
+  "nav": {
+    "helpUs.label": "Du möchtest Helfen?",
+    "request.label": "Fehlermeldungen & Feedback",
+    "discord.label": "Komm auf unseren Discord",
+    "coffee.label": "Unterstütze unsere Arbeit",
+    "i18n.label": "Trage zur Übersetzung bei"
+  },
+  "wishes": {
+    "label": "Gebete",
+    "exclusive": "Exklusiv",
+    "notExclusive": "Nicht exklusiv",
+    "noWishes": {
+      "title": "Keine Gebete für dieses Banner gefunden",
+      "message": "Du kannst immernoch mit Amber spielen <span class=\"text-emoji\">\uD83D\uDE05</span>"
+    },
+    "noResult": {
+      "title": "Wow! Hier gibt es nichts!",
+      "message": "Du solltest deinen Filter richtig einstellen"
+    },
+    "backToList": "Zurück zu den Bannern",
+    "bannersNav": "Banner",
+    "itemNotFound": "Gegenstand nicht gefunden, wir werden unsere Datenbank so schnell wie möglich erweitern",
+    "itemType$": {
+      "Character": "Charakter",
+      "Weapon": "Waffe"
+    },
+    "filters": {
+      "freeText": "Filter nach Name",
+      "itemType": "Filter nach Typ",
+      "rank": "Filter nach Rang",
+      "characterEvent": "Filter nach Charakter Event",
+      "weaponEvent": "Filter nach Waffen Event",
+      "selectEvent": "Wähle Events",
+      "reset": "Zurücksetzen"
+    },
+    "update": {
+      "label": "Gebete aktualisieren"
+    },
+    "deletion": {
+      "title": "Alte Gebete löschen",
+      "description": "Bist du dir sicher, dass du deine alten Gebete löschen möchtest?\n\nDies ist unwiderruflich.",
+      "ok": "❌ Ja, lösche alle meine Gebete"
+    },
+    "differentUidDialog": {
+      "title": "Anderer Account",
+      "description": "\uD83D\uDEA8 Die Gebete die du hinzufügen möchtest gehören einem anderen Account.\n\nWas möchtest du tun?",
+      "delete": "Alte Gebete löschen."
+    },
+    "import": {
+      "saving": "Speichern...",
+      "recovery$": {
+        "emoji": "",
+        "title": "",
+        "message": "Gebete werden wiederhergestellt..."
+      },
+      "success$": {
+        "emoji": "\uD83E\uDD29",
+        "title": "",
+        "message": "<b>{{ wishes }}</b> neue Gebete in {{ banner }} gefunden!"
+      },
+      "noData$": {
+        "emoji": "\uD83D\uDE27",
+        "title": "Sorry, keine neuen Gebete gefunden",
+        "message": "Gebete, welche vor weniger als einer Stunde gemacht wurden, können nicht hinzugefügt werden."
+      },
+      "invalidAuthkey$": {
+        "emoji": "\uD83D\uDEA8",
+        "title": "",
+        "message": "Wir konnten dich nicht authentifizieren."
+      },
+      "newWishesDuringImport$": {
+        "emoji": "\uD83D\uDEA8",
+        "title": "",
+        "message": "Sorry, dein Gebetsverlauf hat sich beim importieren geändert. Bitte versuche es noch einmal."
+      },
+      "alreadyImporting$": {
+        "emoji": "\uD83D\uDEA8",
+        "title": "",
+        "message": "Deine Gebete werden bereits importiert. Bitte habe Geduld!"
+      }
+    },
+    "banners$": {
+      "ALL": {
+        "title": "Alle Gebete",
+        "titleWithCount": "Alle Gebete ({{ wishes }})"
+      },
+      "NOVICE": {
+        "title": "Anfänger Banner",
+        "titleWithCount": "Anfänger Banner ({{ wishes }} Gebete)"
+      },
+      "PERMANENT": {
+        "title": "Permanent Banner",
+        "titleWithCount": "Permanent Banner ({{ wishes }} Gebete)"
+      },
+      "CHARACTER_EVENT": {
+        "title": "Charakter Banner",
+        "titleWithCount": "Charakter Banner ({{ wishes }} Gebete)"
+      },
+      "WEAPON_EVENT": {
+        "title": "Waffen Banner",
+        "titleWithCount": "Waffen Banner ({{ wishes }} Gebete)"
+      }
+    }
+  },
+  "footer": {
+    "disclaimer": "Genshin Wishes ist nicht mit miHoYo verbunden.Genshin Impact und miHoYo sind Marken oder eingetragene Marken von miHoYo. Genshin Impact © miHoYo.",
+    "claim": "Für jeden Anspruch bitte <a href=\"mailto:contact.genshin.wishes@gmail.com\">hier kontaktieren</a>."
+  }
 }
