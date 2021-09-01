@@ -19,10 +19,15 @@
 
 - Colin Auberger (Isho#5061)
 - Jimmy Vergerolle (ChaosKaizer#9729)
+- Lifendyel#6564
 
 ## German
 
 - Max Philipp Wriedt (max312, hackard#6174)
+
+## Greek
+
+- Dimitra K. (magicatlast#3467) 
 
 ## Indonesian
 
@@ -39,6 +44,7 @@
 ## Polish
 
 - Leoreo#8357
+- Michuu Michowski#1932
 
 ## Romanian
 
