@@ -348,7 +348,7 @@
       "success$": {
         "emoji": "\uD83E\uDD29",
         "title": "",
-        "message": "<b>{{ wishes }}</b> novas orações encontradas no {{ banner }} !"
+        "message": "<b>{{ wishes }}</b> novas orações encontradas no {{ banner }}!"
       },
       "noData$": {
         "emoji": "\uD83D\uDE27",
