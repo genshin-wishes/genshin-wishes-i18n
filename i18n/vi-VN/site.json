@@ -225,6 +225,8 @@
   },
   "globalStats": {
     "label": "Số liệu toàn cầu",
+    "backToHome": "Back to home",
+    "computing": "Stats are being computed. Please try again later.",
     "noResult": {
       "title": "Chưa có số liệu nào được thu thập cho sự kiện này!",
       "description": "Bạn có thể kiểm tra số liệu của sự kiện khác hoặc xóa bộ lọc sự kiện.",

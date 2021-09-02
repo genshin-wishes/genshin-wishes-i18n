@@ -225,6 +225,8 @@
   },
   "globalStats": {
     "label": "สถิติสาธารณะ",
+    "backToHome": "Back to home",
+    "computing": "Stats are being computed. Please try again later.",
     "noResult": {
       "title": "เรายังไม่พบสถิติใด ๆ ในกิจกรรมนี้!",
       "description": "คุณอาจลองตรวจสอบในกิจกรรมอื่น ๆ หรือลบกิจกรรมนี้ออกจากตัวกรอง",

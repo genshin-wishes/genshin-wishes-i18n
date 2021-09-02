@@ -225,6 +225,8 @@
   },
   "globalStats": {
     "label": "世界統計",
+    "backToHome": "Back to home",
+    "computing": "Stats are being computed. Please try again later.",
     "noResult": {
       "title": "まだこのイベント祈願の統計はありません！",
       "description": "他のイベント祈願に切り替えるか絞り込みを解除すると見れるようになります。",

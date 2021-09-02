@@ -225,6 +225,8 @@
   },
   "globalStats": {
     "label": "Παγκόσμια στατιστικά",
+    "backToHome": "Back to home",
+    "computing": "Stats are being computed. Please try again later.",
     "noResult": {
       "title": "Δεν έχουμε μαζέωει στατιστικά για αυτό το event ακόμα!",
       "description": "Μπορείς όμως να δεις στατιστικά από προηγούμενα event ή να αφαιρέσεις το φίλτρο event.",

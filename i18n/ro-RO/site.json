@@ -225,6 +225,8 @@
   },
   "globalStats": {
     "label": "Statistici globale",
+    "backToHome": "Back to home",
+    "computing": "Stats are being computed. Please try again later.",
     "noResult": {
       "title": "Încă nu sunt statistici pentru acest eveniment!",
       "description": "Poți neviga statisticile altor evenimente sau poți să elimini filtrul de evenimente.",
