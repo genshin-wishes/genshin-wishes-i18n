@@ -232,6 +232,8 @@
   },
   "globalStats": {
     "label": "全面统计",
+    "backToHome": "Back to home",
+    "computing": "Stats are being computed. Please try again later.",
     "noResult": {
       "title": "此活动尚未收集任何统计信息！",
       "description": "您仍然可以查看其他活动统计信息或删除活动筛选。",

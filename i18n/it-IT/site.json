@@ -54,7 +54,7 @@
       },
       "pasteInput": "Incolla il tuo link qui",
       "correctLink": "\uD83D\uDE0E Ok, sembra giusto",
-      "incorrectLink": "\uD83D\uDE31 Link incorretto, per favore prova nuovamente!"
+      "incorrectLink": "\uD83D\uDE31 Link incorretto, per favore riprova!"
     },
     "urlSetup": {
       "title": "Configura il tuo account",
@@ -225,6 +225,8 @@
   },
   "globalStats": {
     "label": "Statistiche Globali",
+    "backToHome": "Torna alla home",
+    "computing": "Stiamo calcolando le statistiche. Per favore riprova più tardi.",
     "noResult": {
       "title": "Al momento, nessuna statistica è stata raccolta per questo evento!",
       "description": "Puoi comunque controllare le statistiche degli altri eventi o rimuovere il filtro evento.",
@@ -363,7 +365,7 @@
       "newWishesDuringImport$": {
         "emoji": "\uD83D\uDEA8",
         "title": "",
-        "message": "Spiacente, la tua wish history è cambiata durante l'importazione. Per favore prova ancora."
+        "message": "Spiacente, la tua wish history è cambiata durante l'importazione. Per favore riprova."
       },
       "alreadyImporting$": {
         "emoji": "\uD83D\uDEA8",
