@@ -54,7 +54,7 @@
       },
       "pasteInput": "Incolla il tuo link qui",
       "correctLink": "\uD83D\uDE0E Ok, sembra giusto",
-      "incorrectLink": "\uD83D\uDE31 Link incorretto, per favore prova nuovamente!"
+      "incorrectLink": "\uD83D\uDE31 Link incorretto, per favore riprova!"
     },
     "urlSetup": {
       "title": "Configura il tuo account",
@@ -365,7 +365,7 @@
       "newWishesDuringImport$": {
         "emoji": "\uD83D\uDEA8",
         "title": "",
-        "message": "Spiacente, la tua wish history è cambiata durante l'importazione. Per favore prova ancora."
+        "message": "Spiacente, la tua wish history è cambiata durante l'importazione. Per favore riprova."
       },
       "alreadyImporting$": {
         "emoji": "\uD83D\uDEA8",
