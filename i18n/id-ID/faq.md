@@ -2,7 +2,7 @@
 Genshin Wishes adalah website gratis [dengan public-code](https://github.com/genshin-wishes) yang membantu kamu menyimpan dan menjelajahi riwayat permohonan Genshin Impact kamu di luar game. Dibuat dan dikelola oleh [Colin Auberger](https://www.linkedin.com/in/colin-auberger/) dan [Jimmy Vergerolle](https://vergerolle.fr).
 
 - Cadangkan permohonanmu selama yang kamu inginkan
-- Periksa perhitungan pity kamu di semua banner event dan banner permanen
+- Periksa perhitungan pity-mu di semua banner event dan banner permanen
 - Jelajahi permohonanmu dengan mudah menggunakan filter mewah
 - Periksa statistik terperinci tentang permohonanmu (untuk kutu buku seperti kami yang menyukai angka dan grafik 🤓)
 
@@ -40,17 +40,17 @@ Lihat panduan [video](https://www.youtube.com/watch?v=HW8nywx9Tio) atau ikuti in
 4) Salin URL-nya dan tempel di Genshin Wishes.
 
 ## Apakah ini aman untuk digunakan?
-Ya. Sebagai pemain Genshin Impact, kami sangat memperhatikan keamanan akun.
+Iya. Sebagai pemain Genshin Impact, kami sangat memperhatikan keamanan akun.
 - **Kami tidak memerlukan kamu untuk menginstal apa pun** di komputer atau ponselmu.
 - **Kami tidak memerlukan kata sandi Genshin Impact kamu**
 - Kunci sementara kamu tidak tersimpan di server kami tetapi **di perangkatmu**
-- Itu hanya valid untuk 24 jam, setelah itu kamu harus membuat sebuah link baru untuk menjaga agar permohonanmu tetap sinkron
+- Kunci sementara hanya valid untuk 24 jam, setelah itu kamu harus membuat sebuah link baru untuk menjaga agar permohonanmu tetap sinkron
 - Token ini tidak mengizinkan kami untuk autentikasi ke akunmu
-- Kamu memiliki opsi untuk menghapus semua data yang kami simpan kapan pun kamu mau (termasuk permohonan)
+- Kamu memiliki opsi untuk menghapus semua datamu yang kami simpan kapan pun kamu mau (termasuk permohonan)
 - Kami menggunakan enkripsi SSL
 
 ## Apakah ada risiko untuk dibanned setelah menggunakan ini?
 Tentu saja tidak. Kami menggunakan permintaan yang sama seperti game untuk mendapatkan permohonanmu (menggunakan open to public Mihoyo API ), jadi tidak ada risiko dibanned. Kami telah menggunakannya pada akun kami selama berbulan-bulan. Mihoyo membuat sebuah [pernyataan tentang alat pihak-ketiga](https://genshin.mihoyo.com/en/news/detail/5763), dan alat kami sah.
 
-## Bahasa apa yang didukung?
-Situs ini dikelola untuk bahasa Inggris dan Perancis, bahasa lainnya dikelola oleh [kontributor](https://github.com/genshin-wishes/genshin-wishes-i18n/blob/main/CONTRIBUTORS.md) dalam [projek ini](https://github.com/genshin-wishes/genshin-wishes-i18n).
+## Bahasa apa saja yang kalian dukung?
+Situs ini dikelola untuk bahasa Inggris dan Prancis, bahasa lainnya dikelola oleh [kontributor](https://github.com/genshin-wishes/genshin-wishes-i18n/blob/main/CONTRIBUTORS.md) dalam [projek ini](https://github.com/genshin-wishes/genshin-wishes-i18n).
