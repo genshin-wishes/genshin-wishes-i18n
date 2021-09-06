@@ -225,6 +225,8 @@
   },
   "globalStats": {
     "label": "Statistik global",
+    "backToHome": "Back to home",
+    "computing": "Stats are being computed. Please try again later.",
     "noResult": {
       "title": "Belum ada statistik yang dikumpulkan untuk event ini!",
       "description": "Kamu masih bisa memeriksa statistik event lainnya atau hapus filter event.",

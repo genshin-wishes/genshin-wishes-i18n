@@ -19,14 +19,23 @@
 
 - Colin Auberger (Isho#5061)
 - Jimmy Vergerolle (ChaosKaizer#9729)
+- Lifendyel#6564
 
 ## German
 
 - Max Philipp Wriedt (max312, hackard#6174)
 
+## Greek
+
+- Dimitra K. (magicatlast#3467) 
+
 ## Indonesian
 
 - FuutonShinra#4803
+
+## Italian
+
+- [Loris Bettazza](https://github.com/Pustur)
 
 ## Japanese
 
@@ -35,6 +44,11 @@
 ## Polish
 
 - Leoreo#8357
+- Michuu Michowski#1932
+
+## Romanian
+
+- [CounterSlash](https://github.com/CounterSlash)
 
 ## Russian
 

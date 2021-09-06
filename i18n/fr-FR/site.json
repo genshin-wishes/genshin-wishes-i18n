@@ -232,6 +232,8 @@
   },
   "globalStats": {
     "label": "Statistiques globales",
+    "backToHome": "Retour à l'accueil",
+    "computing": "Les statistiques sont en cours de calcul. Veuillez réessayer plus tard.",
     "noResult": {
       "title": "Aucune stat n'a encore été collectée pour cet événement !",
       "description": "Vous pouvez toujours regarder les statistiques d'un autre événement ou retirer le filtre.",

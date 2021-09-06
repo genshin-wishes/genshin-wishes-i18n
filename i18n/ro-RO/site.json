@@ -1,0 +1,403 @@
+{
+  "generics": {
+    "share": "Distribuie",
+    "copy": "Copie",
+    "filter": "Filtrează",
+    "cancel": "Anulează",
+    "ok": "OK",
+    "close": "Închide",
+    "previous": "Înapoi",
+    "next": "Următorul",
+    "retry": "Reîncearcă",
+    "soon": "În curând",
+    "beta": "Beta",
+    "new": "Nou",
+    "save": "Salvează",
+    "goBack": "Mergi Înapoi",
+    "moreOf": "Mai mult {{ content }}",
+    "error$": {
+      "emoji": "\uD83D\uDE31",
+      "title": "",
+      "message": "A avut loc o eroare. Vă rugăm să reîncercați."
+    },
+    "mihoyoError$": {
+      "emoji": "\uD83D\uDEA8",
+      "title": "",
+      "message": "Conectarea la server-ul Genshin a eșuat."
+    },
+    "archiveWarning": "\uD83D\uDEA8 Începând cu 28 Martie, 2021 noi nu putem recupera dorințe mai vechi de 6 luni deoarece miHoYo a început să le șteargă din istoricul jocului. Dacă ai o copie de rezervă, curând o vei putea importa în site",
+    "rank": "{{ rank }}★",
+    "region$": {
+      "6": "America",
+      "7": "Europa",
+      "8": "Asia"
+    }
+  },
+  "app": {
+    "title": "Genshin Wishes",
+    "titleWithPage": "Genshin Wishes — {{ page }}",
+    "description": "Salvează și urmărește-ți dorințele cu ușurință",
+    "menu": "Meniu",
+    "getStarted": "Începe",
+    "persistLink": {
+      "persist": "Salvează pe dispozitivul tău pentru 24h",
+      "doNotPersist": "Nu salva link-ul"
+    },
+    "user": {
+      "uid": "UID {{ uid }}"
+    },
+    "urlInput": {
+      "dialog": {
+        "title": "Link-ul tău a expirat",
+        "message": "\uD83D\uDEA8 Link-ul de autentificare este invalid. Vă rugăm să îl actualizați. <a href=\"/faq\" target=\"_blank\"> Cum?</a>",
+        "ok": "Actualizează link-ul"
+      },
+      "pasteInput": "Lipește link-ul tău aici",
+      "correctLink": "\uD83D\uDE0E Ok, arată bine",
+      "incorrectLink": "\uD83D\uDE31 Link incorect, încearcă din nou!"
+    },
+    "urlSetup": {
+      "title": "Creează-ți contul",
+      "finish": "Finalizează",
+      "step": "Pasul {{ step }}",
+      "loading": {
+        "title": "Încărcăm dorințele...",
+        "subtitle": "Stai așa! Ar putea să dureze câteva minute."
+      },
+      "steps$": {
+        "1": {
+          "title": "Obține-ți cheia",
+          "description": "Pentru a-ți obține dorințele avem nevoie de o cheie temporară din joc.\n<span class=\"text-accent\">Nu-ți fă griji, nu vom avea niciodată acces la contul tău de Genshin Impact.</span>",
+          "showVideo": "Arată-mi un video"
+        },
+        "2": {
+          "title": "Stai așa! Îți obținem dorințele \uD83D\uDC0B \uD83D\uDE48",
+          "description": "<span class=\"text-primary\"><b>Repetă acești pași data viitoare</b></span> pentru a sincroniza dorințele noi.",
+          "seeWishes": "Deschide aplicația"
+        }
+      }
+    },
+    "signIn": "Înregistrare"
+  },
+  "auth": {
+    "signInMethod": "Alege o metodă de înregistrare",
+    "hint": "Tu NU te înregistrezi în Genshin Impact",
+    "subHint": "Te încurajăm să folosești un furnizor diferit de cel folosit de către contul de Genshim Impact.",
+    "logout.label": "Deconectare"
+  },
+  "banners": {
+    "label": "Banners",
+    "seeWishes": "Vezi dorințele",
+    "noWishes": "Nici o dorintă",
+    "wishes": "{{ count }} dorințe",
+    "pity5": "5★ Garantat",
+    "pity4": "4★ Garantat",
+    "last5": "Ultimul 5★",
+    "last4": "Ultimul 4★",
+    "none": "Nimic"
+  },
+  "cookie": {
+    "title": "Hei! Paimon ne-a lăsat câteva cookie-uri. \uD83D\uDE0B\n",
+    "message": "Prin utilizarea acestui site, ești deacord cu utilizarea cookie-urilor doar pentru analiza traficului.",
+    "ok": "Ok, îmi plac cookie-urile!"
+  },
+  "faq": {
+    "title": "Întrebări frecvente"
+  },
+  "landing": {
+    "title": "Acasă",
+    "isItSafe": "Este sigur?",
+    "hero": {
+      "title": "Istoricul dorițelor tale din Genshin Impact într-o singură privire.",
+      "subtitle": "Salvează-ți istoricul dorințelor din Genshin Impact, urmărește-ți pity-ul și obține o statistică a dorințelor pe care o poți distribui!",
+      "advice": "Fără instalări, <b>gratuit</b> și <b>sigur</b>."
+    },
+    "counters": {
+      "users": "Utilizat cu încrdere de către <span class=\"text-primary\"><b>{{ users }}</b></span>\n de jucători de Genshin Impact",
+      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} dorințe</b></span>\nsalvate și încă numarăm"
+    },
+    "feature": {
+      "title": "Toate dorințele tale într-ul singur loc.",
+      "globalStats": "Vezi statistici globale din milioane de dorințe",
+      "personalStats": "Vezi statisticile dorințelor personale",
+      "dashboard": "Calculează-ți pity-ul pentru fiecare banner",
+      "archive": "Arhivează-ți dorințele pentru mai mult de 6 luni",
+      "platforms": "Valabil pentru jucătorii de pe PC, telefon și consolă"
+    },
+    "comments.title": "Utilizatori Genshin Wishes satisfăcuți.",
+    "security": {
+      "title": "Ne pasă de securitate.",
+      "noInstallation": "Nu este necesară nici o instalare și nu avem nevoie de contul tău de Genshin Impact.",
+      "temporaryKey": "Cheia ta temporară nu este stocată pe serverele noastre, ci pe dispozitivul tău și e valabilă doar pentru 24h.",
+      "authorization": "Cheia temporară nu ne permite să ne autentificăm în contul tău.",
+      "ssl": "Folosim encripție SSL pentru toate conexiunile dintre tine și serverele noastre.",
+      "learnMore": "Află mai multe despre securitate"
+    },
+    "welcome": {
+      "title": "Bun venit pe Genshin Wishes.",
+      "description": "Te ajutăm să-ți urmărești și să-ți salvezi istoricul dorințelor din Genshin Impact. Iți urmărim si contorul de pity!"
+    },
+    "elements": {
+      "pity": "Calculează-ți pity-ul pentru fiecare banner",
+      "browse": "Navighează cu ușurință prin dorințele tale",
+      "stats": "Vizualizează-ți statisticile",
+      "archive": "Arivează-ți dorințele pentru mai mult de 6 luni"
+    },
+    "footerBanner": {
+      "joinUs": "Alăturăte nouă pentru a te mândri cu dorințele tale norocoase!"
+    },
+    "footer": {
+      "content": "Sursele acestui proiect sunt valabile pe GitHub. Genshin Wishes este creeat și menținut de <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> and <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
+    }
+  },
+  "profile": {
+    "notFound": {
+      "title": "Acest profil nu a putut fi găsit!",
+      "description": "Acest profil este privat sau URL-ul este incorect <span class=\"text-emoji\">\uD83D\uDE05</span>",
+      "goToApp": "Mergi pe Genshin Wishes"
+    },
+    "footer": "IMportă-ți dorințele automat de pe PC/Mobil/Consolă și obține-ți propriile statistici!",
+    "share": {
+      "title": "Distribuie-ți pagina de statistici",
+      "label": "Distribuie-ți statisticile",
+      "sharing": {
+        "title": "Distribuirea paginii de statistici",
+        "enabled": "Vizibilă doar cu link-ul",
+        "disabled": "Vizibilă doar pentru tine"
+      },
+      "success$": {
+        "emoji": "\uD83D\uDCCB",
+        "title": "",
+        "message": "Link-ul tău permanent a fost copiat în clipboard!"
+      }
+    }
+  },
+  "settings": {
+    "label": "Setări",
+    "authLink": {
+      "title": "Link de autentificare",
+      "subTitle": "Editează-ți linkul de autentificare",
+      "update": "Salvează și actualizează"
+    },
+    "lang": {
+      "title": "Limbă",
+      "subTitle": "Schimbă limba site-ului și a itemelor",
+      "success$": {
+        "emoji": "",
+        "title": "",
+        "message": "Limba ta a fost actualizată."
+      },
+      "action": "Salvează limba"
+    },
+    "wholeClock": {
+      "title": "Formatul ceasului",
+      "subTitle": "Schimbă formatul ceasului de pe site",
+      "true": "24h",
+      "false": "12h (AM/PM)",
+      "success$": {
+        "emoji": "",
+        "title": "",
+        "message": "Formatul ceasului a fost actualizat."
+      },
+      "action": "Salvează formatul"
+    },
+    "deleteAccount": {
+      "title": "Șterge-ți contul",
+      "subTitle": "Sterge-ți toate datele de pe Genshin Wishes",
+      "hint": "Scrie <b>{{ confirmation }}</b> înainte de a apăsa pe butonul de ștergere.",
+      "label": "Scrie aici",
+      "action": "Șterge-mi contul",
+      "confirmation": "STERGE-MI CONTUL"
+    },
+    "deleteAccountConfirm": {
+      "title": "Ești sigur că dorești să îți ștergi contul?",
+      "message": "Această acțiune este ireversibilă."
+    },
+    "export": {
+      "title": "Exportă-ți dorințele",
+      "subTitle": "Exportă toate dorințele stocate pe Genshin Wishes",
+      "confirm": {
+        "title": "Ești sigur?",
+        "description": "Nu-ți face griji, ele vor rămâne și pe cont."
+      },
+      "action": "Exportă-mi dorințele"
+    }
+  },
+  "globalStats": {
+    "label": "Statistici globale",
+    "backToHome": "Back to home",
+    "computing": "Stats are being computed. Please try again later.",
+    "noResult": {
+      "title": "Încă nu sunt statistici pentru acest eveniment!",
+      "description": "Poți neviga statisticile altor evenimente sau poți să elimini filtrul de evenimente.",
+      "reset": "Elimină filtrul de evenimente"
+    },
+    "banners$": {
+      "ALL": "Statistici globale",
+      "CHARACTER_EVENT": "Statistici pt. bannere de caractere",
+      "WEAPON_EVENT": "Statistici pt. bannere de arme",
+      "PERMANENT": "Statistici pt. banner-ul permanent",
+      "NOVICE": "Statistici pt. banner-ul de începători"
+    },
+    "gwUsersOnly": "Doar de la utilizatori Genshin Wishes (actualizate la fiecare {{ minutes }} minute).",
+    "allEventStats.label": "Toate statisticile",
+    "learnMore": {
+      "title": "Despre statisticile noastre",
+      "description": "Dacă vrei să afli mai multe despre statisticile dorințelor și pity, am scris o postare pe reddit despre asta!",
+      "headToPost": "Deschide postarea"
+    },
+    "exclusivityRate": {
+      "fiftyFifty": "rata de 50:50",
+      "threeFour": "rata de 75:25"
+    },
+    "usersPerRegion": {
+      "title": "Jucători care au făcut dorințe - {{ count }}"
+    },
+    "wishesPerRegion": {
+      "title": "Dorințe totale - {{ count }}"
+    },
+    "pityDistribution.title": "Cantitatea de {{ rank }}★ după numărul dorinței",
+    "countPerRank": {
+      "title": "Număr de {{ rank }}★",
+      "total": "Număr total"
+    },
+    "wishesPerBanner.title": "Dorințe totale pe banner",
+    "eventCard": {
+      "outOf": "din {{ count }} dorințe",
+      "itemCount": "{{ count }} - ({{ percent }}% din {{ rank }}★)"
+    },
+    "allStats": {
+      "label": "Toate statisticile"
+    },
+    "itemsList": {
+      "title": "Toate extragerile",
+      "cardTitle": "Toate extragerile de {{ rank }}★"
+    }
+  },
+  "stats": {
+    "label": "Statistici",
+    "averageGap": "Decalajul mediu",
+    "na": "N/A",
+    "wishesTotalCount": "Numărul total de dorințe",
+    "empty": "Scuze, nu am putut găsi nimic...",
+    "rankDistribution.title": "Rangul dorințelor",
+    "focusDistribution.title": "Exclusivitatea {{ rankType }}★",
+    "fourStarsDetails.title": "4★ types",
+    "fiveStarsList.title": "5★ list",
+    "fourStarsList.title": "4★ list",
+    "bannerActivity.title": "Dorințele în timp",
+    "filters": {
+      "filterByEvent": "Filtrează după eveniment",
+      "selectEvent": "Selectează un eveniment",
+      "allEvents": "Toate evenimentele"
+    }
+  },
+  "nav": {
+    "helpUs.label": "Dorești să ne ajuți?",
+    "request.label": "Bug report & feedback",
+    "discord.label": "Alăturăte pe Discord",
+    "coffee.label": "Suportă-ne munca",
+    "i18n.label": "Contribuie la traducere"
+  },
+  "wishes": {
+    "label": "Dorințe",
+    "exclusive": "Exclusiv",
+    "notExclusive": "Non-exclusiv",
+    "noWishes": {
+      "title": "Nici o dorintă nu a fost găsită pentru acest banner",
+      "message": "Poți încă să te joci cu Amber <span class=\"text-emoji\">\uD83D\uDE05</span>"
+    },
+    "noResult": {
+      "title": "O nu! Nu există nici un element pentru care ai căutat!",
+      "message": "Ar trebui sa îți schimbi filtrele"
+    },
+    "backToList": "Înapoi la bannere",
+    "bannersNav": "Bannere",
+    "itemNotFound": "Itemul nu a fost găsit, ne vom actualiza baza de date cât mai curând posibil!",
+    "itemType$": {
+      "Character": "Caracter",
+      "Weapon": "Armă"
+    },
+    "filters": {
+      "freeText": "Filtrează după nume",
+      "itemType": "Filtrează după tip",
+      "rank": "Filtrează după rang",
+      "characterEvent": "Filtrează după eveniment de caractere",
+      "weaponEvent": "Filtrează după eveniment de arme",
+      "selectEvent": "Selectează evenimente",
+      "reset": "Resetează tot"
+    },
+    "update": {
+      "label": "Actualizează dorințele"
+    },
+    "deletion": {
+      "title": "Șterge dorințele vechi",
+      "description": "Ești sigur că dorești să-ți ștergi toate dorințele vechi?\n\nOrice ștergere este ireversibilă.",
+      "ok": "❌ Da, șterge-mi toate dorințele"
+    },
+    "differentUidDialog": {
+      "title": "Cont diferit",
+      "description": "\uD83D\uDEA8 Dorințele pe care dorești să le adaugi nu sunt de la același cont Genshin.\n\nCe dorești să faci?",
+      "delete": "Șterge dorințele vechi"
+    },
+    "import": {
+      "saving": "Se salvează...",
+      "recovery$": {
+        "emoji": "",
+        "title": "",
+        "message": "Se recuperează dorințele din import..."
+      },
+      "success$": {
+        "emoji": "\uD83E\uDD29",
+        "title": "",
+        "message": "<b>{{ wishes }}</b> dorințe noi găsite în {{ banner }} !"
+      },
+      "noData$": {
+        "emoji": "\uD83D\uDE27",
+        "title": "Scuze, nu a fost găsită nici o dorintă nouă",
+        "message": "Dorințe făcute cu mai puțin de o oră în urmă nu pot fi agăugate încă."
+      },
+      "invalidAuthkey$": {
+        "emoji": "\uD83D\uDEA8",
+        "title": "",
+        "message": "Nu am putut să te autentificăm."
+      },
+      "newWishesDuringImport$": {
+        "emoji": "\uD83D\uDEA8",
+        "title": "",
+        "message": "Scuze, istoricul dorințelor s-a schimbat în timpul importării. Înceacă din nou."
+      },
+      "alreadyImporting$": {
+        "emoji": "\uD83D\uDEA8",
+        "title": "",
+        "message": "Un import al dorințelor tale deja se desfășoară, ai răbdare!"
+      }
+    },
+    "banners$": {
+      "ALL": {
+        "title": "Toate dorințele",
+        "titleWithCount": "Toate dorințele ({{ wishes }})"
+      },
+      "NOVICE": {
+        "title": "Banner începător",
+        "titleWithCount": "Banner începător ({{ wishes }} dorințe)"
+      },
+      "PERMANENT": {
+        "title": "Banner permanent",
+        "titleWithCount": "Banner permanent ({{ wishes }} dorințe)"
+      },
+      "CHARACTER_EVENT": {
+        "title": "Banner de caractere",
+        "titleWithCount": "Banner de caractere ({{ wishes }} dorințe)"
+      },
+      "WEAPON_EVENT": {
+        "title": "Banner de arme",
+        "titleWithCount": "Banner de arme ({{ wishes }} dorințe)"
+      }
+    }
+  },
+  "footer": {
+    "disclaimer": "Genshin Wishes nu este afiliat cu miHoYo. Genshin Impact și miHoYo sunt mărci comerciale sau mărci comerciale înregistrate ale miHoYo. Genshin Impact © miHoYo.",
+    "claim": "Pentru orice cerere, vă rugăm să ne <a href=\"mailto:contact.genshin.wishes@gmail.com\">contactați-ne</a>."
+  }
+}

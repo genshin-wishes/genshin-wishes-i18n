@@ -9,9 +9,9 @@
     "previous": "Wstecz",
     "next": "Następny",
     "retry": "Spróbuj ponownie",
-    "soon": "W Krótce",
+    "soon": "Wkrótce",
     "beta": "Beta",
-    "new": "New",
+    "new": "Nowy",
     "save": "Zapisz",
     "goBack": "Wróć",
     "moreOf": "Więcej {{ content }}",
@@ -25,7 +25,7 @@
       "title": "",
       "message": "Nie można połączyć się z serwerem Genshina."
     },
-    "archiveWarning": "\uD83D\uDEA8 Od Marca 28, 2021 roku nie jesteśmy w stanie przywrócić życzenia starsze niż 6 miesięcy, ponieważ MiHoYo zaczął usuwać je z historii życzeń.",
+    "archiveWarning": "\uD83D\uDEA8 Od Marca 28, 2021 roku nie jesteśmy w stanie przywrócić życzeń starszych niż 6 miesięcy, ponieważ MiHoYo zaczęło usuwać je z historii życzeń.",
     "rank": "{{ rank }}★",
     "region$": {
       "6": "America",
@@ -58,7 +58,7 @@
     },
     "urlSetup": {
       "title": "Skonfiguruj swoje konto",
-      "finish": "Zakończy",
+      "finish": "Zakończ",
       "step": "Krok {{ step }}",
       "loading": {
         "title": "Ładowanie twoich życzeń...",
@@ -152,7 +152,7 @@
   },
   "profile": {
     "notFound": {
-      "title": "Nie można znaleść profilu!",
+      "title": "Nie można znaleźć profilu!",
       "description": "Ten profil jest prywatny lub URL jest niepoprawny <span class=\"text-emoji\">\uD83D\uDE05</span>",
       "goToApp": "Wróć do Genshin Wishes"
     },
@@ -224,52 +224,54 @@
     }
   },
   "globalStats": {
-    "label": "Global statistics",
+    "label": "Globalne statystyki",
+    "backToHome": "Back to home",
+    "computing": "Stats are being computed. Please try again later.",
     "noResult": {
-      "title": "No stats were gathered for this event yet!",
-      "description": "You can still check out other events stats or remove the event filter.",
-      "reset": "Remove the event filter"
+      "title": "Nie zebraliśmy jeszcze żadnych statystyk dla tego wydarzenia!",
+      "description": "Nadal możesz sprawdzić statystyki innych wydarzeń lub usunąć filtr wydarzeń.",
+      "reset": "Usuń filtr wydarzeń"
     },
     "banners$": {
-      "ALL": "Global stats",
-      "CHARACTER_EVENT": "Character evt. banner stats",
-      "WEAPON_EVENT": "Weapon evt. banner stats",
-      "PERMANENT": "Permanent banner stats",
-      "NOVICE": "Novice banner stats"
+      "ALL": "Globalne statystyki",
+      "CHARACTER_EVENT": "Statystyki banera postaci",
+      "WEAPON_EVENT": "Statystyki banera broni",
+      "PERMANENT": "Statystyki banera permanentnego",
+      "NOVICE": "Statystyki banera nowicjusza"
     },
-    "gwUsersOnly": "From Genshin Wishes users only (updated every {{ minutes }} minutes).",
-    "allEventStats.label": "All event stats",
+    "gwUsersOnly": "Tylko od użytkowników Genshin Wishes (aktualizowane co {{ minutes }} minutes).",
+    "allEventStats.label": "Statystyki wydarzenia",
     "learnMore": {
-      "title": "About our statistics",
-      "description": "If you want to learn more about the wishes stats and pity, we wrote a reddit post about this!",
-      "headToPost": "Head to the post"
+      "title": "O naszych statystykach",
+      "description": "Jeśli chcesz dowiedzieć się więcej o statystykach życzeń i pity, napisaliśmy o tym post na Reddicie!",
+      "headToPost": "Przejdź do posta"
     },
     "exclusivityRate": {
-      "fiftyFifty": "50:50 rate",
-      "threeFour": "75:25 rate"
+      "fiftyFifty": "Szansa 50:50",
+      "threeFour": "Szansa 75:25"
     },
     "usersPerRegion": {
-      "title": "Wishing players - {{ count }}"
+      "title": "Gracze, którzy dokonywali życzeń  - {{ count }}"
     },
     "wishesPerRegion": {
-      "title": "Wish amount - {{ count }}"
+      "title": "Liczba życzeń - {{ count }}"
     },
-    "pityDistribution.title": "{{ rank }}★ quantity by pull number",
+    "pityDistribution.title": "ilość {{ rank }}★ względem ilości życzeń",
     "countPerRank": {
-      "title": "{{ rank }}★ Count",
-      "total": "Total count"
+      "title": "Liczba {{ rank }}★",
+      "total": "Całkowita liczba"
     },
-    "wishesPerBanner.title": "Wishes quantity per banner",
+    "wishesPerBanner.title": "Liczba życzeń na jeden baner",
     "eventCard": {
-      "outOf": "out of {{ count }} wishes",
-      "itemCount": "{{ count }} - ({{ percent }}% of {{ rank }}★)"
+      "outOf": "z {{ count }} życzeń",
+      "itemCount": "{{ count }} - ({{ percent }}% z {{ rank }}★)"
     },
     "allStats": {
-      "label": "All statistics"
+      "label": "Wszystkie statystyki"
     },
     "itemsList": {
-      "title": "All drops",
-      "cardTitle": "All {{ rank }}★ drops"
+      "title": "Wszystkie dropy",
+      "cardTitle": "Wszystkie {{ rank }}★ dropy"
     }
   },
   "stats": {
@@ -277,7 +279,7 @@
     "averageGap": "Średnia różnica",
     "na": "N/A",
     "wishesTotalCount": "Suma życzeń",
-    "empty": "Przepraszam, ale nie mogliśmy niczego znaleść",
+    "empty": "Przepraszam, ale nie mogliśmy niczego znaleźć",
     "rankDistribution.title": "Dystrybucja życzeń",
     "focusDistribution.title": "Eksluzywność {{ rankType }}★",
     "fourStarsDetails.title": "Rodzaje 4★",
@@ -378,7 +380,7 @@
       },
       "NOVICE": {
         "title": "Baner nowicjusza",
-        "titleWithCount": "Baner Nowicjusza ({{ wishes }} życzeń)"
+        "titleWithCount": "Baner nowicjusza ({{ wishes }} życzeń)"
       },
       "PERMANENT": {
         "title": "Baner permamentny",
