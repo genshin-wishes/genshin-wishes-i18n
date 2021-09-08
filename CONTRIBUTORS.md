@@ -5,6 +5,7 @@
 ## Chinese (simplified)
 
 - Soyan#4054
+- [@wfjsw](https://github.com/wfjsw) (FremontDango#1845)
 
 ## Chinese (Traditional)
 
