@@ -225,8 +225,8 @@
   },
   "globalStats": {
     "label": "Статистика по миру",
-    "backToHome": "Back to home",
-    "computing": "Stats are being computed. Please try again later.",
+    "backToHome": "Вернуться на главную",
+    "computing": "Статистика в процессе подсчёта. Пожалуйста, попробуйте позже.",
     "noResult": {
       "title": "Для этого события ещё не была собрана статистика.",
       "description": "Вы можете просмотреть другие события, или отключить фильтр по ним.",
