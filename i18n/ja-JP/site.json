@@ -14,7 +14,7 @@
     "new": "New",
     "save": "保存",
     "goBack": "戻る",
-    "moreOf": "更に表示 {{ content }}",
+    "moreOf": "更に表示",
     "error$": {
       "emoji": "\uD83D\uDE31",
       "title": "",
@@ -225,8 +225,8 @@
   },
   "globalStats": {
     "label": "世界統計",
-    "backToHome": "Back to home",
-    "computing": "Stats are being computed. Please try again later.",
+    "backToHome": "ホームへ戻る",
+    "computing": "統計の集計中です。しばらくお待ち下さい。",
     "noResult": {
       "title": "まだこのイベント祈願の統計はありません！",
       "description": "他のイベント祈願に切り替えるか絞り込みを解除すると見れるようになります。",
@@ -301,7 +301,7 @@
   },
   "wishes": {
     "label": "祈願",
-    "exclusive": "ピックアップ確定",
+    "exclusive": "ピックアップ",
     "notExclusive": "すり抜け",
     "noWishes": {
       "title": "この祈願での履歴がありません。",
@@ -333,11 +333,11 @@
     "deletion": {
       "title": "祈願データの削除",
       "description": "本当に祈願データを削除しますか?\n\n削除されたデータは元に戻せません。",
-      "ok": "? Yはい、本当に削除しても大丈夫です"
+      "ok": "? Yはい、削除します"
     },
     "differentUidDialog": {
       "title": "アカウントが異なります",
-      "description": "\uD83D\uDEA8 別のプレイヤーの祈願履歴を読み込もうとしているようです。\n\n…何がしたいの？",
+      "description": "\uD83D\uDEA8 別のプレイヤーの祈願履歴を読み込もうとしているようです。",
       "delete": "過去の履歴を削除"
     },
     "import": {
