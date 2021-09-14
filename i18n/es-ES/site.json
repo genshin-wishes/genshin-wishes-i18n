@@ -18,7 +18,7 @@
     "error$": {
       "emoji": "\uD83D\uDE31",
       "title": "",
-      "message": "Un error ha ocurrido. Por favor vuelve a intentarlo."
+      "message": "Un error ha ocurrido. Por favor, vuelve a intentarlo."
     },
     "mihoyoError$": {
       "emoji": "\uD83D\uDEA8",
@@ -49,12 +49,12 @@
     "urlInput": {
       "dialog": {
         "title": "Tu enlace ha expirado",
-        "message": "\uD83D\uDEA8 El enlace de autentificación no es válido. Por favor actualízalo. <a href=\"/faq\" target=\"_blank\"> ¿Cómo?</a>",
+        "message": "\uD83D\uDEA8 El enlace de autentificación no es válido. Por favor, actualízalo. <a href=\"/faq\" target=\"_blank\"> ¿Cómo?</a>",
         "ok": "Actualizar enlace"
       },
       "pasteInput": "Pega tu enlace aquí",
       "correctLink": "\uD83D\uDE0E Ok, se ve bien",
-      "incorrectLink": "\uD83D\uDE31 Enlace incorrecto, ¡por favor inténtalo nuevo!"
+      "incorrectLink": "\uD83D\uDE31 Enlace incorrecto. ¡Por favor, inténtalo nuevo!"
     },
     "urlSetup": {
       "title": "Crea tu cuenta",
@@ -225,8 +225,8 @@
   },
   "globalStats": {
     "label": "Estadísticas globales",
-    "backToHome": "Back to home",
-    "computing": "Stats are being computed. Please try again later.",
+    "backToHome": "Volver al inicio",
+    "computing": "Se están calculando las estadísticas. Por favor, inténtalo de nuevo más tarde.",
     "noResult": {
       "title": "¡Aún no se han recopilado estadísticas para este evento!",
       "description": "Aún así, puedes consultar las estadísticas de otros eventos o quitar el filtro puesto.",
@@ -365,12 +365,12 @@
       "newWishesDuringImport$": {
         "emoji": "\uD83D\uDEA8",
         "title": "",
-        "message": "Lo sentimos, tus deseos cambiaron durante la importación. Por favor inténtalo de nuevo."
+        "message": "Lo sentimos, tus deseos cambiaron durante la importación. Por favor, inténtalo de nuevo."
       },
       "alreadyImporting$": {
         "emoji": "\uD83D\uDEA8",
         "title": "",
-        "message": "Estamos importando tus deseos, ¡por favor sé paciente!"
+        "message": "Estamos importando tus deseos. ¡Por favor, sé paciente!"
       }
     },
     "banners$": {
@@ -398,6 +398,6 @@
   },
   "footer": {
     "disclaimer": "Genshin Wishes no está afiliado a MiHoYo. Genshin Impact y MiHoYo son marcas registradas de MiHoYo. Genshin Impact © miHoYo.",
-    "claim": "Por cualquier reclamo, por favor <a href=\"mailto:contact.genshin.wishes@gmail.com\">contáctanos</a>."
+    "claim": "Para cualquier reclamación, por favor <a href=\"mailto:contact.genshin.wishes@gmail.com\">contáctanos</a>."
   }
 }
