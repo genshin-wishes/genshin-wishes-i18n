@@ -225,8 +225,8 @@
   },
   "globalStats": {
     "label": "สถิติสาธารณะ",
-    "backToHome": "Back to home",
-    "computing": "Stats are being computed. Please try again later.",
+    "backToHome": "กลับสู่หน้าหลัก",
+    "computing": "อยู่ระหว่างประมวลผลข้อมูลและสถิติ โปรดลองใหม่อีกครั้งในภายหลัง",
     "noResult": {
       "title": "เรายังไม่พบสถิติใด ๆ ในกิจกรรมนี้!",
       "description": "คุณอาจลองตรวจสอบในกิจกรรมอื่น ๆ หรือลบกิจกรรมนี้ออกจากตัวกรอง",
@@ -243,35 +243,35 @@
     "allEventStats.label": "สถิติรวมทุกกิจกรรม",
     "learnMore": {
       "title": "เกี่ยวกับระบบสถิติของพวกเรา",
-      "description": "หากคุณต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการอธิฐานและ Pity Rate สามารถอ่านโพสต์ของพวกเราบน Reddit เกี่ยวกับเรื่องนี้ได้!",
-      "headToPost": "พาฉันไปที"
+      "description": "หากคุณต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการอธิษฐานและ Pity Rate สามารถอ่านโพสต์ของพวกเราบน Reddit เกี่ยวกับเรื่องนี้ได้!",
+      "headToPost": "อ่านเพิ่มเติม"
     },
     "exclusivityRate": {
       "fiftyFifty": "โอกาส 50:50",
       "threeFour": "โอกาส 75:25"
     },
     "usersPerRegion": {
-      "title": "จำนวนผู้เล่นร่วมอธิษฐาน - {{ count }} คน"
+      "title": "ผู้เล่นร่วมอธิษฐานทั้งหมด {{ count }} คน"
     },
     "wishesPerRegion": {
-      "title": "จำนวนการอธิษฐาน - {{ count }} การอธิษฐาน"
+      "title": "การอธิษฐานทั้งหมด {{ count }} การอธิษฐาน"
     },
-    "pityDistribution.title": "จำนวนการอธิษฐานระดับ {{ rank }}★ ตามจำนวนการอธิษฐาน",
+    "pityDistribution.title": "การออกไอเทมระดับ {{ rank }}★ ตามจำนวนการอธิษฐาน",
     "countPerRank": {
-      "title": "จำนวน {{ rank }}★",
-      "total": "จำนวนรวม"
+      "title": "ระดับ {{ rank }}★",
+      "total": "รวมทั้งหมด"
     },
     "wishesPerBanner.title": "จำนวนการอธิษฐานต่อกิจกรรม",
     "eventCard": {
-      "outOf": "จากทั้งหมด {{ count }} การอธิษฐาน",
-      "itemCount": "{{ count }} - ถือเป็น ({{ percent }}% ของการอธิษฐานระดับ {{ rank }}★)"
+      "outOf": "จาก {{ count }} การอธิษฐาน",
+      "itemCount": "{{ count }} ({{ percent }}% ของการอธิษฐานระดับ {{ rank }}★)"
     },
     "allStats": {
       "label": "ภาพรวมการอธิษฐาน"
     },
     "itemsList": {
       "title": "รายการไอเทมจากการอธิษฐาน",
-      "cardTitle": "ไอเทมระดับ {{ rank }}★ ทั้งหมด"
+      "cardTitle": "ไอเทมระดับ {{ rank }}★"
     }
   },
   "stats": {
@@ -285,7 +285,7 @@
     "fourStarsDetails.title": "ประเภทอธิษฐานระดับ 4★",
     "fiveStarsList.title": "รายการอธิษฐานระดับ 5★",
     "fourStarsList.title": "รายการอธิษฐานระดับ 4★",
-    "bannerActivity.title": "การอธิษฐานที่ผ่านมา",
+    "bannerActivity.title": "จำนวนการอธิษฐานตามเวลา",
     "filters": {
       "filterByEvent": "กรองด้วยกิจกรรม",
       "selectEvent": "เลือกกิจกรรม",

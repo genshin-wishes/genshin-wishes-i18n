@@ -49,12 +49,12 @@
     "urlInput": {
       "dialog": {
         "title": "Link kamu telah kadaluarsa",
-        "message": "\uD83D\uDEA8 Link autentikasi tidak valid. Silahkan diperbarui. <a href=\"/faq\" target=\"_blank\"> How?</a>",
+        "message": "\uD83D\uDEA8 Link autentikasi tidak valid. Silakan diperbarui. <a href=\"/faq\" target=\"_blank\"> How?</a>",
         "ok": "Perbarui link"
       },
       "pasteInput": "Tempel link kamu di sini",
-      "correctLink": "\uD83D\uDE0E Oke, itu terlihat bagus",
-      "incorrectLink": "\uD83D\uDE31 Link tidak tepat, silahkan coba lagi!"
+      "correctLink": "\uD83D\uDE0E Oke, kelihatannya bagus",
+      "incorrectLink": "\uD83D\uDE31 Link tidak tepat, silakan coba lagi!"
     },
     "urlSetup": {
       "title": "Siapkan akunmu",
@@ -98,7 +98,7 @@
   },
   "cookie": {
     "title": "Hai! Paimon meninggalkan kami beberapa cookies. \uD83D\uDE0B\n",
-    "message": "Dengan menggunakan situs ini, kamu setuju pada penggunaan cookies untuk analisis lalu lintas saja.",
+    "message": "Dengan menggunakan situs ini, kamu setuju pada penggunaan cookies untuk analisis trafik saja.",
     "ok": "Oke, aku suka cookies!"
   },
   "faq": {
@@ -135,16 +135,16 @@
     },
     "welcome": {
       "title": "Selamat datang di Genshin Wishes.",
-      "description": "Kami membantu melacak dan mencadangkan riwayat permohonan kamu dari Genshin Impact. Kami dapat melacak perhitungan pity kamu juga!"
+      "description": "Kami membantumu melacak dan mencadangkan riwayat permohonanmu dari Genshin Impact. Kami juga dapat melacak perhitungan pity kamu!"
     },
     "elements": {
-      "pity": "Menghitung pity kamu di setiap banner",
+      "pity": "Menghitung pity-mu di setiap banner",
       "browse": "Telusuri permohonanmu dengan mudah",
-      "stats": "Lihat statistik kamu",
+      "stats": "Lihat statistikmu",
       "archive": "Arsip permohonanmu lebih dari 6 bulan"
     },
     "footerBanner": {
-      "joinUs": "Gabunglah bersama kami untuk menunjukkan pull keberuntungan kamu!"
+      "joinUs": "Bergabunglah bersama kami untuk menunjukkan pull beruntung kamu!"
     },
     "footer": {
       "content": "Sumber projek ini tersedia di GitHub. Genshin Wishes dibuat dan dikelola oleh <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> dan <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
@@ -153,13 +153,13 @@
   "profile": {
     "notFound": {
       "title": "Profil ini tidak dapat ditemukan!",
-      "description": "Profil ini pribadi atau URL-nya salah <span class=\"text-emoji\">\uD83D\uDE05</span>",
+      "description": "Profil ini private atau URL-nya salah <span class=\"text-emoji\">\uD83D\uDE05</span>",
       "goToApp": "Pergi ke Genshin Wishes"
     },
-    "footer": "Impor permohonanmu dari PC/seluler/konsol secara otomatis dan dapatkan statistik kamu!",
+    "footer": "Impor permohonanmu dari PC/seluler/konsol secara otomatis dan dapatkan statistik milikmu!",
     "share": {
       "title": "Bagikan laman statistik kamu",
-      "label": "Bagikan statistik kamu",
+      "label": "Bagikan statistikmu",
       "sharing": {
         "title": "Berbagi laman statistik",
         "enabled": "Hanya terlihat dengan link",
@@ -168,7 +168,7 @@
       "success$": {
         "emoji": "\uD83D\uDCCB",
         "title": "",
-        "message": "Link permanen kamu telah disalin ke papan klip!"
+        "message": "Link permanen kamu telah disalin ke clipboard!"
       }
     }
   },
@@ -215,21 +215,21 @@
     },
     "export": {
       "title": "Ekspor permohonanmu",
-      "subTitle": "Ekspor semua permohonan kamu yang tersimpan di Genshin Wishes",
+      "subTitle": "Ekspor semua permohonanmu yang tersimpan di Genshin Wishes",
       "confirm": {
         "title": "Apa kamu yakin?",
-        "description": "Jangan khawatir, mereka juga masih tersimpan di akunmu."
+        "description": "Jangan khawatir, permohonanmu juga masih tersimpan di akunmu."
       },
       "action": "Ekspor permohonan"
     }
   },
   "globalStats": {
     "label": "Statistik global",
-    "backToHome": "Back to home",
-    "computing": "Stats are being computed. Please try again later.",
+    "backToHome": "Kembali ke awal",
+    "computing": "Statistik sedang dihitung. Silakan coba lagi nanti.",
     "noResult": {
       "title": "Belum ada statistik yang dikumpulkan untuk event ini!",
-      "description": "Kamu masih bisa memeriksa statistik event lainnya atau hapus filter event.",
+      "description": "Kamu masih bisa memeriksa statistik event lainnya atau menghapus filter event.",
       "reset": "Hapus filter event"
     },
     "banners$": {
@@ -294,7 +294,7 @@
   },
   "nav": {
     "helpUs.label": "Ingin membantu kami?",
-    "request.label": "Lapor bug & umpan balik",
+    "request.label": "Lapor bug & masukan",
     "discord.label": "Gabung dengan kami di Discord",
     "coffee.label": "Dukung kami",
     "i18n.label": "Kontribusi ke terjemahan"
@@ -305,7 +305,7 @@
     "notExclusive": "Tak eksklusif",
     "noWishes": {
       "title": "Tidak ada permohonan yang ditemukan di banner ini",
-      "message": "Kamu masih bisa bermain bersama Amber <span class=\"text-emoji\">\uD83D\uDE05</span>"
+      "message": "Kamu masih bisa bermain dengan Amber <span class=\"text-emoji\">\uD83D\uDE05</span>"
     },
     "noResult": {
       "title": "Oh tidak! Hasil seperti ini tidak ditemukan!",
@@ -332,16 +332,16 @@
     },
     "deletion": {
       "title": "Hapus permohonan lama",
-      "description": "Apa kamu yakin ingin menghapus permohonan lama kamu?\n\nPenghapusan apapun tidak dapat diubah.",
+      "description": "Apa kamu yakin ingin menghapus permohonan lama kamu?\n\nPenghapusan apapun tidak dapat dikembalikan.",
       "ok": "❌ Ya, hapus semua permohonan"
     },
     "differentUidDialog": {
       "title": "Akun berbeda",
-      "description": "\uD83D\uDEA8 Permohonan yang akan kamu tambahkan tidak terhubung pada akun Genshin yang sama.\n\nApa yang akan kamu lakukan?",
+      "description": "\uD83D\uDEA8 Permohonan yang akan kamu tambahkan tidak terhubung pada akun Genshin yang sama.\n\nApa yang mau kamu lakukan?",
       "delete": "Hapus permohonan lama"
     },
     "import": {
-      "saving": "Menyimpan...",
+      "saving": "Sedamg menyimpan...",
       "recovery$": {
         "emoji": "",
         "title": "",
@@ -355,7 +355,7 @@
       "noData$": {
         "emoji": "\uD83D\uDE27",
         "title": "Maaf, permohonan baru tidak ditemukan",
-        "message": "Permohonan yang dibuat kurang dari satu jam yang lalu belum bisa ditambahkan."
+        "message": "Permohonan yang dilakukan kurang dari satu jam yang lalu belum bisa ditambahkan."
       },
       "invalidAuthkey$": {
         "emoji": "\uD83D\uDEA8",
@@ -365,7 +365,7 @@
       "newWishesDuringImport$": {
         "emoji": "\uD83D\uDEA8",
         "title": "",
-        "message": "Maaf, riwayat permohonanmu berubah selama diimpor. Silahkan coba lagi."
+        "message": "Maaf, riwayat permohonanmu berubah saat diimpor. Silakan coba lagi."
       },
       "alreadyImporting$": {
         "emoji": "\uD83D\uDEA8",
@@ -398,6 +398,6 @@
   },
   "footer": {
     "disclaimer": "Genshin Wishes tidak berafiliasi dengan miHoYo. Genshin Impact dan miHoYo adalah merek dagang atau merek dagang terdaftar miHoYo. Genshin Impact © miHoYo.",
-    "claim": "Untuk klaim apa pun, silahkan <a href=\"mailto:contact.genshin.wishes@gmail.com\">kontak kami</a>."
+    "claim": "Untuk klaim apa pun, silakan <a href=\"mailto:contact.genshin.wishes@gmail.com\">kontak kami</a>."
   }
 }
