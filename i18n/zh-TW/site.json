@@ -225,8 +225,8 @@
   },
   "globalStats": {
     "label": "全體統計資料",
-    "backToHome": "Back to home",
-    "computing": "Stats are being computed. Please try again later.",
+    "backToHome": "回到首頁",
+    "computing": "統計正在計算中，請稍後再試。",
     "noResult": {
       "title": "此活動祈願尚未取得任何統計資料",
       "description": "您仍然可以查看其他活動祈願的統計資料或清除篩選設定",
