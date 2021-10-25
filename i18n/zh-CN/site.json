@@ -223,13 +223,6 @@
       "action": "立即下载"
     }
   },
-  "nav": {
-    "helpUs.label": "为我们提供帮助",
-    "request.label": "反馈与建议",
-    "discord.label": "加入 Discord",
-    "coffee.label": "支持我们",
-    "i18n.label": "协助翻译"
-  },
   "globalStats": {
     "label": "全站统计",
     "backToHome": "回到主页",
@@ -298,6 +291,13 @@
       "selectEvent": "选择一个活动",
       "allEvents": "所有活动"
     }
+  },
+  "nav": {
+    "helpUs.label": "为我们提供帮助",
+    "request.label": "反馈与建议",
+    "discord.label": "加入 Discord",
+    "coffee.label": "支持我们",
+    "i18n.label": "协助翻译"
   },
   "wishes": {
     "label": "祈愿",
