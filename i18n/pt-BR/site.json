@@ -225,8 +225,8 @@
   },
   "globalStats": {
     "label": "Estatísticas globais",
-    "backToHome": "Back to home",
-    "computing": "Stats are being computed. Please try again later.",
+    "backToHome": "Voltar à página inicial",
+    "computing": "As estatísticas estão sendo computadas. Por favor, tente novamente mais tarde.",
     "noResult": {
       "title": "Nenhuma estatística foi coletada para este evento ainda!",
       "description": "Você ainda pode verificar outras estatísticas do evento ou remover o filtro de eventos.",

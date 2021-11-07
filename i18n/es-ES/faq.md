@@ -12,32 +12,32 @@ Nosotros simplemente los obtenemos de tu historial de deseos. El historial de de
 ## ¿Cómo puedo encontrar la llave para importar mis deseos?
 ### PC
 Puedes revisar el [video](https://www.youtube.com/watch?v=a16X0R_rSZc) tutorial o seguir las siguientes instrucciones:
-1) Presiona el botón “Comentarios” en el menú de Paimon.
-2) Una página web debería de abrirse en tu navegador web.
+1) Presiona "Comentarios" en el menú de Paimon
+2) Debería abrirse una página en tu navegador
 3) Copia la URL y pégala en Genshin Wishes.
 
 ### Android
 Echa un vistazo al [video](https://www.youtube.com/watch?v=hok0jCjSrjo) tutorial o sigue las siguientes instrucciones:
-1) Presiona el botón “Comentarios” en el menú de Paimon.
-2) Desactiva las conexiones wifi y los datos móviles.
-3) Presiona el botón para refrescar la página en la esquina superior derecha.
-4) Debería de aparecer un error en la página.
-5) Copia la URL y pégala en Genshin Wishes.
+1) Presiona "Comentarios" en el menú de Paimon
+2) Desactiva las redes wifi y datos móviles
+3) Presiona el botón de refrescar en la esquina superior derecha
+4) Debería ocurrir un error en la página, mostrando el URL
+5) Copia el URL y pégalo en Genshin Wishes.
 
 ### iOS
 Puedes revisar el [video](https://www.youtube.com/watch?v=HW8nywx9Tio) tutorial o seguir los siguientes pasos:
-1) Presiona el botón “Comentarios” en el menú de Paimon.
-2) En la página de soporte, presiona “Problema con la cuenta”.
-3) En los resultados, presiona la tercera opción llamada “¿Cómo puedo cambiar mi contraseña?”.
-4) En el texto visualizado, presiona el botón azul “aquí”.
-5) Una página debería abrirse en tu navegador. Copia la URL de la página y pégala en Genshin Wishes.  
+1) Presiona "Comentarios" en el menú de Paimon
+2) En la página de soporte, presiona "Problema con la cuenta"
+3) En el resultado, presiona la tercera opción "¿Cómo puedo cambiar mi contraseña?"
+4) En el texto visualizado, presione el botón azul “aquí”
+5) Debería abrirse una página en tu navegador. Copia la URL y pégala en Genshin Wishes.  
    Importante: Esta URL NO nos permite cambiar tu contraseña.
 
 ### Consolas
-1) Abre tu correo dentro del juego durante un evento.
-2) Abre el correo relacionado al evento.
-3) Deberías de poder ver un código QR, escanéalo con tu teléfono móvil.
-4) Copia la URL del sitio y pégala en Genshin Wishes.
+1) Abre el apartado de Correo dentro del juego durante un evento web
+2) Abre el correo relacionado al evento
+3) Debería haber un código QR, escanéalo con tu teléfono
+4) Copia la URL y pégala en Genshin Wishes.
 
 ## ¿Es seguro de usar?
 Sí. Como jugadores de Genshin Impact nosotros también nos preocupamos mucho por la seguridad de las cuentas.

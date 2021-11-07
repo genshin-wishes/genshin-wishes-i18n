@@ -10,11 +10,11 @@
     "next": "下一页",
     "retry": "重试",
     "soon": "即将推出",
-    "beta": "Beta版",
-    "new": "New",
+    "beta": "Beta 版",
+    "new": "新",
     "save": "保存",
-    "goBack": "回去",
-    "moreOf": "更多的 {{ content }}",
+    "goBack": "返回",
+    "moreOf": "查看更多 {{ content }}",
     "error$": {
       "emoji": "\uD83D\uDE31",
       "title": "",
@@ -23,9 +23,9 @@
     "mihoyoError$": {
       "emoji": "\uD83D\uDEA8",
       "title": "",
-      "message": "无法连接到《原神》服务器"
+      "message": "无法连接到原神服务器"
     },
-    "archiveWarning": "\uD83D\uDEA8 自2021年3月28日起，我们无法取回超过6个月的祈愿，因为米哈游开始将其从游戏内的历史记录中删除。 如果您有备份，则很快就可以将其导入该网站。",
+    "archiveWarning": "\uD83D\uDEA8 自 2021 年 3 月 28 日起，米哈游不再提供超过6个月的祈愿记录，因此我们将无法提取之前的旧数据。已提取的数据不受影响。我们将很快添加从其他备份导入这些数据的功能。",
     "rank": "{{ rank }}★",
     "region$": {
       "6": "美洲",
@@ -37,231 +37,224 @@
     "title": "Genshin Wishes",
     "titleWithPage": "Genshin Wishes — {{ page }}",
     "description": "保存您的祈愿记录",
-    "menu": "Menu",
+    "menu": "菜单",
     "getStarted": "开始吧",
     "persistLink": {
-      "persist": "记住链接24小时",
-      "doNotPersist": "不要保存链接"
+      "persist": "保存链接 24 小时",
+      "doNotPersist": "不保存链接"
     },
     "user": {
       "uid": "UID {{ uid }}"
     },
     "urlInput": {
       "dialog": {
-        "title": "您的链接已过期",
-        "message": "\uD83D\uDEA8您的身份验证链接无效。 请更新。 <a href=\"/faq\" target=\"_blank\">  怎么做?</a>",
+        "title": "链接已过期",
+        "message": "\uD83D\uDEA8您的身份验证链接已过期，请更新。<a href=\"/faq\" target=\"_blank\">如何更新?</a>",
         "ok": "更新链接"
       },
-      "pasteInput": "在此处粘贴您的链接",
-      "correctLink": "\uD83D\uDE0E 一切看起来都还好",
+      "pasteInput": "在此处粘贴链接",
+      "correctLink": "\uD83D\uDE0E 看其来一切正常",
       "incorrectLink": "\uD83D\uDE31 链接错误，请重试"
     },
     "urlSetup": {
       "title": "帐户设定",
       "finish": "完成",
-      "step": "步骤 {{ step }}",
+      "step": "第 {{ step }} 步",
       "loading": {
-        "title": "加载您的愿望...",
-        "subtitle": "不要挂断！ 可能要花几分钟。"
+        "title": "正在加载祈愿记录...",
+        "subtitle": "请勿退出。这可能要花一点时间。"
       },
       "steps$": {
         "1": {
-          "title": "领取钥匙",
-          "description": "为了找回你的愿望, 我们需要一个临时的游戏钥匙.\n<span class=\"text-accent\">不用担心，我们将永远无法访问您的《原神》帐户。</span>",
+          "title": "提供认证链接",
+          "description": "为了导出你的祈愿记录, 我们需要一个临时身份链接。\n<span class=\"text-accent\">该链接完全不会影响到您的账户安全。</span>",
           "showVideo": "观看视频"
         },
         "2": {
-          "title":"再等一等！我们在收集您的愿望 \uD83D\uDC0B \uD83D\uDE48",
-          "description": "<span class=\"text-primary\"><b>下次请重复这些步骤</b></span> 让您的祈愿更新.",
-          "seeWishes": "前往应用程式"
+          "title":"正在下载祈愿记录...",
+          "description": "<span class=\"text-primary\"><b>以后请重复刚才的步骤</b></span> 来保持祈愿记录更新。",
+          "seeWishes": "前往祈愿记录列表"
         }
       }
     },
     "signIn": "登录"
   },
   "auth": {
-    "signInMethod": "选择身份验证方法",
-    "hint": "这里不是要登录原神的账号",
-    "subHint": "我们建议您选择其他提供商，而不是您的游戏内帐户。",
+    "signInMethod": "第三方账号登录",
+    "hint": "从以下提供商中选择一个登录",
+    "subHint": "请从以下几个第三方网站中选择一个以登录我们的网站。这与您的游戏账户无关。",
     "logout.label": "退出"
   },
   "banners": {
     "label": "祈愿",
     "seeWishes": "查看祈愿",
-    "noWishes": "没有祈愿",
-    "wishes": "{{ count }} 祈愿",
+    "noWishes": "暂未抽卡",
+    "wishes": "共 {{ count }} 抽",
     "pity5": "保底 5★",
     "pity4": "保底 4★",
-    "last5": "最后 5★",
-    "last4": "最后 4★",
-    "none": "没有"
+    "last5": "最后一个 5★",
+    "last4": "最后一个 4★",
+    "none": "暂无"
   },
   "cookie": {
-    "title": "嘿！ 派蒙给我们留下了Cookie。 \uD83D\uDE0B",
-    "message": "通过使用这个网站，您同意使用Cookie进行流量分析。",
-    "ok": "好的，我喜欢Cookie！"
+    "title": "嘿！ 派蒙给我们留下了 Cookie。 \uD83D\uDE0B",
+    "message": "请允许我们使用 Cookie 进行流量分析。",
+    "ok": "尽管把 Cookie 拿去罢！"
   },
   "faq": {
-    "title": "常问问题"
+    "title": "常见问题"
   },
   "landing": {
-    "title": "Home",
-    "isItSafe": "安全吗？",
+    "title": "主页",
+    "isItSafe": "它安全吗？",
     "hero": {
-      "title": "您的《原神》祈愿记录一目了然。",
-      "subtitle": "备份您的《原神》祈愿历史记录，跟踪保底情况并共享您的统计信息！！",
-      "advice": "不用安装, <b>免费</b> 和 <b>安全</b>."
+      "title": "使您的原神祈愿记录一目了然。",
+      "subtitle": "备份您的原神祈愿历史记录，跟踪保底情况并共享您的统计信息！",
+      "advice": "无需安装, <b>免费</b> 且 <b>安全</b>。"
     },
     "counters": {
-      "users": "深受 <span class=\"text-primary\"><b>{{ users }}</b></span>\n 《原神》玩家的信赖",
-      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} 祈愿</b></span>\n 保存并计数"
+      "users": "深受 <span class=\"text-primary\"><b>{{ users }}</b></span>\n 原神玩家的信赖",
+      "wishes": "保存并统计您的 <span class=\"text-primary\"><b>{{ wishes }} 祈愿</b></span>\n"
     },
     "feature": {
-      "title": "您所有的愿望都集中在一个地方.",
-      "globalStats": "检查公共统计出的百万祈愿",
-      "personalStats": "查看您的个人祈愿统计",
-      "dashboard": "计算保底的每个祈愿活动",
-      "archive": "存档祈愿超过六个月",
-      "platforms": "适用于电脑，手机和游戏机的玩家"
+      "title": "您的所有祈愿记录都集中于此。",
+      "globalStats": "查看全站的祈愿情况统计",
+      "personalStats": "查看您的个人祈愿统计数据",
+      "dashboard": "计算每个祈愿活动的保底情况",
+      "archive": "保存超过六个月的祈愿数据",
+      "platforms": "适用于电脑，手机和 PS 玩家"
     },
-    "comments.title": "祝 Genshin Wishes 用户快乐.",
+    "comments.title": "祝 Genshin Wishes 用户快乐。",
     "security": {
-      "title": "我们非常关心安全性。",
-      "noInstallation": "无需安装，我们不需要您的《原神》帐户密码。",
-      "temporaryKey": "您的临时密钥不会存储在我们的服务器上，而是存储在您的设备上，并且仅在24小时内有效。",
-      "authorization": "临时密钥不允许我们在您的帐户上进行身份验证。",
-      "ssl": "我们对您和服务器之间的所有连接都会使用SSL加密。",
+      "title": "我们非常关心您的安全性。",
+      "noInstallation": "无需安装任何软件，也不需要您的原神帐户密码。",
+      "temporaryKey": "您的临时授权链接只会保存在您的设备上，且仅24小时内有效。",
+      "authorization": "我们无法通过临时链接登录您的帐户。",
+      "ssl": "您与服务器之间的所有连接都会使用 SSL 加密。",
       "learnMore": "了解有关安全性的更多信息"
     },
     "welcome": {
-      "title": "欢迎来到 Genshin Wishes.",
-      "description": "我们可以让您跟踪和保存您的《原神》祈愿记录。 我们也可以计算您的保底计数"
+      "title": "欢迎来到 Genshin Wishes。",
+      "description": "我们可以保存和跟踪您的原神祈愿记录，并计算保底情况"
     },
     "elements": {
-      "pity": "计算您的保底的每个祈愿",
-      "browse": "轻松查看您的祈愿",
+      "pity": "计算每个祈愿活动的保底情况",
+      "browse": "轻松查看您的祈愿记录",
       "stats": "查看你的数据",
-      "archive": "存档您超过6个月的祈愿"
+      "archive": "备份超过六个月的祈愿记录"
     },
     "footerBanner": {
-      "joinUs": "加入我们，展现您的幸运祈愿！"
+      "joinUs": "加入我们，展现您的欧皇运气！"
     },
     "footer": {
-      "content": "该项目的资源可在 GitHub 上找到。 Genshin Wishes 是由 <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> 和 <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a> 制作跟维护."
+      "content": "我们在 GitHub 上公布了该网站的相关代码。Genshin Wishes 目前由 <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> 和 <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a> 制作与维护"
     }
   },
   "profile": {
     "notFound": {
-      "title": "找不到此个人资料！",
-      "description": "此个人资料不公开或网址无效 <span class=\"text-emoji\">\uD83D\uDE05</span>",
-      "goToApp": "去 Genshin Wishes"
+      "title": "找不到该用户的资料！",
+      "description": "该用户资料未公开或网址无效 <span class=\"text-emoji\">\uD83D\uDE05</span>",
+      "goToApp": "前往 Genshin Wishes"
     },
-    "footer": "自动从 电脑/手机/游戏机 导入您的愿望并获得您自己的统计信息！",
+    "footer": "自动从 电脑/手机/PS 备份您的祈愿记录并分析统计数据",
     "share": {
-      "title": "分享您的统计信息页面",
-      "label": "分享您的统计数据",
+      "title": "分享统计信息页面",
+      "label": "分享统计数据",
       "sharing": {
-        "title": "共享统计信息页面",
-        "enabled": "仅对拥有链接可以看见",
-        "disabled": "仅对您可见"
+        "title": "分享统计信息页面",
+        "enabled": "对有拥有该链接的人可见",
+        "disabled": "仅对自己可见"
       },
       "success$": {
         "emoji": "\uD83D\uDCCB",
         "title": "",
-        "message": "您的固定链接已复制到剪贴板！"
+        "message": "固定链接已复制"
       }
     }
   },
   "settings": {
-    "label": "设定",
+    "label": "设置",
     "authLink": {
-      "title": "认证链接",
-      "subTitle": "更改您的身份验证链接",
-      "update": "保存并更新祈愿"
+      "title": "授权链接",
+      "subTitle": "更新您的授权链接",
+      "update": "保存并更新祈愿记录"
     },
     "lang": {
       "title": "语言",
-      "subTitle": "更改语言和物品",
+      "subTitle": "修改网站语言",
       "success$": {
-        "emoji": "",
-        "title": "",
-        "message": "您的语言已成功更新。"
+        "emoji": "😉",
+        "title": "修改成功",
+        "message": "语言修改成功。"
       },
-      "action": "保存语言"
+      "action": "保存设置"
     },
     "wholeClock": {
       "title": "时间格式",
-      "subTitle": "更改时间格式",
-      "true": "24小时",
-      "false": "12小时 (上午/下午)",
+      "subTitle": "修改时间格式",
+      "true": "24小时制",
+      "false": "12小时制（上午/下午）",
       "success$": {
-        "emoji": "",
-        "title": "",
-        "message": "时间格式已成功更新。"
+        "emoji": "😉",
+        "title": "修改成功",
+        "message": "时间格式修改成功。"
       },
-      "action": "保存时间格式"
+      "action": "保存设置"
     },
     "deleteAccount": {
       "title": "删除你的帐号",
-      "subTitle": "删除您在Genshin Wishes上的所有数据",
-      "hint": "输入 <b>{{ confirmation }}</b> 再点击删除按钮.",
-      "label": "在此输入",
-      "confirmation": "删除我的账户",
-      "action": "删除我的账户"
+      "subTitle": "确定吗？这将删除您在 Genshin Wishes 上的所有数据！",
+      "hint": "输入 <b>{{ confirmation }}</b> 后点击“删除”",
+      "label": "在此处输入",
+      "confirmation": "删除账户",
+      "action": "删除账户"
     },
     "deleteAccountConfirm": {
       "title": "您确定要删除您的帐户吗？",
-      "message": "此动作是不可逆的。"
+      "message": "再次提示：此操作将不可逆！"
     },
     "export": {
-      "title": "导出您的祈愿",
-      "subTitle": "导出您在Genshin Wishes中的所有祈愿",
+      "title": "导出祈愿记录",
+      "subTitle": "导出并下载您在 Genshin Wishes 中保存的所有祈愿记录",
       "confirm": {
-        "title": "你确定吗 ？",
-        "description": "不用担心，他们还保留在您的帐户中。"
+        "title": "你确定吗？",
+        "description": "不用担心，他们还会您的帐户中保留。"
       },
-      "action": "导出您的祈愿"
+      "action": "立即下载"
     }
   },
-  "nav": {
-    "helpUs.label": "想要帮助我们吗？",
-    "request.label": "错误报告和建议",
-    "discord.label": "加入我们的Discord",
-    "coffee.label": "支持我们的工作",
-    "i18n.label": "协助翻译"
-  },
   "globalStats": {
-    "label": "全面统计",
-    "backToHome": "Back to home",
-    "computing": "Stats are being computed. Please try again later.",
+    "label": "全站统计",
+    "backToHome": "回到主页",
+    "computing": "汇总数据中，请稍后重试。",
     "noResult": {
-      "title": "此活动尚未收集任何统计信息！",
-      "description": "您仍然可以查看其他活动统计信息或删除活动筛选。",
-      "reset": "删除活动筛选"
+      "title": "尚未收集到该活动的统计信息",
+      "description": "您仍可查看其他活动统计信息或清除活动筛选。",
+      "reset": "清除活动筛选"
     },
     "banners$": {
-      "ALL": "全面统计",
+      "ALL": "全站统计",
       "CHARACTER_EVENT": "角色活动统计",
       "WEAPON_EVENT": "武器活动统计",
       "PERMANENT": "常驻活动统计",
       "NOVICE": "新手活动统计"
     },
-    "gwUsersOnly": "仅向Genshin Wishes用户提供 (每 {{ minutes }}分钟更新一次).",
+    "gwUsersOnly": "仅向 Genshin Wishes 用户提供 (每 {{ minutes }} 分钟更新一次).",
     "allEventStats.label": "所有活动统计",
     "learnMore": {
-      "title": "我们的统计",
-      "description": "如果您想了解更多有关愿望统计和保底的信息，我们就在此发表了一篇reddit帖子！",
-      "headToPost": "前往帖子"
+      "title": "关于全站统计",
+      "description": "如想了解更多有关祈愿的信息，请查看我们的 Reddit 帖子",
+      "headToPost": "前往查看"
     },
     "exclusivityRate": {
-      "fiftyFifty": "50:50 费率",
-      "threeFour": "75:25 费率"
+      "fiftyFifty": "50:50 出率",
+      "threeFour": "75:25 出率"
     },
     "usersPerRegion": {
-      "title": "Wishing 用户 - {{ count }}"
+      "title": "参与统计的用户数 - {{ count }}"
     },
     "wishesPerRegion": {
-      "title": "祈愿 数量 - {{ count }}"
+      "title": "总祈愿次数 - {{ count }}"
     },
     "pityDistribution.title": "{{ rank }}★ 数量",
     "countPerRank": {
@@ -270,19 +263,19 @@
     },
     "wishesPerBanner.title": "每个祈愿活动的愿望数量",
     "eventCard": {
-      "outOf": "出于{{ count }}的祈愿",
+      "outOf": "共 {{ count }} 次祈愿中",
       "itemCount": "{{ count }} - ({{ percent }}% 的 {{ rank }}★)"
     },
     "allStats": {
-      "label": "全面统计"
+      "label": "总览"
     },
     "itemsList": {
-      "title": "全面出现",
-      "cardTitle": "所有 {{ rank }}★ 出现"
+      "title": "详细数据",
+      "cardTitle": "出现的所有 {{ rank }}★"
     }
   },
   "stats": {
-    "label": "统计数据",
+    "label": "数据统计",
     "averageGap": "中等差异",
     "na": "不适用",
     "wishesTotalCount": "祈愿总数",
@@ -292,28 +285,35 @@
     "fourStarsDetails.title": "4★ 类型",
     "fiveStarsList.title": "5★ 清单",
     "fourStarsList.title": "4★ 清单",
-    "bannerActivity.title": "祈愿随着时间的流逝",
+    "bannerActivity.title": "时间-祈愿图像",
     "filters": {
       "filterByEvent": "筛选活动",
       "selectEvent": "选择一个活动",
       "allEvents": "所有活动"
     }
   },
+  "nav": {
+    "helpUs.label": "为我们提供帮助",
+    "request.label": "反馈与建议",
+    "discord.label": "加入 Discord",
+    "coffee.label": "支持我们",
+    "i18n.label": "协助翻译"
+  },
   "wishes": {
     "label": "祈愿",
     "exclusive": "限定",
-    "notExclusive": "不限定",
+    "notExclusive": "非限定",
     "noWishes": {
       "title": "你没有在这个祈愿活动中祈愿",
       "message": "您仍然可以玩安柏 <span class=\"text-emoji\">\uD83D\uDE05</span>"
     },
     "noResult": {
-      "title": "哎呀、没有一个是你想要的",
-      "message": "您应该更换您的筛选"
+      "title": "找不到你想要的信息",
+      "message": "请修改您的筛选条件"
     },
-    "backToList": "返回祈愿主面",
-    "bannersNav": "祈愿主面",
-    "itemNotFound": "未找到东西，我们将尽快更新我们的数据库！",
+    "backToList": "返回祈愿列表",
+    "bannersNav": "祈愿列表",
+    "itemNotFound": "未找到任何内容。我们将尽快更新我们的数据库",
     "itemType$": {
       "Character": "角色",
       "Weapon": "武器"
@@ -325,37 +325,37 @@
       "characterEvent": "活动角色筛选",
       "weaponEvent": "活动武器筛选",
       "selectEvent": "选择祈愿活动",
-      "reset": "全部移除"
+      "reset": "移除全部"
     },
     "update": {
       "label": "更新祈愿"
     },
     "deletion": {
       "title": "删除旧的祈愿",
-      "description": "您确定要删除所有旧的祈愿吗？\n\n所有删除都是不可撤消的。",
-      "ok": "❌ 确定, 删除所有旧的祈愿"
+      "description": "是否删除所有祈愿记录？\n\n⚠️ 此操作不可逆！",
+      "ok": "❌ 删除所有祈愿记录"
     },
     "differentUidDialog": {
       "title": "帐户差异",
-      "description": "\uD83D\uDEA8 您要添加的祈愿未链接到同《原神》帐户。\n\n你想要做什么？",
-      "delete": "删除所有旧的祈愿"
+      "description": "\uD83D\uDEA8 您要添加的祈愿未链接到相应的原神帐户。\n\n你想要做什么？",
+      "delete": "删除所有旧的祈愿记录"
     },
     "import": {
-      "saving": "正在保存中。。。",
+      "saving": "正在保存中...",
       "recovery$": {
         "emoji": "",
         "title": "",
-        "message": "恢复您的祈愿导入..."
+        "message": "恢复您的祈愿导入记录..."
       },
       "success$": {
         "emoji": "\uD83E\uDD29",
         "title": "",
-        "message": "<b>{{ wishes }}</b> 新的祈愿在 {{ banner }} !"
+        "message": "在 {{ banner }} 查询到 <b>{{ wishes }}</b> 发新的祈愿!"
       },
       "noData$": {
         "emoji": "\uD83D\uDE27",
-        "title": "抱歉，我们没有发现任何新的祈愿",
-        "message": "不到一个小时前完成的祈愿还不能添加。"
+        "title": "好像还没有新的祈愿",
+        "message": "最近一小时内的祈愿记录无法添加。"
       },
       "invalidAuthkey$": {
         "emoji": "\uD83D\uDEA8",
@@ -365,39 +365,39 @@
       "newWishesDuringImport$": {
         "emoji": "\uD83D\uDEA8",
         "title": "",
-        "message": "抱歉，您的问候记录在导入过程中发生了变化。 请再试一次。"
+        "message": "抱歉，导入过程中出现了一点问题。请再试一次。"
       },
       "alreadyImporting$": {
         "emoji": "\uD83D\uDEA8",
         "title": "",
-        "message": "您的祈愿正在导入，请您耐心等待！"
+        "message": "祈愿正在导入中，请耐心等待"
       }
     },
     "banners$": {
       "ALL": {
-        "title": "所有的祈愿活动",
-        "titleWithCount": "所有的祈愿活动 (你有 {{ wishes }})"
+        "title": "所有祈愿",
+        "titleWithCount": "所有祈愿 (共 {{ wishes }} 抽)"
       },
       "NOVICE": {
         "title": "新手祈愿",
-        "titleWithCount": "新手祈愿 (你有 {{ wishes }})"
+        "titleWithCount": "新手祈愿 (共 {{ wishes }} 抽)"
       },
       "PERMANENT": {
         "title": "常驻祈愿",
-        "titleWithCount": "常驻祈愿 (你有 {{ wishes }})"
+        "titleWithCount": "常驻祈愿 (共 {{ wishes }} 抽)"
       },
       "CHARACTER_EVENT": {
         "title": "角色活动祈愿",
-        "titleWithCount": "角色活动祈愿 (你有 {{ wishes }})"
+        "titleWithCount": "角色活动祈愿 (共 {{ wishes }} 抽)"
       },
       "WEAPON_EVENT": {
         "title": "武器活动祈愿",
-        "titleWithCount": "武器活动祈愿 (你有 {{ wishes }})"
+        "titleWithCount": "武器活动祈愿 (共 {{ wishes }} 抽)"
       }
     }
   },
   "footer": {
-    "disclaimer": "Genshin Wishes 不隶属于米哈游。 《原神》和米哈游是米哈游的商标或注册商标。 《原神》©米哈游",
-    "claim": "如有任何问题或建议，请点击 <a href=\"mailto:contact.genshin.wishes@gmail.com\">这里</a> 与我们取得联系"
+    "disclaimer": "Genshin Wishes 不隶属于米哈游。原神和米哈游为米哈游的注册商标。",
+    "claim": "如有任何问题或建议，欢迎 <a href=\"mailto:contact.genshin.wishes@gmail.com\">联系我们</a>"
   }
 }
