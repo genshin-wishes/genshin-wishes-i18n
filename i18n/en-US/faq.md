@@ -33,10 +33,10 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercon
 5) Copy the URL and paste it on Genshin Wishes
 
 ### iOS
-> ✳️ Before using this method you need read our guide about [how to install and use Stream app](https://hello.genshin-wishes.com/p/2-how-to-install-and-use-stream-app-with-genshin-wishes).
+> ✳️ Before using this method you need read our guide about [how to install and use Stream app](https://drive.google.com/file/d/14Q_6v60qLPunrpmA9Bf1KlvsKhaRyPzz/view?usp=sharing).
 
 1. Open Genshin Impact and go to the Wish screen
-2. Open Stream app and tap Sniff Now
+2. While Genshin Impact is still open, go to Stream app and tap Sniff Now
 3. Go back to Genshin Impact and open you wish history
 4. When your wish list is loaded go back to Stream app and tap Stop sniffing
 5. Then tap on Sniff History and choose the first item in the list
@@ -46,7 +46,7 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercon
 9. Finally tap Copy Url then paste it in the box below
 
 ### Consoles
-> 📢 Following the the 2.3 update events links don't work anymore.
+> ⚠️ Following the the 2.3 update events links don't work anymore.
 
 You can still [link your PlayStation account with a miHoYo account](https://www.hoyolab.com/article/533197) then use the pc/mobile method.
 

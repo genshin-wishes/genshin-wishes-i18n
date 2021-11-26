@@ -10,34 +10,45 @@ Genshin Wishes est un site gratuit [avec son code public](https://github.com/gen
 Nous les récupérons simplement de votre propre historique de vœux. L'historique dans Genshin Impact est une simple page web incrustée dans le jeu, vous pourriez vous-même y avoir accès avec le lien. La seule chose dont nous avons besoin est une clé temporaire donnée par le jeu.  Cette clé temporaire est dans le lien que nous vous demandons pour importer vos vœux.
 
 ## Comment trouver la clé nécessaire à l'import des vœux
+
+> 📢 Suite à la mise à jour 2.3 le lien "Commentaire" ne permet plus de synchroniser les voeux.
+
 ### PC
-Consultez notre guide [vidéo](https://www.youtube.com/watch?v=a16X0R_rSZc) ou suivez les instructions ci-dessous :
-1) Cliquez sur "Commentaires" dans le menu de Paimon
-2) Une page devrait s'ouvrir dans votre navigateur.
-3) Copiez l'URL et collez-la dans Genshin Wishes.
+1. Ouvrez Genshin Impact sur PC
+2. Ensuite ouvrez la page d'historique des voeux et attendez qu'elle charge
+3. Retournez sur Windows
+4. Dans le menu Démarrer chercher "Powershell" et ouvrez "Windows Powershell"
+5. Copiez ensuite le code suivant dans la fenêtre Powershell
+```
+iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/genshin-wishes/genshin-wishes-getlink/main/global.ps1'));
+```
+6. Appuyez ensuite sur ENTRER, et le lien sera copié automatiquement
+7. Collez le lien dans Genshin Wishes.
 
 ### Android
-Consultez notre guide [vidéo](https://www.youtube.com/watch?v=hok0jCjSrjo) ou suivez les instructions ci-dessous :
-1) Cliquez sur "Commentaires" dans le menu de Paimon
+1) Ouvrez l'historique des voeux dans le jeu
 2) Coupez toutes connexions Wi-Fi / Data
 3) Appuyez sur le bouton de rafraîchissement dans le coin en haut à droite de l'écran
 4) La page devrait bugger, en affichant alors l'URL
-5) Copiez l'URL et collez-la dans Genshin Wishes.
+5) Copiez l'URL et collez-la dans Genshin Wishes
 
 ### iOS
-Consultez notre guide [vidéo](https://www.youtube.com/watch?v=HW8nywx9Tio) ou suivez les instructions ci-dessous :
-1) Cliquez sur "Commentaires" dans le menu de Paimon
-2) Dans la page du support client, cliquez sur "Compte"
-3) Dans le résultat, cliquez sur le troisième élément de la liste "Comment modifier mon mot de passe ?"
-4) Dans la bulle de texte cliquez sur le lien nommé "ici"
-5) Une page devrait s'ouvrir dans votre navigateur. Copiez l'URL et collez-la dans Genshin Wishes.  
-   Important : Cette URL ne nous permet PAS de modifier votre mot de passe.
+> ✳️ Avant d'utiliser cette méthode, vous devez lire notre guide sur [comment installer et utiliser l'application Stream (Anglais)](https://drive.google.com/file/d/14Q_6v60qLPunrpmA9Bf1KlvsKhaRyPzz/view?usp=sharing).
+
+1. Ouvrez Genshin Impact et ouvrez l'écrans des voeux (sur les bannières)
+2. En gardant Genshin Impact ouvert, ouvrez l'application Stream et appuyez sur Sniff Now
+3. Retournez sur Genshin Impact et ouvrez l'historique des voeux
+4. Lorsque votre historique de voeux est chargée, revenez à l'application Stream et appuyez sur Stop sniffing
+5. Appuyez ensuite sur Sniff History et choisissez le premier élément de la liste
+6. Appuyez sur l'élément commençant par « GET https://hk4e-api-os... »
+7. Appuyez sur l'onglet de Request
+8. Appuyez sur le long texte commençant par « GET /event/gacha_info... »
+9. Enfin, appuyez sur Copy URL, puis collez-la dans Genshin Wishes
 
 ### Consoles
-1) Ouvrez vos messages dans le jeu pendant un événement
-2) Ouvrez le message de l'événement
-3) Il devrait y avoir un QR code, scannez le avec votre téléphone
-4) Copiez l'URL et collez-la dans Genshin Wishes.
+> ⚠️ En raison de la dernière mise à jour, l'ancienne méthode Console ne fonctionne plus.
+
+Vous pouvez toujours [lier votre compte PlayStation à un compte miHoYo](https://www.hoyolab.com/article/533197) puis utiliser la méthode pc/mobile.
 
 ## Est-ce sécurisé ?
 Oui. En tant que joueurs de Genshin Impact, nous sommes aussi préoccupés par la sécurité de nos comptes.
