@@ -37,12 +37,12 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercon
 
 1. Open Genshin Impact and go to the Wish screen
 2. While Genshin Impact is still open, go to Stream app and tap Sniff Now
-3. Go back to Genshin Impact and open you wish history
+3. Go back to Genshin Impact and open your wish history
 4. When your wish list is loaded go back to Stream app and tap Stop sniffing
 5. Then tap on Sniff History and choose the first item in the list
 6. Tap the request starting by 'GET https://hk4e-api-os...'
 7. Tap the request tab
-8. Tap the long text staring by 'GET /event/gacha_info...'
+8. Tap the long text starting by 'GET /event/gacha_info...'
 9. Finally tap Copy Url then paste it in the box below
 
 ### Consoles
