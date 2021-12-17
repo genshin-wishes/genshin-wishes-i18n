@@ -1,0 +1,347 @@
+{
+  "generics": {
+    "share": "النشر",
+    "copy": "نسخ",
+    "filter": "ترشيح",
+    "cancel": "الغاء",
+    "ok": "حسنًا",
+    "close": "اغلاق",
+    "previous": "الرجوع",
+    "next": "التالي",
+    "retry": "اعادة المحاولة",
+    "soon": "قريبًا",
+    "beta": "بيتا",
+    "save": "حفظ",
+    "goBack": "الرجوع للخلف",
+    "moreOf": "المزيد {{ content }}",
+    "error$": {
+      "emoji": "\uD83D\uDE31",
+      "title": "",
+      "message": "حدث خلل. الرجاء اعادة المحاولة"
+    },
+    "mihoyoError$": {
+      "emoji": "\uD83D\uDEA8",
+      "title": "",
+      "message": ".Genshin عدم امكانية التواصل مع خادم "
+    },
+    "archiveWarning": "\uD83D\uDEA8 Since March 28, 2021 we can’t retrieve wishes older than 6 months because miHoYo started deleting them from the in-game history. If you have a backup, you will soon be able to import it on the site."
+  },
+  "app": {
+    "title": "Genshin Wishes",
+    "titleWithPage": "Genshin Wishes — {{ page }}",
+    "description": "Save and keep track of your wishes easily",
+    "menu": "القائمة",
+    "getStarted": "البدء",
+    "persistLink": "حفظ الرابط لمدة 24 ساعة",
+    "user": {
+      "uid": "UID {{ uid }}"
+    },
+    "urlInput": {
+      "dialog": {
+        "title": "انتتهت مدة صلاحية الرابط الخاص بك",
+        "message": "\uD83D\uDEA8 مقتاح المصداقية غير صالح. يرجى تحديثه <a href=\"/faq\" target=\"_blank\"> كيف؟</a>",
+        "ok": "تحديث الرابط"
+      },
+      "persistLink": {
+        "persist": "Save on your device for 24h",
+        "doNotPersist": "Don't save the link"
+      },
+      "correctLink": "\uD83D\uDE0E حسنًا, يبدو جيدًا",
+      "incorrectLink": "\uD83D\uDE31 الرابط خاطئ, يرجى المحاولة من جديد"
+    },
+    "urlSetup": {
+      "title": "إنشأ حسابك",
+      "finish": "إنهاء",
+      "step": "خطوة {{ step }}",
+      "loading": {
+        "title": "تحميل الامنيات...",
+        "subtitle": "يرجى الانتظار! قد يستغرق هذا بضع دقائق"
+      },
+      "steps$": {
+        "1": {
+          "title": "الحصول على المفتاح",
+          "description": "للحصول على انياتك, نحتاج الى مفتاح من اللعبة\n<span class=\"text-primary\">لا تقلق, فلن نتمكن ابدًا من الوصول الى حسابك الخاص في اللعبة</span>",
+          "showVideo": "أرني مقطع فيديو"
+        },
+        "2": {
+          "title": "يرجى الانتظار! نحن نحصل على امنياتك \uD83D\uDC0B \uD83D\uDE48",
+          "description": "<span class=\"text-success\"><b>كرر هذه الخطوات في المرة القادمة </b></span> لمزامنة الامنيات الجديدة",
+          "seeWishes": "الذهاب الى التطبيق"
+        }
+      }
+    },
+    "signIn": "الدخول"
+  },
+  "auth": {
+    "signInMethod": "Choose a sign-in method",
+    "hint": "You are NOT signing into Genshin Impact",
+    "subHint": "We encourage you to choose a separate provider than your in-game account.",
+    "logout.label": "الخروج"
+  },
+  "banners": {
+    "label": "اللافتات",
+    "seeWishes": "رؤية الامنيات",
+    "noWishes": "لا يوجد امنيات",
+    "wishes": "{{ count }} امنيات",
+    "pity5": "Pity 5★",
+    "pity4": "Pity 4★",
+    "last5": "Last 5★",
+    "last4": "Last 4★",
+    "none": "لا يوجد"
+  },
+  "cookie": {
+    "title": "انظر! بايمون تركت لنا بعض الكوكيز \uD83D\uDE0B\n",
+    "message": "باستخدام هذا الموقع, فإنك توافق على استخدام ملفات تعريف الارتباط لتحليل حركة المرور فقط",
+    "ok": "حسنًاو انا احب الكوكيز"
+  },
+  "faq": {
+    "title": "الاسئلة المكررة"
+  },
+  "landing": {
+    "title": "Home",
+    "isItSafe": "Is it safe?",
+    "hero": {
+      "title": "Your Genshin Impact wish history in a single glance.",
+      "subtitle": "Backup your Genshin Impact wish history, keep track of your pity and get a shareable view of your pulls statistics!",
+      "advice": "No installation, <b>free</b> and <b>secure</b>."
+    },
+    "counters": {
+      "users": "Trusted by over <span class=\"text-primary\"><b>{{ users }}</b></span>\nGenshin Impact players",
+      "wishes": "<span class=\"text-primary\"><b>{{ wishes }} wishes</b></span>\nbacked up and counting"
+    },
+    "feature": {
+      "title": "All your wishes in one place.",
+      "publicStats": "Check public stats out of million wishes",
+      "personalStats": "View your personal wish stats",
+      "dashboard": "Compute your pity on each banner",
+      "archive": "Archive wishes more than six month",
+      "platforms": "Available for PC, mobile and console players"
+    },
+    "comments.title": "Happy Genshin Wishes users.",
+    "security": {
+      "title": "We care about security.",
+      "noInstallation": "No installation is required and we don't need your Genshin account.",
+      "temporaryKey": "Your temporary key is not stored on our servers but on your device and is only valid for 24h.",
+      "authorization": "The temporary key does not allow us to authenticate on your account.",
+      "ssl": "We use SSL encryption for all connections between you and our servers.",
+      "learnMore": "Learn more about security"
+    },
+    "welcome": {
+      "title": "Genshin Wishes مرحبًا بك الى ",
+      "description": "يمكننا تتبع عداد شفقتك أيضًا ,Genshin Impact. نحن نساعدك على تتبع سجل رغباتك ونسخه احتياطيًا من"
+    },
+    "elements": {
+      "pity": "احسب شفقتك على كل لافتة",
+      "browse": "تصفح بسهولة من خلال رغباتك",
+      "stats": "عرض الإحصائيات الخاصة بك",
+      "archive": "أرشفة رغباتك لأكثر من 6 أشهر"
+    },
+    "footerBanner": {
+      "joinUs": "Join us to flex your lucky pulls!"
+    },
+    "footer": {
+      "content": "Sources of this project are available on GitHub. Genshin Wishes is made and maintained by <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> and <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
+    }
+  },
+  "profile": {
+    "notFound": {
+      "title": "لا يمكن العثور على هذا الملف",
+      "description": "غير صحيح URL هذا الملف الشخصي خاص أو عنوان <span class=\"text-emoji\">\uD83D\uDE05</span>",
+      "goToApp": " Genshin Wishes الذهاب الى "
+    },
+    "footer": "! قم باستيراد رغباتك تلقائيًا من جهاز الكمبيوتر / الهاتف المحمول / وحدة التحكم واحصل على الإحصائيات الخاصة بك",
+    "share": {
+      "title": "شارك صفحة الإحصائيات الخاصة بك",
+      "label": "شارك احصائياتك",
+      "sharing": {
+        "title": "مشاركة صفحة الإحصائيات",
+        "enabled": "مرئي فقط مع الرابط",
+        "disabled": "مرئي لك فقط"
+      },
+      "success$": {
+        "emoji": "\uD83D\uDCCB",
+        "title": "",
+        "message": "تم نسخ الرابط الثابت الخاص بك إلى الحافظة الخاصة بك"
+      }
+    }
+  },
+  "settings": {
+    "label": "الاعدادات",
+    "authLink": {
+      "title": "رابط المصادقة",
+      "subTitle": "قم بتعديل ارتباط المصادقة الخاص بك",
+      "update": "حفظ وتحديث"
+    },
+    "lang": {
+      "title": "اللغة",
+      "subTitle": "قم بتغيير لغة الموقع والعناصر",
+      "success$": {
+        "emoji": "",
+        "title": "",
+        "message": ".تم تحديث لغتك"
+      },
+      "action": "حفظ اللغة"
+    },
+    "wholeClock": {
+      "title": "تنسيق الوقت",
+      "subTitle": "تغيير تنسيق وقت الموقع",
+      "true": "24h",
+      "false": "12h (AM/PM)",
+      "success$": {
+        "emoji": "",
+        "title": "",
+        "message": ".تم تحديث تنسيق الوقت"
+      },
+      "action": "حفظ التعديل"
+    },
+    "deleteAccount": {
+      "title": "الغاء حسابك الشخصي",
+      "subTitle": "Genshin Wishes احذف جميع بياناتك الموجودة على",
+      "hint": "قبل النقر على زر الإلغاء <b>{{ confirmation }}</b> اكتب",
+      "label": "الكتابة هنا",
+      "action": "إلغاء حسابي الشخصي",
+      "confirmation": "إلغاء حسابي الشخصي"
+    },
+    "deleteAccountConfirm": {
+      "title": "هل أنت متأكد أنك تريد حذف حسابك؟",
+      "message": ".هذا العمل لا رجوع فيه"
+    },
+    "export": {
+      "title": "تصدير رغباتك",
+      "subTitle": " Genshin Wishes قم بتصدير كل امنياتك المخزنة على",
+      "confirm": {
+        "title": "هل انت متأكد؟",
+        "description": ".لا تقلق ، سيبقون أيضًا على حسابك"
+      },
+      "action": "تصدير امنياتي"
+    }
+  },
+  "publicStats": {
+    "label": "Public stats"
+  },
+  "stats": {
+    "label": "احصائيات",
+    "averageGap": "متوسط ​​الفجوة",
+    "na": "N/A",
+    "wishesTotalCount": "عد الامنيات الإجمالي",
+    "empty": "...عذرا ، لم نتمكن من العثور على أي شيء",
+    "rankDistribution.title": "صفوف الامنيات",
+    "focusDistribution.title": "5★ تفرد ال",
+    "fourStarsDetails.title": "4★ انواع ال",
+    "fiveStarsList.title": "5★ قائمة ال",
+    "fourStarsList.title": "4★ قائمة ال",
+    "bannerActivity.title": "الامنيات مع مرور الوقت",
+    "filters": {
+      "filterByEvent": "تصفية حسب الحدث",
+      "selectEvent": "حدد حدثًا",
+      "allEvents": "جميع الاحداث"
+    }
+  },
+  "nav": {
+    "helpUs.label": "هل تريد مساعدتنا؟",
+    "request.label": "تقرير الشوائب وردود الفعل",
+    "discord.label": " Discord انضم إلينا  في ",
+    "coffee.label": "ادعم عملنا",
+    "i18n.label": "ساهم في الترجمة"
+  },
+  "wishes": {
+    "label": "الامنيات",
+    "exclusive": "حصري",
+    "notExclusive": "غير حصري",
+    "noWishes": {
+      "title": "لا توجد أمنية لهذا الشعار",
+      "message": "Amber لا يزال بإمكانك اللعب بـ<span class=\"text-emoji\">\uD83D\uDE05</span>"
+    },
+    "noResult": {
+      "title": "أوه لا! لا يوجد شيء مثل هذا",
+      "message": "يجب عليك تعديل عوامل التصفية الخاصة بك"
+    },
+    "backToList": "العودة إلى اللافتات",
+    "bannersNav": "اللافتات",
+    "itemNotFound": "!لم يتم العثور على العنصر ، سنقوم بتحديث قاعدة البيانات الخاصة بنا في أقرب وقت ممكن",
+    "itemType$": {
+      "Character": "شخصية",
+      "Weapon": "سلاح"
+    "filters": {
+      "freeText": "تصفية حسب الاسم",
+      "itemType": "تصفية حسب النوع",
+      "rank": "تصفية حسب الرتبة",
+      "characterEvent": "تصفية حسب حدث الشخصية",
+      "weaponEvent": "تصفية حسب حدث السلاح",
+      "selectEvent": "حدد الأحداث",
+      "reset": "إعادة ضبط الجميع"
+    },
+    "update": {
+      "label": "تحديث الامنيات"
+    },
+    "deletion": {
+      "title": "حذف الامنيات القديمة",
+      "description": "هل أنت متأكد أنك تريد حذف امنياتك القديمة؟\n\n .أي حذف لا رجوع فيه",
+      "ok": "❌ نعم ، احذف كل امنياتي"
+    },
+    "differentUidDialog": {
+      "title": "حساب مختلف",
+      "description": "\uD83D\uDEA8 Genshin الامنيات التي توشك على إضافتها ليست مرتبطة بنفس حساب\n\n ماذا تريد أن تفعل؟",
+      "delete": "حذف الامنيات القديمة"
+    },
+    "import": {
+      "saving": "...جاري الحفظ",
+      "recovery$": {
+        "emoji": "",
+        "title": "",
+        "message": "... ااستعادة استيراد امنياتك "
+      },
+      "success$": {
+        "emoji": "\uD83E\uDD29",
+        "title": "",
+        "message": "<b>{{ wishes }}</b> ! {{ banner }} !تم العثور على امنيات جديدة في"
+      },
+      "noData$": {
+        "emoji": "\uD83D\uDE27",
+        "title": "عذرا ، لم يتم العثور على أمنيات جديدة",
+        "message": ".لا يمكن إضافة الامنيات التي تم إجراؤها قبل أقل من ساعة"
+      },
+      "invalidAuthkey$": {
+        "emoji": "\uD83D\uDEA8",
+        "title": "",
+        "message": ".لا يمكن الإيثاق"
+      },
+      "newWishesDuringImport$": {
+        "emoji": "\uD83D\uDEA8",
+        "title": "",
+        "message": ".عذرًا ، تم تغيير سجل أمنياتك أثناء الاستيراد. حاول مرة اخرى"
+      },
+      "alreadyImporting$": {
+        "emoji": "\uD83D\uDEA8",
+        "title": "",
+        "message": "!يتم بالفعل استيراد رغباتك ، يرجى الانتظار"
+      }
+    },
+    "banners$": {
+      "ALL": {
+        "title": "كل التمنيات",
+        "titleWithCount": " ({{ wishes }}) كل التمنيات "
+      },
+      "NOVICE": {
+        "title": "لافتة المبتدئ",
+        "titleWithCount": "لافتة المبتدئ ({{ wishes }} امنيات )"
+      },
+      "PERMANENT": {
+        "title": "اللافتة الدائمة",
+        "titleWithCount": "اللافتة الدائمة ({{ wishes }} امنيات)"
+      },
+      "CHARACTER_EVENT": {
+        "title": "لافتة الشخصيات",
+        "titleWithCount": "لافتة الشخصيات ({{ wishes }} امنيات)"
+      },
+      "WEAPON_EVENT": {
+        "title": "لافتة الاسلحة",
+        "titleWithCount": "لافتة الاسلحة ({{ wishes }} امنيات)"
+      }
+    }
+  },
+  "footer": {
+    "disclaimer": "  Genshin Impact © miHoYo . miHoYo علامتين تجاريتين مسجلتين لشركة Genshin Impact و miHoYo تُعد  .miHoYo ليست مررتبطة بـ Genshin Wishes",
+    "claim": " <a href=\"mailto:contact.genshin.wishes@gmail.com\">تواصل معنا </a> لأي مطالبة ، من فضلك"
+  }
+}
