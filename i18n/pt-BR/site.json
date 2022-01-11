@@ -109,7 +109,7 @@
     "isItSafe": "É seguro?",
     "hero": {
       "title": "Seu histórico de orações no Genshin Impact em um único vislumbre.",
-      "subtitle": "Faça backup do seu histórico de orações do Genshin Impact, acompanhe seu pity e tenha uma visão compartilhável de suas estatísticas de tiros!",
+      "subtitle": "Faça backup do seu histórico de orações do Genshin Impact, acompanhe seu pity e tenha uma visão compartilhável de suas estatísticas de orações!",
       "advice": "Sem instalação, <b>gratuito</b> e <b>seguro</b>."
     },
     "counters": {
@@ -144,7 +144,7 @@
       "archive": "Guarde suas orações por mais de 6 meses"
     },
     "footerBanner": {
-      "joinUs": "Junte-se a nós para mostrar sua sorte nos tiros!"
+      "joinUs": "Junte-se a nós para mostrar sua sorte nos orações!"
     },
     "footer": {
       "content": "O código fonte desse projeto está disponível no GitHub. O Genshin Wishes é feito e mantido por <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> e <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
@@ -379,16 +379,16 @@
         "titleWithCount": "Todas as orações ({{ wishes }})"
       },
       "NOVICE": {
-        "title": "Desejos de Novato",
-        "titleWithCount": "Desejos de Novato ({{ wishes }} orações)"
+        "title": "Desejo dos Novatos",
+        "titleWithCount": "Desejo dos Novatos ({{ wishes }} orações)"
       },
       "PERMANENT": {
         "title": "Desejo comum",
         "titleWithCount": "Desejo comum ({{ wishes }} orações)"
       },
       "CHARACTER_EVENT": {
-        "title": "Oração do Evento do Personagem",
-        "titleWithCount": "Oração do Evento do Personagem ({{ wishes }} orações)"
+        "title": "Oração de Evento de Personagem",
+        "titleWithCount": "Oração de Evento de Personagem ({{ wishes }} orações)"
       },
       "WEAPON_EVENT": {
         "title": "Oração do Evento de Arma",
