@@ -1,5 +1,7 @@
-1) Pressione "Feedback" no menu da Paimon
-2) Desative o Wi-Fi e a conexão de dados
-3) Pressione o botão de atualização no canto superior direito
-4) A página deve apresentar uma mensagem de erro, exibindo seu URL
-5) Copie o URL e cole no Genshin Wishes.
+> 📢 Após a atualização 2.3 o link de feedback deixou de funcionar. Por favor, utilize o método abaixo:
+
+1) Abra o seu Histórico de Orações dentro do jogo e aguarde que ele carregue.
+2) Desligue o Wi-Fi e o tráfego de dados móveis.
+3) Pressione o botão "Atualizar" no canto superior direito.
+4) A página deve informar um erro com uma URL.
+5) Copie a URL e a cole no campo abaixo.
