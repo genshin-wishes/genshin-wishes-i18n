@@ -1,4 +1,3 @@
-1) Abra sua caixa de e-mails do jogo durante um evento
-2) Abra a mensagem relacionada ao evento
-3) Deve ter um código QR, leia-o com seu telefone
-4) Copie o URL e cole no Genshin Wishes.
+> ⚠️ Devido a ultima atualização, o método anterior deixou de funcionar.
+
+Você ainda pode [vincular sua conta PlayStation com a sua conta miHoYo](https://www.hoyolab.com/article/533197), e utilizar o método do PC/Mobile.
