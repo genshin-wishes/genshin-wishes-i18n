@@ -7,7 +7,7 @@ Genshin Wishes é um site gratuito [com código público](https://github.com/gen
 - Verifique estatísticas detalhadas sobre suas orações (para os nerds como nós, que gostam de figuras e gráficos 🤓).
 
 ## Como vocês conseguem pegar minhas orações no jogo?
-Nós simplesmente os obtemos de seu histórico de orações. O histórico de orações no Genshin Impact é uma página exibida no jogo, então você mesmo poderia acessá-la se tivesse o link. A única coisa que precisamos é de uma chave temporária fornecida pelo jogo. Essa chave temporária está no link que pedimos para você importar seus desejos.
+Nós simplesmente as obtemos de seu histórico de orações. O histórico de orações no Genshin Impact é uma página exibida no jogo, então você mesmo poderia acessá-la se tivesse o link. A única coisa que precisamos é de uma chave temporária fornecida pelo jogo. Essa chave temporária está no link que pedimos para você importar seus desejos.
 
 ## Como encontro a chave necessária para importar os meus desejos?
 
@@ -36,8 +36,8 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercon
 > ✳️ Antes de usar esse motodo, você precisara seguir este guia sobre [Como instalar e usar o Stream app (Inglês)](https://drive.google.com/file/d/14Q_6v60qLPunrpmA9Bf1KlvsKhaRyPzz/view?usp=sharing).
 
 1. Abra o Genshin Impact e va para a tela de Orações.
-2. Em quanto o Genshin Impact esta aberto, và para o Stream app e clique em "Sniff Now".
-3. Volte para o Genshin Impact, e abra o seu historico de Orações.
+2. Enquanto o Genshin Impact esta aberto, và para o Stream app e clique em "Sniff Now".
+3. Volte para o Genshin Impact e abra o seu historico de Orações.
 4. Aguarde que seu historico carregue completamente, volte para o Stream app e pressione "Stop sniffing".
 5. Selecione "Sniff History" e selecione o primeiro item da lista.
 6. Selecione o item que começa com 'GET https: //hk4e-api-os...'.
