@@ -18,7 +18,7 @@
     "error$": {
       "emoji": "\uD83D\uDE31",
       "title": "",
-      "message": "Terjadi kesalahan. Mohon coba lagi."
+      "message": "Terjadi kesalahan. Silakan coba lagi."
     },
     "mihoyoError$": {
       "emoji": "\uD83D\uDEA8",
@@ -36,7 +36,7 @@
   "app": {
     "title": "Genshin Wishes",
     "titleWithPage": "Genshin Wishes — {{ page }}",
-    "description": "Simpan dan lacak permohonanmu dengan mudah",
+    "description": "Simpan dan lihat permohonanmu dengan mudah",
     "menu": "Menu",
     "getStarted": "Mulai",
     "persistLink": {
@@ -97,7 +97,7 @@
     "none": "Tidak ada"
   },
   "cookie": {
-    "title": "Hai! Paimon meninggalkan kami beberapa cookies. \uD83D\uDE0B\n",
+    "title": "Hai! Paimon menyisakan kami beberapa cookies. \uD83D\uDE0B\n",
     "message": "Dengan menggunakan situs ini, kamu setuju pada penggunaan cookies untuk analisis trafik saja.",
     "ok": "Oke, aku suka cookies!"
   },
@@ -122,16 +122,16 @@
       "personalStats": "Lihat statistik permohonan pribadi kamu",
       "dashboard": "Menghitung pity-mu di setiap banner",
       "archive": "Arsip permohonan lebih dari 6 bulan",
-      "platforms": "Tersedia untuk pemain PC, seluler, dan konsol"
+      "platforms": "Tersedia untuk pemain PC, mobile, dan konsol"
     },
     "comments.title": "Pengguna Genshin Wishes yang senang.",
     "security": {
       "title": "Kami peduli dengan keamanan.",
       "noInstallation": "Tidak ada instalasi yang diperlukan dan kami tidak membutuhkan akun Genshin kamu.",
       "temporaryKey": "Kunci sementara kamu tidak disimpan di server kami, tetapi di perangkatmu dan hanya valid untuk 24 jam.",
-      "authorization": "Kunci sementara tidak mengizinkan kami untuk autentikasi di akun kamu.",
+      "authorization": "Kunci sementara tidak mengizinkan kami untuk autentikasi di akunmu.",
       "ssl": "Kami menggunakan enkripsi SSL untuk semua koneksi antara kamu dan server kami.",
-      "learnMore": "Pelajari lebih lanjut tentang keamanan."
+      "learnMore": "Pelajari lebih lanjut tentang keamanan"
     },
     "welcome": {
       "title": "Selamat datang di Genshin Wishes.",
@@ -156,12 +156,12 @@
       "description": "Profil ini private atau URL-nya salah <span class=\"text-emoji\">\uD83D\uDE05</span>",
       "goToApp": "Pergi ke Genshin Wishes"
     },
-    "footer": "Impor permohonanmu dari PC/seluler/konsol secara otomatis dan dapatkan statistik milikmu!",
+    "footer": "Impor permohonanmu dari PC/mobile/konsol secara otomatis dan dapatkan statistik milikmu!",
     "share": {
-      "title": "Bagikan laman statistik kamu",
+      "title": "Bagikan halaman statistik kamu",
       "label": "Bagikan statistikmu",
       "sharing": {
-        "title": "Berbagi laman statistik",
+        "title": "Berbagi halaman statistik",
         "enabled": "Hanya terlihat dengan link",
         "disabled": "Hanya terlihat untukmu"
       },
@@ -341,7 +341,7 @@
       "delete": "Hapus permohonan lama"
     },
     "import": {
-      "saving": "Sedamg menyimpan...",
+      "saving": "Sedang menyimpan...",
       "recovery$": {
         "emoji": "",
         "title": "",

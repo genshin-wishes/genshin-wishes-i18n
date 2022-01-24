@@ -86,7 +86,7 @@
     "logout.label": "Deconectare"
   },
   "banners": {
-    "label": "Banners",
+    "label": "Bannere",
     "seeWishes": "Vezi dorințele",
     "noWishes": "Nici o dorintă",
     "wishes": "{{ count }} dorințe",
@@ -147,7 +147,7 @@
       "joinUs": "Alăturăte nouă pentru a te mândri cu dorințele tale norocoase!"
     },
     "footer": {
-      "content": "Sursele acestui proiect sunt valabile pe GitHub. Genshin Wishes este creeat și menținut de <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> and <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
+      "content": "Sursele acestui proiect sunt valabile pe GitHub. Genshin Wishes este creeat și menținut de <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> și <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
     }
   },
   "profile": {
@@ -181,7 +181,7 @@
     },
     "lang": {
       "title": "Limbă",
-      "subTitle": "Schimbă limba site-ului și a itemelor",
+      "subTitle": "Schimbă limba site-ului (numele itemelor sunt ignorate pentru a evita confuziile)",
       "success$": {
         "emoji": "",
         "title": "",
@@ -239,7 +239,7 @@
       "PERMANENT": "Statistici pt. banner-ul permanent",
       "NOVICE": "Statistici pt. banner-ul de începători"
     },
-    "gwUsersOnly": "Doar de la utilizatori Genshin Wishes (actualizate la fiecare {{ minutes }} minute).",
+    "gwUsersOnly": "Colectate doar de la utilizatori Genshin Wishes (actualizate la fiecare {{ minutes }} minute).",
     "allEventStats.label": "Toate statisticile",
     "learnMore": {
       "title": "Despre statisticile noastre",
@@ -251,7 +251,7 @@
       "threeFour": "rata de 75:25"
     },
     "usersPerRegion": {
-      "title": "Jucători care au făcut dorințe - {{ count }}"
+      "title": "Jucători care au efectuat dorințe - {{ count }}"
     },
     "wishesPerRegion": {
       "title": "Dorințe totale - {{ count }}"
@@ -282,9 +282,9 @@
     "empty": "Scuze, nu am putut găsi nimic...",
     "rankDistribution.title": "Rangul dorințelor",
     "focusDistribution.title": "Exclusivitatea {{ rankType }}★",
-    "fourStarsDetails.title": "4★ types",
-    "fiveStarsList.title": "5★ list",
-    "fourStarsList.title": "4★ list",
+    "fourStarsDetails.title": "Tipuri 4★",
+    "fiveStarsList.title": "Listă 5★",
+    "fourStarsList.title": "Listă 4★",
     "bannerActivity.title": "Dorințele în timp",
     "filters": {
       "filterByEvent": "Filtrează după eveniment",
@@ -398,6 +398,6 @@
   },
   "footer": {
     "disclaimer": "Genshin Wishes nu este afiliat cu miHoYo. Genshin Impact și miHoYo sunt mărci comerciale sau mărci comerciale înregistrate ale miHoYo. Genshin Impact © miHoYo.",
-    "claim": "Pentru orice cerere, vă rugăm să ne <a href=\"mailto:contact.genshin.wishes@gmail.com\">contactați-ne</a>."
+    "claim": "Pentru orice cerere, vă rugăm să ne <a href=\"mailto:contact.genshin.wishes@gmail.com\">contactați</a>."
   }
 }

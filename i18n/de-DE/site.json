@@ -11,7 +11,7 @@
     "retry": "Erneut Versuchen",
     "soon": "Bald",
     "beta": "Beta",
-    "new": "New",
+    "new": "Neu",
     "save": "Speichern",
     "goBack": "Zurück",
     "moreOf": "Mehr {{ content }}",
@@ -50,7 +50,7 @@
       "dialog": {
         "title": "Dein Link ist abgelaufen",
         "message": "\uD83D\uDEA8 Der Authentifizierungslink ist ungültig. Bitte aktualisiere ihn. <a href=\"/faq\" target=\"_blank\"> Wie?</a>",
-        "ok": "Update Link"
+        "ok": "Link aktualisieren"
       },
       "pasteInput": "Link hier einfügen",
       "correctLink": "\uD83D\uDE0E Ok, sieht richtig aus",
@@ -144,10 +144,10 @@
       "archive": "Archiviere deine Gebete über 6 Monate hinaus"
     },
     "footerBanner": {
-      "joinUs": "Tritt uns bei,  und gebe mit deinen Gebeten an."
+      "joinUs": "Tritt uns bei, und gebe mit deinen Gebeten an."
     },
     "footer": {
-      "content": "Der Quellcode dieses Projektes ist verfügbar auf GitHub. Genshin Wishes wird entwickelt von<a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> und <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
+      "content": "Der Quellcode dieses Projektes ist verfügbar auf GitHub. Genshin Wishes wird entwickelt von <a href=\"https://www.linkedin.com/in/colin-auberger/\" target=\"_blank\">Colin Auberger</a>, <a href=\"https://vergerolle.fr\" target=\"_blank\">Jimmy Vergerolle</a> und <a href=\"https://jessye.vergerolle.fr\" target=\"_blank\">Jessye Vergerolle</a>."
     }
   },
   "profile": {
@@ -397,7 +397,7 @@
     }
   },
   "footer": {
-    "disclaimer": "Genshin Wishes ist nicht mit miHoYo verbunden.Genshin Impact und miHoYo sind Marken oder eingetragene Marken von miHoYo. Genshin Impact © miHoYo.",
+    "disclaimer": "Genshin Wishes ist nicht mit miHoYo verbunden. Genshin Impact und miHoYo sind Marken oder eingetragene Marken von miHoYo. Genshin Impact © miHoYo.",
     "claim": "Für jeden Anspruch bitte <a href=\"mailto:contact.genshin.wishes@gmail.com\">hier kontaktieren</a>."
   }
 }
