@@ -7,41 +7,51 @@ Genshin Wishes is a free website [with public code](https://github.com/genshin-w
 - Check detailed statistics about your wishes (for the nerds like us who like figures and charts 🤓)
 
 ## How do you manage to get my in-game wishes?
-We simply get them from your wish history. The wish history in Genshin Impact is a webpage displayed in the game, so even you could access it if you had the link. The only thing we need is a temporary key provided by the game. This temporary key is in the link we ask from you for importing your wishes.
+We simply get them from your wish history. The wish history in Genshin Impact is a webpage displayed in the game. The only thing we need is a temporary key provided by the game. This temporary key is in the link we ask from you for importing your wishes.
 
 ## How do I find the key required to import my wishes?
+
+> 📢 Following the the 2.3 update the feedback link don't work anymore. 
+
 ### PC
-Take a look to the [video](https://www.youtube.com/watch?v=a16X0R_rSZc) guide or follow the instructions below :
-1) Press "Feedback" in Paimon's menu
-2) A page should open in your brower
-3) Copy the URL and paste it on Genshin Wishes.
+1. Open Genshin Impact on your PC
+2. Then go to the wish history page and wait it to load
+3. Go back to Windows
+4. In the start menu search for "Powershell" and open "Windows Powershell"
+5. Then copy the following code and paste it in the Powershell window
+```
+iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/genshin-wishes/genshin-wishes-getlink/main/global.ps1'));
+```
+6. Hit ENTER then a link will be copied to your clipboard
+7. Paste it in the box below
 
 ### Android
-Take a look to the [video](https://www.youtube.com/watch?v=hok0jCjSrjo) guide or follow the instructions below:
-1) Press "Feedback" in Paimon's menu
+1) Go to your ingame wish history page
 2) Disable Wi-Fi & data connection
 3) Press the refresh button in the top right corner
 4) The page should bug, displaying its URL
-5) Copy the URL and paste it on Genshin Wishes.
+5) Copy the URL and paste it on Genshin Wishes
 
 ### iOS
-Take a look to the [video](https://www.youtube.com/watch?v=HW8nywx9Tio) guide or follow the instructions below:
-1) Press "Feedback" in Paimon's menu
-2) In the support page, press "Account issue"
-3) In the result, press the third item "How do I change my password?"
-4) In the text displayed click on the blue link named "here"
-5) A page should open on your browser. Copy the page URL and paste it on Genshin Wishes.  
-   Important: This URL does NOT allow us to change your password.
+> ✳️ Before using this method you need read our guide about [how to install and use Stream app](https://drive.google.com/file/d/14Q_6v60qLPunrpmA9Bf1KlvsKhaRyPzz/view?usp=sharing).
+
+1. Open Genshin Impact and go to the Wish screen
+2. While Genshin Impact is still open, go to Stream app and tap Sniff Now
+3. Go back to Genshin Impact and open you wish history
+4. When your wish list is loaded go back to Stream app and tap Stop sniffing
+5. Then tap on Sniff History and choose the first item in the list
+6. Tap the request starting by 'GET https://hk4e-api-os...'
+7. Tap the request tab
+8. Tap the long text staring by 'GET /event/gacha_info...'
+9. Finally tap Copy Url then paste it in the box below
 
 ### Consoles
-1) Open your mail in-game during an event
-2) Open the event related mail
-3) There should be a QR code, scan it with your phone
-4) Copy the URL and paste it on Genshin Wishes.
+> ⚠️ Following the the 2.3 update events links don't work anymore.
+
+You can still [link your PlayStation account with a miHoYo account](https://www.hoyolab.com/article/533197) then use the pc/mobile method.
 
 ## Is it safe to use?
 Yes. As Genshin Impact players we are very concerned about account security.
-- **We don't need you to install anything** on your computer or mobile phone
 - **We don't need your Genshin account password**
 - Your temporary key is not stored on our servers but **on your device**
 - It is valid only for 24h, after this time you will need to generate a new link to keep your wishes synced
