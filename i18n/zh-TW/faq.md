@@ -19,11 +19,12 @@ Genshin Wishes 是一個[開源的](https://github.com/genshin-wishes)免費網�
 
 ### Android
 觀看[教學影片](https://www.youtube.com/watch?v=hok0jCjSrjo)或依照下列說明操作：
-1) 點擊派蒙介面中的「意見回饋」
-2) 關閉 Wi-Fi 以及行動數據
-3) 點擊螢幕右上角的重新整理按鈕
-4) 該頁面會出現錯誤，並且顯示頁面網址
-5) 複製網址並在 Genshin Wishes 中貼上
+1) 點擊遊戲的「祈願」
+2) 點擊「歷史紀錄」
+3) 關閉 Wi-Fi 以及行動數據
+4) 點擊螢幕右上角的重新整理按鈕
+5) 該頁面會出現錯誤，並且顯示頁面網址
+6) 複製網址並在 Genshin Wishes 中貼上
 
 ### iOS
 觀看[教學影片](https://www.youtube.com/watch?v=HW8nywx9Tio)或依照下列說明操作：
