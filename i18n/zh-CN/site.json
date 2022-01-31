@@ -53,7 +53,7 @@
         "ok": "更新链接"
       },
       "pasteInput": "在此处粘贴链接",
-      "correctLink": "\uD83D\uDE0E 看其来一切正常",
+      "correctLink": "\uD83D\uDE0E 看起来一切正常",
       "incorrectLink": "\uD83D\uDE31 链接错误，请重试"
     },
     "urlSetup": {
