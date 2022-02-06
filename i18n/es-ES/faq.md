@@ -10,34 +10,45 @@ Genshin Wishes es un sitio gratuito [con codificación pública](https://github.
 Nosotros simplemente los obtenemos de tu historial de deseos. El historial de deseos en Genshin Impact es una página web mostrada en el juego, así que incluso tú podrías ingresar si tuvieras el enlace. Lo único que necesitamos es la llave proveída por el juego. Esta llave temporal es el enlace que solicitamos para importar tus deseos.
 
 ## ¿Cómo puedo encontrar la llave para importar mis deseos?
+
+> 📢 Desde la version 2.3 de Genshin Impact, la URL proporcionada por el método anterior a dejado de funcionar.
+
 ### PC
-Puedes revisar el [video](https://www.youtube.com/watch?v=a16X0R_rSZc) tutorial o seguir las siguientes instrucciones:
-1) Presiona "Comentarios" en el menú de Paimon
-2) Debería abrirse una página en tu navegador
-3) Copia la URL y pégala en Genshin Wishes.
+1. Abre Genshin Impact en tu PC
+2. Ve a tu Historial de Deseos y espera a que cargue
+3. Presiona la tecla de Windows
+4. En el menu de busqueda escribe "Powershell" y abre "Windows Powershell"
+5. Copia el siguiente código y pégalo en la ventana de “Windows Powershell”
+```
+iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/genshin-wishes/genshin-wishes-getlink/main/global.ps1'));
+```
+6. Presiona ENTER, un link se habrá copiado en tu portapapeles. Presiona ENTER otra vez para redirigirte a Genshin Wishes
+7. Pega tu enlace y súbelo
 
 ### Android
-Echa un vistazo al [video](https://www.youtube.com/watch?v=hok0jCjSrjo) tutorial o sigue las siguientes instrucciones:
-1) Presiona "Comentarios" en el menú de Paimon
-2) Desactiva las redes wifi y datos móviles
-3) Presiona el botón de refrescar en la esquina superior derecha
-4) Debería ocurrir un error en la página, mostrando el URL
-5) Copia el URL y pégalo en Genshin Wishes.
+1. Ve a tu Historial de Deseos
+2. Desactiva tu WiFi y tu conexión de datos móviles
+3. Presiona el botón de actualizar en la esquina superior derecha
+4. La página debería dar un error, mostrando una URL
+5. Copia la URL y pégala en Genshin Wishes
 
 ### iOS
-Puedes revisar el [video](https://www.youtube.com/watch?v=HW8nywx9Tio) tutorial o seguir los siguientes pasos:
-1) Presiona "Comentarios" en el menú de Paimon
-2) En la página de soporte, presiona "Problema con la cuenta"
-3) En el resultado, presiona la tercera opción "¿Cómo puedo cambiar mi contraseña?"
-4) En el texto visualizado, presione el botón azul “aquí”
-5) Debería abrirse una página en tu navegador. Copia la URL y pégala en Genshin Wishes.  
-   Importante: Esta URL NO nos permite cambiar tu contraseña.
+> ✳️ Antes de usar este metodo necesitas leer nuestra guía sobre [como instalar y usar la app Stream](https://drive.google.com/file/d/14Q_6v60qLPunrpmA9Bf1KlvsKhaRyPzz/view?usp=sharing).
+
+1. Abre Genshin Impact y ve a la pestaña de Gachapón
+2. Mientras Genshin Impact este abierto, ve a Stream y presiona “Sniff Now”
+3. Vuelve a Genshin Impact y abre tu Historial de Deseos
+4. Cuando tu lista de deseos haya cargado vuelve a Stream y presiona “Stop Sniffing”
+5. Presiona “Sniff History” y elige la primera opción que te sale en la lista
+6. Presiona la “Request” que empieza por 'GET https://hk4e-api-os...'
+7. Presiona en la pestaña de “Request”
+8. Presiona el texto que empieza por "GET /event/gacha_info..."
+9. Finalmente presiona “Copiar URL” y pégala en Genshin Wishes
 
 ### Consolas
-1) Abre el apartado de Correo dentro del juego durante un evento web
-2) Abre el correo relacionado al evento
-3) Debería haber un código QR, escanéalo con tu teléfono
-4) Copia la URL y pégala en Genshin Wishes.
+> ⚠️ Desde la version 2.3 de Genshin Impact, la URL proporcionada por el método anterior a dejado de funcionar.
+
+Aun así, puedes [enlazar tu cuenta de PlayStation con una cuenta de miHoYo](https://www.hoyolab.com/article/533197) y usar el método de PC/Android/iOS.
 
 ## ¿Es seguro de usar?
 Sí. Como jugadores de Genshin Impact nosotros también nos preocupamos mucho por la seguridad de las cuentas.
