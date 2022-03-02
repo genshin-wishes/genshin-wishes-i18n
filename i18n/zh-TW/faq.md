@@ -11,34 +11,41 @@ Genshin Wishes 是一個[開源的](https://github.com/genshin-wishes)免費網�
 我們需要的是遊戲提供的暫時性金鑰，此金鑰包含在我們要求您提供的網址內。
 
 ## 如何尋找並匯入包含金鑰的網址
+> 📢 從2.3版本開始，原有的意見回饋連結已無法使用，請使用以下步驟：
 ### PC版
-觀看[教學影片](https://www.youtube.com/watch?v=a16X0R_rSZc)或依照下列說明操作：
-1) 點擊派蒙介面中的「意見回饋」
-2) 瀏覽器將會打開一個網頁
-3) 複製網址並在 Genshin Wishes 中貼上
+
+1) 開啟原神
+2) 進入祈願歷史紀錄頁面
+3) 在搜尋欄中搜尋 'Powershell' 並開啟 'Windows Powershell'
+4) 請複製以下文字並貼上 Powershell
+```
+iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/genshin-wishes/genshin-wishes-getlink/main/global.ps1'));
+```
+5) 按下 ENTER 後連結會自動複製
+6) 回到 Genshin Wishes 網頁貼上
 
 ### Android
-觀看[教學影片](https://www.youtube.com/watch?v=hok0jCjSrjo)或依照下列說明操作：
-1) 點擊派蒙介面中的「意見回饋」
-2) 關閉 Wi-Fi 以及行動數據
+1) 進入遊戲中的「歷史紀錄」頁面
+2) 關閉 Wi-Fi 或網路連線
 3) 點擊螢幕右上角的重新整理按鈕
 4) 該頁面會出現錯誤，並且顯示頁面網址
 5) 複製網址並在 Genshin Wishes 中貼上
 
 ### iOS
-觀看[教學影片](https://www.youtube.com/watch?v=HW8nywx9Tio)或依照下列說明操作：
-1) 點擊派蒙介面中的「意見回饋」
-2) 點擊「帳號問題」
-3) 選擇第三項「怎修改密碼？」
-4) 點擊「米哈遊通行證管理」的超連結
-5) 瀏覽器將會打開一個網頁，複製網址並在 Genshin Wishes 中貼上  
-   重要提示：我們**無法透過**此網址修改您的密碼
+✳️ 在使用此方法前，請先下載Stream App 並參閱我們的 [使用說明](https://drive.google.com/file/d/14Q_6v60qLPunrpmA9Bf1KlvsKhaRyPzz/view)
+1) 打開原神並前往祈願頁面
+2) 在原神開啟的狀態下，前往 Stream App 並點擊「抓包」
+3) 回到原神並開啟歷史紀錄
+4) 祈願歷史紀錄完成讀取後，請回到 Stream 並點擊「停止抓包」
+5) 點擊抓包歷史並選擇清單中的第一個項目
+6) 選擇以 'GET https: //hk4e-api-os...' 開頭的資料並進入「請求」頁面
+7) 點擊 'GET /event/gacha_info...' 開頭的文字後複製，進入 Genshin Wishes 網頁貼上
 
 ### 家用主機
-1) 打開「信件」介面。
-2) 找到一個有關活動的信件
-3) 使用手機掃描該信件裡面的 QR Code
-4) 複製網址並在 Genshin Wishes 中貼上
+> ⚠️ 從2.3版本開始，原有的方法已無法使用。
+
+您依然可以參考本[連結](https://www.hoyolab.com/article/533197)將PSN帳號連結至電腦/手機板
+
 
 ## 這個網站安全嗎？
 是的。同樣身為《原神》的玩家，我們非常重視帳號的安全性。
