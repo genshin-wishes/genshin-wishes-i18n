@@ -1,5 +1,6 @@
 📢 從2.3版本開始，原有的意見回饋連結已無法使用，請使用以下步驟：
-✳️ 在使用此方法前，請先下載並參閱我們的 Stream App [使用說明](https://drive.google.com/file/d/14Q_6v60qLPunrpmA9Bf1KlvsKhaRyPzz/view)
+
+✳️ 在使用此方法前，請先下載Stream App 並參閱我們的 [使用說明](https://drive.google.com/file/d/14Q_6v60qLPunrpmA9Bf1KlvsKhaRyPzz/view)
 1) 打開原神並前往祈願頁面
 2) 在原神開啟的狀態下，前往 Stream App 並點擊「抓包」
 3) 回到原神並開啟歷史紀錄
