@@ -1,6 +1,12 @@
-1) Tekan "Masukan" di menu Paimon
-2) Di halaman bantuan, tekan "Isu akun"
-3) Tekan item ketiga "Bagaimana cara mengubah kata sandi saya?"
-4) Dalam teks yang ditampilkan, klik link biru bernama "di sini"
-5) Sebuah halaman akan terbuka di browser-mu. Salin URL-nya dan tempel di Genshin Wishes.  
-   Penting: URL ini TIDAK mengizinkan kami untuk mengganti kata sandi kamu.
+> ✳️ Sebelum menggunakan metode ini, kamu harus membaca panduan kami tentang [cara instal dan menggunakan aplikasi Stream](https://drive.google.com/file/d/14Q_6v60qLPunrpmA9Bf1KlvsKhaRyPzz/view?usp=sharing).
+
+
+1. Buka Genshin Impact dan pergi ke permohonan
+2. Sementara Genshin Impact masih terbuka, buka aplikasi Stream dan tekan Sniff Now
+3. Kembali ke Genshin Impact dan buka riwayat permohonanmu
+4. Saat daftar permohonanmu sudah terlihat, kembali ke aplikasi Stream dan tekan Stop Sniffing
+5. Lalu tekan Sniff History dan pilih item pertama di dalam daftar
+6. Tekan request yang dimulai dengan 'GET https://hk4e-api-os...'
+7. Tekan tab request
+8. Tekan teks panjang yang dimulai dengan 'GET /event/gacha_info...'
+9. Terakhir, tekan Copy Url dan tempel di Genshin Wishes

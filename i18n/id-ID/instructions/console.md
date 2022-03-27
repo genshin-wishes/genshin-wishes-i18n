@@ -1,4 +1,3 @@
-1) Buka surat kamu di dalam game selama event
-2) Buka surat event yang berkaitan
-3) Di sana akan ada kode QR, scan dengan ponselmu
-4) Salin URL-nya dan tempel di Genshin Wishes.
+> ⚠️ Karena update terakhir, metode Konsol yang lama sudah tidak dapat digunakan lagi.
+
+Kamu masih dapat [menghubungkan akun PlayStation-mu dengan akun miHoYo](https://www.hoyolab.com/article/533197) lalu gunakan metode PC/mobile.
