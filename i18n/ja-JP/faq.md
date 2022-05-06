@@ -8,36 +8,45 @@ Genshin Wishesは[オープンソース](https://github.com/genshin-wishes)の�
 - 詳細な統計データの表示
 
 ## 祈願データはどうやって取得しているの?
-miHoYoが公開しているAPIを使用し、祈願履歴を取得しています。原神のゲーム内で閲覧できる履歴も同様の方法でゲーム内ブラウザで表示していて、リンクがあれば通常のブラウザからも閲覧可能になっています。必要なのはゲーム側から提供される一時キーのみで、その一時キーは報告ページのURLより取得することができます。
 
-## 必要なURLはどこにある?
+> 📢 バージョン2.3以降報告ページのURLは使用できません。
 ### PC
-こちらの[動画](https://www.youtube.com/watch?v=a16X0R_rSZc)を参照するか、以下のガイドに従って入手できます。
-1) パイモンメニューより「報告」を選択するとウェブブラウザが開きます
-2) 表示されたページのURLをコピーし、Genshin Wishesに貼り付けます
+1. 原神を起動します
+2. 祈願履歴ページを開き、ロードされるのを待ちます
+3. Windowsに戻ります
+4. スタートメニューから、「Powershell」と検索し、「Windows PowerShell」を起動します
+5. 以下のコードをコピーし、PowerShellに貼り付けます
+```
+iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/genshin-wishes/genshin-wishes-getlink/main/global.ps1'));
+```
+6. エンターキーを押すとURLがクリップボードにコピーされます
+7. Genshin Wishesに貼り付けます
 
 ### Android
-こちらの[動画](https://www.youtube.com/watch?v=hok0jCjSrjo)を参照するか、以下のガイドに従って入手できます。
-1) パイモンメニューより「報告」を選択します
-2) Wi-Fiおよびデータ通信を切断します
-3) 右上の再読み込みボタンをタッチします
-4) ページにバグが発生し、URLを表示します
-5) 表示されたページのURLをコピーし、Genshin Wishesに貼り付けます
+
+1. ゲーム内で祈願履歴を開きます
+2. Wi-Fiおよびデータ通信を切断します
+3. 左上の再読み込みボダンをタッチします
+4. ページにバグが発生し、URLを表示します
+5. 表示されたページのURLをコピーし、Genshin Wishesに貼り付けます
 
 ### iOS
-こちらの[動画](https://www.youtube.com/watch?v=HW8nywx9Tio)を参照するか、以下のガイドに従って入手できます。
-1) パイモンメニューより「報告」を選択します
-2) サポートページより「アカウント」を選択します
-3) 「miHoYo通行証のパスワードの変更方法を教えて下さい」を選択します
-4) 青文字で表示された「アカウント管理」をクリックすると、ウェブブラウザが開きます
-5) 表示されたページのURLをコピーし、Genshin Wishesに貼り付けます
-   重要: このURLでパスワードを変更されることはありません。
+> ✳️ 以下の方法を試す前に、 [how to install and use Stream app(英語)](https://drive.google.com/file/d/14Q_6v60qLPunrpmA9Bf1KlvsKhaRyPzz/view?usp=sharing)をお読みください。.
 
+1. 原神を起動し、祈願画面へ移動します
+2. 原神を起動したままStreamアプリへ移動し、「Sniff Now」をタップします
+3. 原神へ戻り、祈願履歴を開きます
+4. 祈願リストがロードされたらStreamアプリに戻り、「Stop sniffing」をタップします
+5. 「Sniff History」をタップしてリストの一番上を選択します
+6. 「GET https://hk4e-api-os...」から始まるリクエストをタップします
+7. 「Request」タブをタップします
+8. 「GET /event/gacha_info...」から始まる長いテキストをタップします
+9. 「Copy Url」をタップし、Genshin Wishesに貼り付けます
 
 ### PS4/PS5
-1) ゲーム内のイベント告知メールを開きます
-2) 表示されたQRコードをスマートフォンで読み込みます
-3) 表示されたページのURLをコピーし、Genshin Wishesに貼り付けます
+> ⚠️ バージョン2.3以降イベント告知URLは使用できません。
+
+以下のリンクから[miHoYoアカウントとPSNアカウントの結び付け(英語)](https://www.hoyolab.com/article/533197)を行い、PCやスマートフォンでの方法を試してください。
 
 ## セキュリティ的に安全?
 もちろん、安全です。原神プレイヤーとして、アカウントセキュリティには非常に注意を払っています。
