@@ -31,7 +31,7 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercon
 5. 表示されたページのURLをコピーし、Genshin Wishesに貼り付けます
 
 ### iOS
-> ✳️ 以下の方法を試す前に、 [how to install and use Stream app(英語)](https://drive.google.com/file/d/14Q_6v60qLPunrpmA9Bf1KlvsKhaRyPzz/view?usp=sharing)をお読みください。.
+> ✳️ 以下の方法を試す前に、 [how to install and use Stream app(英語)](https://drive.google.com/file/d/14Q_6v60qLPunrpmA9Bf1KlvsKhaRyPzz/view?usp=sharing)をお読みください。
 
 1. 原神を起動し、祈願画面へ移動します
 2. 原神を起動したままStreamアプリへ移動し、「Sniff Now」をタップします
@@ -46,7 +46,7 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercon
 ### PS4/PS5
 > ⚠️ バージョン2.3以降イベント告知URLは使用できません。
 
-以下のリンクから[miHoYoアカウントとPSNアカウントの結び付け(英語)](https://www.hoyolab.com/article/533197)を行い、PCやスマートフォンでの方法を試してください。
+[PSNアカウントとHoYoverse通行証の連携](https://genshin.hoyoverse.com/ja/news/detail/14022)を行い、PCやスマートフォンでの方法をお試しください。
 
 ## セキュリティ的に安全?
 もちろん、安全です。原神プレイヤーとして、アカウントセキュリティには非常に注意を払っています。
